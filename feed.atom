@@ -2,10 +2,194 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://benthecoder.github.io/news-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T01:08:40.226Z</updated>
+    <updated>2022-09-30T06:43:22.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://benthecoder.github.io/news-feeds/index.html"/>
     <link rel="self" href="https://benthecoder.github.io/news-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Laptop recommendations for Data Scientist/Data analyst]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xrtpc8/laptop_recommendations_for_data_scientistdata/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xrtpc8/laptop_recommendations_for_data_scientistdata/"/>
+        <updated>2022-09-30T05:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Hi I’m currently attending masters in data analytics and my professor told me to get a laptop with a min of 32gb RAM and windows. My laptop right now is MacBook Air with 8gb RAM. I’m wondering if I have to buy a new laptop or is MacBook Air sufficient? Also, what model of laptop should I get? Should I get 32gb RAM if I’m going to do machine leaning and big data?
+    submitted by    /u/Huskylovers1999  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Docker images]]></title>
+        <id>https://lobste.rs/s/xvdmm7</id>
+        <link href="https://garrit.xyz/posts/2022-09-30-debugging-docker-images"/>
+        <updated>2022-09-30T05:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>garritfra@users.lobste.rs (garritfra)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scala vs. python for spark sql/spark ml]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xrt8py/scala_vs_python_for_spark_sqlspark_ml/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xrt8py/scala_vs_python_for_spark_sqlspark_ml/"/>
+        <updated>2022-09-30T05:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Is there any advantage to using the native scala api to write production code for Apache Spark or does pyspark work just as well? 
+ I’ve been learning a bit of scala the past few weeks and am really enjoying it but from what I gather, the language doesn’t seem to have much of a foothold in the data science/data engineering space, even among Spark users.
+ Just wondering if there’s any practical benefit to continuing down this path or if it’s a complete waste of time. I’m getting kind of bored with python and really just want something new to explore.
+    submitted by    /u/bigno53  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our eyes can change colour throughout our lives]]></title>
+        <id>https://news.ycombinator.com/item?id=33031121</id>
+        <link href="https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives"/>
+        <updated>2022-09-30T04:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/future/article/20220929-how-our-eyes-change-colour-throughout-our-lives
+Comments URL: https://news.ycombinator.com/item?id=33031121
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>t23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are data lakes actually useful when implemented correctly?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xrs7re/are_data_lakes_actually_useful_when_implemented/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xrs7re/are_data_lakes_actually_useful_when_implemented/"/>
+        <updated>2022-09-30T04:30:22.000Z</updated>
+        <summary type="html"><![CDATA[I read a lot of opinions and complaining about data lakes on the net. I don't fully understand what a data lake is - or a warehouse for that matter as I haven't worked with one yet. But my question is are they actually useful and if so - why are people complaining?
+ Are people complaining about data lakes because theirs is badly implemented and/or badly understood and/or badly integrated in the day-to-day work? Or are they complaining because as a concept ("just chuck everything in the same place and forget about it. Maybe someone will find a use later ") data lakes are a suboptimal workaround that doesn't address a companies actual data problems?
+    submitted by    /u/norfkens2  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How important Is writing “shorter code” in DS? Is longer code penalized?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xrs6kj/how_important_is_writing_shorter_code_in_ds_is/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xrs6kj/how_important_is_writing_shorter_code_in_ds_is/"/>
+        <updated>2022-09-30T04:28:33.000Z</updated>
+        <summary type="html"><![CDATA[I’ve come to notice that there are a ton of short cuts when it comes to writing code, especially with if statements and such. For a beginner who is trying to move step by step, I find it tough to get to some of the shorter solutions I see with other people’s codes. My codes still run, albeit having a few extra lines of code. 
+ Are people penalized for stuff like this, especially in interviews? 
+ I strictly use Python for DS work, and not software engineering and such.
+    submitted by    /u/zola2088  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you use Bayesian methods? If you do, why? If you don't, why not?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xrrqr3/do_you_use_bayesian_methods_if_you_do_why_if_you/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xrrqr3/do_you_use_bayesian_methods_if_you_do_why_if_you/"/>
+        <updated>2022-09-30T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/statius9  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic Questions about Apache Spark]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xrrlh1/basic_questions_about_apache_spark/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xrrlh1/basic_questions_about_apache_spark/"/>
+        <updated>2022-09-30T03:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ I am a Data Analyst and trying to gain a basic understanding of Apache Spark and have been stuck on some technical definitions of this framework, particularly its most advanced technique: distributed computing. 
+ As PySpark is introduced as a better solution for large datasets over Pandas (as it runs on 1 computer), if I execute a script, where is it running on actually? I only have one PC, what distributed computers in this case means? 
+ I need some English explanations for this topic as all I google out were technical terms.
+    submitted by    /u/vietnpv  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banned from Midjourney]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/xrr77g/banned_from_midjourney/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/xrr77g/banned_from_midjourney/"/>
+        <updated>2022-09-30T03:35:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/andyeatburger  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Modern Software is Slow–Windows Voice Recorder]]></title>
+        <id>https://lobste.rs/s/cljjtq</id>
+        <link href="https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/"/>
+        <updated>2022-09-30T02:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>technetium@users.lobste.rs (technetium)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYPD Considers Using Encryption to Block Public From Radio Scanner Broadcasts | Critics warn the change could restrict members of the media and impede protestors' ability to effectively organize.]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xrp67g/nypd_considers_using_encryption_to_block_public/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xrp67g/nypd_considers_using_encryption_to_block_public/"/>
+        <updated>2022-09-30T01:52:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The reality of celebratory gunfire]]></title>
+        <id>https://news.ycombinator.com/item?id=33029851</id>
+        <link href="https://www.1point21interactive.com/celebratory-gunfire/"/>
+        <updated>2022-09-30T01:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.1point21interactive.com/celebratory-gunfire/
+Comments URL: https://news.ycombinator.com/item?id=33029851
+Points: 96
+# Comments: 91]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta to cut headcount for first time, slash budgets across teams]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xropey/meta_to_cut_headcount_for_first_time_slash/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xropey/meta_to_cut_headcount_for_first_time_slash/"/>
+        <updated>2022-09-30T01:29:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hzj5790  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking a Break]]></title>
+        <id>https://news.ycombinator.com/item?id=33029669</id>
+        <link href="https://neugierig.org/software/blog/2022/09/break.html"/>
+        <updated>2022-09-30T01:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neugierig.org/software/blog/2022/09/break.html
+Comments URL: https://news.ycombinator.com/item?id=33029669
+Points: 91
+# Comments: 17]]></summary>
+        <author>
+            <name>emptysea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDM: Human Motion Diffusion Model]]></title>
+        <id>https://news.ycombinator.com/item?id=33029522</id>
+        <link href="https://guytevet.github.io/mdm-page/"/>
+        <updated>2022-09-30T01:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://guytevet.github.io/mdm-page/
+Comments URL: https://news.ycombinator.com/item?id=33029522
+Points: 110
+# Comments: 20]]></summary>
+        <author>
+            <name>Vt71fcAqt7</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is a DS role at a University Affiliated Research Center (UARC) good for career growth?]]></title>
         <id>https://www.reddit.com/r/datascience/comments/xrnwht/is_a_ds_role_at_a_university_affiliated_research/</id>
@@ -17,6 +201,17 @@
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-NSA employee in Colorado arrested on espionage charges for allegedly trying to sell secrets to foreign power]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xrnrh1/exnsa_employee_in_colorado_arrested_on_espionage/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xrnrh1/exnsa_employee_in_colorado_arrested_on_espionage/"/>
+        <updated>2022-09-30T00:43:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/mepper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -37,8 +232,8 @@
         <updated>2022-09-30T00:38:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/
 Comments URL: https://news.ycombinator.com/item?id=33029322
-Points: 7
-# Comments: 1]]></summary>
+Points: 71
+# Comments: 37]]></summary>
         <author>
             <name>soheilpro</name>
         </author>
@@ -61,6 +256,32 @@ Points: 7
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>rsdbdr203@users.lobste.rs (rsdbdr203)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing an ancient GDB problem]]></title>
+        <id>https://news.ycombinator.com/item?id=33029101</id>
+        <link href="https://lwn.net/SubscriberLink/909496/a56a9a4ab41ff079/"/>
+        <updated>2022-09-30T00:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/909496/a56a9a4ab41ff079/
+Comments URL: https://news.ycombinator.com/item?id=33029101
+Points: 57
+# Comments: 1]]></summary>
+        <author>
+            <name>nyanpasu64</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The brain is the battlefield of the future]]></title>
+        <id>https://news.ycombinator.com/item?id=33029018</id>
+        <link href="https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/"/>
+        <updated>2022-09-29T23:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/
+Comments URL: https://news.ycombinator.com/item?id=33029018
+Points: 29
+# Comments: 12]]></summary>
+        <author>
+            <name>lawrenceyan</name>
         </author>
     </entry>
     <entry>
@@ -100,29 +321,16 @@ Points: 7
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK pensions hit with £100m margin calls as gilts and sterling slide]]></title>
+        <title type="html"><![CDATA[UK pensions hit with margin calls as gilts and sterling slide]]></title>
         <id>https://news.ycombinator.com/item?id=33028673</id>
         <link href="https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide"/>
         <updated>2022-09-29T23:18:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide
 Comments URL: https://news.ycombinator.com/item?id=33028673
-Points: 64
-# Comments: 60]]></summary>
+Points: 156
+# Comments: 175]]></summary>
         <author>
             <name>MotherBruce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Visited Bucha Today]]></title>
-        <id>https://news.ycombinator.com/item?id=33028381</id>
-        <link href="https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha"/>
-        <updated>2022-09-29T22:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.amazonredshiftresearchproject.org/slblog/index.html#butcha
-Comments URL: https://news.ycombinator.com/item?id=33028381
-Points: 73
-# Comments: 25]]></summary>
-        <author>
-            <name>Max-Ganz-II</name>
         </author>
     </entry>
     <entry>
@@ -132,8 +340,8 @@ Points: 73
         <updated>2022-09-29T22:41:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/
 Comments URL: https://news.ycombinator.com/item?id=33028300
-Points: 68
-# Comments: 29]]></summary>
+Points: 390
+# Comments: 421]]></summary>
         <author>
             <name>soheilpro</name>
         </author>
@@ -147,17 +355,6 @@ Points: 68
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you get a job in data science with applied math major]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xrl04d/can_you_get_a_job_in_data_science_with_applied/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xrl04d/can_you_get_a_job_in_data_science_with_applied/"/>
-        <updated>2022-09-29T22:31:41.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Upset-Rhubarb3738  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
         </author>
     </entry>
     <entry>
@@ -255,8 +452,8 @@ Points: 68
         <updated>2022-09-29T21:21:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.musi-co.com/listen/streams
 Comments URL: https://news.ycombinator.com/item?id=33027376
-Points: 33
-# Comments: 13]]></summary>
+Points: 71
+# Comments: 42]]></summary>
         <author>
             <name>nateb2022</name>
         </author>
@@ -279,8 +476,8 @@ Points: 33
         <updated>2022-09-29T21:11:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.justice.gov/opa/pr/former-nsa-employee-arrested-espionage-related-charges
 Comments URL: https://news.ycombinator.com/item?id=33027272
-Points: 114
-# Comments: 114]]></summary>
+Points: 163
+# Comments: 149]]></summary>
         <author>
             <name>jc_811</name>
         </author>
@@ -351,7 +548,7 @@ Points: 1
         <updated>2022-09-29T20:56:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/
 Comments URL: https://news.ycombinator.com/item?id=33027096
-Points: 33
+Points: 56
 # Comments: 3]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -365,32 +562,6 @@ Points: 33
         <summary type="html"><![CDATA[What Hurricane Ian hit Florida's Gulf Coast as a Category 4 storm yesterday, ripping through the region with sustained winds as high as 105  miles per hour and a storm surge so extreme that, like a tsunami, it drained the water from Tampa Bay's shores as it gathered power. While the damage is still being […]]]></summary>
         <author>
             <name>Maggie Harrison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI converts between hundreds of programming languages]]></title>
-        <id>https://news.ycombinator.com/item?id=33026968</id>
-        <link href="https://codelanguageconverter.com/"/>
-        <updated>2022-09-29T20:48:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://codelanguageconverter.com
-Comments URL: https://news.ycombinator.com/item?id=33026968
-Points: 68
-# Comments: 40]]></summary>
-        <author>
-            <name>yodon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Economic estimation of Bitcoin mining’s climate damages]]></title>
-        <id>https://news.ycombinator.com/item?id=33026638</id>
-        <link href="https://www.nature.com/articles/s41598-022-18686-8"/>
-        <updated>2022-09-29T20:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41598-022-18686-8
-Comments URL: https://news.ycombinator.com/item?id=33026638
-Points: 40
-# Comments: 47]]></summary>
-        <author>
-            <name>gusgus01</name>
         </author>
     </entry>
     <entry>
@@ -424,8 +595,8 @@ Points: 40
         <updated>2022-09-29T20:00:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cpushack.com/2022/09/29/socialist-romania-computer-chips/
 Comments URL: https://news.ycombinator.com/item?id=33026285
-Points: 83
-# Comments: 16]]></summary>
+Points: 119
+# Comments: 21]]></summary>
         <author>
             <name>picture</name>
         </author>
@@ -472,8 +643,8 @@ Thanks!]]></summary>
         <updated>2022-09-29T19:40:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://halestrom.net/darksleep/blog/048_indoorairsensing/
 Comments URL: https://news.ycombinator.com/item?id=33025995
-Points: 220
-# Comments: 124]]></summary>
+Points: 278
+# Comments: 157]]></summary>
         <author>
             <name>clairity</name>
         </author>
@@ -604,10 +775,21 @@ The government has also blocked Instagram and WhatsApp (the main channels of com
         <updated>2022-09-29T19:00:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://photomatt.tumblr.com/post/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022
 Comments URL: https://news.ycombinator.com/item?id=33025477
-Points: 360
-# Comments: 286]]></summary>
+Points: 507
+# Comments: 410]]></summary>
         <author>
             <name>firloop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Zuckerberg tells Meta employees that the company is freezing hiring]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xrfzka/mark_zuckerberg_tells_meta_employees_that_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xrfzka/mark_zuckerberg_tells_meta_employees_that_the/"/>
+        <updated>2022-09-29T18:59:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bhodrolok  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -617,8 +799,8 @@ Points: 360
         <updated>2022-09-29T18:57:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dreamfusion3d.github.io
 Comments URL: https://news.ycombinator.com/item?id=33025446
-Points: 419
-# Comments: 122]]></summary>
+Points: 584
+# Comments: 151]]></summary>
         <author>
             <name>going_ham</name>
         </author>
@@ -630,8 +812,8 @@ Points: 419
         <updated>2022-09-29T18:56:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://jeffreycarter.substack.com/p/helium-pump-and-dump
 Comments URL: https://news.ycombinator.com/item?id=33025431
-Points: 46
-# Comments: 17]]></summary>
+Points: 64
+# Comments: 19]]></summary>
         <author>
             <name>rmason</name>
         </author>
@@ -668,23 +850,10 @@ Points: 46
         <updated>2022-09-29T18:39:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring
 Comments URL: https://news.ycombinator.com/item?id=33025223
-Points: 357
-# Comments: 336]]></summary>
+Points: 435
+# Comments: 405]]></summary>
         <author>
             <name>minimaxir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phenaki: A model for generating minutes-long, changing-prompt videos from text]]></title>
-        <id>https://news.ycombinator.com/item?id=33025189</id>
-        <link href="https://phenaki.video/"/>
-        <updated>2022-09-29T18:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://phenaki.video/
-Comments URL: https://news.ycombinator.com/item?id=33025189
-Points: 69
-# Comments: 9]]></summary>
-        <author>
-            <name>vagabund</name>
         </author>
     </entry>
     <entry>
@@ -732,19 +901,6 @@ Points: 69
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Threads: New Foundations for High-Scale Java Applications]]></title>
-        <id>https://news.ycombinator.com/item?id=33024748</id>
-        <link href="https://www.infoq.com/articles/java-virtual-threads/"/>
-        <updated>2022-09-29T18:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/articles/java-virtual-threads/
-Comments URL: https://news.ycombinator.com/item?id=33024748
-Points: 100
-# Comments: 95]]></summary>
-        <author>
-            <name>axelfontaine</name>
         </author>
     </entry>
     <entry>
@@ -815,16 +971,6 @@ Points: 100
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China’s Phytium D2000: Building on A72?]]></title>
-        <id>https://lobste.rs/s/0iribv</id>
-        <link href="https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/"/>
-        <updated>2022-09-29T17:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>technetium@users.lobste.rs (technetium)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Need help identify what kind of AI this website use]]></title>
         <id>https://www.reddit.com/r/artificial/comments/xrdu79/need_help_identify_what_kind_of_ai_this_website/</id>
         <link href="https://www.reddit.com/r/artificial/comments/xrdu79/need_help_identify_what_kind_of_ai_this_website/"/>
@@ -866,21 +1012,6 @@ Points: 100
  ​
  I've done obvious things like check basic documentation and google...
     submitted by    /u/ramblinginternetnerd  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which model to use or how to preprocess the multi-dimensional data to classify?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xrdleu/which_model_to_use_or_how_to_preprocess_the/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xrdleu/which_model_to_use_or_how_to_preprocess_the/"/>
-        <updated>2022-09-29T17:22:44.000Z</updated>
-        <summary type="html"><![CDATA[Hi! I’ve a dataset with more than 600 features but with 2k rows. Divided into train and test, with 1.3 and 0.7 k rows respectively.
- Features are only numpy arrays. I’ve used baseline SVM and get F1 score of ~0.67. To increase the score, I’ve played with hyperparameters and get best parameters with C=0.01, gamma = 0.001, and kernel= ‘linear’,and resulted in F1 = 0.69. But did not improve the results after.
- I did not do any EDA or FE, because it’s only numpy arrays, without any description on features.
- What could you suggest, how should I proceed?
-    submitted by    /u/bbjuve  
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : datascience</name>
@@ -987,19 +1118,6 @@ Points: 100
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An inorganic user engine driving ad campaigns on major websites and podcasts]]></title>
-        <id>https://news.ycombinator.com/item?id=33022850</id>
-        <link href="https://deepsee.io/blog/rewarded-traffic-incentivized-traffic-in-a-top-hat"/>
-        <updated>2022-09-29T16:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepsee.io/blog/rewarded-traffic-incentivized-traffic-in-a-top-hat
-Comments URL: https://news.ycombinator.com/item?id=33022850
-Points: 70
-# Comments: 24]]></summary>
-        <author>
-            <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google is shutting down Stadia]]></title>
         <id>https://www.reddit.com/r/technology/comments/xrbyfm/google_is_shutting_down_stadia/</id>
         <link href="https://www.reddit.com/r/technology/comments/xrbyfm/google_is_shutting_down_stadia/"/>
@@ -1047,17 +1165,6 @@ Points: 70
         <updated>2022-09-29T16:03:55.000Z</updated>
         <summary type="html"><![CDATA[I'm aware about database and data ware house concepts , how important is it to focus on new term "data lake"? Which all things important from development or implementation point of view?
     submitted by    /u/Sushant7276  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OC] CNN vs Fox News: How do they compare in terms of topic coverage and bias over the last week (Sep 22 to Sep 29)? How do they compare to Reuters?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xrbjz6/oc_cnn_vs_fox_news_how_do_they_compare_in_terms/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xrbjz6/oc_cnn_vs_fox_news_how_do_they_compare_in_terms/"/>
-        <updated>2022-09-29T16:01:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/rohankshirsagr  
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : datascience</name>
@@ -1115,18 +1222,6 @@ Points: 70
  I am being very picky as an AI model being able to convert text to images is mind blowing -- but it doesn't tak…]]></summary>
         <author>
             <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFL Data Sets?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xr9ob2/nfl_data_sets/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xr9ob2/nfl_data_sets/"/>
-        <updated>2022-09-29T14:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone know where one can find sizable data sets related to the NFL? Player salaries, touchdowns, carries, passer rating, sacks, starts, anything in that area would be appreciated. Thanks!
-    submitted by    /u/Subject-Resort5893  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
         </author>
     </entry>
     <entry>
@@ -1421,29 +1516,6 @@ The post What We Know About Monkeypox first appeared on Quanta Magazine]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[anyone who knows an AI that can make Aldi or Lidl receipts?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/xqznk1/anyone_who_knows_an_ai_that_can_make_aldi_or_lidl/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/xqznk1/anyone_who_knows_an_ai_that_can_make_aldi_or_lidl/"/>
-        <updated>2022-09-29T05:48:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Unique_Pie7460  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jobs relating Project Management in Data science field]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xqxyil/jobs_relating_project_management_in_data_science/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xqxyil/jobs_relating_project_management_in_data_science/"/>
-        <updated>2022-09-29T04:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Im doing Project Management job. Currently, Im learning Python, SQL, statistics and mathematics, I plan to study Master in Data science/Data Analytics. Im wondering whether after graduation, I can do a job combination of Project Management and Data Science, such as PM in Data Science projects. Anyone is doing same or having any sharing on this?
-    submitted by    /u/AQuan0502  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Production Tips for Django Apps]]></title>
         <id>https://lobste.rs/s/2kmzni</id>
         <link href="https://raunaqss.com/engineering/django-production-tips/"/>
@@ -1451,63 +1523,6 @@ The post What We Know About Monkeypox first appeared on Quanta Magazine]]></summ
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>h0p3fu1@users.lobste.rs (h0p3fu1)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Raises Hourly Wages at Cost of Almost $1 Billion a Year]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xqvt78/amazon_raises_hourly_wages_at_cost_of_almost_1/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xqvt78/amazon_raises_hourly_wages_at_cost_of_almost_1/"/>
-        <updated>2022-09-29T02:29:01.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Mynameis__--__  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Toxic Algorithm 'Substantially Contributed' To Ethnic Cleansing in Myanmar: Amnesty International]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xqvsa2/metas_toxic_algorithm_substantially_contributed/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xqvsa2/metas_toxic_algorithm_substantially_contributed/"/>
-        <updated>2022-09-29T02:27:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ictericiajs  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rohingya seek reparations from Facebook for role in massacre]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xquykh/rohingya_seek_reparations_from_facebook_for_role/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xquykh/rohingya_seek_reparations_from_facebook_for_role/"/>
-        <updated>2022-09-29T01:49:06.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/nosotros_road_sodium  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[looking for Insight on the different Types of Data Science Internships…]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xqugy6/looking_for_insight_on_the_different_types_of/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xqugy6/looking_for_insight_on_the_different_types_of/"/>
-        <updated>2022-09-29T01:26:26.000Z</updated>
-        <summary type="html"><![CDATA[I’m currently looking/applying for internships for summer 2023 and am curious to know if there are recommendations in “types” of internships? For some context, I would like to find an internship with a strong data science presence, a place I can learn, be mentored, and grow. My thoughts are that a “big” company like AT&T, Oracle, IBM (I’m in Dallas, Texas) would be a place that has the resources to pay for good talent /resources and so I have a good chance at learning there. On the opposite side of the spectrum I could see how smaller companies that provide consulting services would be a way to learn by doing a variety of different tasks in different industries. I understand that it’s not likely to my my one and only data science job, but I’d really like to weigh out the different type of internships so I can hone in on my focus. 
- Thanks for any and all insight!
-    submitted by    /u/Texas_Badger  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook says it took down Chinese network using fake social media accounts to interfere in U.S. midterms]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xqubu1/facebook_says_it_took_down_chinese_network_using/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xqubu1/facebook_says_it_took_down_chinese_network_using/"/>
-        <updated>2022-09-29T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/kirby__000  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -1578,16 +1593,6 @@ The post What We Know About Monkeypox first appeared on Quanta Magazine]]></summ
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>aleph@users.lobste.rs (aleph)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown@Edge]]></title>
-        <id>https://lobste.rs/s/vxzpe3</id>
-        <link href="https://markdown-at-edge.edgecompute.app/"/>
-        <updated>2022-09-28T16:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>mtset@users.lobste.rs (mtset)</name>
         </author>
     </entry>
     <entry>
