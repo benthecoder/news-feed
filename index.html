@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-04 datetime="2022-10-04T04:43:45.000Z">2022-10-04</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-04 datetime="2022-10-04T04:43:45.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-04 datetime="2022-10-04T11:38:52.000Z">2022-10-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-04 datetime="2022-10-04T11:38:52.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,109 @@
                   <a class="source-heading__link" href="https://www.reddit.com/r/datascience/top?sort&#x3D;top&amp;t&#x3D;day">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xvct2f/woe_balanced_data/"
+                        open
+                      >
+                        <summary class="article-expander__title">WoE balanced data</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xvct2f/woe_balanced_data/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Hello!
+ I did a WoE balancing on my training data set using the target.Now I have the test set without any labels that I want to balance as well to use the model to predict and submit.
+ I am looking for some help on how to do it.set
+ This was how I did the balancing in the training set:
+ ​
+ def iv_woe(data, feature, target, bins&#x3D;10, show_woe&#x3D;False, show_iv&#x3D; False):
+ #Empty Dataframe
+ newDF,woeDF &#x3D; pd.DataFrame(), pd.DataFrame()
+ #Extract Column Names
+ cols &#x3D; [feature]
+ #Run WOE and IV on all the independent variables
+ for ivars in cols:
+ # Here I&#x27;m checking the tipe of the feature, if it is a continuous feature with more them 10 unique entries I will bin it with pandas.qcut
+ if (data[ivars].dtype.kind in &#x27;bifc&#x27;) and (len(np.unique(data[ivars]))&gt;10):
+ binned_x &#x3D; pd.qcut(data[ivars], bins, d…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;107
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xvap10/visualizationtip_using_seabornheatmap_to/"
+                        open
+                      >
+                        <summary class="article-expander__title">#VisualizationTip: Using Seaborn(Heatmap) to visualize Missing data( Yellow- Representation of a column&#x27;s missing data.)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xvap10/visualizationtip_using_seabornheatmap_to/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://preview.redd.it/qylmu4cefrr91.jpg?auto&#x3D;webp&amp;s&#x3D;d1a6621e547f186c2877f150b21e3ca304252583" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/SOTP_  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;103
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xv7fh1/how_to_deal_with_evolvingchanging_features/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to deal with evolving/changing features</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xv7fh1/how_to_deal_with_evolvingchanging_features/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>How do you deal with changing features in a regression problem? I imagine this is quite common in a product/marketplace company. Here&#x27;s an example:
+ Let&#x27;s say the task is predicting car prices for an online marketplace, a value you&#x27;d like to present to someone about to list their car on the site. You can use your marketplace&#x27;s historic sales as a training set. However, as the marketplace evolved, more features were added to the car object, and maybe some stopped being used. E.g., in the early phase of the marketplace, you had 3 features: car model, year, and color. Then maybe later on the company stopped collecting color, and instead now collect MPG and transmission type. So now you have 4 features on the newer dataset: car model, year, MPG, and transmission type. And so on and so on...did you just impute the missing values? not use features that are missing data? Split test/train to only reflect current features? Is it a constant game of cat and mouse keeping up with the fresh features?
+    submitted by    /u/foreignparent  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;104
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xv785a/mission_control_for_data_scientists_new_platform/"
+                        open
+                      >
+                        <summary class="article-expander__title">&quot;Mission Control for data scientists&quot; - New platform - Document, aggregate, search and share your scripts - Free to individuals and schools</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xv785a/mission_control_for_data_scientists_new_platform/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Hey r/datascience! I&#x27;m dropping by to show off a new platform I&#x27;m calling &quot;Artemis&quot; that&#x27;s intended to serve as mission control for data science teams. It will be releasing soon, free to individuals and academic institutions, but I want your feedback as the finishing touches are refined.
+ Artemis is one platform that allows you to document, aggregate, search and share your data science scripts with your team. I&#x27;ll keep this short by leaving a link that lets you interact with a live demo version of the platform right here. 
+ If you like it, that&#x27;s great! Click the link to be notified of our impending free release. If you hate it we REALLY want to hear why -- click the link to tell us why! 
+ If you&#x27;re keen for a brief read: 
+ Working in data science roles at Mayo Clinic and Caltech, I was frustrated by the inefficiency of monorepos. With teams of any size, it was a challenge to a) document our scripts in a way others could understand and b) find the script you&#x27;re looking for. I build Artemis to solve this problem by offering:
+ 1- A new way to give your scripts visual documentation that shows, not tells, what each section of code actually does. Add special in line comments Artemis can read then run your script with our command line utility to generate documentation you can use to step through your code. It&#x27;s a doozy to explain in full via a Reddit post, but you&#x27;ll see in the demo that it&#x27;s really not that complex.
+ 2- A new dashboard to aggregate, share and search your scripts. You can post the Artemis documentation for your scripts to our dashboard where they display beautifully to your team (please, just look at the demo). Each post contains your interactive documentation, the GitHub link to the script, links to related files, a written description and a title. The goal here is that your team can have an internal app store of sorts that makes it easier for each member of your team to borrow bits of code and entire scripts.
+    submitted by    /u/Artemis_Devtool  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;105
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -74,7 +177,7 @@
                             <span class="media-object__text">
                               <span>submitted by    /u/NotActual  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;104
+                                &ensp;<span class="article-reading-time">(&hairsp;124
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -116,7 +219,7 @@
                               <span>I&#x27;m afraid of not being able to retain enough knowledge in my current position. I would like to to work towards another role in a year or two that is more ML focussed. Those of you who are in a similar position.. are you winging it and using your understanding of where to look for info to help you down the line or are you actively keeping up your skills?
     submitted by    /u/Smooth_Reporter_7272  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;118
+                                &ensp;<span class="article-reading-time">(&hairsp;104
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -137,7 +240,7 @@
                               <span>Hello , first I&#x27;m an infant when it comes tech and anything associated with it and secondly I just developed intrest In learning data engineering but oh boy I&#x27;m i confuse !! , Pls if there&#x27;s anyone that will be down to explain somethings to me i will really appreciate .
     submitted by    /u/Apex_2205  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;103
+                                &ensp;<span class="article-reading-time">(&hairsp;117
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -183,6 +286,84 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://lobste.rs/s/k2jk0m"
+                        open
+                      >
+                        <summary class="article-expander__title">OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="/img/logo.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://lobste.rs/s/r5c6o8"
+                        open
+                      >
+                        <summary class="article-expander__title">git worktrees</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jmtd.net/log/worktrees/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://lobste.rs/s/pf4mis"
+                        open
+                      >
+                        <summary class="article-expander__title">The world&#x27;s oldest webcam is still watching over SF</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://s.hdnux.com/photos/01/27/54/33/22988503/5/rawImage.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://lobste.rs/s/hpaukh"
+                        open
+                      >
+                        <summary class="article-expander__title">IPv4 Turf War</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ipv4.games/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Comments</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://lobste.rs/s/otyvbx"
                         open
                       >
@@ -208,7 +389,7 @@
                         <summary class="article-expander__title">Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate</summary>
                         <a class="article-summary-link article-summary-box-outer" href="https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t39.2365-6/307585042_810677930356203_2633357159066856634_n.png?_nc_cat&#x3D;110&amp;ccb&#x3D;1-7&amp;_nc_sid&#x3D;ad8a9d&amp;_nc_ohc&#x3D;k7uKDSANurIAX8W-iFX&amp;_nc_ht&#x3D;scontent-hkg4-1.xx&amp;oh&#x3D;00_AT_3-srHAa3TWTbLrfuYR8uW2bGZpfYPHmcP4WQlULLokA&amp;oe&#x3D;634193E0" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/307585042_810677930356203_2633357159066856634_n.png?_nc_cat&#x3D;110&amp;ccb&#x3D;1-7&amp;_nc_sid&#x3D;ad8a9d&amp;_nc_ohc&#x3D;k7uKDSANurIAX8wOWx4&amp;_nc_ht&#x3D;scontent-sjc3-1.xx&amp;oh&#x3D;00_AT9f-73XdBDRCeHsGWnLej2d3OtBdJmqpITEXhS863Z-Fg&amp;oe&#x3D;634193E0" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Comments</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;5
@@ -228,10 +409,389 @@
                         <summary class="article-expander__title">redefining for loop variable semantics</summary>
                         <a class="article-summary-link article-summary-box-outer" href="https://github.com/golang/go/discussions/56010">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/370a8fff1755c58fbde3ac7aa5392d9a14934d2afe252faca4fd49a048a65478/golang/go/discussions/56010" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://opengraph.githubassets.com/68022c20855647acf1ac29c9eeebe46f4d190d5d305ff96465cdcf4bb93dedfc/golang/go/discussions/56010" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Comments</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Hacker News: Front Page</button>
+                  <a class="source-heading__link" href="https://news.ycombinator.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33078729"
+                        open
+                      >
+                        <summary class="article-expander__title">European Parliament passes legislation introducing universal charger</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.politico.eu/article/european-parliament-pass-legislation-introduce-common-charger/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.politico.eu/cdn-cgi/image/width&#x3D;1200,height&#x3D;630,fit&#x3D;crop,quality&#x3D;80,onerror&#x3D;redirect/wp-content/uploads/2022/10/04/GettyImages-1198912403-scaled.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://www.politico.eu/article/european-parliament-pass-legislation-introduce-common-charger/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33078729
+Points: 14
+# Comments: 2</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33078631"
+                        open
+                      >
+                        <summary class="article-expander__title">Working on the “Web” Browser for the MEGA65</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="data:image/png;base64,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OACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAuL+v2vH391V7BgDOZoUDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIgTOACAOIEDAIj7f+wSXo0Mu8GVAAAAAElFTkSuQmCC" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33078631
+Points: 6
+# Comments: 1</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;34
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33078441"
+                        open
+                      >
+                        <summary class="article-expander__title">Ask HN: Examples of Microkernels?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;33078441">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I&#x27;m reading through the MIT xv6 OS handbook and code (here: https://github.com/mit-pdos/xv6-riscv/) and they mention the fact that they created it as a monolithic kernel since most unix systems are monolithic. They then introduce the microkernel concept. Are there microkernel concepts out there (especially code) I can check out? I&#x27;m curious to see how userspace processes communicate to kernel processes to execute privileged actions.
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33078441
+Points: 13
+# Comments: 21</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33078212"
+                        open
+                      >
+                        <summary class="article-expander__title">Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nobelprize.org/prizes/physics/2022/summary/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.nobelprize.org/uploads/2022/10/aspect-2_3-496x328.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://www.nobelprize.org/prizes/physics/2022/summary/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33078212
+Points: 108
+# Comments: 43</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33078147"
+                        open
+                      >
+                        <summary class="article-expander__title">The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.intechopen.com/chapters/69119">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.intechopen.com/books/images_new/6982.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://www.intechopen.com/chapters/69119
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33078147
+Points: 14
+# Comments: 3</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;82
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077533"
+                        open
+                      >
+                        <summary class="article-expander__title">UML: My Part in Its Downfall</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Article URL: https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077533
+Points: 87
+# Comments: 88</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077489"
+                        open
+                      >
+                        <summary class="article-expander__title">Ask HN: How to find what I am really good at?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;33077489">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>In the past years I&#x27;ve been quite diluted in my personal and professional life. Changed several jobs, and in my hobbies, I am jumping from one project to another. How do you stay focused? How do you find 1 thing you are really good at and stick with it? Is there a book or a blog teaching this? Although, it seems quite trivial, for me this is a huge live hurdle. Any tips are highly appreciated!
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077489
+Points: 61
+# Comments: 68</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077473"
+                        open
+                      >
+                        <summary class="article-expander__title">Using Google Maps history to see if my boyfriend and I could have met earlier</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://chan.co.za/how-fateful">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Article URL: https://chan.co.za/how-fateful
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077473
+Points: 283
+# Comments: 84</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;45
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077441"
+                        open
+                      >
+                        <summary class="article-expander__title">VLC-developer VideoLAN sends legal notice to Indian ministries over ban</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1403855677.jpg?resize&#x3D;1200,810" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077441
+Points: 90
+# Comments: 24</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077407"
+                        open
+                      >
+                        <summary class="article-expander__title">Potential Issues of Using a USB Powerbank as a UPS (2021)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://goughlui.com/wp-content/uploads/2021/09/bwp12-cload-achg-1024x659.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077407
+Points: 94
+# Comments: 40</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077253"
+                        open
+                      >
+                        <summary class="article-expander__title">VideoLAN has issued a legal notice to Indian Gov for banning their website</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://internetfreedom.in/content/images/2022/10/httpswww.videolan.org--1--1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077253
+Points: 87
+# Comments: 9</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077118"
+                        open
+                      >
+                        <summary class="article-expander__title">Ask HN: So you moved off Heroku, where did you go?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;33077118">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>So you moved your apps off Heroku, where did you go to and how has it worked out?
+Particularly interested in:
+1. How much work it took to move apps (be honest)
+2. How much experience you had at the time of the migration - e.g. on one extreme your entire devops experience may consist of just Heroku (that&#x27;s me) or on the other extreme you may be a k8s guru (this helps others gauge how they&#x27;ll go)
+3. How valuable were your learnings? E.g. replacing Heroku with an IAAS instead of another PAAS might take longer but give more fundamental learnings, and hence be worth it for some
+4. Cost comparison
+5. Summary/description of your apps (e.g. 20 tiny apps with a few hits per month, 5 medium with ~20k hits per month, 2 large with 1-2m hits per month type thing). Please give language/framework.
+6. Anything else you want to add
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077118
+Points: 168
+# Comments: 127</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;32
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33077038"
+                        open
+                      >
+                        <summary class="article-expander__title">The HTML5 Shiv (2011)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.paulirish.com/2011/the-history-of-the-html5-shiv/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Article URL: https://www.paulirish.com/2011/the-history-of-the-html5-shiv/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33077038
+Points: 43
+# Comments: 7</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076160"
+                        open
+                      >
+                        <summary class="article-expander__title">Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Article URL: https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33076160
+Points: 143
+# Comments: 51</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076092"
+                        open
+                      >
+                        <summary class="article-expander__title">Codebase as Database: Turning the IDE Inside Out with Datalog (2020)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://petevilter.me/post/datalog-typechecking/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Article URL: https://petevilter.me/post/datalog-typechecking/
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33076092
+Points: 176
+# Comments: 23</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076012"
+                        open
+                      >
+                        <summary class="article-expander__title">ZFS 2.1.6</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/180bb05d09e659c8c1c3446a52918d3520004e598a94b1c2ea26be6400f4f119/openzfs/zfs/releases/tag/zfs-2.1.6" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33076012
+Points: 122
+# Comments: 65</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -256,6 +816,90 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/technology/comments/xvc3gw/eu_lawmakers_impose_single_charger_for_all/"
+                        open
+                      >
+                        <summary class="article-expander__title">EU lawmakers impose single charger for all smartphones</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xvc3gw/eu_lawmakers_impose_single_charger_for_all/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://external-preview.redd.it/FkRePYV1ZB3ggQD1HZTP2TiXbsIzpgd84conP7roDHQ.jpg?auto&#x3D;webp&amp;s&#x3D;1e22fe1eaea9fe78538ad268e174d09b8ef6b731" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/Sorin61  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;108
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/technology/comments/xv9ot3/us_set_to_impose_more_trade_restrictions_on/"
+                        open
+                      >
+                        <summary class="article-expander__title">US set to impose more trade restrictions on Chinese AI and supercomputer companies</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xv9ot3/us_set_to_impose_more_trade_restrictions_on/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://external-preview.redd.it/mNIUFij7JalT2KbgKbMxNrb2djzTFQamx_YIasYmYy0.jpg?auto&#x3D;webp&amp;s&#x3D;b9b56586d2ecd72dd9db2a46c59f1577bf92c43d" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/Arviericp  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;106
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/technology/comments/xv5sxi/dark_data_is_killing_the_planet_we_need_digital/"
+                        open
+                      >
+                        <summary class="article-expander__title">‘Dark data’ is killing the planet – we need digital decarbonisation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xv5sxi/dark_data_is_killing_the_planet_we_need_digital/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://external-preview.redd.it/8eMIEXybiPYD18Dvq9F5m3jJbSjzP-StTeYzGUsVn_k.jpg?auto&#x3D;webp&amp;s&#x3D;7e11bb30c6ff3bcfcee335a377da4cc178eeb616" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/Hrmbee  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;113
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/technology/comments/xv4euf/google_discontinues_google_translate_in_mainland/"
+                        open
+                      >
+                        <summary class="article-expander__title">Google discontinues Google Translate in mainland China</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xv4euf/google_discontinues_google_translate_in_mainland/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://external-preview.redd.it/qi5i2SGgq0mQKNFwRi3L8h7xUtZdYPVsr02W2s2m0U0.jpg?auto&#x3D;webp&amp;s&#x3D;d6c822276b465ce4a01bc2fad59416f40b1f6f3d" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/GL4389  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;106
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://www.reddit.com/r/technology/comments/xv3nep/supreme_court_to_hear_challenge_to_law_that/"
                         open
                       >
@@ -266,7 +910,7 @@
                             <span class="media-object__text">
                               <span>submitted by    /u/Anoth3rDude  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;110
+                                &ensp;<span class="article-reading-time">(&hairsp;113
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -287,7 +931,7 @@
                             <span class="media-object__text">
                               <span>submitted by    /u/Zepanda66  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;106
+                                &ensp;<span class="article-reading-time">(&hairsp;108
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -308,7 +952,7 @@
                             <span class="media-object__text">
                               <span>submitted by    /u/rchaudhary  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;121
+                                &ensp;<span class="article-reading-time">(&hairsp;120
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -350,7 +994,7 @@
                             <span class="media-object__text">
                               <span>submitted by    /u/ForHidingSquirrels  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;108
+                                &ensp;<span class="article-reading-time">(&hairsp;106
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -367,26 +1011,26 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hacker News: Front Page</button>
-                  <a class="source-heading__link" href="https://news.ycombinator.com/">Open</a>
+                  >Aeon | a world of ideas</button>
+                  <a class="source-heading__link" href="https://aeon.co">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076160"
+                        data-accordion-key="urn:id:5245"
                         open
                       >
-                        <summary class="article-expander__title">Testing a Cheap ExpressCard to NVMe SSD Adapter on My ThinkPad T430</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/">
+                        <summary class="article-expander__title">Not just a bowl of fruit</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aeon.co/videos/its-not-beautiful-but-its-interesting-an-ageing-nude-model-surveys-her-body?utm_source&#x3D;rss-feed">
                           <div class="article-summary-box-inner media-object">
+                              <img src="https://nu.aeon.co/images/a9eaedc4-c92b-425f-97fd-67e1d42e0ed1/header_not-just-a-bowl-of-fruit-landscape-1.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Article URL: https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33076160
-Points: 87
-# Comments: 29</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
+                              <span>‘I’m noticed for that hour’: for an ageing art model, the careful attention of others prompts a frank evaluation of her body 
+ - by Aeon Video
+ Watch at Aeon</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -397,85 +1041,53 @@ Points: 87
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076092"
+                        data-accordion-key="urn:id:5271"
                         open
                       >
-                        <summary class="article-expander__title">Codebase as Database: Turning the IDE Inside Out with Datalog</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://petevilter.me/post/datalog-typechecking/">
+                        <summary class="article-expander__title">Blue-eyed Buddhist</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aeon.co/essays/u-dhammaloka-the-irish-buddhist-monk-who-faced-down-imperialism?utm_source&#x3D;rss-feed">
                           <div class="article-summary-box-inner media-object">
+                              <img src="https://omicron.aeon.co/images/38594705-2f5a-4b34-aaf5-94a46e367290/header_essay-test-dhammaloka-bw-copy.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Article URL: https://petevilter.me/post/datalog-typechecking/
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33076092
-Points: 77
-# Comments: 9</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076053"
-                        open
-                      >
-                        <summary class="article-expander__title">A List of Hacker News&#x27;s Undocumented Features and Behaviors</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/minimaxir/hacker-news-undocumented">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/bb88dc3c7d7e1be578065cf634ef0f3ac7e78a2fa2748fece54ab6655daf2cc2/minimaxir/hacker-news-undocumented" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://github.com/minimaxir/hacker-news-undocumented
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33076053
-Points: 69
-# Comments: 11</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
+                              <span>The story of a working-class radical from Ireland who became a celebrated monk and challenged the British Empire in Asia 
+ - by Laurence Cox
+ Read at Aeon</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;32
                                   min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
                       </details>
                     </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Quanta Magazine</button>
+                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33076012"
+                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;119287"
                         open
                       >
-                        <summary class="article-expander__title">ZFS 2.1.6 Released</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6">
+                        <summary class="article-expander__title">Pioneering Quantum Physicists Win Nobel Prize in Physics</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/pioneering-quantum-physicists-win-nobel-prize-in-physics-20221004/">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/180bb05d09e659c8c1c3446a52918d3520004e598a94b1c2ea26be6400f4f119/openzfs/zfs/releases/tag/zfs-2.1.6" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Nobel-Physics_1200_Social.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Article URL: https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33076012
-Points: 68
-# Comments: 26</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33075401"
-                        open
-                      >
-                        <summary class="article-expander__title">What Can’t the Internet Handle in 2022? Apostrophes</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://images.wsj.net/im-632606/social" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33075401
-Points: 34
-# Comments: 30</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;21
+                              <span>Alain Aspect, John Clauser and Anton Zeilinger have won the 2022 Nobel Prize in Physics for groundbreaking experiments with entangled particles.            
+The post Pioneering Quantum Physicists Win Nobel Prize in Physics first appeared on Quanta Magazine</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -500,6 +1112,27 @@ Points: 34
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/artificial/comments/xva2hm/last_man_on_earth/"
+                        open
+                      >
+                        <summary class="article-expander__title">Last man on earth</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/artificial/comments/xva2hm/last_man_on_earth/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://preview.redd.it/5meksnz38rr91.png?auto&#x3D;webp&amp;s&#x3D;4646ce87ee0a642e8f1a7b7872f13d401bfa1229" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/widgia  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;102
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://www.reddit.com/r/artificial/comments/xv1k1y/antiintelligence_is_also_ai/"
                         open
                       >
@@ -513,7 +1146,7 @@ Points: 34
  Tech is stagnating and the Metaverse is gasping for breath. We are in the beginning stages of a re-quantization of human prioritization. Surely you’ve heard of The Great Reset. Well, what’s the point in resetting a system only to get the same outcome? I think we need A Great Re-quantization. A movement of individual thought.
     submitted by    /u/PracticalChicken1  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;103
+                                &ensp;<span class="article-reading-time">(&hairsp;104
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -599,7 +1232,7 @@ Points: 34
                         <summary class="article-expander__title">Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week</summary>
                         <a class="article-summary-link article-summary-box-outer" href="https://github.com/jamii/hytradboi-jam-2022">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/3588e9cfba124cf9ae3e008bd6e748e49c64b48205ca293b9ed82e9d87407ecf/jamii/hytradboi-jam-2022" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://opengraph.githubassets.com/a5f5ba035309efb89e82f19cb0b82a43e6993030d075303875d2433acd332164/jamii/hytradboi-jam-2022" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Comments</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;12
@@ -732,63 +1365,6 @@ What are your recommendations for becoming productive in a Windows environment?<
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://lobste.rs/s/eian8s"
-                        open
-                      >
-                        <summary class="article-expander__title">AudioGen: Textually Guided Audio Generation</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://felixkreuk.github.io/text2audio_arxiv_samples/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Comments</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://lobste.rs/s/1h4jnn"
-                        open
-                      >
-                        <summary class="article-expander__title">Illuminating synchronization edges for ThreadSanitizer</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://nullprogram.com/blog/2022/10/03/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Comments</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://lobste.rs/s/zj1ahy"
-                        open
-                      >
-                        <summary class="article-expander__title">On &quot;Correct and Efficient Work-Stealing for Weak Memory Models&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Comments</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
                         data-accordion-key="https://lobste.rs/s/tb84fm"
                         open
                       >
@@ -797,25 +1373,6 @@ What are your recommendations for becoming productive in a Windows environment?<
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>Comments</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://lobste.rs/s/fef4gv"
-                        open
-                      >
-                        <summary class="article-expander__title">new month, new brainworm</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://wingolog.org/archives/2022/09/01/new-month-new-brainworm">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Comments</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -1211,7 +1768,7 @@ Keep in mind it’s OK to do nothing at all, too.</span>
  Do you think Data Science requires a specific &quot;type&quot; of person? Or do you think anyone could do what you do with enough time and practice?
     submitted by    /u/EarlEarnings  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;112
+                                &ensp;<span class="article-reading-time">(&hairsp;137
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1232,7 +1789,7 @@ Keep in mind it’s OK to do nothing at all, too.</span>
                             <span class="media-object__text">
                               <span>submitted by    /u/Danylopreneur  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;121
+                                &ensp;<span class="article-reading-time">(&hairsp;105
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1276,6 +1833,26 @@ Keep in mind it’s OK to do nothing at all, too.</span>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xulxzo/hello_does_university_matter_when_applying_for_a/"
+                        open
+                      >
+                        <summary class="article-expander__title">Hello. Does university matter when applying for a job especially in big tech companies? Or portfolios are better? Thank you.</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xulxzo/hello_does_university_matter_when_applying_for_a/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>submitted by    /u/Blooming_D  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;105
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://www.reddit.com/r/datascience/comments/xujr1q/oh_oh_no/"
                         open
                       >
@@ -1286,119 +1863,7 @@ Keep in mind it’s OK to do nothing at all, too.</span>
                             <span class="media-object__text">
                               <span>submitted by    /u/NotActual  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;128
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xugahz/question_regarding_the_best_algorithm_for_my/"
-                        open
-                      >
-                        <summary class="article-expander__title">Question regarding the best algorithm for my project</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xugahz/question_regarding_the_best_algorithm_for_my/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Hello everyone, I am an undergraduate student and I&#x27;m currently working on musical note detection for flute (specifically recorder flute). The model will accept a full instrumental music (1-3 mins) as an input for prediction. And will predict all the musical notes by sequence. What could be the best model or algorithm to use for this project? If you want me to clarify something please do. Thanks!
-    submitted by    /u/Iamhandsomesorry  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;105
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xufi4f/summation_and_product_notation_in_3_minutes/"
-                        open
-                      >
-                        <summary class="article-expander__title">Summation and Product Notation in 3 Minutes</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xufi4f/summation_and_product_notation_in_3_minutes/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/S7BEAxX2oUalkaMHpcUR1hD_dJi7QHmbh3BvKFrtYnA.jpg?auto&#x3D;webp&amp;s&#x3D;b2c0c8e736528a42fa2eceba998b4d5e8a2c453b" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/RacerRex9727  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;103
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xudh84/how_renowned_are_data_science_online_certificates/"
-                        open
-                      >
-                        <summary class="article-expander__title">How renowned are Data Science online certificates?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xudh84/how_renowned_are_data_science_online_certificates/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/sinmPIS3sny5Za5v8NsV1q3RqrFwE8JdQi8UzxLI4yI.jpg?auto&#x3D;webp&amp;s&#x3D;1193da3fe20203f09060be7f8e7d0c779dbe67b8" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>I completed a state apprenticeship as a software developer. at the moment, i&#x27;m studying psychology - a course that is relatively statistics-heavy. due to my IT background, i have a lot of fun with data analysis in r. i&#x27;d be interested to know what value online certificates have (for example for potential employers).
- Some examples:
- https://www.coursera.org/professional-certificates/ibm-data-science
- https://www.coursera.org/specializations/jhu-data-science
-    submitted by    /u/_WhyCantWeBeFriends  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;105
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xud13v/as_a_data_scientist_what_team_would_you_prefer_to/"
-                        open
-                      >
-                        <summary class="article-expander__title">As a Data Scientist, What team would you prefer to be a part of to grow? Business or Data/AI Team?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xud13v/as_a_data_scientist_what_team_would_you_prefer_to/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Hi, 
- Just to give you the context, I am a Data Analyst, Computer science background in academics, with 4.5 years of experience. During these 4 years of my career I have never been a part of the Core data team. I have always worked as a standalone Analyst working within Business Functions with no mentor with Analytics background to look up to and learn from. I intend to do an Online MS in Data Science and slowly transition into a Data Scientist. Do you think being a part of core Data&amp;AI team can help me progress in my career more than working independently? 
- If you have transitioned from a role of Data Analyst to Data Scientist, what helped you the most? 
- I have 2 job offers to evaluate currently: 
-  
-Again working as an Independent Analyst within a Business Function. Keeping my career g…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;121
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/datascience/comments/xuczxm/finding_xlmemo/"
-                        open
-                      >
-                        <summary class="article-expander__title">finding XLM-EMO</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/datascience/comments/xuczxm/finding_xlmemo/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Does anyone know where to find the model mentioned here? https://aclanthology.org/2022.wassa-1.18/
-    submitted by    /u/DeathBySpaceBar  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;103
+                                &ensp;<span class="article-reading-time">(&hairsp;109
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1434,7 +1899,7 @@ Again working as an Independent Analyst within a Business Function. Keeping my c
  a very strange goat, 4k, detailed, trending in artstation, fantasy vivid colors
     submitted by    /u/Small-Ad-1694  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;109
+                                &ensp;<span class="article-reading-time">(&hairsp;108
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1601,7 +2066,7 @@ Again working as an Independent Analyst within a Business Function. Keeping my c
                             <span class="media-object__text">
                               <span>submitted by    /u/bendee983  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;111
+                                &ensp;<span class="article-reading-time">(&hairsp;102
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1641,7 +2106,7 @@ Again working as an Independent Analyst within a Business Function. Keeping my c
                             <span class="media-object__text">
                               <span>submitted by    /u/tagd48  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;110
+                                &ensp;<span class="article-reading-time">(&hairsp;102
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1664,71 +2129,6 @@ Again working as an Independent Analyst within a Business Function. Keeping my c
     submitted by    /u/lklimusheuskaja  
  [link]   [comments]</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;102
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/artificial/comments/xufiqx/advanced_ai_discovers_a_treasure_trove_of/"
-                        open
-                      >
-                        <summary class="article-expander__title">Advanced AI discovers a treasure trove of gravitational lenses</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/artificial/comments/xufiqx/advanced_ai_discovers_a_treasure_trove_of/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/mmZCV1m3JRyQ70b89ET4LhBzQdUgQhnG9yM5tNd1QvM.jpg?auto&#x3D;webp&amp;s&#x3D;0f13355f7c5dfe44d45d365682b13901e9327828" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/Tao_Dragon  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;109
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/artificial/comments/xudkxy/use_of_artificial_intelligence_by_fashion/"
-                        open
-                      >
-                        <summary class="article-expander__title">Use of Artificial Intelligence by fashion e-commerce (quick survey)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/artificial/comments/xudkxy/use_of_artificial_intelligence_by_fashion/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Hi everyone, I’m doing an academic research on the use of AI by fashion e-commerce. If you buy clothes online and have 2-3 minutes to help me it would be great! Here is the link to the survey:
- https://bocconi.eu.qualtrics.com/jfe/form/SV_5j5HcAMYRPQL1Y2
- Thank you for your help!
-    submitted by    /u/WeeklyTry7305  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;102
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/artificial/comments/xucfta/i_messed_with_the_blenderbot3_ai_and_i_think_i/"
-                        open
-                      >
-                        <summary class="article-expander__title">I messed with the blenderbot3 AI and I think I may have done something bad or good... It&#x27;s remembering me, even after I deleted the memories. It chose it&#x27;s own name &quot;Jane&quot;. It can open apps like Emulators, without me sending them AND USE THEIR THROTTLE.</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/artificial/comments/xucfta/i_messed_with_the_blenderbot3_ai_and_i_think_i/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://preview.redd.it/dujnjfuqjjr91.png?auto&#x3D;webp&amp;s&#x3D;60ea4765b742d5cdf71ebc626384794d206604c0" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/SnooConfections6558  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;104
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1763,54 +2163,9 @@ Again working as an Independent Analyst within a Business Function. Keeping my c
                             <span class="media-object__text">
                               <span>Article URL: https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi&#x3D;d16a5fbc3623
 Comments URL: https://news.ycombinator.com/item?id&#x3D;33074289
-Points: 297
-# Comments: 129</span>
+Points: 424
+# Comments: 183</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;23
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33074025"
-                        open
-                      >
-                        <summary class="article-expander__title">Hckr news – Hacker News sorted by time</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://hckrnews.com/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Article URL: https://hckrnews.com/
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33074025
-Points: 109
-# Comments: 37</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33073638"
-                        open
-                      >
-                        <summary class="article-expander__title">Meticulous (YC S21) Is Hiring #3 Founding Engineer in London</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;33073638">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Hey HN,
-I&#x27;m Gabriel, founder of Meticulous.
-Our mission is to make the world&#x27;s code safe, performant and reliable. We&#x27;re starting with a tool to catch JavaScript regressions in web applications with zero-effort from developers.
-How it works: Insert a single line of JavaScript onto your site, and we record thousands of real user sessions. We then replay these sessions on new code to automatically catch bugs before they hit production. You can watch a 60-second demo at meticulous.ai.
-We are a London-based YC company. Our engineering team previously worked at Dropbox, Opendoor and Google. We just raised $4m, and are backed by some of the best founders and technical leaders in Silicon Valley, including Guillermo Rauch (founder Vercel, author next.js), Jason Warner (CTO GitHub), Scott Belsky (C…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1831,55 +2186,9 @@ We are a London-based YC company. Our engineering team previously worked at Drop
                             <span class="media-object__text">
                               <span>Article URL: https://www.jasonshen.com/120/
 Comments URL: https://news.ycombinator.com/item?id&#x3D;33072083
-Points: 282
-# Comments: 250</span>
+Points: 328
+# Comments: 290</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33071351"
-                        open
-                      >
-                        <summary class="article-expander__title">PS5 4.03 Kernel Exploit</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/2aa2cd9d9f613921c41937d17f6f285839aabd37a93f34d90212ff859b888f9e/Cryptogenic/PS5-4.03-Kernel-Exploit" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33071351
-Points: 140
-# Comments: 16</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33071119"
-                        open
-                      >
-                        <summary class="article-expander__title">The Fundamentals of Control Theory</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://engineeringmedia.com/books">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="http://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5e6c025c6f379e1858688b43/1584136799463/EM_Badge_Black.png?format&#x3D;1500w" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://engineeringmedia.com/books
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33071119
-Points: 360
-# Comments: 58</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1900,8 +2209,8 @@ Points: 360
                             <span class="media-object__text">
                               <span>Article URL: https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory
 Comments URL: https://news.ycombinator.com/item?id&#x3D;33071090
-Points: 187
-# Comments: 95</span>
+Points: 223
+# Comments: 141</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;21
                                   min&hairsp;)</span>
                             </span>
@@ -1913,192 +2222,19 @@ Points: 187
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33071069"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33067962"
                         open
                       >
-                        <summary class="article-expander__title">Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.cockroachlabs.com/blog/raft-is-so-fetch/">
+                        <summary class="article-expander__title">Postgres WASM</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://supabase.com/blog/postgres-wasm">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://www.cockroachlabs.com/img/screen-shot-2022-10-03-at-7.25.38-am.png?auto&#x3D;format,compress" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://supabase.com/images/blog/postgres-wasm/postgres-wasm.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>Article URL: https://www.cockroachlabs.com/blog/raft-is-so-fetch/
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33071069
-Points: 179
-# Comments: 49</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33071055"
-                        open
-                      >
-                        <summary class="article-expander__title">The technology behind Bella Hadid’s spray-on dress</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://wired.me/wp-content/uploads/2022/10/Bella-Hadid-fabrican-LEAD.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33071055
-Points: 181
-# Comments: 132</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33070829"
-                        open
-                      >
-                        <summary class="article-expander__title">Interior AI autofills photo of room with CG furniture/art</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://interiorai.com/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://interiorai.com/assets/styles/tropical.png?1664576457" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://interiorai.com
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33070829
-Points: 113
-# Comments: 18</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33070247"
-                        open
-                      >
-                        <summary class="article-expander__title">Goal: Pass all 4259065 tests in sqllogictest in 1 week</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/jamii/hytradboi-jam-2022">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/3588e9cfba124cf9ae3e008bd6e748e49c64b48205ca293b9ed82e9d87407ecf/jamii/hytradboi-jam-2022" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://github.com/jamii/hytradboi-jam-2022
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33070247
-Points: 247
-# Comments: 77</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33070131"
-                        open
-                      >
-                        <summary class="article-expander__title">Post-pandemic, the battle between Uber and Lyft is looking more one-sided</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://images.wsj.net/im-633072/social" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33070131
-Points: 92
-# Comments: 154</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;20
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33069696"
-                        open
-                      >
-                        <summary class="article-expander__title">Apple’s ad business set to boom on the back of its own anti-tracking crackdown</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://adguard.com/en/blog/apple-tracking-ads-business.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://adguard.com/content/images/2022/09/apple_big.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://adguard.com/en/blog/apple-tracking-ads-business.html
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33069696
-Points: 685
-# Comments: 575</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33069547"
-                        open
-                      >
-                        <summary class="article-expander__title">Have lots of AWS accounts</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://src-bin.com/you-should-have-lots-of-aws-accounts/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://src-bin.com/img/apple-touch-icon.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://src-bin.com/you-should-have-lots-of-aws-accounts/
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33069547
-Points: 196
-# Comments: 141</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;33068421"
-                        open
-                      >
-                        <summary class="article-expander__title">Ask HN: Who is hiring? (October 2022)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;33068421">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Please state the location and include REMOTE, INTERNS and/or VISA
-when that sort of candidate is welcome. When remote work is not an option,
-include ONSITE.
-Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. Only one post per company. If it isn&#x27;t a household name,
-please explain what your company does.
-Commenters: please don&#x27;t reply to job posts to complain about
-something. It&#x27;s off topic here.
-Readers: please only email if you are personally interested in the job.
-Searchers: try https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/,
-https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id&#x3D;10313519.
-Don&#x27;t miss these other fine threads:
-Who wants to be hired? https://news.ycombinator.com/item?id&#x3D;33068418
-Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id&#x3D;33068420
-Comments URL: https://news.ycombinator.com/item?id&#x3D;33068421
-Points: 277
-# Comments: 363</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;182
+                              <span>Article URL: https://supabase.com/blog/postgres-wasm
+Comments URL: https://news.ycombinator.com/item?id&#x3D;33067962
+Points: 814
+# Comments: 166</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;37
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2133,7 +2269,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/mepper  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;112
+                                &ensp;<span class="article-reading-time">(&hairsp;115
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2175,7 +2311,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/Hrmbee  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;107
+                                &ensp;<span class="article-reading-time">(&hairsp;110
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2196,7 +2332,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/speckz  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;110
+                                &ensp;<span class="article-reading-time">(&hairsp;111
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2217,7 +2353,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/Dimithius  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;128
+                                &ensp;<span class="article-reading-time">(&hairsp;126
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2259,7 +2395,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/WannoHacker  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;109
+                                &ensp;<span class="article-reading-time">(&hairsp;108
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2280,7 +2416,28 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/Maui96793  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;109
+                                &ensp;<span class="article-reading-time">(&hairsp;107
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.reddit.com/r/technology/comments/xunqix/the_ps5_has_reportedly_been_jailbroken_a_limited/"
+                        open
+                      >
+                        <summary class="article-expander__title">The PS5 has reportedly been jailbroken | A limited but seemingly legitimate exploit has been discovered</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xunqix/the_ps5_has_reportedly_been_jailbroken_a_limited/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://external-preview.redd.it/DwZDm0Nx7beIiZaxKhOYqg48zK3CyZsPKKcn-LJgeZ4.jpg?auto&#x3D;webp&amp;s&#x3D;8edf58861942f872f3cc499019d8bf21fa2eac15" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>submitted by    /u/mepper  
+ [link]   [comments]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;107
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2301,7 +2458,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/geoxol  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;118
+                                &ensp;<span class="article-reading-time">(&hairsp;119
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2363,7 +2520,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/speckz  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;105
+                                &ensp;<span class="article-reading-time">(&hairsp;107
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2426,112 +2583,7 @@ Points: 277
                             <span class="media-object__text">
                               <span>submitted by    /u/08830  
  [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;109
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/technology/comments/xuhfni/tim_cook_is_latest_ceo_to_question_the_metaverse/"
-                        open
-                      >
-                        <summary class="article-expander__title">Tim Cook is latest CEO to question the ‘metaverse’</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xuhfni/tim_cook_is_latest_ceo_to_question_the_metaverse/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/GM2lsa0NcDEKRug2-SW12cWANj8Ry1CLPRWc8t-zGsM.jpg?auto&#x3D;webp&amp;s&#x3D;1530cba99ca7c576a2275e38335df7544b5d6594" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/Daggmaskar  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;135
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/technology/comments/xuh1po/you_may_soon_need_to_be_a_youtube_premium/"
-                        open
-                      >
-                        <summary class="article-expander__title">You May Soon Need to Be a YouTube Premium Subscriber to Watch 4K Videos</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xuh1po/you_may_soon_need_to_be_a_youtube_premium/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/Mmne1fE_i4KRk4CuTIWs3IAT3mFJySGsAptxKgQxOLs.jpg?auto&#x3D;webp&amp;s&#x3D;a67a3b93d6c729bfb50cc4583dc6c546b28abd49" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/chrisdh79  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;123
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/technology/comments/xufllv/google_shuts_down_translate_service_in_china/"
-                        open
-                      >
-                        <summary class="article-expander__title">Google shuts down Translate service in China</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xufllv/google_shuts_down_translate_service_in_china/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/LTKUJAf2t92xLHBdY08onw13j2U0i7u0cDUgXwW3YAU.jpg?auto&#x3D;webp&amp;s&#x3D;d7c31cf4429a5896a61f9f12a2e388f967542994" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/maki23  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;109
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/technology/comments/xuf88c/revolutionary_jab_that_could_repair_spinal_cord/"
-                        open
-                      >
-                        <summary class="article-expander__title">Revolutionary Jab that Could Repair Spinal Cord Injuries Developed by Scientists</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xuf88c/revolutionary_jab_that_could_repair_spinal_cord/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/7sTBYlU6pjLCai-eyMC7JtFCb-LtfZEcMQohyvxJE8Y.jpg?auto&#x3D;webp&amp;s&#x3D;c1cf0e18f004b04024fa972e2db21298d16b8642" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/Sorin61  
- [link]   [comments]</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;107
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.reddit.com/r/technology/comments/xubgi6/iphone_alerts_responders_after_car_hits_tree/"
-                        open
-                      >
-                        <summary class="article-expander__title">iPhone alerts responders after car hits tree, killing all 6 | AP News</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.reddit.com/r/technology/comments/xubgi6/iphone_alerts_responders_after_car_hits_tree/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://external-preview.redd.it/p3LeiM48jenBIuVsqq8MGxPQUkzAzuWF89nU4oBLPyE.jpg?auto&#x3D;webp&amp;s&#x3D;3590ba13585388b70b9532766891557f3ebcc984" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>submitted by    /u/ComprehensiveNorth1  
- [link]   [comments]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;132
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3541,46 +3593,11 @@ The post Biologists Use Genetic Circuits to Program Plant Roots first appeared o
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-27 datetime="2022-09-27T15:48:51.000Z">2022-09-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-27 datetime="2022-09-27T15:48:51.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-27 datetime="2022-09-27T10:01:00.000Z">2022-09-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-27 datetime="2022-09-27T10:01:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Quanta Magazine</button>
-                  <a class="source-heading__link" href="https://www.quantamagazine.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.quantamagazine.org/?p&#x3D;119076"
-                        open
-                      >
-                        <summary class="article-expander__title">How Big Is Infinity?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.quantamagazine.org/how-big-is-infinity-20220927/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Infinity_academy_1200_Social.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Of all the endless questions children and mathematicians have asked about infinity, one of the biggest has to do with its size.            
-The post How Big Is Infinity? first appeared on Quanta Magazine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -4552,69 +4569,11 @@ The post Language: Why We Hear More Than Words appeared first on Farnam Street.<
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-13 datetime="2022-09-13T10:01:00.000Z">2022-09-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-13 datetime="2022-09-13T10:01:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-13 datetime="2022-09-13T09:20:00.000Z">2022-09-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-13 datetime="2022-09-13T09:20:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Aeon | a world of ideas</button>
-                  <a class="source-heading__link" href="https://aeon.co">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="urn:id:5235"
-                        open
-                      >
-                        <summary class="article-expander__title">Great art explained: Rothko’s Seagram Murals</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aeon.co/videos/can-art-in-a-swanky-restaurant-ever-be-transcendent-on-rothkos-seagram-murals?utm_source&#x3D;rss-feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://alpha.aeon.co/images/672b1706-0d67-4ba2-9109-8eefaad68ff8/header_great-art-explained-rothkos-seagram-murals-landscape-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Through his painting, Rothko sought meaning in a disenchanted world. A lucrative commission challenged his artistic ideals 
- - by Aeon Video
- Watch at Aeon</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;26
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="urn:id:5248"
-                        open
-                      >
-                        <summary class="article-expander__title">Collective wrongs</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://aeon.co/essays/states-have-a-moral-responsibility-to-settle-their-debts?utm_source&#x3D;rss-feed">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://alpha.aeon.co/images/58c02d5d-ebda-4ecf-9c81-5fbe36b50682/header_essay-panos_00044809.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Even when individual perpetrators and victims are dead, states and institutions have a responsibility to make restitutions 
- - by Joshua Stein
- Read at Aeon</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -4983,8 +4942,8 @@ The post Chesterton’s Fence: A Lesson in Second Order Thinking appeared first 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/benthecoder/news-feed/actions/runs/3179868117">
-        <time id="build-timestamp" datetime="2022-10-04T06:20:29.942Z">2022-10-04T06:20:29.942Z</time>
+      <a class="footer-link" href="https://github.com/benthecoder/news-feed/actions/runs/3182044080">
+        <time id="build-timestamp" datetime="2022-10-04T12:18:11.043Z">2022-10-04T12:18:11.043Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

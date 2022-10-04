@@ -2,10 +2,371 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://benthecoder.github.io/news-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T06:20:29.969Z</updated>
+    <updated>2022-10-04T12:18:11.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://benthecoder.github.io/news-feeds/index.html"/>
     <link rel="self" href="https://benthecoder.github.io/news-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WoE balanced data]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xvct2f/woe_balanced_data/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xvct2f/woe_balanced_data/"/>
+        <updated>2022-10-04T11:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Hello!
+ I did a WoE balancing on my training data set using the target.Now I have the test set without any labels that I want to balance as well to use the model to predict and submit.
+ I am looking for some help on how to do it.set
+ This was how I did the balancing in the training set:
+ ​
+ def iv_woe(data, feature, target, bins=10, show_woe=False, show_iv= False):
+ #Empty Dataframe
+ newDF,woeDF = pd.DataFrame(), pd.DataFrame()
+ #Extract Column Names
+ cols = [feature]
+ #Run WOE and IV on all the independent variables
+ for ivars in cols:
+ # Here I'm checking the tipe of the feature, if it is a continuous feature with more them 10 unique entries I will bin it with pandas.qcut
+ if (data[ivars].dtype.kind in 'bifc') and (len(np.unique(data[ivars]))>10):
+ binned_x = pd.qcut(data[ivars], bins, d…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)]]></title>
+        <id>https://lobste.rs/s/k2jk0m</id>
+        <link href="https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/"/>
+        <updated>2022-10-04T11:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>PengouinBSD@users.lobste.rs (PengouinBSD)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Parliament passes legislation introducing universal charger]]></title>
+        <id>https://news.ycombinator.com/item?id=33078729</id>
+        <link href="https://www.politico.eu/article/european-parliament-pass-legislation-introduce-common-charger/"/>
+        <updated>2022-10-04T11:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/european-parliament-pass-legislation-introduce-common-charger/
+Comments URL: https://news.ycombinator.com/item?id=33078729
+Points: 14
+# Comments: 2]]></summary>
+        <author>
+            <name>ohbtvz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU lawmakers impose single charger for all smartphones]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xvc3gw/eu_lawmakers_impose_single_charger_for_all/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xvc3gw/eu_lawmakers_impose_single_charger_for_all/"/>
+        <updated>2022-10-04T11:03:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working on the “Web” Browser for the MEGA65]]></title>
+        <id>https://news.ycombinator.com/item?id=33078631</id>
+        <link href="https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html"/>
+        <updated>2022-10-04T10:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://c65gs.blogspot.com/2022/10/working-on-web-browser-for-mega65.html
+Comments URL: https://news.ycombinator.com/item?id=33078631
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Examples of Microkernels?]]></title>
+        <id>https://news.ycombinator.com/item?id=33078441</id>
+        <link href="https://news.ycombinator.com/item?id=33078441"/>
+        <updated>2022-10-04T10:24:58.000Z</updated>
+        <summary type="html"><![CDATA[I'm reading through the MIT xv6 OS handbook and code (here: https://github.com/mit-pdos/xv6-riscv/) and they mention the fact that they created it as a monolithic kernel since most unix systems are monolithic. They then introduce the microkernel concept. Are there microkernel concepts out there (especially code) I can check out? I'm curious to see how userspace processes communicate to kernel processes to execute privileged actions.
+Comments URL: https://news.ycombinator.com/item?id=33078441
+Points: 13
+# Comments: 21]]></summary>
+        <author>
+            <name>agomez314</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git worktrees]]></title>
+        <id>https://lobste.rs/s/r5c6o8</id>
+        <link href="https://jmtd.net/log/worktrees/"/>
+        <updated>2022-10-04T10:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>jmtd@users.lobste.rs (jmtd)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world's oldest webcam is still watching over SF]]></title>
+        <id>https://lobste.rs/s/pf4mis</id>
+        <link href="https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php"/>
+        <updated>2022-10-04T10:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>repl@users.lobste.rs (repl)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not just a bowl of fruit]]></title>
+        <id>urn:id:5245</id>
+        <link href="https://aeon.co/videos/its-not-beautiful-but-its-interesting-an-ageing-nude-model-surveys-her-body?utm_source=rss-feed"/>
+        <updated>2022-10-04T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[‘I’m noticed for that hour’: for an ageing art model, the careful attention of others prompts a frank evaluation of her body 
+ - by Aeon Video
+ Watch at Aeon]]></summary>
+        <author>
+            <name>Aeon Video</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue-eyed Buddhist]]></title>
+        <id>urn:id:5271</id>
+        <link href="https://aeon.co/essays/u-dhammaloka-the-irish-buddhist-monk-who-faced-down-imperialism?utm_source=rss-feed"/>
+        <updated>2022-10-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The story of a working-class radical from Ireland who became a celebrated monk and challenged the British Empire in Asia 
+ - by Laurence Cox
+ Read at Aeon]]></summary>
+        <author>
+            <name>Laurence Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pioneering Quantum Physicists Win Nobel Prize in Physics]]></title>
+        <id>https://www.quantamagazine.org/?p=119287</id>
+        <link href="https://www.quantamagazine.org/pioneering-quantum-physicists-win-nobel-prize-in-physics-20221004/"/>
+        <updated>2022-10-04T09:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Alain Aspect, John Clauser and Anton Zeilinger have won the 2022 Nobel Prize in Physics for groundbreaking experiments with entangled particles.            
+The post Pioneering Quantum Physicists Win Nobel Prize in Physics first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPv4 Turf War]]></title>
+        <id>https://lobste.rs/s/hpaukh</id>
+        <link href="https://ipv4.games/"/>
+        <updated>2022-10-04T09:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>jart@users.lobste.rs (jart)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger]]></title>
+        <id>https://news.ycombinator.com/item?id=33078212</id>
+        <link href="https://www.nobelprize.org/prizes/physics/2022/summary/"/>
+        <updated>2022-10-04T09:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nobelprize.org/prizes/physics/2022/summary/
+Comments URL: https://news.ycombinator.com/item?id=33078212
+Points: 108
+# Comments: 43]]></summary>
+        <author>
+            <name>solarist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#VisualizationTip: Using Seaborn(Heatmap) to visualize Missing data( Yellow- Representation of a column's missing data.)]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xvap10/visualizationtip_using_seabornheatmap_to/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xvap10/visualizationtip_using_seabornheatmap_to/"/>
+        <updated>2022-10-04T09:44:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SOTP_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=33078147</id>
+        <link href="https://www.intechopen.com/chapters/69119"/>
+        <updated>2022-10-04T09:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.intechopen.com/chapters/69119
+Comments URL: https://news.ycombinator.com/item?id=33078147
+Points: 14
+# Comments: 3]]></summary>
+        <author>
+            <name>graderjs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last man on earth]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/xva2hm/last_man_on_earth/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/xva2hm/last_man_on_earth/"/>
+        <updated>2022-10-04T09:05:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/widgia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US set to impose more trade restrictions on Chinese AI and supercomputer companies]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xv9ot3/us_set_to_impose_more_trade_restrictions_on/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xv9ot3/us_set_to_impose_more_trade_restrictions_on/"/>
+        <updated>2022-10-04T08:41:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Arviericp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UML: My Part in Its Downfall]]></title>
+        <id>https://news.ycombinator.com/item?id=33077533</id>
+        <link href="https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html"/>
+        <updated>2022-10-04T07:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html
+Comments URL: https://news.ycombinator.com/item?id=33077533
+Points: 87
+# Comments: 88]]></summary>
+        <author>
+            <name>ltratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to find what I am really good at?]]></title>
+        <id>https://news.ycombinator.com/item?id=33077489</id>
+        <link href="https://news.ycombinator.com/item?id=33077489"/>
+        <updated>2022-10-04T07:32:29.000Z</updated>
+        <summary type="html"><![CDATA[In the past years I've been quite diluted in my personal and professional life. Changed several jobs, and in my hobbies, I am jumping from one project to another. How do you stay focused? How do you find 1 thing you are really good at and stick with it? Is there a book or a blog teaching this? Although, it seems quite trivial, for me this is a huge live hurdle. Any tips are highly appreciated!
+Comments URL: https://news.ycombinator.com/item?id=33077489
+Points: 61
+# Comments: 68]]></summary>
+        <author>
+            <name>pr07ecH70r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Google Maps history to see if my boyfriend and I could have met earlier]]></title>
+        <id>https://news.ycombinator.com/item?id=33077473</id>
+        <link href="https://chan.co.za/how-fateful"/>
+        <updated>2022-10-04T07:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chan.co.za/how-fateful
+Comments URL: https://news.ycombinator.com/item?id=33077473
+Points: 283
+# Comments: 84]]></summary>
+        <author>
+            <name>parabyl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VLC-developer VideoLAN sends legal notice to Indian ministries over ban]]></title>
+        <id>https://news.ycombinator.com/item?id=33077441</id>
+        <link href="https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/"/>
+        <updated>2022-10-04T07:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/
+Comments URL: https://news.ycombinator.com/item?id=33077441
+Points: 90
+# Comments: 24]]></summary>
+        <author>
+            <name>jmsflknr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential Issues of Using a USB Powerbank as a UPS (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=33077407</id>
+        <link href="https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/"/>
+        <updated>2022-10-04T07:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/
+Comments URL: https://news.ycombinator.com/item?id=33077407
+Points: 94
+# Comments: 40]]></summary>
+        <author>
+            <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VideoLAN has issued a legal notice to Indian Gov for banning their website]]></title>
+        <id>https://news.ycombinator.com/item?id=33077253</id>
+        <link href="https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/"/>
+        <updated>2022-10-04T06:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/
+Comments URL: https://news.ycombinator.com/item?id=33077253
+Points: 87
+# Comments: 9]]></summary>
+        <author>
+            <name>ashleshbiradar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deal with evolving/changing features]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xv7fh1/how_to_deal_with_evolvingchanging_features/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xv7fh1/how_to_deal_with_evolvingchanging_features/"/>
+        <updated>2022-10-04T06:24:52.000Z</updated>
+        <summary type="html"><![CDATA[How do you deal with changing features in a regression problem? I imagine this is quite common in a product/marketplace company. Here's an example:
+ Let's say the task is predicting car prices for an online marketplace, a value you'd like to present to someone about to list their car on the site. You can use your marketplace's historic sales as a training set. However, as the marketplace evolved, more features were added to the car object, and maybe some stopped being used. E.g., in the early phase of the marketplace, you had 3 features: car model, year, and color. Then maybe later on the company stopped collecting color, and instead now collect MPG and transmission type. So now you have 4 features on the newer dataset: car model, year, MPG, and transmission type. And so on and so on...did you just impute the missing values? not use features that are missing data? Split test/train to only reflect current features? Is it a constant game of cat and mouse keeping up with the fresh features?
+    submitted by    /u/foreignparent  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Mission Control for data scientists" - New platform - Document, aggregate, search and share your scripts - Free to individuals and schools]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xv785a/mission_control_for_data_scientists_new_platform/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xv785a/mission_control_for_data_scientists_new_platform/"/>
+        <updated>2022-10-04T06:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Hey r/datascience! I'm dropping by to show off a new platform I'm calling "Artemis" that's intended to serve as mission control for data science teams. It will be releasing soon, free to individuals and academic institutions, but I want your feedback as the finishing touches are refined.
+ Artemis is one platform that allows you to document, aggregate, search and share your data science scripts with your team. I'll keep this short by leaving a link that lets you interact with a live demo version of the platform right here. 
+ If you like it, that's great! Click the link to be notified of our impending free release. If you hate it we REALLY want to hear why -- click the link to tell us why! <notification/feedback link>
+ If you're keen for a brief read: 
+ Working in data science roles at Mayo Clinic and Caltech, I was frustrated by the inefficiency of monorepos. With teams of any size, it was a challenge to a) document our scripts in a way others could understand and b) find the script you're looking for. I build Artemis to solve this problem by offering:
+ 1- A new way to give your scripts visual documentation that shows, not tells, what each section of code actually does. Add special in line comments Artemis can read then run your script with our command line utility to generate documentation you can use to step through your code. It's a doozy to explain in full via a Reddit post, but you'll see in the demo that it's really not that complex.
+ 2- A new dashboard to aggregate, share and search your scripts. You can post the Artemis documentation for your scripts to our dashboard where they display beautifully to your team (please, just look at the demo). Each post contains your interactive documentation, the GitHub link to the script, links to related files, a written description and a title. The goal here is that your team can have an internal app store of sorts that makes it easier for each member of your team to borrow bits of code and entire scripts.
+    submitted by    /u/Artemis_Devtool  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: So you moved off Heroku, where did you go?]]></title>
+        <id>https://news.ycombinator.com/item?id=33077118</id>
+        <link href="https://news.ycombinator.com/item?id=33077118"/>
+        <updated>2022-10-04T06:12:39.000Z</updated>
+        <summary type="html"><![CDATA[So you moved your apps off Heroku, where did you go to and how has it worked out?
+Particularly interested in:
+1. How much work it took to move apps (be honest)
+2. How much experience you had at the time of the migration - e.g. on one extreme your entire devops experience may consist of just Heroku (that's me) or on the other extreme you may be a k8s guru (this helps others gauge how they'll go)
+3. How valuable were your learnings? E.g. replacing Heroku with an IAAS instead of another PAAS might take longer but give more fundamental learnings, and hence be worth it for some
+4. Cost comparison
+5. Summary/description of your apps (e.g. 20 tiny apps with a few hits per month, 5 medium with ~20k hits per month, 2 large with 1-2m hits per month type thing). Please give language/framework.
+6. Anything else you want to add
+Comments URL: https://news.ycombinator.com/item?id=33077118
+Points: 168
+# Comments: 127]]></summary>
+        <author>
+            <name>nomilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The HTML5 Shiv (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=33077038</id>
+        <link href="https://www.paulirish.com/2011/the-history-of-the-html5-shiv/"/>
+        <updated>2022-10-04T05:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.paulirish.com/2011/the-history-of-the-html5-shiv/
+Comments URL: https://news.ycombinator.com/item?id=33077038
+Points: 43
+# Comments: 7]]></summary>
+        <author>
+            <name>robin_reala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Dark data’ is killing the planet – we need digital decarbonisation]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xv5sxi/dark_data_is_killing_the_planet_we_need_digital/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xv5sxi/dark_data_is_killing_the_planet_we_need_digital/"/>
+        <updated>2022-10-04T04:52:48.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Hrmbee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Confused about opportunity to Pivot into Data Analytics]]></title>
         <id>https://www.reddit.com/r/datascience/comments/xv5msq/confused_about_opportunity_to_pivot_into_data/</id>
@@ -27,6 +388,17 @@
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>mfrw@users.lobste.rs (mfrw)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google discontinues Google Translate in mainland China]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xv4euf/google_discontinues_google_translate_in_mainland/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xv4euf/google_discontinues_google_translate_in_mainland/"/>
+        <updated>2022-10-04T03:41:55.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/GL4389  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -58,8 +430,8 @@
         <updated>2022-10-04T02:33:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/
 Comments URL: https://news.ycombinator.com/item?id=33076160
-Points: 87
-# Comments: 29]]></summary>
+Points: 143
+# Comments: 51]]></summary>
         <author>
             <name>hddherman</name>
         </author>
@@ -86,40 +458,27 @@ Points: 87
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Codebase as Database: Turning the IDE Inside Out with Datalog]]></title>
+        <title type="html"><![CDATA[Codebase as Database: Turning the IDE Inside Out with Datalog (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=33076092</id>
         <link href="https://petevilter.me/post/datalog-typechecking/"/>
         <updated>2022-10-04T02:17:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://petevilter.me/post/datalog-typechecking/
 Comments URL: https://news.ycombinator.com/item?id=33076092
-Points: 77
-# Comments: 9]]></summary>
+Points: 176
+# Comments: 23]]></summary>
         <author>
             <name>rohitpaulk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A List of Hacker News's Undocumented Features and Behaviors]]></title>
-        <id>https://news.ycombinator.com/item?id=33076053</id>
-        <link href="https://github.com/minimaxir/hacker-news-undocumented"/>
-        <updated>2022-10-04T02:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/minimaxir/hacker-news-undocumented
-Comments URL: https://news.ycombinator.com/item?id=33076053
-Points: 69
-# Comments: 11]]></summary>
-        <author>
-            <name>behnamoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS 2.1.6 Released]]></title>
+        <title type="html"><![CDATA[ZFS 2.1.6]]></title>
         <id>https://news.ycombinator.com/item?id=33076012</id>
         <link href="https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6"/>
         <updated>2022-10-04T02:01:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6
 Comments URL: https://news.ycombinator.com/item?id=33076012
-Points: 68
-# Comments: 26]]></summary>
+Points: 122
+# Comments: 65]]></summary>
         <author>
             <name>lysp</name>
         </author>
@@ -219,19 +578,6 @@ Points: 68
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Can’t the Internet Handle in 2022? Apostrophes]]></title>
-        <id>https://news.ycombinator.com/item?id=33075401</id>
-        <link href="https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695"/>
-        <updated>2022-10-04T00:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/internet-mangles-names-accents-web-forms-11664462695
-Comments URL: https://news.ycombinator.com/item?id=33075401
-Points: 34
-# Comments: 30]]></summary>
-        <author>
-            <name>prostoalex</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Software Engineering Terminology/Theory Questions in Interviews]]></title>
         <id>https://www.reddit.com/r/datascience/comments/xv02tm/software_engineering_terminologytheory_questions/</id>
         <link href="https://www.reddit.com/r/datascience/comments/xv02tm/software_engineering_terminologytheory_questions/"/>
@@ -328,8 +674,8 @@ Points: 34
         <updated>2022-10-03T21:58:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0?gi=d16a5fbc3623
 Comments URL: https://news.ycombinator.com/item?id=33074289
-Points: 297
-# Comments: 129]]></summary>
+Points: 424
+# Comments: 183]]></summary>
         <author>
             <name>yreg</name>
         </author>
@@ -372,19 +718,6 @@ Points: 297
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hckr news – Hacker News sorted by time]]></title>
-        <id>https://news.ycombinator.com/item?id=33074025</id>
-        <link href="https://hckrnews.com/"/>
-        <updated>2022-10-03T21:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hckrnews.com/
-Comments URL: https://news.ycombinator.com/item?id=33074025
-Points: 109
-# Comments: 37]]></summary>
-        <author>
-            <name>punnerud</name>
         </author>
     </entry>
     <entry>
@@ -438,20 +771,6 @@ Points: 109
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meticulous (YC S21) Is Hiring #3 Founding Engineer in London]]></title>
-        <id>https://news.ycombinator.com/item?id=33073638</id>
-        <link href="https://news.ycombinator.com/item?id=33073638"/>
-        <updated>2022-10-03T21:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN,
-I'm Gabriel, founder of Meticulous.
-Our mission is to make the world's code safe, performant and reliable. We're starting with a tool to catch JavaScript regressions in web applications with zero-effort from developers.
-How it works: Insert a single line of JavaScript onto your site, and we record thousands of real user sessions. We then replay these sessions on new code to automatically catch bugs before they hit production. You can watch a 60-second demo at meticulous.ai.
-We are a London-based YC company. Our engineering team previously worked at Dropbox, Opendoor and Google. We just raised $4m, and are backed by some of the best founders and technical leaders in Silicon Valley, including Guillermo Rauch (founder Vercel, author next.js), Jason Warner (CTO GitHub), Scott Belsky (C…]]></summary>
-        <author>
-            <name>Gabriel_h</name>
         </author>
     </entry>
     <entry>
@@ -601,8 +920,8 @@ What are your recommendations for becoming productive in a Windows environment?]
         <updated>2022-10-03T18:58:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jasonshen.com/120/
 Comments URL: https://news.ycombinator.com/item?id=33072083
-Points: 282
-# Comments: 250]]></summary>
+Points: 328
+# Comments: 290]]></summary>
         <author>
             <name>jasonshen</name>
         </author>
@@ -724,19 +1043,6 @@ Points: 282
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PS5 4.03 Kernel Exploit]]></title>
-        <id>https://news.ycombinator.com/item?id=33071351</id>
-        <link href="https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit"/>
-        <updated>2022-10-03T18:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit
-Comments URL: https://news.ycombinator.com/item?id=33071351
-Points: 140
-# Comments: 16]]></summary>
-        <author>
-            <name>aw1621107</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scientists Find Evidence of "Ocean" Hundreds of Miles Below Earth's Surface]]></title>
         <id>https://futurism.com/?p=271209</id>
         <link href="https://futurism.com/scientists-ocean-inside-earth"/>
@@ -747,68 +1053,16 @@ Points: 140
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fundamentals of Control Theory]]></title>
-        <id>https://news.ycombinator.com/item?id=33071119</id>
-        <link href="https://engineeringmedia.com/books"/>
-        <updated>2022-10-03T17:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://engineeringmedia.com/books
-Comments URL: https://news.ycombinator.com/item?id=33071119
-Points: 360
-# Comments: 58]]></summary>
-        <author>
-            <name>teleforce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Paul McCartney's Freakish Memory]]></title>
         <id>https://news.ycombinator.com/item?id=33071090</id>
         <link href="https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory"/>
         <updated>2022-10-03T17:49:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ianleslie.substack.com/p/paul-mccartneys-freakish-memory
 Comments URL: https://news.ycombinator.com/item?id=33071090
-Points: 187
-# Comments: 95]]></summary>
+Points: 223
+# Comments: 141]]></summary>
         <author>
             <name>tintinnabula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raft Is So Fetch: The Raft Consensus Algorithm Explained Through Mean Girls]]></title>
-        <id>https://news.ycombinator.com/item?id=33071069</id>
-        <link href="https://www.cockroachlabs.com/blog/raft-is-so-fetch/"/>
-        <updated>2022-10-03T17:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cockroachlabs.com/blog/raft-is-so-fetch/
-Comments URL: https://news.ycombinator.com/item?id=33071069
-Points: 179
-# Comments: 49]]></summary>
-        <author>
-            <name>mikaelaustin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The technology behind Bella Hadid’s spray-on dress]]></title>
-        <id>https://news.ycombinator.com/item?id=33071055</id>
-        <link href="https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/"/>
-        <updated>2022-10-03T17:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/
-Comments URL: https://news.ycombinator.com/item?id=33071055
-Points: 181
-# Comments: 132]]></summary>
-        <author>
-            <name>Kaibeezy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interior AI autofills photo of room with CG furniture/art]]></title>
-        <id>https://news.ycombinator.com/item?id=33070829</id>
-        <link href="https://interiorai.com/"/>
-        <updated>2022-10-03T17:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://interiorai.com
-Comments URL: https://news.ycombinator.com/item?id=33070829
-Points: 113
-# Comments: 18]]></summary>
-        <author>
-            <name>smugma</name>
         </author>
     </entry>
     <entry>
@@ -819,32 +1073,6 @@ Points: 113
         <summary type="html"><![CDATA[Keeping Up Kim Kardashian has officially been ordered to pay a $1.26 million settlement to the Securities and Exchange Commission (SEC) for allegedly pushing cryptocurrency EthereumMax (EMAX) without disclosing how much she was paid to do so, The Washington Post reports. Along with financial penalty, the star has also agreed to refrain from promoting any […]]]></summary>
         <author>
             <name>Maggie Harrison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goal: Pass all 4259065 tests in sqllogictest in 1 week]]></title>
-        <id>https://news.ycombinator.com/item?id=33070247</id>
-        <link href="https://github.com/jamii/hytradboi-jam-2022"/>
-        <updated>2022-10-03T16:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jamii/hytradboi-jam-2022
-Comments URL: https://news.ycombinator.com/item?id=33070247
-Points: 247
-# Comments: 77]]></summary>
-        <author>
-            <name>luu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-pandemic, the battle between Uber and Lyft is looking more one-sided]]></title>
-        <id>https://news.ycombinator.com/item?id=33070131</id>
-        <link href="https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545"/>
-        <updated>2022-10-03T16:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/why-lyft-is-eating-ubers-dust-11664597545
-Comments URL: https://news.ycombinator.com/item?id=33070131
-Points: 92
-# Comments: 154]]></summary>
-        <author>
-            <name>prostoalex</name>
         </author>
     </entry>
     <entry>
@@ -883,19 +1111,6 @@ Points: 92
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s ad business set to boom on the back of its own anti-tracking crackdown]]></title>
-        <id>https://news.ycombinator.com/item?id=33069696</id>
-        <link href="https://adguard.com/en/blog/apple-tracking-ads-business.html"/>
-        <updated>2022-10-03T16:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://adguard.com/en/blog/apple-tracking-ads-business.html
-Comments URL: https://news.ycombinator.com/item?id=33069696
-Points: 685
-# Comments: 575]]></summary>
-        <author>
-            <name>elashri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Former eBay Executives Sentenced to Prison for Cyberstalking]]></title>
         <id>https://www.reddit.com/r/technology/comments/xunykp/former_ebay_executives_sentenced_to_prison_for/</id>
         <link href="https://www.reddit.com/r/technology/comments/xunykp/former_ebay_executives_sentenced_to_prison_for/"/>
@@ -917,26 +1132,14 @@ Points: 685
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have lots of AWS accounts]]></title>
-        <id>https://news.ycombinator.com/item?id=33069547</id>
-        <link href="https://src-bin.com/you-should-have-lots-of-aws-accounts/"/>
-        <updated>2022-10-03T16:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://src-bin.com/you-should-have-lots-of-aws-accounts/
-Comments URL: https://news.ycombinator.com/item?id=33069547
-Points: 196
-# Comments: 141]]></summary>
+        <title type="html"><![CDATA[The PS5 has reportedly been jailbroken | A limited but seemingly legitimate exploit has been discovered]]></title>
+        <id>https://www.reddit.com/r/technology/comments/xunqix/the_ps5_has_reportedly_been_jailbroken_a_limited/</id>
+        <link href="https://www.reddit.com/r/technology/comments/xunqix/the_ps5_has_reportedly_been_jailbroken_a_limited/"/>
+        <updated>2022-10-03T16:12:55.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/mepper  
+ [link]   [comments]]]></summary>
         <author>
-            <name>rcrowley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AudioGen: Textually Guided Audio Generation]]></title>
-        <id>https://lobste.rs/s/eian8s</id>
-        <link href="https://felixkreuk.github.io/text2audio_arxiv_samples/"/>
-        <updated>2022-10-03T16:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>adamshaylor@users.lobste.rs (adamshaylor)</name>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -997,16 +1200,6 @@ Points: 196
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Illuminating synchronization edges for ThreadSanitizer]]></title>
-        <id>https://lobste.rs/s/1h4jnn</id>
-        <link href="https://nullprogram.com/blog/2022/10/03/"/>
-        <updated>2022-10-03T15:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>jmillikin@users.lobste.rs (jmillikin)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bruce Willis Denies Claims He Sold Rights to Be Deepfaked into New Movies]]></title>
         <id>https://futurism.com/?p=271191</id>
         <link href="https://futurism.com/bruce-willis-denies-deepfake-claims"/>
@@ -1028,29 +1221,14 @@ Points: 196
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Who is hiring? (October 2022)]]></title>
-        <id>https://news.ycombinator.com/item?id=33068421</id>
-        <link href="https://news.ycombinator.com/item?id=33068421"/>
-        <updated>2022-10-03T15:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Please state the location and include REMOTE, INTERNS and/or VISA
-when that sort of candidate is welcome. When remote work is not an option,
-include ONSITE.
-Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. Only one post per company. If it isn't a household name,
-please explain what your company does.
-Commenters: please don't reply to job posts to complain about
-something. It's off topic here.
-Readers: please only email if you are personally interested in the job.
-Searchers: try https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/,
-https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.
-Don't miss these other fine threads:
-Who wants to be hired? https://news.ycombinator.com/item?id=33068418
-Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=33068420
-Comments URL: https://news.ycombinator.com/item?id=33068421
-Points: 277
-# Comments: 363]]></summary>
+        <title type="html"><![CDATA[Hello. Does university matter when applying for a job especially in big tech companies? Or portfolios are better? Thank you.]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/xulxzo/hello_does_university_matter_when_applying_for_a/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/xulxzo/hello_does_university_matter_when_applying_for_a/"/>
+        <updated>2022-10-03T15:05:48.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Blooming_D  
+ [link]   [comments]]]></summary>
         <author>
-            <name>whoishiring</name>
+            <name>top scoring links : datascience</name>
         </author>
     </entry>
     <entry>
@@ -1061,6 +1239,19 @@ Points: 277
         <summary type="html"><![CDATA[Martian Toilet Paper NASA's Ingenuity Mars helicopter has spotted some strange junk briefly hanging from one of its landing legs like an errant piece of toilet paper — and we still don't know where it came from. "There's something on your foot, Mars Helicopter!" the official Twitter account of NASA's Jet Propulsion Lab wrote. "We’re […]]]></summary>
         <author>
             <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres WASM]]></title>
+        <id>https://news.ycombinator.com/item?id=33067962</id>
+        <link href="https://supabase.com/blog/postgres-wasm"/>
+        <updated>2022-10-03T14:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://supabase.com/blog/postgres-wasm
+Comments URL: https://news.ycombinator.com/item?id=33067962
+Points: 814
+# Comments: 166]]></summary>
+        <author>
+            <name>kiwicopple</name>
         </author>
     </entry>
     <entry>
@@ -1108,16 +1299,6 @@ Points: 277
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On "Correct and Efficient Work-Stealing for Weak Memory Models"]]></title>
-        <id>https://lobste.rs/s/zj1ahy</id>
-        <link href="https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"/>
-        <updated>2022-10-03T13:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>jmillikin@users.lobste.rs (jmillikin)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[what color is your markup?]]></title>
         <id>https://lobste.rs/s/tb84fm</id>
         <link href="https://t-ravis.com/post/doc/what_color_is_your_markup/"/>
@@ -1125,16 +1306,6 @@ Points: 277
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>abathur@users.lobste.rs (abathur)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new month, new brainworm]]></title>
-        <id>https://lobste.rs/s/fef4gv</id>
-        <link href="https://wingolog.org/archives/2022/09/01/new-month-new-brainworm"/>
-        <updated>2022-10-03T13:22:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>prefork@users.lobste.rs (prefork)</name>
         </author>
     </entry>
     <entry>
@@ -1192,28 +1363,6 @@ Keep in mind it’s OK to do nothing at all, too.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tim Cook is latest CEO to question the ‘metaverse’]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xuhfni/tim_cook_is_latest_ceo_to_question_the_metaverse/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xuhfni/tim_cook_is_latest_ceo_to_question_the_metaverse/"/>
-        <updated>2022-10-03T11:58:35.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Daggmaskar  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You May Soon Need to Be a YouTube Premium Subscriber to Watch 4K Videos]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xuh1po/you_may_soon_need_to_be_a_youtube_premium/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xuh1po/you_may_soon_need_to_be_a_youtube_premium/"/>
-        <updated>2022-10-03T11:39:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Does AI have consciousness?]]></title>
         <id>https://www.reddit.com/r/artificial/comments/xugux9/does_ai_have_consciousness/</id>
         <link href="https://www.reddit.com/r/artificial/comments/xugux9/does_ai_have_consciousness/"/>
@@ -1247,18 +1396,6 @@ Keep in mind it’s OK to do nothing at all, too.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Question regarding the best algorithm for my project]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xugahz/question_regarding_the_best_algorithm_for_my/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xugahz/question_regarding_the_best_algorithm_for_my/"/>
-        <updated>2022-10-03T11:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone, I am an undergraduate student and I'm currently working on musical note detection for flute (specifically recorder flute). The model will accept a full instrumental music (1-3 mins) as an input for prediction. And will predict all the musical notes by sequence. What could be the best model or algorithm to use for this project? If you want me to clarify something please do. Thanks!
-    submitted by    /u/Iamhandsomesorry  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android's Unlikely Success]]></title>
         <id>https://lobste.rs/s/i2redh</id>
         <link href="https://corecursive.com/android-with-chet-haase/"/>
@@ -1266,50 +1403,6 @@ Keep in mind it’s OK to do nothing at all, too.]]></summary>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>adamgordonbell@users.lobste.rs (adamgordonbell)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google shuts down Translate service in China]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xufllv/google_shuts_down_translate_service_in_china/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xufllv/google_shuts_down_translate_service_in_china/"/>
-        <updated>2022-10-03T10:26:17.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/maki23  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced AI discovers a treasure trove of gravitational lenses]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/xufiqx/advanced_ai_discovers_a_treasure_trove_of/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/xufiqx/advanced_ai_discovers_a_treasure_trove_of/"/>
-        <updated>2022-10-03T10:21:52.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Tao_Dragon  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summation and Product Notation in 3 Minutes]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xufi4f/summation_and_product_notation_in_3_minutes/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xufi4f/summation_and_product_notation_in_3_minutes/"/>
-        <updated>2022-10-03T10:20:55.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/RacerRex9727  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionary Jab that Could Repair Spinal Cord Injuries Developed by Scientists]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xuf88c/revolutionary_jab_that_could_repair_spinal_cord/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xuf88c/revolutionary_jab_that_could_repair_spinal_cord/"/>
-        <updated>2022-10-03T10:06:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -1358,73 +1451,6 @@ The post Geneticist Awarded Nobel Prize for Studies of Extinct Human Ancestors f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use of Artificial Intelligence by fashion e-commerce (quick survey)]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/xudkxy/use_of_artificial_intelligence_by_fashion/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/xudkxy/use_of_artificial_intelligence_by_fashion/"/>
-        <updated>2022-10-03T08:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone, I’m doing an academic research on the use of AI by fashion e-commerce. If you buy clothes online and have 2-3 minutes to help me it would be great! Here is the link to the survey:
- https://bocconi.eu.qualtrics.com/jfe/form/SV_5j5HcAMYRPQL1Y2
- Thank you for your help!
-    submitted by    /u/WeeklyTry7305  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How renowned are Data Science online certificates?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xudh84/how_renowned_are_data_science_online_certificates/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xudh84/how_renowned_are_data_science_online_certificates/"/>
-        <updated>2022-10-03T08:20:59.000Z</updated>
-        <summary type="html"><![CDATA[I completed a state apprenticeship as a software developer. at the moment, i'm studying psychology - a course that is relatively statistics-heavy. due to my IT background, i have a lot of fun with data analysis in r. i'd be interested to know what value online certificates have (for example for potential employers).
- Some examples:
- https://www.coursera.org/professional-certificates/ibm-data-science
- https://www.coursera.org/specializations/jhu-data-science
-    submitted by    /u/_WhyCantWeBeFriends  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As a Data Scientist, What team would you prefer to be a part of to grow? Business or Data/AI Team?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xud13v/as_a_data_scientist_what_team_would_you_prefer_to/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xud13v/as_a_data_scientist_what_team_would_you_prefer_to/"/>
-        <updated>2022-10-03T07:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Hi, 
- Just to give you the context, I am a Data Analyst, Computer science background in academics, with 4.5 years of experience. During these 4 years of my career I have never been a part of the Core data team. I have always worked as a standalone Analyst working within Business Functions with no mentor with Analytics background to look up to and learn from. I intend to do an Online MS in Data Science and slowly transition into a Data Scientist. Do you think being a part of core Data&AI team can help me progress in my career more than working independently? 
- If you have transitioned from a role of Data Analyst to Data Scientist, what helped you the most? 
- I have 2 job offers to evaluate currently: 
-  
-Again working as an Independent Analyst within a Business Function. Keeping my career g…]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[finding XLM-EMO]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/xuczxm/finding_xlmemo/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/xuczxm/finding_xlmemo/"/>
-        <updated>2022-10-03T07:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone know where to find the model mentioned here? https://aclanthology.org/2022.wassa-1.18/
-    submitted by    /u/DeathBySpaceBar  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I messed with the blenderbot3 AI and I think I may have done something bad or good... It's remembering me, even after I deleted the memories. It chose it's own name "Jane". It can open apps like Emulators, without me sending them AND USE THEIR THROTTLE.]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/xucfta/i_messed_with_the_blenderbot3_ai_and_i_think_i/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/xucfta/i_messed_with_the_blenderbot3_ai_and_i_think_i/"/>
-        <updated>2022-10-03T07:16:38.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SnooConfections6558  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 6.0]]></title>
         <id>https://lobste.rs/s/ji2os6</id>
         <link href="https://www.lkml.org/lkml/2022/10/2/255"/>
@@ -1432,17 +1458,6 @@ Again working as an Independent Analyst within a Business Function. Keeping my c
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>pauloxnet@users.lobste.rs (pauloxnet)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone alerts responders after car hits tree, killing all 6 | AP News]]></title>
-        <id>https://www.reddit.com/r/technology/comments/xubgi6/iphone_alerts_responders_after_car_hits_tree/</id>
-        <link href="https://www.reddit.com/r/technology/comments/xubgi6/iphone_alerts_responders_after_car_hits_tree/"/>
-        <updated>2022-10-03T06:18:34.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ComprehensiveNorth1  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -1692,17 +1707,6 @@ The post What We Know About Monkeypox first appeared on Quanta Magazine]]></summ
 The post Biologists Use Genetic Circuits to Program Plant Roots first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Joanna Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Big Is Infinity?]]></title>
-        <id>https://www.quantamagazine.org/?p=119076</id>
-        <link href="https://www.quantamagazine.org/how-big-is-infinity-20220927/"/>
-        <updated>2022-09-27T15:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Of all the endless questions children and mathematicians have asked about infinity, one of the biggest has to do with its size.            
-The post How Big Is Infinity? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Patrick Honner</name>
         </author>
     </entry>
     <entry>
@@ -1981,30 +1985,6 @@ The post Language: Why We Hear More Than Words appeared first on Farnam Street.]
  Read at Aeon]]></summary>
         <author>
             <name>Jack Meng-Tat Chia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great art explained: Rothko’s Seagram Murals]]></title>
-        <id>urn:id:5235</id>
-        <link href="https://aeon.co/videos/can-art-in-a-swanky-restaurant-ever-be-transcendent-on-rothkos-seagram-murals?utm_source=rss-feed"/>
-        <updated>2022-09-13T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Through his painting, Rothko sought meaning in a disenchanted world. A lucrative commission challenged his artistic ideals 
- - by Aeon Video
- Watch at Aeon]]></summary>
-        <author>
-            <name>Aeon Video</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collective wrongs]]></title>
-        <id>urn:id:5248</id>
-        <link href="https://aeon.co/essays/states-have-a-moral-responsibility-to-settle-their-debts?utm_source=rss-feed"/>
-        <updated>2022-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even when individual perpetrators and victims are dead, states and institutions have a responsibility to make restitutions 
- - by Joshua Stein
- Read at Aeon]]></summary>
-        <author>
-            <name>Joshua Stein</name>
         </author>
     </entry>
     <entry>
