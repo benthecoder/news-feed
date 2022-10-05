@@ -6,6 +6,26 @@
       "siteUrl": "https://lobste.rs/",
       "articles": [
         {
+          "id": "https://lobste.rs/s/714ech",
+          "author": "knl@users.lobste.rs (knl)",
+          "description": "Comments",
+          "link": "https://aeturrell.github.io/coding-for-economists/intro.html",
+          "publishedOn": "2022-10-05T09:52:07.000Z",
+          "wordCount": 1282,
+          "title": "Coding for Economists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/syv1il",
+          "author": "garrensmith@users.lobste.rs (garrensmith)",
+          "description": "Comments",
+          "link": "https://dagster.io/blog/skip-kafka-use-postgres-message-queue",
+          "publishedOn": "2022-10-05T08:15:41.000Z",
+          "wordCount": 2689,
+          "title": "Postgres: a better message queue than Kafka?",
+          "imageUrl": "https://dagster.io/posts/skip-kafka-use-postgres-message-queue/kafka-postgres-message-queue3.png"
+        },
+        {
           "id": "https://lobste.rs/s/qkudkg",
           "author": "nextos@users.lobste.rs (nextos)",
           "description": "Comments",
@@ -31,9 +51,9 @@
           "description": "Comments",
           "link": "https://github.com/biox/shmoji",
           "publishedOn": "2022-10-05T00:26:32.000Z",
-          "wordCount": 567,
+          "wordCount": 554,
           "title": "shmoji - a little shell-based emoji picker",
-          "imageUrl": "https://opengraph.githubassets.com/724d9ddb8df2940e341082010e330424c154daeacb8aeccc33add516df648752/biox/shmoji"
+          "imageUrl": "https://opengraph.githubassets.com/5839fa5047307b736fc1fb0ecdd6238d427a47eb0e016e36a0a0ea3b1a084346/biox/shmoji"
         },
         {
           "id": "https://lobste.rs/s/3ttjz5",
@@ -101,7 +121,7 @@
           "description": "Comments",
           "link": "https://jalammar.github.io/illustrated-stable-diffusion/",
           "publishedOn": "2022-10-04T20:50:22.000Z",
-          "wordCount": 2501,
+          "wordCount": 2525,
           "title": "The Illustrated Stable Diffusion",
           "imageUrl": null
         },
@@ -171,7 +191,7 @@
           "description": "Comments",
           "link": "https://www.mattkeeter.com/blog/2022-10-04-ssra/",
           "publishedOn": "2022-10-04T14:24:07.000Z",
-          "wordCount": 4459,
+          "wordCount": 4546,
           "title": "The Solid-State Register Allocator",
           "imageUrl": null
         },
@@ -216,16 +236,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/dekhpe",
-          "author": "wizardishungry@users.lobste.rs (wizardishungry)",
-          "description": "Comments",
-          "link": "https://github.com/golang/go/discussions/56010",
-          "publishedOn": "2022-10-04T00:58:48.000Z",
-          "wordCount": 10163,
-          "title": "redefining for loop variable semantics",
-          "imageUrl": "https://opengraph.githubassets.com/32bcbf9f5774ff5142220a08355011b4c58b9322fba1cfc025d3c6e1a0b7fa95/golang/go/discussions/56010"
-        },
-        {
           "id": "https://lobste.rs/s/ij1bzq",
           "author": "dl@users.lobste.rs (dl)",
           "description": "Comments",
@@ -233,17 +243,7 @@
           "publishedOn": "2022-10-03T21:30:44.000Z",
           "wordCount": 3664,
           "title": "Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week",
-          "imageUrl": "https://opengraph.githubassets.com/ba0b1ec1d3dd430c2551b7150095efda2b38e75e3e52aef8bf3368067f95794a/jamii/hytradboi-jam-2022"
-        },
-        {
-          "id": "https://lobste.rs/s/tb84fm",
-          "author": "abathur@users.lobste.rs (abathur)",
-          "description": "Comments",
-          "link": "https://t-ravis.com/post/doc/what_color_is_your_markup/",
-          "publishedOn": "2022-10-03T13:31:53.000Z",
-          "wordCount": 3020,
-          "title": "what color is your markup?",
-          "imageUrl": null
+          "imageUrl": "https://opengraph.githubassets.com/630e3ad3f86bb42e575b22037b0be94141e0f7a6082798180b81275e975127fc/jamii/hytradboi-jam-2022"
         },
         {
           "id": "https://lobste.rs/s/0fvkl3",
@@ -263,49 +263,129 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=33091267",
-          "author": "ankitmundada",
-          "description": "Article URL: https://staltz.com/software-below-the-poverty-line.html\nComments URL: https://news.ycombinator.com/item?id=33091267\nPoints: 7\n# Comments: 11",
-          "link": "https://staltz.com/software-below-the-poverty-line.html",
-          "publishedOn": "2022-10-05T04:32:25.000Z",
-          "wordCount": 2391,
-          "title": "Open source development is not sustainable",
+          "id": "https://news.ycombinator.com/item?id=33093941",
+          "author": "threeme3",
+          "description": "Article URL: https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/\nComments URL: https://news.ycombinator.com/item?id=33093941\nPoints: 37\n# Comments: 19",
+          "link": "https://www.robinrendle.com/notes/i-don%E2%80%99t-believe-in-sprints/",
+          "publishedOn": "2022-10-05T11:21:24.000Z",
+          "wordCount": 1593,
+          "title": "I Don’t Believe in Sprints",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33093666",
+          "author": "ingve",
+          "description": "Article URL: https://www.cs.umd.edu/class/fall2022/cmsc430/index.html\nComments URL: https://news.ycombinator.com/item?id=33093666\nPoints: 13\n# Comments: 7",
+          "link": "https://www.cs.umd.edu/class/fall2022/cmsc430/index.html",
+          "publishedOn": "2022-10-05T10:43:14.000Z",
+          "wordCount": 197,
+          "title": "CMSC 430: Design and Implementation of Programming Languages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33093278",
+          "author": "solarist",
+          "description": "Article URL: https://www.nobelprize.org/prizes/chemistry/2022/summary/\nComments URL: https://news.ycombinator.com/item?id=33093278\nPoints: 77\n# Comments: 18",
+          "link": "https://www.nobelprize.org/prizes/chemistry/2022/summary/",
+          "publishedOn": "2022-10-05T09:48:25.000Z",
+          "wordCount": null,
+          "title": "Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33092974",
+          "author": "electricant",
+          "description": "Article URL: https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/\nComments URL: https://news.ycombinator.com/item?id=33092974\nPoints: 138\n# Comments: 64",
+          "link": "https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/",
+          "publishedOn": "2022-10-05T08:57:13.000Z",
+          "wordCount": 1707,
+          "title": "Intel Laptop Users Should Avoid Linux 5.19.12 to Avoid Damaging the Display",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33092918",
+          "author": "ibobev",
+          "description": "Article URL: https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/\nComments URL: https://news.ycombinator.com/item?id=33092918\nPoints: 15\n# Comments: 0",
+          "link": "https://retrocogs.mega65.com/2022/10/04/scrolling-the-vic-iv-screen/",
+          "publishedOn": "2022-10-05T08:47:29.000Z",
+          "wordCount": 1795,
+          "title": "Scrolling the Vic-IV Screen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33092809",
+          "author": "rossvor",
+          "description": "Article URL: https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/\nComments URL: https://news.ycombinator.com/item?id=33092809\nPoints: 24\n# Comments: 7",
+          "link": "https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/",
+          "publishedOn": "2022-10-05T08:33:21.000Z",
+          "wordCount": 4155,
+          "title": "The Balto/Togo theory of scientific development",
+          "imageUrl": "https://lh4.googleusercontent.com/-TdReZq1qSoMI8xVz4LomCwMg0zEMKTkIlExrJEw6EFLoGaPblN0_o_8U0wQHyq6UAOCgSlUWpP8ingHr5PsaLkc_kvaXI_Seb9lYZEtMmlpKOTy_wdHh-YByeaOhxZGGff69hs3trH6RMrHgVdxntNhm8xLgkGuw3WOHPli3pKB3EzImBdTCj86Ng"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33092807",
+          "author": "zeristor",
+          "description": "Article URL: https://assets.bbhub.io/professional/sites/24/BloombergNEF-ZEV-Dashboard-Sep-2022.pdf\nComments URL: https://news.ycombinator.com/item?id=33092807\nPoints: 13\n# Comments: 10",
+          "link": "https://assets.bbhub.io/professional/sites/24/BloombergNEF-ZEV-Dashboard-Sep-2022.pdf",
+          "publishedOn": "2022-10-05T08:32:54.000Z",
+          "wordCount": 12937,
+          "title": "Zero-Emission Vehicles Progress Dashboard [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33091972",
+          "author": "curious16",
+          "description": "By communicate I mean to convey what I want to say with the appropriate style and manner so that I don't say anything that sounds demeaning or hurtful to the listener. It also includes listening attentively to what the other person is saying.\nHow to learn all that?\nComments URL: https://news.ycombinator.com/item?id=33091972\nPoints: 52\n# Comments: 26",
+          "link": "https://news.ycombinator.com/item?id=33091972",
+          "publishedOn": "2022-10-05T06:25:25.000Z",
+          "wordCount": 3356,
+          "title": "Ask HN: How do I learn to communicate effectively?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33091903",
+          "author": "ZacnyLos",
+          "description": "Article URL: https://castopod.org/\nComments URL: https://news.ycombinator.com/item?id=33091903\nPoints: 184\n# Comments: 35",
+          "link": "https://castopod.org/",
+          "publishedOn": "2022-10-05T06:11:49.000Z",
+          "wordCount": 437,
+          "title": "Castopod – Open-source podcast hosting platform",
+          "imageUrl": "https://castopod.org/assets/images/open-graph.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=33090580",
           "author": "lhuser123",
-          "description": "Article URL: https://www.poised.com/\nComments URL: https://news.ycombinator.com/item?id=33090580\nPoints: 45\n# Comments: 16",
+          "description": "Article URL: https://www.poised.com/\nComments URL: https://news.ycombinator.com/item?id=33090580\nPoints: 97\n# Comments: 53",
           "link": "https://www.poised.com/",
           "publishedOn": "2022-10-05T02:59:47.000Z",
           "wordCount": 3339,
-          "title": "AI-powered communication coach that helps you speak with confidence and clarity",
+          "title": "AI-powered communication coach",
           "imageUrl": "https://global-uploads.webflow.com/623ca68edd1e7fcbf0efec7d/626a64ba7b1b9932d0970ea0_Preview%20image.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=33090205",
           "author": "kungfudoi",
-          "description": "Article URL: https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters\nComments URL: https://news.ycombinator.com/item?id=33090205\nPoints: 81\n# Comments: 48",
+          "description": "Article URL: https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters\nComments URL: https://news.ycombinator.com/item?id=33090205\nPoints: 117\n# Comments: 75",
           "link": "https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters",
           "publishedOn": "2022-10-05T02:10:41.000Z",
-          "wordCount": 1311,
+          "wordCount": 1309,
           "title": "Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters",
           "imageUrl": "https://today.ucsd.edu/news_uploads/_social/firefighter-study_100422.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=33089535",
           "author": "savetz",
-          "description": "Article URL: https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/\nComments URL: https://news.ycombinator.com/item?id=33089535\nPoints: 134\n# Comments: 30",
+          "description": "Article URL: https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/\nComments URL: https://news.ycombinator.com/item?id=33089535\nPoints: 196\n# Comments: 51",
           "link": "https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/",
           "publishedOn": "2022-10-05T00:55:25.000Z",
-          "wordCount": 1676,
+          "wordCount": 1728,
           "title": "Internet Archive Seeks Material for Library of Amateur Radio and Communications",
           "imageUrl": "https://blog.archive.org/wp-content/uploads/2022/10/dlarc_logo.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=33089131",
           "author": "wishawa",
-          "description": "Article URL: https://wishawa.github.io/posts/async-ui-intro/\nComments URL: https://news.ycombinator.com/item?id=33089131\nPoints: 54\n# Comments: 17",
+          "description": "Article URL: https://wishawa.github.io/posts/async-ui-intro/\nComments URL: https://news.ycombinator.com/item?id=33089131\nPoints: 115\n# Comments: 46",
           "link": "https://wishawa.github.io/posts/async-ui-intro/",
           "publishedOn": "2022-10-05T00:14:36.000Z",
           "wordCount": 846,
@@ -315,7 +395,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=33088332",
           "author": "jonwachob91",
-          "description": "Article URL: https://www.chess.com/blog/CHESScom/hans-niemann-report\nComments URL: https://news.ycombinator.com/item?id=33088332\nPoints: 219\n# Comments: 223",
+          "description": "Article URL: https://www.chess.com/blog/CHESScom/hans-niemann-report\nComments URL: https://news.ycombinator.com/item?id=33088332\nPoints: 328\n# Comments: 319",
           "link": "https://www.chess.com/blog/CHESScom/hans-niemann-report",
           "publishedOn": "2022-10-04T23:01:53.000Z",
           "wordCount": null,
@@ -323,19 +403,9 @@
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33088214",
-          "author": "Animatronio",
-          "description": "Article URL: https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx\nComments URL: https://news.ycombinator.com/item?id=33088214\nPoints: 201\n# Comments: 272",
-          "link": "https://aspr.hhs.gov/newsroom/Pages/ARS-Oct2022.aspx",
-          "publishedOn": "2022-10-04T22:50:44.000Z",
-          "wordCount": 1299,
-          "title": "HHS purchases $290M worth of drugs for nuclear emergencies",
-          "imageUrl": "\n            https://aspr.hhs.gov/_catalogs/masterpage/ASPR/images/Misc/aspr-socialmedia-splashscreen.jpg\n            "
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=33087850",
           "author": "vermaden",
-          "description": "Article URL: https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6\nComments URL: https://news.ycombinator.com/item?id=33087850\nPoints: 62\n# Comments: 22",
+          "description": "Article URL: https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6\nComments URL: https://news.ycombinator.com/item?id=33087850\nPoints: 91\n# Comments: 50",
           "link": "https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6",
           "publishedOn": "2022-10-04T22:17:57.000Z",
           "wordCount": 32221,
@@ -345,7 +415,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=33087525",
           "author": "bookofjoe",
-          "description": "Article URL: https://www.wxyz.com/news/how-criminals-are-using-jammers-deauthers-to-disrupt-wifi-security-cameras\nComments URL: https://news.ycombinator.com/item?id=33087525\nPoints: 157\n# Comments: 181",
+          "description": "Article URL: https://www.wxyz.com/news/how-criminals-are-using-jammers-deauthers-to-disrupt-wifi-security-cameras\nComments URL: https://news.ycombinator.com/item?id=33087525\nPoints: 238\n# Comments: 266",
           "link": "https://www.wxyz.com/news/how-criminals-are-using-jammers-deauthers-to-disrupt-wifi-security-cameras",
           "publishedOn": "2022-10-04T21:50:32.000Z",
           "wordCount": 5174,
@@ -355,7 +425,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=33086768",
           "author": "dagmx",
-          "description": "Article URL: https://www.tesla.com/support/transitioning-tesla-vision\nComments URL: https://news.ycombinator.com/item?id=33086768\nPoints: 108\n# Comments: 163",
+          "description": "Article URL: https://www.tesla.com/support/transitioning-tesla-vision\nComments URL: https://news.ycombinator.com/item?id=33086768\nPoints: 168\n# Comments: 262",
           "link": "https://www.tesla.com/support/transitioning-tesla-vision",
           "publishedOn": "2022-10-04T20:58:57.000Z",
           "wordCount": 1149,
@@ -365,7 +435,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=33086746",
           "author": "spking",
-          "description": "Article URL: https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html\nComments URL: https://news.ycombinator.com/item?id=33086746\nPoints: 96\n# Comments: 52",
+          "description": "Article URL: https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html\nComments URL: https://news.ycombinator.com/item?id=33086746\nPoints: 126\n# Comments: 62",
           "link": "https://www.syracuse.com/business/2022/10/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs.html",
           "publishedOn": "2022-10-04T20:58:00.000Z",
           "wordCount": 9834,
@@ -373,94 +443,24 @@
           "imageUrl": "https://www.syracuse.com/resizer/WQFzML9JPlInn9bjP3GF5ndBcNw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6PODTTPKPNAQJNX2LNW62JAPD4.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33086322",
-          "author": "s0l1dsnak3123",
-          "description": "Article URL: https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html\nComments URL: https://news.ycombinator.com/item?id=33086322\nPoints: 167\n# Comments: 25",
-          "link": "https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html",
-          "publishedOn": "2022-10-04T20:28:28.000Z",
-          "wordCount": 353,
-          "title": "How to move a running process into a tmux session (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33085976",
-          "author": "clairity",
-          "description": "Article URL: https://kittygiraudel.com/2022/09/30/templating-in-html/\nComments URL: https://news.ycombinator.com/item?id=33085976\nPoints: 121\n# Comments: 47",
-          "link": "https://kittygiraudel.com/2022/09/30/templating-in-html/",
-          "publishedOn": "2022-10-04T20:06:49.000Z",
-          "wordCount": 818,
-          "title": "Templating in HTML",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33085884",
-          "author": "pranshum",
-          "description": "Article URL: https://yarn.pranshum.com/\nComments URL: https://news.ycombinator.com/item?id=33085884\nPoints: 115\n# Comments: 281",
-          "link": "https://yarn.pranshum.com/",
-          "publishedOn": "2022-10-04T19:58:54.000Z",
-          "wordCount": 88,
-          "title": "Inflation is at a 40 year high. What can history teach us?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33085837",
-          "author": "dougabug",
-          "description": "Article URL: https://3d-diffusion.github.io/\nComments URL: https://news.ycombinator.com/item?id=33085837\nPoints: 79\n# Comments: 10",
-          "link": "https://3d-diffusion.github.io/",
-          "publishedOn": "2022-10-04T19:55:47.000Z",
-          "wordCount": 882,
-          "title": "3D Novel View Synthesis with Diffusion Models",
-          "imageUrl": null
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=33085532",
           "author": "susam",
-          "description": "Article URL: https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is\nComments URL: https://news.ycombinator.com/item?id=33085532\nPoints: 295\n# Comments: 319",
+          "description": "Article URL: https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is\nComments URL: https://news.ycombinator.com/item?id=33085532\nPoints: 367\n# Comments: 399",
           "link": "https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is",
           "publishedOn": "2022-10-04T19:31:49.000Z",
-          "wordCount": 3469,
+          "wordCount": 3463,
           "title": "“When are we going to use this in our everyday life?” (2017)",
           "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=33085410",
           "author": "prostoalex",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back\nComments URL: https://news.ycombinator.com/item?id=33085410\nPoints: 184\n# Comments: 106",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back\nComments URL: https://news.ycombinator.com/item?id=33085410\nPoints: 253\n# Comments: 182",
           "link": "https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back",
           "publishedOn": "2022-10-04T19:22:51.000Z",
           "wordCount": 549,
           "title": "Feds seized $311M in Bitcoin, then hacker stole it back",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33085269",
-          "author": "mfiguiere",
-          "description": "Article URL: https://www.sec.gov/Archives/edgar/data/1418091/000110465922105787/tm2227435d1_sc13da.htm\nComments URL: https://news.ycombinator.com/item?id=33085269\nPoints: 346\n# Comments: 459",
-          "link": "https://www.sec.gov/Archives/edgar/data/1418091/000110465922105787/tm2227435d1_sc13da.htm",
-          "publishedOn": "2022-10-04T19:12:44.000Z",
-          "wordCount": 895,
-          "title": "Elon Musk moves ahead with Twitter deal in 13D filing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33084205",
-          "author": "mariuz",
-          "description": "Article URL: https://jalammar.github.io/illustrated-stable-diffusion/\nComments URL: https://news.ycombinator.com/item?id=33084205\nPoints: 412\n# Comments: 75",
-          "link": "https://jalammar.github.io/illustrated-stable-diffusion/",
-          "publishedOn": "2022-10-04T17:59:27.000Z",
-          "wordCount": 2501,
-          "title": "The Illustrated Stable Diffusion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33083550",
-          "author": "itherseed",
-          "description": "Article URL: https://staceyoniot.com/matter-is-now-official/\nComments URL: https://news.ycombinator.com/item?id=33083550\nPoints: 330\n# Comments: 190",
-          "link": "https://staceyoniot.com/matter-is-now-official/",
-          "publishedOn": "2022-10-04T17:20:04.000Z",
-          "wordCount": 2395,
-          "title": "Matter Is Now Official",
-          "imageUrl": "https://staceyoniot.com/wp-content/uploads/2021/05/Matter-Home-Screen.jpg"
         }
       ]
     },
@@ -470,54 +470,94 @@
       "siteUrl": "https://www.reddit.com/r/datascience/top?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/datascience/comments/xw7xsm/data_code_repository/",
+          "author": null,
+          "description": "Hello, we’re starting a new DS Team. We’ll have code and analysis with data that needs shared and stored. We’d been simply using network storage and windows file explorer. What are the best new ways to store, organize and share your code, data and analysis?\n    submitted by    /u/SlickyDe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw7xsm/data_code_repository/",
+          "publishedOn": "2022-10-05T11:22:13.000Z",
+          "wordCount": 31053,
+          "title": "Data & Code Repository?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw7x2u/would_you_recommend_a_career_changing_from_data/",
+          "author": null,
+          "description": "Hey people, I’ve been working as business/data analyst for the past 2 years, this month I started working in a forecasting project which requires depth analysis and statistical concepts. I’m really enjoying studying and working with modeling but I don’t know if this is just a false impression or if data sciences is really what I want. I would love to hear more from someone who did this career changing. Thank you very much in advance.\n    submitted by    /u/GovStat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw7x2u/would_you_recommend_a_career_changing_from_data/",
+          "publishedOn": "2022-10-05T11:21:09.000Z",
+          "wordCount": 31052,
+          "title": "Would you recommend a career changing from data analyst to data scientists? If yes, why?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw7il9/looking_for_not_too_big_and_too_complex_test_data/",
+          "author": null,
+          "description": "submitted by    /u/lollo4ever  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw7il9/looking_for_not_too_big_and_too_complex_test_data/",
+          "publishedOn": "2022-10-05T11:01:04.000Z",
+          "wordCount": 31081,
+          "title": "Looking for not too big and too complex test data sets.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw6r5k/which_podcasts_are_data_scientists_listening_to/",
+          "author": null,
+          "description": "submitted by    /u/OkHeat6599  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw6r5k/which_podcasts_are_data_scientists_listening_to/",
+          "publishedOn": "2022-10-05T10:20:17.000Z",
+          "wordCount": 31098,
+          "title": "Which podcasts are Data Scientists listening to, and why?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw57sz/new_united_nations_privacy_data_science/",
+          "author": null,
+          "description": "A new competition has just opened for registration by the United Nations, which will run in parallel to G20 in Indonesia but is open to all to participate remotely too. It will run from 8-11 of November, but pre-registration is required for individuals or teams up to 3.\n The competition differs from the typical Kaggle / DrivenData competitions because it focuses on the use of Privacy Enhancing Technologies to access and learn from the data. Taking part, you will interact with secure enclaves, differential privacy and synthetic data and become familiar with some of the leading privacy data science libraries like OpenDP (Harvard), SmartNoise (Microsoft) and DiffPrivLib (IBM Research). \n There are also going to be a number of venues around the world where you can join in in-person and meet like-minded data scientists. The first location announcement was Harvard's John A. Paulson School Of Engineering And Applied Sciences for those in the Greater Boston Area. \n There will also be webinars and Q&A ahead of time with the lead developers of each of the prominent frameworks. \n For more information and registration: https://petlab.officialstatistics.org/ \n If you would like to host an in-person location at a university or public space, reach out to [mira@oblivious.ai](mailto:mira@oblivious.ai), and there is support to help you run it successfully.\n    submitted by    /u/oblivious-devs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw57sz/new_united_nations_privacy_data_science/",
+          "publishedOn": "2022-10-05T08:50:15.000Z",
+          "wordCount": 31278,
+          "title": "New United Nations Privacy Data Science Competition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw4uje/courses_and_certifications_for_enhancing_career/",
+          "author": null,
+          "description": "Hi! I am junior data scientist with computer science background, currently working in financial data science. Most of the time I do descriptive analyses with my team on tabular data with a goal to find where models can be useful. I also worked with scrapers, models and modeling pipelines a little bit. My boss told my team that we have budget for self development, so he encouraged us to use this funding for something useful for us, so I am looking for any relevant courses. I checked courses on coursera and they seem to be more entry level. I already had MLops course from coursera which I liked since it covered a lot of things we could possibly apply in the future. Tbh I have a feeling that I can get more knowledge from reading articles and relevant books and doing small projects, but funding has to be used, so. Do you have any interesting recommendations? Now I am considering to take something from Andrew Ng classic, since we don't have a need to use any neural nets on tabular data and I start forgetting things. I also have a feeling that I don't know statistics as well as I supposed to, but I am not sure there are any online courses which cover more than the average course in my uni. Last option is some cloud certifications, but we don't have anything in clouds by now and I am not sure if I need it currently.\n    submitted by    /u/straiffix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw4uje/courses_and_certifications_for_enhancing_career/",
+          "publishedOn": "2022-10-05T08:27:53.000Z",
+          "wordCount": 31423,
+          "title": "Courses and certifications for enhancing career",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw4p2o/volunteering_with_ds_analyst_skills/",
+          "author": null,
+          "description": "Do some of you volunteer by offering these skills? If so - could you elaborate on how you ended up finding an organisation and what type of work you’re doing? Also, what does the work look like, how long it takes etc.\n I was recently wondering whether I could use more relaxed phases at work to contribute to a certain cause. One I set my eyes on is human trafficking, but I suspect it requires heavier intelligence type of work, where familiarity is key (though I have experience with that), and less an occasional data analysis project. In case of any relevance - I’m living in Europe, but happy to look at any opportunity that has no issue with remote work.\n    submitted by    /u/InnkaFriz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw4p2o/volunteering_with_ds_analyst_skills/",
+          "publishedOn": "2022-10-05T08:18:46.000Z",
+          "wordCount": 31104,
+          "title": "Volunteering with DS / analyst skills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/xw3e8d/what_would_you_do_if_you_cannot_find_any_large/",
+          "author": null,
+          "description": "Hi! I'm new to machine learning and have been mostly practicing several models and algorithms based on large, publicly available datasets (some typical ones like digit classification and iris flower).\n Now, I want to apply what I've learned to develop my own project. In general, it involves data on economic and social issues for children in Vietnam - I want to predict the likelihood of children getting full education levels throughout their lifetime (the label is 1 or 0, so I guess the logit and decision trees will be considered). But it is so hard to find any datasets for it!\n I feel like it is either I change my project topic tailored to any kinda-relevant datasets that are available online or I have to collect the data by myself (using surveys or getting from multiple secondary databases). Have you ever experienced this? How would you resolve the data collection part? I think the data is the first and most important step and I could not continue if there is no data.\n Thank you very much! I really appreciate any thoughts or advice. And I'm sorry if any of my information is confusing or requires more explanation.\n    submitted by    /u/quanghieu3001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/xw3e8d/what_would_you_do_if_you_cannot_find_any_large/",
+          "publishedOn": "2022-10-05T07:01:19.000Z",
+          "wordCount": 31521,
+          "title": "What would you do if you cannot find any large open datasets for your machine learning project?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/datascience/comments/xw261l/what_is_my_job_title_and_where_am_i_headed/",
           "author": null,
           "description": "Hi. Whatsup. I have a question for you.\n I just completed one year at my job. I’m gonna keep things really vague. It’s at a small organization. I work with a lot of attorneys. We do a lot direct client services, and we do a lot of public policy work. I have a technical background in biosci. When I was hired, they asked me to take care of some data stuff. Now i do a lot of data work. I taught myself python / pandas pretty well. I’ve worked with tableau. I’ve built scrapers. I’ve uncovered insights. I’ve communicated my work. I’ve helped customize a new CRM. I’ve designed new workflows. I also take care of a lot of the other tech needs of the org.\n I’m not quite sure exactly what I would call my job title at this point. I understand fairly well that I could be geared to become a Data Analyst…",
           "link": "https://www.reddit.com/r/datascience/comments/xw261l/what_is_my_job_title_and_where_am_i_headed/",
           "publishedOn": "2022-10-05T05:52:24.000Z",
-          "wordCount": 32578,
+          "wordCount": 32930,
           "title": "What is my job title.. and where am I headed?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xw242r/transitioning_from_software_to_ml_engineer_in_the/",
-          "author": null,
-          "description": "Not that I won’t take advice from others in similar space as they all interact. But preferably those in the ML engineer role\n    submitted by    /u/mfb1274  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xw242r/transitioning_from_software_to_ml_engineer_in_the/",
-          "publishedOn": "2022-10-05T05:49:24.000Z",
-          "wordCount": 30962,
-          "title": "Transitioning from software to ML engineer. In the late rounds for 2 companies. Any advice from other ML engineers?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xw1t60/i_am_overjoyed_because_of_this_mug/",
-          "author": null,
-          "description": "submitted by    /u/RichEntertainme  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xw1t60/i_am_overjoyed_because_of_this_mug/",
-          "publishedOn": "2022-10-05T05:33:16.000Z",
-          "wordCount": 30945,
-          "title": "I am overjoyed because of this mug.",
-          "imageUrl": "https://preview.redd.it/e9ytm6slbxr91.jpg?auto=webp&s=0b55eb2440835c0333e10718b99a9cefaa637444"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xw1rrn/query/",
-          "author": null,
-          "description": "To evaluate the performance of the KNN algorithm (using Euclidean distance metric), implement a leaveone-out evaluation routine for your algorithm. In leave-one-out validation, we repeatedly evaluate the algorithm by removing one data point from the training set, training the algorithm on the remaining data set and then testing it on the point we removed to see if the label matches or not. Repeating this for each of the data points gives us an estimate as to the percentage of erroneous predictions the algorithm makes and thus a measure of the accuracy of the algorithm for the given data. Apply your leave-one-out validation with your KNN algorithm to the dataset for Question 1 c) for values for K of 1, 3, 5, 7, 9, and 11 and report the results. For which value of K do you get the best perfo…",
-          "link": "https://www.reddit.com/r/datascience/comments/xw1rrn/query/",
-          "publishedOn": "2022-10-05T05:31:17.000Z",
-          "wordCount": 32441,
-          "title": "Query",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xw15lk/yet_another_derivation_of_backpropagation_in/",
-          "author": null,
-          "description": "submitted by    /u/sudeepraja  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xw15lk/yet_another_derivation_of_backpropagation_in/",
-          "publishedOn": "2022-10-05T04:59:04.000Z",
-          "wordCount": 35795,
-          "title": "Yet Another Derivation of Backpropagation in Matrix Form (this time using Adjoints)",
-          "imageUrl": "https://external-preview.redd.it/VrnatVlHtTVKmW79N8nuq0XUOjUerd9rMPdrHV7VJOM.jpg?auto=webp&s=c077afdbe34a880496a5d521c71a5f70d578e6b8"
         },
         {
           "id": "https://www.reddit.com/r/datascience/comments/xvy16k/i_want_to_build_a_customer2vec_system_for_a/",
@@ -525,7 +565,7 @@
           "description": "The idea is to use embedding as a way to find similar customer based on info such as billing, device, plan , location, app usage etc.\n I’d really appreciate links to any resources, gitrepos, white papers etc.\n    submitted by    /u/Financial_Ad7856  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvy16k/i_want_to_build_a_customer2vec_system_for_a/",
           "publishedOn": "2022-10-05T02:25:19.000Z",
-          "wordCount": 36075,
+          "wordCount": 31271,
           "title": "I want to build a customer2vec system for a telecom dataset. Most of the resources I find online are usually retail. But my dataset has a high number of numerical and categorical variables.",
           "imageUrl": null
         },
@@ -535,7 +575,7 @@
           "description": "Hello everyone, I want to know from the people who are already in the field of data science or using SQL for other roles, I’ve started learning SQL and it’s so fun. Is it possible to make a career where I have to use SQL more than 80% of the time? And also another question is that if you know any such roles, which companies would you suggest me to do internship at for next spring or summer where I can work in these types of role ? I’m based on Pittsburgh Pennsylvania.\n    submitted by    /u/yourunknowndaddy  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvxqsi/a_career_in_data_science_with_heavy_sql_use/",
           "publishedOn": "2022-10-05T02:12:11.000Z",
-          "wordCount": 31850,
+          "wordCount": 32225,
           "title": "A career in data science with heavy SQL use",
           "imageUrl": null
         },
@@ -555,7 +595,7 @@
           "description": "I’m running an experiment in an online application funnel. \n We have a ID (let’s call it Pseudo ID) which represents a customer, that has their session(s) as another ID inside of it. \n We’re seeing about 4% of the sessions have the same Pseudo ID. We think it’s because it’s the same customer switching between desktop and mobile devices, but hard to tell.\n Should we exclude the duplicate Pseudo IDs? The lift of the experiment is positive if you include or exclude them, but the variance is about 5% between the results. \n How would you look at this? Include the duplicate IDs, or exclude them?\n    submitted by    /u/Naive_Leather_6293  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvw0uz/ab_testing_question/",
           "publishedOn": "2022-10-05T00:54:23.000Z",
-          "wordCount": 35124,
+          "wordCount": 31557,
           "title": "A/B Testing Question",
           "imageUrl": null
         },
@@ -565,18 +605,8 @@
           "description": "I recently graduated in Msc. Operational Research and Applied Statistics where I did time series forecasting, supply chain modelling, Credit risk churn models, Financial risk analysis and math behind hypothesis tests and more statistics. I did my dissertation with govt predicting property values where I used XGBoost. I am really confident with python and I believe I can learn anything If I put the time and effort. Though I am finding it hard to find my first job because of lack of experience. I'm planning to enhance my learnings in Data visualization like PowerBI which I used in dissertation though I didn't have much idea on it. What do you think I should learn or do for increasing my chances of getting hired. I almost all the time pass the numerical and logical assessments companies offer but Im having a hard time finding my foot into the industry. I wish I could do work for free for a month or so and make them believe I can learn stuff.\n    submitted by    /u/nine_______inch  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvvyqv/tips_for_recent_graduate/",
           "publishedOn": "2022-10-05T00:51:39.000Z",
-          "wordCount": 31229,
+          "wordCount": 35546,
           "title": "Tips for Recent Graduate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xvt203/data_analyst_resume_review/",
-          "author": null,
-          "description": "submitted by    /u/thingstodoinsf  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xvt203/data_analyst_resume_review/",
-          "publishedOn": "2022-10-04T22:42:32.000Z",
-          "wordCount": 30979,
-          "title": "Data Analyst Resume Review",
           "imageUrl": null
         },
         {
@@ -605,7 +635,7 @@
           "description": "I got a scholarship to do a MSc in health data science but its an applied program and has no math. It also has no databasing or data management course. SQL isnt covered at all. \n Im wondering if I should skip on it. The alumni tell me its no good for people who are already professionals and I am already a professional epidemiologist with a fair amount of stats background. \n Is it worth it? I mean theres the opportunity cost obviously. I lose a year of life and income, and then Im forced to remain in my third world country for 2 years after. It is offerred by a so called top 35 world University in the UK but the omissions are very strange. I do not know R, Python, machine learning, AI, etc\n CLIFF: I am wondering if in the opinion of data scientists out there if the ommission of math and data management would be a complete deal breaker for you?\n    submitted by    /u/Alpha_90210  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvrppk/applied_msc_with_no_math_or_databasing/",
           "publishedOn": "2022-10-04T21:46:11.000Z",
-          "wordCount": 31510,
+          "wordCount": 31568,
           "title": "Applied MSc with no math or databasing?",
           "imageUrl": null
         },
@@ -615,7 +645,7 @@
           "description": "Hi everyone, I'll keep this short. I learned and had been using R for Data Science. Unfortunately R has fallen out of favor, and I clearly see the vast majority of organizations moving to Python if they have not already.\n How do I transition and get into Python? I have zero experience with it. I'm a bit of a throwback statistician who's previously used SPSS and SAS at various points, plus some propriety tools. My background and interest is more on the statistics side in general, less on computer science.\n    submitted by    /u/jarena009  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvqql4/i_learned_the_wrong_ds_tool_what_now/",
           "publishedOn": "2022-10-04T21:07:15.000Z",
-          "wordCount": 33848,
+          "wordCount": 34060,
           "title": "I learned the wrong DS tool. What now?",
           "imageUrl": null
         },
@@ -625,7 +655,7 @@
           "description": "Just figured the explanation that I added with question wasn't posted. So, here's the scenario:\n We open sales of a product begining of the Fall every year. Now that we have data collected about the customers and their transactions, we are trying to predict customer level probability of purchasing the product before Fall - ideally each week of Summer to use that to customize promotional campaign. \n What we are planning to do is get historic data snapshots as of the end of Summer, train model on this data. Thhen from the next Summer use this model to predict the outcome of the Fall purchase. Now the question was basically, does it sound like a sound technique to use this end of Summer model to predict during the Summer? Or should we train separate models for each week of Summer - so basically for each weekly model we'd get historic data snapshots as of the end of that week rather than end of the whole Summer and train the models separately.\n    submitted by    /u/Difficult-Big-3890  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvq1kt/do_you_train_model_on_end_of_a_period_data_and/",
           "publishedOn": "2022-10-04T20:39:58.000Z",
-          "wordCount": 31399,
+          "wordCount": 35740,
           "title": "Do you train model on end of a period data and predict in the middle of periods (MOP) in the future or retrain on the MOP intervals separately?",
           "imageUrl": null
         },
@@ -635,19 +665,9 @@
           "description": "I have non-stationary features in my time-series data, in the past I've trained LSTMs on the raw features as it retains \"memory\" of the previous values. Recently I've been looking into using XGBoost and AdaBoost and I'm unsure what is the best way to incorporate past features. \n One question is should I be taking the raw values or taking the difference between time steps? What are some other approaches for accounting for non-stationary features?\n    submitted by    /u/No-Result-3830  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvo7aw/how_to_deal_with_nonstationary_features_for/",
           "publishedOn": "2022-10-04T19:27:43.000Z",
-          "wordCount": 35089,
+          "wordCount": 31244,
           "title": "How to deal with non-stationary features for time-series classification / forecasting",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xvmmr0/learn_and_practice_cloud_data_integration_for/",
-          "author": null,
-          "description": "submitted by    /u/WrightCnt1980  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xvmmr0/learn_and_practice_cloud_data_integration_for/",
-          "publishedOn": "2022-10-04T18:26:26.000Z",
-          "wordCount": 30871,
-          "title": "Learn and Practice Cloud Data Integration for Beginners",
-          "imageUrl": "https://preview.redd.it/7bfnpjep0ur91.jpg?auto=webp&s=4c3c1124641509de85b16e4b79b7596bc12ab763"
         },
         {
           "id": "https://www.reddit.com/r/datascience/comments/xvmewm/the_majority_of_postgresql_servers_on_the/",
@@ -685,7 +705,7 @@
           "description": "Currently, I’m employed as a data scientist, but primarily manage small teams and work with management on data strategy. It’s not an optimal layout, but I’m enjoying this, “management / strategy” aspect. \n I might not be perfectly equipped to apply for data science manager roles, so I’ve come to ask for a your opinion. \n What are your thoughts on the data science manager position: what skills are necessary, how does it differ to senior data science positions, and any personal experiences?\n Thanks!\n    submitted by    /u/WatchMeFartQuietly  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvijw8/what_is_it_like_being_a_data_science_manager/",
           "publishedOn": "2022-10-04T15:48:31.000Z",
-          "wordCount": 36302,
+          "wordCount": 31669,
           "title": "What is it like being a data science manager?",
           "imageUrl": null
         },
@@ -695,28 +715,8 @@
           "description": "submitted by    /u/shmoe94  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/xvhiml/professional_data_scientists_what_are_the/",
           "publishedOn": "2022-10-04T15:06:44.000Z",
-          "wordCount": 37419,
+          "wordCount": 37242,
           "title": "Professional data scientists what are the algorithms and models that you actually end up using the most?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xvap10/visualizationtip_using_seabornheatmap_to/",
-          "author": null,
-          "description": "submitted by    /u/SOTP_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xvap10/visualizationtip_using_seabornheatmap_to/",
-          "publishedOn": "2022-10-04T09:44:06.000Z",
-          "wordCount": 35379,
-          "title": "#VisualizationTip: Using Seaborn(Heatmap) to visualize Missing data( Yellow- Representation of a column's missing data.)",
-          "imageUrl": "https://preview.redd.it/qylmu4cefrr91.jpg?auto=webp&s=d1a6621e547f186c2877f150b21e3ca304252583"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/xv7fh1/how_to_deal_with_evolvingchanging_features/",
-          "author": null,
-          "description": "How do you deal with changing features in a regression problem? I imagine this is quite common in a product/marketplace company. Here's an example:\n Let's say the task is predicting car prices for an online marketplace, a value you'd like to present to someone about to list their car on the site. You can use your marketplace's historic sales as a training set. However, as the marketplace evolved, more features were added to the car object, and maybe some stopped being used. E.g., in the early phase of the marketplace, you had 3 features: car model, year, and color. Then maybe later on the company stopped collecting color, and instead now collect MPG and transmission type. So now you have 4 features on the newer dataset: car model, year, MPG, and transmission type. And so on and so on...did you just impute the missing values? not use features that are missing data? Split test/train to only reflect current features? Is it a constant game of cat and mouse keeping up with the fresh features?\n    submitted by    /u/foreignparent  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/xv7fh1/how_to_deal_with_evolvingchanging_features/",
-          "publishedOn": "2022-10-04T06:24:52.000Z",
-          "wordCount": 31526,
-          "title": "How to deal with evolving/changing features",
           "imageUrl": null
         }
       ]
@@ -727,12 +727,62 @@
       "siteUrl": "https://www.reddit.com/r/artificial/top?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/artificial/comments/xw78p3/will_ai_replace_programmers/",
+          "author": null,
+          "description": "Before we talk about replacement, let us try to understand the real value of a good programmer. A good programmer’s value is not merely knowing \"how to code.\" Programmers bring value by understanding \"what to code.\"\n Simply put, they need to understand the business value of each requirement to be built and decide and prioritize their development based on the criticality. In a nutshell, they have fully functional \"thinking\" human brains.\n And the AI we see today is data-based. Yes, it can do things like categorizing images on Google, reading license plates, powering the routines of Alexa and Siri, and even using highly sophisticated methods of classifying data and recognizing patterns.\n But it cannot think like a human brain. For AI systems to be capable of 'thinking,' they need to be continually trained and fed with giant data banks covering every possible human scenario. This is not 100% possible.\n That is why AI can write code but can't ensure that it has written the correct code. It cannot understand the business value of features. It cannot refactor an old, buggy code and cannot decide whether to remove a piece of code or not.\n So, the future of software development and AI is collaboration and integration. AI will help programmers redefine programming by taking over tedious, repetitive tasks so that programmers can focus on building something great.\n Programmers can also pair with AI to write better software and reduce development lifecycle times. And far from replacing programmers, AI is becoming ready to reimagine a programmer’s workload through integration and enhanced efficiency.\n Here are five benefits of using AI in software development:\n  \nAI can validate project requirements\n Automatic debugging\n Automatic testing\n AI can make programmers more efficient\n AI will change software development\n  \nRead more...\n https://turbofuture.com/computers/5-Benefits-of-Using-Artificial-Intelligence-in-Software-Development\n    submitted by    /u/IcyCartoonist1955  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/xw78p3/will_ai_replace_programmers/",
+          "publishedOn": "2022-10-05T10:47:21.000Z",
+          "wordCount": 37501,
+          "title": "Will AI replace programmers?",
+          "imageUrl": "https://external-preview.redd.it/YOolTkURLq1gEidyZfK7aGfGQGCfsNf0Pqe-OdmsodI.jpg?auto=webp&s=84f51f0d15ba6590f35aebd971f6fab90e2c60ae"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/xw65u3/the_complete_guide_to_pose_estimation/",
+          "author": null,
+          "description": "submitted by    /u/encord_team  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/xw65u3/the_complete_guide_to_pose_estimation/",
+          "publishedOn": "2022-10-05T09:46:49.000Z",
+          "wordCount": 32903,
+          "title": "The Complete Guide to Pose Estimation",
+          "imageUrl": "https://external-preview.redd.it/u-b2-vxmuTDUqGz_YsJ5yMTZFKO0y7RChYg61g7pLo0.jpg?auto=webp&s=a4234aa7159ee3df27129ff4051c13d1e83c7626"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/xw54jp/aitemplate_metas_new_gpu_inference_system_for/",
+          "author": null,
+          "description": "Meta has just released AIT, an inference system for AMD and NVIDIA GPU hardware that claims to provide excellent inference performance.\n AITemplate transforms AI models into high-performance CUDA/HIP C++ code. It performs various graph transformations and optimizes execution time with new C++ kernel templates for the GPU target, while maintaining a minimal dependency on external libraries CUDA/ROCm.\n https://github.com/facebookincubator/AITemplate\n This is a really promising project intended to be an alternative to TensorRT and other inference tools. As maintainers of the opensource nebullvm inference accelerator, I am very eager to see the performance of AIT compared to other inference tools. We are working on integrating AIT in nebullvm so that users can test AIT, TensorRT, ONNX Runtime and other state-of-the-art inference optimizers to see which one provides the best performance for your model and hardware.\n Kudos Meta!\n    submitted by    /u/galaxy_dweller  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/xw54jp/aitemplate_metas_new_gpu_inference_system_for/",
+          "publishedOn": "2022-10-05T08:44:41.000Z",
+          "wordCount": 30750,
+          "title": "AITemplate, Meta's new GPU inference system for deep learning",
+          "imageUrl": "https://external-preview.redd.it/bgdSn3JbHOREvuHufqeLQC4ZdSIMdcIKam8cJn7Xj34.jpg?auto=webp&s=c68c28c105023ce20c9fafe6627c00a856247f26"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/xw4r0x/stable_diffusion_weekly_ai_art_video10422/",
+          "author": null,
+          "description": "submitted by    /u/prfitofthesngularity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/xw4r0x/stable_diffusion_weekly_ai_art_video10422/",
+          "publishedOn": "2022-10-05T08:21:55.000Z",
+          "wordCount": 30497,
+          "title": "Stable Diffusion Weekly AI Art Video10.4.22",
+          "imageUrl": "https://external-preview.redd.it/Qar-5RhGXBrp-81EPMq3ZSzod0YB24eIl5MezSaGACE.jpg?auto=webp&s=7e1413453c51fb14bcb4347bd593a6c2a7c22f08"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/xw3xnb/uhhhh_i_downloaded_this_a_joke/",
+          "author": null,
+          "description": "submitted by    /u/brysonalt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/xw3xnb/uhhhh_i_downloaded_this_a_joke/",
+          "publishedOn": "2022-10-05T07:32:38.000Z",
+          "wordCount": 32733,
+          "title": "Uhhhh…. I downloaded this a joke 😳",
+          "imageUrl": "https://preview.redd.it/v6bbimazwxr91.jpg?auto=webp&s=d32511b3883e84583c96f1734554411f402dc34c"
+        },
+        {
           "id": "https://www.reddit.com/r/artificial/comments/xvyrqh/ron_swanson_american_hero/",
           "author": null,
           "description": "submitted by    /u/originalmetathought  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/xvyrqh/ron_swanson_american_hero/",
           "publishedOn": "2022-10-05T02:59:33.000Z",
-          "wordCount": 30498,
+          "wordCount": 32698,
           "title": "Ron Swanson, American Hero",
           "imageUrl": "https://preview.redd.it/qx5vgcwcjwr91.png?auto=webp&s=d6ffb7b31ec2c39236cd2a71d468bf7f22c48993"
         },
@@ -742,7 +792,7 @@
           "description": "submitted by    /u/lejocu  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/xvxu2q/nightmares_halloween_series/",
           "publishedOn": "2022-10-05T02:16:26.000Z",
-          "wordCount": 32761,
+          "wordCount": 30510,
           "title": "Nightmares: Halloween Series",
           "imageUrl": null
         },
@@ -752,7 +802,7 @@
           "description": "Randomly browsing youtube and naturally came across this fake video of Elon Musk advertising some crypto platform. I’m not completely sure about the prevalence of these kinds of videos or scams. \n I’m not really versed in A.I or deepfake technology. My question is, with the democratization of this sort of tech, how can platforms or developers themselves prevent these kinds of videos from getting exposure, and possibly harming people? Can certain demographics be preyed on with this kind of tech?\n    submitted by    /u/MCGooseBoi  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/xvxcbu/elon_musk_deepfake_scam/",
           "publishedOn": "2022-10-05T01:54:18.000Z",
-          "wordCount": 30988,
+          "wordCount": 31323,
           "title": "Elon Musk deepfake scam",
           "imageUrl": "https://external-preview.redd.it/1L124IvsbaS9NcpwhN_HfJqJmSPkqlfibWxBS1lFV00.png?format=pjpg&auto=webp&s=efe7d07bbda4260934c11c47eec20995f34c5d7a"
         },
@@ -782,7 +832,7 @@
           "description": "submitted by    /u/Firm-Earth1633  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/xvorl4/insurmountable/",
           "publishedOn": "2022-10-04T19:50:34.000Z",
-          "wordCount": 32711,
+          "wordCount": 30460,
           "title": "\"insurmountable\"",
           "imageUrl": "https://preview.redd.it/oqx0ntymfur91.png?auto=webp&s=9ec29bb58ab20d63111829624e615ed0be5febf3"
         },
@@ -792,7 +842,7 @@
           "description": "submitted by    /u/LordPewPew777  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/xvmyzh/ai_dream_93_dreambooth_ai_best_acid_trip_full_3d/",
           "publishedOn": "2022-10-04T18:39:41.000Z",
-          "wordCount": 30527,
+          "wordCount": 32540,
           "title": "AI Dream 93 - DREAMBOOTH AI BEST ACID TRIP FULL 3D",
           "imageUrl": "https://external-preview.redd.it/JRYWnxkF_6U2828vKnhdhtz5ePjbMSwZFIth53QLeI8.jpg?auto=webp&s=df53c85b6421eb4f0e335518a5e0065865398e6d"
         },
@@ -812,7 +862,7 @@
           "description": "submitted by    /u/thedarklord176  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/xvlnus/ive_been_developing_a_2d_web_game_using_entirely/",
           "publishedOn": "2022-10-04T17:48:48.000Z",
-          "wordCount": 30678,
+          "wordCount": 32995,
           "title": "I've been developing a 2D web game using entirely AI generated assets. The portraits are from NovelAI, the rest(including 2 more boss phases and 20 different spell images) is from Midjourney",
           "imageUrl": "https://preview.redd.it/bmuridwxttr91.png?auto=webp&s=b8eac46401044b7d206fc230b557a5292df6a1a1"
         },
@@ -865,26 +915,6 @@
           "wordCount": 30498,
           "title": "show 511 of the AI called Px3s",
           "imageUrl": "https://external-preview.redd.it/fCx1cevIE19LnEtgAiavoizgqWD-Cjxm6sf4um5MrsI.png?format=pjpg&auto=webp&s=78b78e60d3e59f6fa4b695cb0a53521128b94752"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/xvc88s/is_there_one_stop_shop_for_modern_ai_terminology/",
-          "author": null,
-          "description": "I’ve been playing around with SD and other txt2img models lately. I was able to train SD model on custom images using dreambooth by following tutorials. On the other hand I have very limited understanding on how to effectively read papers. I would like to understand deep learning more in depth, but just takes ages to Google every term all the time. E.g. embeddings, diffusion (why was it called like that?), transformers etc\n    submitted by    /u/fraktall  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/xvc88s/is_there_one_stop_shop_for_modern_ai_terminology/",
-          "publishedOn": "2022-10-04T11:10:06.000Z",
-          "wordCount": 30866,
-          "title": "Is there one stop shop for modern AI terminology eli5?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/xva2hm/last_man_on_earth/",
-          "author": null,
-          "description": "submitted by    /u/widgia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/xva2hm/last_man_on_earth/",
-          "publishedOn": "2022-10-04T09:05:56.000Z",
-          "wordCount": 30803,
-          "title": "Last man on earth",
-          "imageUrl": "https://preview.redd.it/5meksnz38rr91.png?auto=webp&s=4646ce87ee0a642e8f1a7b7872f13d401bfa1229"
         }
       ]
     },
@@ -894,12 +924,32 @@
       "siteUrl": "https://www.reddit.com/r/technology/top?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/technology/comments/xw6pwl/europe_to_force_laptop_makers_to_adopt_usbc_for/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/xw6pwl/europe_to_force_laptop_makers_to_adopt_usbc_for/",
+          "publishedOn": "2022-10-05T10:18:21.000Z",
+          "wordCount": 33417,
+          "title": "Europe to Force Laptop Makers to Adopt USB-C for Charging | USB-C charging for everything and everyone.",
+          "imageUrl": "https://external-preview.redd.it/zF936EHLE6UhVHWnpp_Mh1U1sFadZL-4HCzZYByE6fo.jpg?auto=webp&s=cfdef4c499519eb0996c1dc453a8f99f36262ef9"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/xw5nz5/how_criminals_are_using_jammers_deauthers_to/",
+          "author": null,
+          "description": "submitted by    /u/bubblehack3r  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/xw5nz5/how_criminals_are_using_jammers_deauthers_to/",
+          "publishedOn": "2022-10-05T09:17:08.000Z",
+          "wordCount": 32385,
+          "title": "How criminals are using jammers, deauthers to disrupt WiFi security cameras",
+          "imageUrl": "https://external-preview.redd.it/Ry6pKZZl4rrJiiWbdtF8NbQCux0qka0k4sq22Zwx6bk.jpg?auto=webp&s=4fc4ffdc491695b6db1aa4a763997f58c447394f"
+        },
+        {
           "id": "https://www.reddit.com/r/technology/comments/xw0ktt/eugene_yu_ceo_of_election_software_firm_held_in/",
           "author": null,
           "description": "submitted by    /u/Saltedline  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xw0ktt/eugene_yu_ceo_of_election_software_firm_held_in/",
           "publishedOn": "2022-10-05T04:28:11.000Z",
-          "wordCount": 31345,
+          "wordCount": 31363,
           "title": "Eugene Yu, CEO of election software firm, held in US for alleged data theft",
           "imageUrl": "https://external-preview.redd.it/I0dRG18UUiecFL-08jzRKWhl07Uquf7f4S4MdWibPk8.jpg?auto=webp&s=4b37d42bc55a657481877a1a9cc9c11fab33506c"
         },
@@ -909,7 +959,7 @@
           "description": "submitted by    /u/aacool  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvyf1y/the_white_house_just_unveiled_a_new_ai_bill_of/",
           "publishedOn": "2022-10-05T02:42:55.000Z",
-          "wordCount": 33786,
+          "wordCount": 33980,
           "title": "The White House just unveiled a new AI Bill of Rights",
           "imageUrl": "https://external-preview.redd.it/Ia0maNWVeRkcV3mlS17PTGSS9x8kCP15U5-jpFTZRNE.jpg?auto=webp&s=9b57e191f57536d6fe28a0f987f475947d44d25a"
         },
@@ -919,7 +969,7 @@
           "description": "submitted by    /u/Majnum  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvy3nq/a_revolutionary_treatment_that_could_repair/",
           "publishedOn": "2022-10-05T02:28:24.000Z",
-          "wordCount": 31739,
+          "wordCount": 31940,
           "title": "A revolutionary treatment that could repair spinal cord injuries has been developed by scientists, which regrew nerves in paralyzed mice within three months. The medication triggers the axons of nerve cells to regenerate themselves.",
           "imageUrl": "https://external-preview.redd.it/7sTBYlU6pjLCai-eyMC7JtFCb-LtfZEcMQohyvxJE8Y.jpg?auto=webp&s=c1cf0e18f004b04024fa972e2db21298d16b8642"
         },
@@ -929,7 +979,7 @@
           "description": "submitted by    /u/darthatheos  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvv38b/begone_polygons_1993s_virtua_fighter_gets/",
           "publishedOn": "2022-10-05T00:12:17.000Z",
-          "wordCount": 32019,
+          "wordCount": 32330,
           "title": "Begone, polygons: 1993’s Virtua Fighter gets smoothed out by AI",
           "imageUrl": "https://external-preview.redd.it/5wXY1oacmweP3RGpvoL8t-GPvIezjPYpq0tpnuDJs0g.jpg?auto=webp&s=bede32a3289950409a534e51528f3f14c6a611ac"
         },
@@ -939,7 +989,7 @@
           "description": "submitted by    /u/redhatGizmo  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvstqm/asrock_sabotages_its_own_motherboards_with_ram/",
           "publishedOn": "2022-10-04T22:32:22.000Z",
-          "wordCount": 33111,
+          "wordCount": 34125,
           "title": "Asrock sabotages its own motherboards with RAM slot sticker",
           "imageUrl": "https://external-preview.redd.it/QDyyF58SfcEVPF0TRFsaMGgB55p7dq70ESjMieq5dzw.jpg?auto=webp&s=d8765199a7962de1f4225462f96bede84560d0ea"
         },
@@ -949,7 +999,7 @@
           "description": "submitted by    /u/hard2resist  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvpsaw/robots_are_making_french_fries_faster_better_than/",
           "publishedOn": "2022-10-04T20:30:06.000Z",
-          "wordCount": 34571,
+          "wordCount": 34799,
           "title": "Robots are making French fries faster, better than humans",
           "imageUrl": "https://external-preview.redd.it/aLKf4S4T0Nyk75dvfROqLNs3ctvHRpdnnWnwZv5c9uQ.jpg?auto=webp&s=2140fe3aff8d1ba47af20f23f310dc08ad321fda"
         },
@@ -959,7 +1009,7 @@
           "description": "submitted by    /u/Lakerlion  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvp6pa/youtube_appears_to_be_testing_making_people_pay/",
           "publishedOn": "2022-10-04T20:06:54.000Z",
-          "wordCount": 37136,
+          "wordCount": 37460,
           "title": "YouTube appears to be testing making people pay in order to watch videos in 4K resolution by upgrading to YouTube Premium",
           "imageUrl": "https://external-preview.redd.it/gykAvjYQCZ1Mgq-Xm3LhNz0Mxhf0KPtp0UaXSmYD4TM.jpg?auto=webp&s=ead4dcffdbbd774c648980cd7a172b01315dc3ce"
         },
@@ -969,7 +1019,7 @@
           "description": "submitted by    /u/hzj5790  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvolyx/copyright_holders_got_google_to_remove_6b_links/",
           "publishedOn": "2022-10-04T19:44:20.000Z",
-          "wordCount": 32445,
+          "wordCount": 32566,
           "title": "Copyright holders got Google to remove 6B links from Search over 10 years",
           "imageUrl": "https://external-preview.redd.it/X_vsN6GvSrpqwM3DzQndiT4Wn7dZHO4H0p5937JSOB0.jpg?auto=webp&s=2646baaaf8d89b8e7eda7d50a5b70684ff1b4f8f"
         },
@@ -979,7 +1029,7 @@
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvmcyf/white_house_unveils_its_blueprint_for_an_ai_bill/",
           "publishedOn": "2022-10-04T18:15:43.000Z",
-          "wordCount": 33682,
+          "wordCount": 33892,
           "title": "White House unveils its 'blueprint' for an AI Bill of Rights",
           "imageUrl": "https://external-preview.redd.it/mC4MUKN9_dHbJYtET67GL7I-5RZR1nevPU_PnY3TDGQ.jpg?auto=webp&s=3ce4735887ee7928ae22cb63eeb77596835bb8d5"
         },
@@ -989,7 +1039,7 @@
           "description": "submitted by    /u/Tao_Dragon  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvl8et/princeton_scientists_overcome_key_setback_in/",
           "publishedOn": "2022-10-04T17:31:52.000Z",
-          "wordCount": 31565,
+          "wordCount": 31582,
           "title": "Princeton scientists overcome key setback in achieving nuclear fusion",
           "imageUrl": "https://external-preview.redd.it/_rS-x5Sd7err5qexp_pyjIJBgCPGE5jIyJNAu7Iu-vE.jpg?auto=webp&s=8a024383a92d451a9fb6927da97fcacfc3f623c2"
         },
@@ -999,7 +1049,7 @@
           "description": "submitted by    /u/Avieshek  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvl89s/musk_proposes_to_buy_twitter_for_original_price/",
           "publishedOn": "2022-10-04T17:31:42.000Z",
-          "wordCount": 36711,
+          "wordCount": 36082,
           "title": "Musk Proposes to Buy Twitter for Original Price of $54.20 a Share",
           "imageUrl": "https://external-preview.redd.it/MV8NPBJQk0Lqeua7yMRDqKLP2TsDVcCmxp48wkrpe_Y.jpg?auto=webp&s=53a903430d008f231348b9fdd861475806a04343"
         },
@@ -1009,7 +1059,7 @@
           "description": "submitted by    /u/Avieshek  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvkb84/sec_fines_kim_kardashian_warns_people_about/",
           "publishedOn": "2022-10-04T16:56:34.000Z",
-          "wordCount": 31801,
+          "wordCount": 31870,
           "title": "SEC fines Kim Kardashian, warns people about buying crypto touted by celebrities",
           "imageUrl": "https://external-preview.redd.it/yyZvNkK9PMhpjVV162mGr4Ftv0XeUnF0wZseQRHVSjU.jpg?auto=webp&s=61d1c29cd55738d24ee39c011d4036da354d0642"
         },
@@ -1019,7 +1069,7 @@
           "description": "submitted by    /u/mepper  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvju2p/apple_will_be_forced_to_use_new_charger_after_eu/",
           "publishedOn": "2022-10-04T16:38:04.000Z",
-          "wordCount": 36922,
+          "wordCount": 37116,
           "title": "Apple Will Be Forced to Use New Charger After EU Votes for USB-C",
           "imageUrl": "https://external-preview.redd.it/sCDGD323e7St5PjvXdVBb20DJ5-ahGyn8PjxWAkFeQ8.jpg?auto=webp&s=d1559be1027dfaf68640b40a8a619599eb79f3a6"
         },
@@ -1029,9 +1079,19 @@
           "description": "submitted by    /u/IconicPenguins  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvjdz9/brave_will_block_annoying_cookie_consent_pop_ups/",
           "publishedOn": "2022-10-04T16:20:42.000Z",
-          "wordCount": 34157,
+          "wordCount": 32620,
           "title": "Brave will block annoying cookie consent pop ups (and blocks cookies)",
           "imageUrl": "https://external-preview.redd.it/8l99OhW3XIuYSvivYvB-nWmUUj48LtWfCXxiKrs_VHs.jpg?auto=webp&s=2cacc7d62f1df2c6d617dd48ab3e9af7bdc0f05f"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/xvjdem/microsoft_now_has_a_webpage_about_why_its/",
+          "author": null,
+          "description": "submitted by    /u/AstroCookieGalaxy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/xvjdem/microsoft_now_has_a_webpage_about_why_its/",
+          "publishedOn": "2022-10-04T16:20:08.000Z",
+          "wordCount": 33340,
+          "title": "Microsoft now has a webpage about why its Activision Blizzard deal is good for everyone",
+          "imageUrl": "https://external-preview.redd.it/NG-MLS6MPdt56Apo5kpubNLUAmuVrLRrBJwRS9tqKaU.jpg?auto=webp&s=d7f694ec8863c53494ff63ff3a45328311aa57dc"
         },
         {
           "id": "https://www.reddit.com/r/technology/comments/xvid5p/exnsa_employee_charged_with_violating_espionage/",
@@ -1039,7 +1099,7 @@
           "description": "submitted by    /u/obtricksdotcom  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvid5p/exnsa_employee_charged_with_violating_espionage/",
           "publishedOn": "2022-10-04T15:40:46.000Z",
-          "wordCount": 32731,
+          "wordCount": 32778,
           "title": "Ex-NSA employee charged with violating Espionage Act, selling U.S. cyber secrets",
           "imageUrl": "https://external-preview.redd.it/RHzaes7Hw0PjTiDNnW_NXzJ_XZFpBXqlCKzo7lOYBHk.jpg?auto=webp&s=fbabf3676191f6216d252814971cc572d99be76f"
         },
@@ -1049,7 +1109,7 @@
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvhnef/amazon_workers_occupy_hr_office_in_spontaneous/",
           "publishedOn": "2022-10-04T15:12:04.000Z",
-          "wordCount": 32963,
+          "wordCount": 33324,
           "title": "Amazon Workers Occupy HR Office in Spontaneous Strike After Warehouse Fire",
           "imageUrl": "https://external-preview.redd.it/FvIi9kv2hSZuNNcI4BtQ0Pffovc42HaI-fA53540AbI.jpg?auto=webp&s=e21717152be491b19c0b72c2739c12b5d6cef951"
         },
@@ -1059,7 +1119,7 @@
           "description": "submitted by    /u/speckz  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvhjlj/big_techs_big_shield_goes_to_the_high_court_the/",
           "publishedOn": "2022-10-04T15:07:50.000Z",
-          "wordCount": 36439,
+          "wordCount": 36505,
           "title": "Big Tech’s Big Shield Goes to the High Court - The Supreme Court is going to get a crack at Section 230 of the Communications Decency Act—and the internet may never be the same.",
           "imageUrl": "https://external-preview.redd.it/zIE_LZIVH6YGhWSUIDEkUTiUFHDYbEzlGGg8Y3mPR9w.jpg?auto=webp&s=e9cce3a904e9f88085a3b1ba698456c26aa85067"
         },
@@ -1069,7 +1129,7 @@
           "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvgsu5/activision_blizzard_illegally_withheld_raises/",
           "publishedOn": "2022-10-04T14:37:46.000Z",
-          "wordCount": 36126,
+          "wordCount": 36355,
           "title": "Activision Blizzard illegally withheld raises from unionizing workers, labor board finds",
           "imageUrl": "https://external-preview.redd.it/49f9IR8a5WoUphDqZXE_GEVRD0IEJjikOa4T113i_LY.jpg?auto=webp&s=456b49541559a02d982191c4a1d305d8eec7b553"
         },
@@ -1079,7 +1139,7 @@
           "description": "submitted by    /u/audiomuse1  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvfd6v/micron_picks_syracuse_new_york_suburb_for_huge/",
           "publishedOn": "2022-10-04T13:38:15.000Z",
-          "wordCount": 32311,
+          "wordCount": 32275,
           "title": "Micron picks Syracuse, New York suburb for huge computer chip plant that would bring up to 9,000 jobs",
           "imageUrl": "https://external-preview.redd.it/cnHWmDYOI1F7-ZmZhYi0L9mMWBs6ILb0RYM8sjG6OKg.jpg?auto=webp&s=31598d211f66e31718fa871cf3e0d23fc30901fc"
         },
@@ -1089,7 +1149,7 @@
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvdzgw/micron_pledges_up_to_100_billion_for/",
           "publishedOn": "2022-10-04T12:36:01.000Z",
-          "wordCount": 34846,
+          "wordCount": 34344,
           "title": "Micron Pledges Up to $100 Billion for Semiconductor Factory in New York",
           "imageUrl": "https://external-preview.redd.it/qSmso6XpiwO5O-L21jw3pp_oAOED0Ou-iC5HO9r6u74.jpg?auto=webp&s=bd56cc9db6e71c461b1668153dc404790549a063"
         },
@@ -1099,7 +1159,7 @@
           "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvdwos/dont_mind_facebook_just_putting_its_own_browser/",
           "publishedOn": "2022-10-04T12:32:15.000Z",
-          "wordCount": 33310,
+          "wordCount": 32723,
           "title": "Don't mind Facebook, just putting its own browser in its Android app | Totally not for data collection",
           "imageUrl": "https://external-preview.redd.it/TdaDjbmKe5Qo1fSnEpQLySfL3ayDKAc83XavbNe5za8.jpg?auto=webp&s=2e450e0b83cef537175e8dbf398f560e8ef98f50"
         },
@@ -1109,39 +1169,9 @@
           "description": "submitted by    /u/Avieshek  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/xvdut9/eu_passes_law_to_switch_iphone_to_usbc_by_end_of/",
           "publishedOn": "2022-10-04T12:29:52.000Z",
-          "wordCount": 33376,
+          "wordCount": 33417,
           "title": "EU Passes Law to Switch iPhone to USB-C by End of 2024",
           "imageUrl": "https://external-preview.redd.it/R2vpT597oAVkRQfpvZWRacoS48Ho6Dw_OgkDu0A8DyQ.jpg?auto=webp&s=eda065a73415f869e2ed756dcdcfa0fa57abdc2e"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/xvc3gw/eu_lawmakers_impose_single_charger_for_all/",
-          "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/xvc3gw/eu_lawmakers_impose_single_charger_for_all/",
-          "publishedOn": "2022-10-04T11:03:11.000Z",
-          "wordCount": 39294,
-          "title": "EU lawmakers impose single charger for all smartphones",
-          "imageUrl": "https://external-preview.redd.it/FkRePYV1ZB3ggQD1HZTP2TiXbsIzpgd84conP7roDHQ.jpg?auto=webp&s=1e22fe1eaea9fe78538ad268e174d09b8ef6b731"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/xvbnj5/eu_parliament_adopts_rules_for_common_charger_for/",
-          "author": null,
-          "description": "submitted by    /u/Quantum_II  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/xvbnj5/eu_parliament_adopts_rules_for_common_charger_for/",
-          "publishedOn": "2022-10-04T10:39:25.000Z",
-          "wordCount": 31843,
-          "title": "EU Parliament adopts rules for common charger for electronic devices",
-          "imageUrl": "https://external-preview.redd.it/QJKxDDTZBYw5QvjCUTtl_DOuvnSB5Xruj6Y6N5cluWE.jpg?auto=webp&s=c33ffc1084ad3703313313df349e3ade4da627af"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/xv9ot3/us_set_to_impose_more_trade_restrictions_on/",
-          "author": null,
-          "description": "submitted by    /u/Arviericp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/xv9ot3/us_set_to_impose_more_trade_restrictions_on/",
-          "publishedOn": "2022-10-04T08:41:51.000Z",
-          "wordCount": 31894,
-          "title": "US set to impose more trade restrictions on Chinese AI and supercomputer companies",
-          "imageUrl": "https://external-preview.redd.it/mNIUFij7JalT2KbgKbMxNrb2djzTFQamx_YIasYmYy0.jpg?auto=webp&s=b9b56586d2ecd72dd9db2a46c59f1577bf92c43d"
         }
       ]
     },
@@ -1401,6 +1431,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=119285",
+          "author": "Yasemin Saplakoglu",
+          "description": "The chemists Carolyn Bertozzi, Morten Meldal and K. Barry Sharpless were recognized for their development of click chemistry and bioorthogonal chemistry.            \nThe post Molecule-Building Innovators Win Nobel Prize in Chemistry first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/molecule-building-innovators-win-2022-chemistry-nobel-prize-20221005/",
+          "publishedOn": "2022-10-05T10:00:42.000Z",
+          "wordCount": 4715,
+          "title": "Molecule-Building Innovators Win Nobel Prize in Chemistry",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/Nobel-Chemistry_1200_Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=119287",
           "author": "Charlie Wood",
           "description": "Alain Aspect, John Clauser and Anton Zeilinger have won the 2022 Nobel Prize in Physics for groundbreaking experiments with entangled particles.            \nThe post Pioneering Quantum Physicists Win Nobel Prize in Physics first appeared on Quanta Magazine",
@@ -1439,16 +1479,6 @@
           "wordCount": 5498,
           "title": "What We Know About Monkeypox",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/MonkeyPox_1200_Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=119210",
-          "author": "Joanna Thompson",
-          "description": "Using inserted genetic circuitry, synthetic biologists controlled the growth of plant roots for the first time.            \nThe post Biologists Use Genetic Circuits to Program Plant Roots first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/biologists-use-genetic-circuits-to-program-plant-roots-20220928/",
-          "publishedOn": "2022-09-28T13:56:44.000Z",
-          "wordCount": 4722,
-          "title": "Biologists Use Genetic Circuits to Program Plant Roots",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/09/Programming-Plant-Roots_1200_Social.jpg"
         }
       ]
     },
