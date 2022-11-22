@@ -6,113 +6,243 @@
       "siteUrl": "https://lobste.rs/",
       "articles": [
         {
-          "id": "https://lobste.rs/s/t8vhtj",
-          "author": "carlmjohnson@users.lobste.rs (carlmjohnson)",
+          "id": "https://lobste.rs/s/0ofqxe",
+          "author": "mmcc@users.lobste.rs (mmcc)",
           "description": "Comments",
-          "link": "https://scottaaronson.blog/?p=6821",
-          "publishedOn": "2022-11-21T01:59:46.000Z",
-          "wordCount": 4581,
-          "title": "Reform AI Alignment",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
+          "link": "https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c",
+          "publishedOn": "2022-11-22T00:20:32.000Z",
+          "wordCount": 4909,
+          "title": "VMAF FTW: How Vimeo turned a metric for video quality into better adaptive streaming",
+          "imageUrl": "https://miro.medium.com/max/757/0*9EL_m5C798epAw5Q"
         },
         {
-          "id": "https://lobste.rs/s/wrkiq5",
-          "author": "netopwibby@users.lobste.rs (netopwibby)",
+          "id": "https://lobste.rs/s/6mmlki",
+          "author": "adsouza@users.lobste.rs (adsouza)",
           "description": "Comments",
-          "link": "https://blog.neuenet.com/post/setup-handshake-full-node-systemd",
-          "publishedOn": "2022-11-21T01:44:26.000Z",
-          "wordCount": 435,
-          "title": "Setup a Handshake full node with systemd",
+          "link": "https://matt-rickard.com/exploiting-protocols-for-fun",
+          "publishedOn": "2022-11-21T23:53:54.000Z",
+          "wordCount": 553,
+          "title": "Exploiting Protocols for Fun",
+          "imageUrl": "https://matt-rickard.com/api/og?title=Exploiting%20Protocols%20for%20Fun"
+        },
+        {
+          "id": "https://lobste.rs/s/jyq2jm",
+          "author": "thombles@users.lobste.rs (thombles)",
+          "description": "Comments",
+          "link": "https://www.thecodedmessage.com/posts/cpp-move/",
+          "publishedOn": "2022-11-21T22:09:17.000Z",
+          "wordCount": 7355,
+          "title": "C++ Move Semantics Considered Harmful (Rust is better) (2021)",
+          "imageUrl": "https://www.thecodedmessage.com/"
+        },
+        {
+          "id": "https://lobste.rs/s/ak90b5",
+          "author": "calvin@users.lobste.rs (calvin)",
+          "description": "arXiv\nComments",
+          "link": "https://arxiv.org/pdf/2211.10299.pdf",
+          "publishedOn": "2022-11-21T22:07:59.000Z",
+          "wordCount": 29833,
+          "title": "Trusted Hart for Mobile RISC-V Security",
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/akbljz",
-          "author": "vrthra@users.lobste.rs (vrthra)",
-          "description": "With the current exodus from twitter, many of us are looking to migrate to Mastodon and similar ActivityPub servers. For the good of Fediverse, it is important that we migrate to diverse instances rather than join one of the most popular. In particular because other Fediverse instances can block your instance because of lax moderation policies. E.g. this. This is bad both because if you are in a blocked instance, then your toots no longer reach the people of that instance, and secondly, if you are in the particular instance that has blocked another, you may have no choice but to either agree to the moderator, or shift to another server and hope for the best.\nHowever, there is another solution that is not very difficult if you have about 15 minutes free. You can host your own instance, for free. Here is my write up on how to do that with (1) freemyip for free DNS, (2) letusencrypt or cloudshare for your free ssl certificate, and (3) oracle free tier to host the instance. The write up uses Kitstec which is a light weight singleuser ActivityPub server (using sqlite and filesystem backend). If you are using a custom domain, (e.g. as a front end for gmail), then it is even more easy.\nIf you end up doing this, please drop me a note at https://gopinath.org/",
-          "link": "https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance",
-          "publishedOn": "2022-11-21T00:12:56.000Z",
-          "wordCount": 270,
-          "title": "Hosting your own ActivityPub instance for free",
+          "id": "https://lobste.rs/s/1elwat",
+          "author": "spookylukey@users.lobste.rs (spookylukey)",
+          "description": "Comments",
+          "link": "https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/",
+          "publishedOn": "2022-11-21T22:07:54.000Z",
+          "wordCount": 4366,
+          "title": "Python Type Hints: case study on Parsy",
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/j8jwvz",
-          "author": "knl@users.lobste.rs (knl)",
-          "description": "Comments",
-          "link": "https://failingfast.io/opentelemetry-observability/",
-          "publishedOn": "2022-11-20T22:07:11.000Z",
-          "wordCount": 1809,
-          "title": "The Modern Observability Problem",
+          "id": "https://lobste.rs/s/dnfs5v",
+          "author": "calvin@users.lobste.rs (calvin)",
+          "description": "arXiv\nComments",
+          "link": "https://arxiv.org/pdf/2211.10095.pdf",
+          "publishedOn": "2022-11-21T22:07:21.000Z",
+          "wordCount": 17228,
+          "title": "Improving Robustness of TCM-based Robust Steganography with Variable Robustness Cost",
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/cl5jkp",
-          "author": "jeanthomas@users.lobste.rs (jeanthomas)",
-          "description": "Comments",
-          "link": "https://github.com/libav/c99-to-c89",
-          "publishedOn": "2022-11-20T22:03:37.000Z",
-          "wordCount": 603,
-          "title": "libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89",
-          "imageUrl": "https://opengraph.githubassets.com/5fd7a8b89277c0e0eda87122446bbe9905fd61689c1b1f9004103bec8b833437/libav/c99-to-c89"
-        },
-        {
-          "id": "https://lobste.rs/s/qwpfap",
-          "author": "jeanthomas@users.lobste.rs (jeanthomas)",
-          "description": "Comments",
-          "link": "https://git.sr.ht/~emersion/libjsonschema",
-          "publishedOn": "2022-11-20T21:37:14.000Z",
-          "wordCount": 280,
-          "title": "libjsonschema -   A JSON schema code generator for C",
+          "id": "https://lobste.rs/s/zktjyj",
+          "author": "calvin@users.lobste.rs (calvin)",
+          "description": "arXiv\nComments",
+          "link": "https://arxiv.org/pdf/2211.10076.pdf",
+          "publishedOn": "2022-11-21T22:04:33.000Z",
+          "wordCount": 17412,
+          "title": "Applications of Quantum Annealing in Cryptography",
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/9tcush",
-          "author": "jeanthomas@users.lobste.rs (jeanthomas)",
+          "id": "https://lobste.rs/s/zjp6mj",
+          "author": "jafarlihi@users.lobste.rs (jafarlihi)",
           "description": "Comments",
-          "link": "https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html",
-          "publishedOn": "2022-11-20T21:04:43.000Z",
-          "wordCount": 6291,
-          "title": "Reed-Solomon Error Correcting Codes from the Bottom Up",
+          "link": "https://github.com/jafarlihi/connmap",
+          "publishedOn": "2022-11-21T21:13:27.000Z",
+          "wordCount": 734,
+          "title": "connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo",
+          "imageUrl": "https://opengraph.githubassets.com/00ad7ed884f8ed5fc80c5fa904d867ffb636c147cf2856dadf52dcfdd07d300b/jafarlihi/connmap"
+        },
+        {
+          "id": "https://lobste.rs/s/bifzw3",
+          "author": "brennen@users.lobste.rs (brennen)",
+          "description": "Comments",
+          "link": "https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/",
+          "publishedOn": "2022-11-21T21:06:19.000Z",
+          "wordCount": 7396,
+          "title": "Programming is a Pop Culture",
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/v8vipf",
-          "author": "eatonphil@users.lobste.rs (eatonphil)",
+          "id": "https://lobste.rs/s/lvts5e",
+          "author": "kuijsten@users.lobste.rs (kuijsten)",
           "description": "Comments",
-          "link": "https://cil-project.github.io/cil/doc/html/cil/cil016.html",
-          "publishedOn": "2022-11-20T17:19:55.000Z",
-          "wordCount": 1393,
-          "title": "Who Says C is Simple?",
+          "link": "https://www.youtube.com/watch?v=JbawVeKFLMc",
+          "publishedOn": "2022-11-21T19:16:36.000Z",
+          "wordCount": null,
+          "title": "Taming the fox",
           "imageUrl": null
         },
         {
-          "id": "https://lobste.rs/s/bnknq7",
-          "author": "carlmjohnson@users.lobste.rs (carlmjohnson)",
+          "id": "https://lobste.rs/s/1c8uhn",
+          "author": "varjag@users.lobste.rs (varjag)",
           "description": "Comments",
-          "link": "https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/",
-          "publishedOn": "2022-11-20T16:39:49.000Z",
-          "wordCount": 3411,
-          "title": "SSH port forwarding with Go",
-          "imageUrl": null
+          "link": "https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/",
+          "publishedOn": "2022-11-21T19:11:44.000Z",
+          "wordCount": 7223,
+          "title": "How Precision Time Protocol is being deployed at Meta",
+          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2022/11/CD22-717-Eng-PTP-DeepDive-Hero-02.jpg"
         },
         {
-          "id": "https://lobste.rs/s/k0qhav",
-          "author": "eatonphil@users.lobste.rs (eatonphil)",
-          "description": "Comments",
-          "link": "https://www.embeddedrelated.com/showarticle/543.php",
-          "publishedOn": "2022-11-20T16:35:58.000Z",
-          "wordCount": 5884,
-          "title": "Implementing State Machines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/dvummv",
+          "id": "https://lobste.rs/s/ypn8zp",
           "author": "calvin@users.lobste.rs (calvin)",
           "description": "Comments",
-          "link": "http://undeadly.org/cgi?action=article;sid=20221120115616",
-          "publishedOn": "2022-11-20T16:05:13.000Z",
-          "wordCount": 2089,
-          "title": "Next steps toward mimmutable, from deraadt@",
+          "link": "https://emily.id.au/tailscale",
+          "publishedOn": "2022-11-21T19:05:01.000Z",
+          "wordCount": 4523,
+          "title": "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
+          "imageUrl": "https://emily.id.au/files/banner.jpg"
+        },
+        {
+          "id": "https://lobste.rs/s/8racnc",
+          "author": "aayush@users.lobste.rs (aayush)",
+          "description": "Among many of my interest areas over time, one constant domain has been urban design and how it can foster communities; so when I came across an article from 1982 it immediately caught my eye. Read this excerpt:\nSocial psychologists and police officers tend to agree that if a window in a building is broken and is left unrepaired, all the rest of the windows in the neighborhood will soon be broken.\nThis is as true in nice neighborhoods as in run-down ones. Window-breaking does not necessarily occur on a large scale because some areas are inhabited by determined window-breakers whereas others are populated by window-lovers; rather, one unrepaired broken window is a signal that no one cares, and so breaking more windows costs nothing.\nNow this is interesting; the impact of such psychology is …",
+          "link": "https://lobste.rs/s/8racnc/broken_windows_software",
+          "publishedOn": "2022-11-21T17:46:03.000Z",
+          "wordCount": 581,
+          "title": "Broken Windows in Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/8vetn9",
+          "author": "thev@users.lobste.rs (thev)",
+          "description": "Comments",
+          "link": "https://dittytoy.net/",
+          "publishedOn": "2022-11-21T17:31:57.000Z",
+          "wordCount": 177,
+          "title": "Dittytoy - Music / Synths / Audio FX with JS",
+          "imageUrl": "https://Dittytoy.net/thumbnail/5f66552091.jpg?v=12"
+        },
+        {
+          "id": "https://lobste.rs/s/stsa7r",
+          "author": "calvin@users.lobste.rs (calvin)",
+          "description": "Comments",
+          "link": "https://saaramar.github.io/kmem_guard_t_blogpost/",
+          "publishedOn": "2022-11-21T17:16:42.000Z",
+          "wordCount": 3496,
+          "title": "kmem_guard_t",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/xa3pez",
+          "author": "eatonphil@users.lobste.rs (eatonphil)",
+          "description": "Comments",
+          "link": "https://jzhao.xyz/posts/bft-json-crdt/",
+          "publishedOn": "2022-11-21T17:13:21.000Z",
+          "wordCount": 6234,
+          "title": "Building a BFT JSON CRDT",
+          "imageUrl": "https://jzhao.xyz/res/og-card.png"
+        },
+        {
+          "id": "https://lobste.rs/s/bjdy3i",
+          "author": "technetium@users.lobste.rs (technetium)",
+          "description": "Comments",
+          "link": "https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf",
+          "publishedOn": "2022-11-21T16:45:52.000Z",
+          "wordCount": 3122,
+          "title": "Intel 8080 CPU Chip Development (2007)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/vzijnh",
+          "author": "joshuacc@users.lobste.rs (joshuacc)",
+          "description": "Comments",
+          "link": "https://github.com/joshuacc/chalk.ahk",
+          "publishedOn": "2022-11-21T16:43:10.000Z",
+          "wordCount": 764,
+          "title": "chalk.ahk: An AutoHotkey library for colorizing terminal output",
+          "imageUrl": "https://opengraph.githubassets.com/be877eeac7be56eec746bb5c7021690a387a26651ea87966fe44b4cee9d18bfc/joshuacc/chalk.ahk"
+        },
+        {
+          "id": "https://lobste.rs/s/1zqco6",
+          "author": "snej@users.lobste.rs (snej)",
+          "description": "Comments",
+          "link": "https://arstechnica.com/?p=1896053",
+          "publishedOn": "2022-11-21T16:17:38.000Z",
+          "wordCount": 2006,
+          "title": "A history of ARM, part 2: Everything starts to come together",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/armpart29-760x380.jpeg"
+        },
+        {
+          "id": "https://lobste.rs/s/gzioiw",
+          "author": "grahamc@users.lobste.rs (grahamc)",
+          "description": "Comments",
+          "link": "https://determinate.systems/posts/nix-to-kubernetes",
+          "publishedOn": "2022-11-21T15:24:19.000Z",
+          "wordCount": 8978,
+          "title": "Deploying Nix-built containers to Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/tsh7jd",
+          "author": "chreke@users.lobste.rs (chreke)",
+          "description": "Comments",
+          "link": "https://chreke.com/little-languages.html",
+          "publishedOn": "2022-11-21T15:18:48.000Z",
+          "wordCount": 3078,
+          "title": "Little Languages Are The Future Of Programming",
+          "imageUrl": "https://chreke.com/images/maxwell-fashion.png"
+        },
+        {
+          "id": "https://lobste.rs/s/nv9cde",
+          "author": "calvin@users.lobste.rs (calvin)",
+          "description": "Comments",
+          "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf",
+          "publishedOn": "2022-11-21T15:17:18.000Z",
+          "wordCount": 43953,
+          "title": "Rethinking the Library OS from the Top Down (2011)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/kosfvz",
+          "author": "usrme@users.lobste.rs (usrme)",
+          "description": "Comments",
+          "link": "https://github.com/buzz-language/buzz",
+          "publishedOn": "2022-11-21T14:05:10.000Z",
+          "wordCount": 2433,
+          "title": "Buzz, a small/lightweight typed scripting language written in Zig",
+          "imageUrl": "https://opengraph.githubassets.com/c903bf9ee593222f9acda1dc01ff8f61ea42dd15f37b2c7a365faa9aab3edc18/buzz-language/buzz"
+        },
+        {
+          "id": "https://lobste.rs/s/zhdo5a",
+          "author": "caius@users.lobste.rs (caius)",
+          "description": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
+          "link": "https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week",
+          "publishedOn": "2022-11-21T11:34:01.000Z",
+          "wordCount": 1606,
+          "title": "What are you doing this week?",
           "imageUrl": null
         },
         {
@@ -121,138 +251,8 @@
           "description": "Comments",
           "link": "https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos",
           "publishedOn": "2022-11-20T15:44:03.000Z",
-          "wordCount": 606,
+          "wordCount": 623,
           "title": "Self-hosting GoToSocial on NixOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/pjnrmf",
-          "author": "janus@users.lobste.rs (janus)",
-          "description": "Comments",
-          "link": "https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4",
-          "publishedOn": "2022-11-20T15:39:35.000Z",
-          "wordCount": 500,
-          "title": "LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/om1vfr",
-          "author": "mat@users.lobste.rs (mat)",
-          "description": "Comments",
-          "link": "https://healeycodes.com/codeguessr",
-          "publishedOn": "2022-11-20T13:05:09.000Z",
-          "wordCount": 4412,
-          "title": "Codeguessr - a Geoguessr-like game for popular open source projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/bdyq17",
-          "author": "toastal@users.lobste.rs (toastal)",
-          "description": "Currently there’s 4 Fediverse topics on the front page. This suggests there is good interest in these platforms. Currently the Lobsters user profiles have but two proprietary, closed-source, centralized social network platforms: Twitter and GitHub. I think it may be desired by many users to have the option of including one’s Fediverse profile links as well.",
-          "link": "https://lobste.rs/s/bdyq17/should_lobsters_profiles_include",
-          "publishedOn": "2022-11-20T12:09:04.000Z",
-          "wordCount": 517,
-          "title": "Should Lobsters profiles include a/multiple Fediverse links?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/vaf6tc",
-          "author": "3bal@users.lobste.rs (3bal)",
-          "description": "Comments",
-          "link": "https://balaskas.gr/blog/2022/11/11/gitlab-as-a-terraform-state-backend/",
-          "publishedOn": "2022-11-20T08:15:45.000Z",
-          "wordCount": 1278,
-          "title": "GitLab as a Terraform state backend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/juznrz",
-          "author": "simonw@users.lobste.rs (simonw)",
-          "description": "Comments",
-          "link": "https://simonwillison.net/2022/Nov/20/tracking-mastodon/",
-          "publishedOn": "2022-11-20T07:48:22.000Z",
-          "wordCount": 1479,
-          "title": "Tracking Mastodon user numbers over time with a bucket of tricks",
-          "imageUrl": "https://static.simonwillison.net/static/2022/mastodon-users-few-hours.png"
-        },
-        {
-          "id": "https://lobste.rs/s/4yyai6",
-          "author": "mraza007@users.lobste.rs (mraza007)",
-          "description": "Hello,\nI’m pretty new to mastodon as I’m trying to switch away from twitter so what are your favorite mastodon technology/programming community servers",
-          "link": "https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon",
-          "publishedOn": "2022-11-20T03:57:13.000Z",
-          "wordCount": 1771,
-          "title": "What are your favorite Mastodon technology/programming community servers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/pyko5k",
-          "author": "learnbyexample@users.lobste.rs (learnbyexample)",
-          "description": "Comments",
-          "link": "https://github.com/jart/blink",
-          "publishedOn": "2022-11-20T02:44:40.000Z",
-          "wordCount": 1059,
-          "title": "blink: tiniest x86-64-linux emulator",
-          "imageUrl": "https://opengraph.githubassets.com/91d13ff7dde28a99df410d0aec3211cd698c063267c40bc3e14b709f1e2b7296/jart/blink"
-        },
-        {
-          "id": "https://lobste.rs/s/agajwe",
-          "author": "knl@users.lobste.rs (knl)",
-          "description": "Comments",
-          "link": "https://meat.io/oksolar",
-          "publishedOn": "2022-11-19T22:19:21.000Z",
-          "wordCount": 2075,
-          "title": "OKSolar - Improving on Solarized using the OKLab perceptual colorspace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/r4u62z",
-          "author": "eatonphil@users.lobste.rs (eatonphil)",
-          "description": "Comments",
-          "link": "https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/",
-          "publishedOn": "2022-11-19T20:38:43.000Z",
-          "wordCount": 2320,
-          "title": "Scaling Mastodon in the Face of an Exodus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/x0qiml",
-          "author": "Foxboron@users.lobste.rs (Foxboron)",
-          "description": "Comments",
-          "link": "https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/",
-          "publishedOn": "2022-11-19T18:53:14.000Z",
-          "wordCount": 1281,
-          "title": "coredumpctl, delve and debug packages for Go",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/9e8qsh",
-          "author": "aviram@users.lobste.rs (aviram)",
-          "description": "Comments",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin",
-          "publishedOn": "2022-11-19T18:36:13.000Z",
-          "wordCount": 644,
-          "title": "Go 1.21 may have a clear(x) builtin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/6zbj5q",
-          "author": "no_gravity@users.lobste.rs (no_gravity)",
-          "description": "Comments",
-          "link": "https://twitter.com/marekgibney/status/1593950777739218947",
-          "publishedOn": "2022-11-19T13:09:13.000Z",
-          "wordCount": 399,
-          "title": "One can create interactive trees in pure html with a single css rule",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/xrrrfs",
-          "author": "ubitux@users.lobste.rs (ubitux)",
-          "description": "Comments",
-          "link": "http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html",
-          "publishedOn": "2022-11-18T22:21:50.000Z",
-          "wordCount": 560,
-          "title": "Investigating why Steam started picking a random font",
           "imageUrl": null
         }
       ]
@@ -263,203 +263,203 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=33687179",
+          "id": "https://news.ycombinator.com/item?id=33700415",
+          "author": "quotha",
+          "description": "Article URL: https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers\nComments URL: https://news.ycombinator.com/item?id=33700415\nPoints: 14\n# Comments: 3",
+          "link": "https://highways.dot.gov/public-roads/marchapril-2000/basics-concrete-barriers",
+          "publishedOn": "2022-11-22T00:55:03.000Z",
+          "wordCount": 3133,
+          "title": "Basics of Concrete Barriers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33700136",
+          "author": "sleepyink",
+          "description": "Article URL: https://github.com/sandialabs/wiretap\nComments URL: https://news.ycombinator.com/item?id=33700136\nPoints: 10\n# Comments: 2",
+          "link": "https://github.com/sandialabs/wiretap",
+          "publishedOn": "2022-11-22T00:21:42.000Z",
+          "wordCount": 2502,
+          "title": "Show HN: Wiretap – Transparent WireGuard proxy server without root",
+          "imageUrl": "https://opengraph.githubassets.com/52a3465463e5db787896f97d0fd789139ca0993d5ecbbd9e3c7ed20f88f7d2d2/sandialabs/wiretap"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33699708",
+          "author": "stefan_",
+          "description": "Article URL: https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf\nComments URL: https://news.ycombinator.com/item?id=33699708\nPoints: 40\n# Comments: 43",
+          "link": "https://www.supremecourt.gov/DocketPDF/21/21-1338/247116/20221121154250394_NSO%20v.%20WhatsAppp%20CVSG.pdf",
+          "publishedOn": "2022-11-21T23:31:32.000Z",
+          "wordCount": 4921,
+          "title": "Justice Dept. urges Supreme Court to deny certiorari in WhatsApp vs. NSO Group [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33699298",
+          "author": "Alupis",
+          "description": "Article URL: https://neilmadden.blog/2018/08/30/moving-away-from-uuids/\nComments URL: https://news.ycombinator.com/item?id=33699298\nPoints: 91\n# Comments: 81",
+          "link": "https://neilmadden.blog/2018/08/30/moving-away-from-uuids/",
+          "publishedOn": "2022-11-21T22:53:28.000Z",
+          "wordCount": 3525,
+          "title": "Moving Away from UUIDs",
+          "imageUrl": "https://neilmadden.files.wordpress.com/2018/08/bet-dice-fence-2625252.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33698314",
+          "author": "mertyildiran",
+          "description": "Article URL: https://github.com/kubeshark/kubeshark\nComments URL: https://news.ycombinator.com/item?id=33698314\nPoints: 118\n# Comments: 6",
+          "link": "https://github.com/kubeshark/kubeshark",
+          "publishedOn": "2022-11-21T21:36:26.000Z",
+          "wordCount": 970,
+          "title": "Kubeshark: The API Traffic Viewer for Kubernetes",
+          "imageUrl": "https://repository-images.githubusercontent.com/359419233/dfc63f0c-d8cb-4078-af5b-36623168f3b9"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33698094",
+          "author": "ctoth",
+          "description": "Article URL: https://asteriskmag.com/issues/1/is-wine-fake\nComments URL: https://news.ycombinator.com/item?id=33698094\nPoints: 326\n# Comments: 364",
+          "link": "https://asteriskmag.com/issues/1/is-wine-fake",
+          "publishedOn": "2022-11-21T21:20:57.000Z",
+          "wordCount": 3355,
+          "title": "Is wine fake?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33698029",
+          "author": "joemanaco",
+          "description": "Article URL: https://bitbucket.org/JackAsser/eye-of-the-beholder-c64/src/master/\nComments URL: https://news.ycombinator.com/item?id=33698029\nPoints: 47\n# Comments: 18",
+          "link": "https://bitbucket.org/JackAsser/eye-of-the-beholder-c64/src/master/",
+          "publishedOn": "2022-11-21T21:15:12.000Z",
+          "wordCount": null,
+          "title": "Eye of the Beholder: C64 Port",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33698021",
+          "author": "zdw",
+          "description": "Article URL: https://arcadeblogger.com/2022/11/20/the-last-ridge-racer/\nComments URL: https://news.ycombinator.com/item?id=33698021\nPoints: 89\n# Comments: 10",
+          "link": "https://arcadeblogger.com/2022/11/20/the-last-ridge-racer/",
+          "publishedOn": "2022-11-21T21:14:34.000Z",
+          "wordCount": 6488,
+          "title": "The Last Ridge Racer",
+          "imageUrl": "https://missilecommand.files.wordpress.com/2022/11/ridge-racer-full-scale-image-1.jpg?w=824"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33697905",
+          "author": "revskill",
+          "description": "Article URL: https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf\nComments URL: https://news.ycombinator.com/item?id=33697905\nPoints: 44\n# Comments: 29",
+          "link": "https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf",
+          "publishedOn": "2022-11-21T21:04:41.000Z",
+          "wordCount": 4061,
+          "title": "FizzBuzz in Haskell [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33697284",
+          "author": "whatever1",
+          "description": "Article URL: https://forums.macrumors.com/threads/icloud-for-windows-corrupting-videos-downloading-other-peoples-photos.2370666/\nComments URL: https://news.ycombinator.com/item?id=33697284\nPoints: 249\n# Comments: 45",
+          "link": "https://forums.macrumors.com/threads/icloud-for-windows-corrupting-videos-downloading-other-peoples-photos.2370666/",
+          "publishedOn": "2022-11-21T20:10:48.000Z",
+          "wordCount": 4435,
+          "title": "iCloud for Windows downloading other people's photos",
+          "imageUrl": "https://forums.macrumors.com/attachments/screenshot-2022-11-15-210946-png.2114705/"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33696486",
+          "author": "tmansour",
+          "description": "Hi HN! Tarek and Luana here, co-founders of Kalshi (https://kalshi.com/hn), a financial exchange that allows you to trade on the outcome of events.\nEveryone faces different risks: inflation, extreme weather, mortgage rates, Supreme Court decisions, student debt, and more. Our mission is to allow people and businesses to mitigate risks that relate to them.\nWe got into finance early during our time at MIT. Tarek worked at Goldman and Citadel, Luana worked at Bridgewater and Citadel. We noticed something common across all these places: a lot of trading stemmed from an opinion on a future event. For example, a lot of activity at Goldman at the time was focused on providing institutions with exposure to, or a hedge against, Brexit. To do this, we’d sell them complicated financial bundles (a bun…",
+          "link": "https://news.ycombinator.com/item?id=33696486",
+          "publishedOn": "2022-11-21T19:07:35.000Z",
+          "wordCount": 8163,
+          "title": "Launch HN: Kalshi (YC W19) – A regulated exchange for trading on events",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33696216",
+          "author": "ForgotIdAgain",
+          "description": "List of scenes that I am particularly fond of:\n- Minecrat computer engineering: Culminated with this playable 3d simplified minecraft clone (CPU+GPU) https://www.youtube.com/watch?v=-BP7DhHTU-I\n- Shader computing scene: More of a subculture of an already marvelous subculture, people are finding weird ways to compute with shader\nhttps://blog.pimaker.at/texts/rvc1/ Risc V emulator in a shader\nhttps://github.com/SCRN-VRC/SVM-Face-and-Object-Detection-Shader Object detection in a shader\n- Cellular automata: people finding awesome patterns, some great project:\nhttps://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life\nhttps://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/\n- TAS/Speedrun:\nhttps://www.youtube.com/watch?v=qBK1sq1BQ2Q Insane game exploit which uses only player input in order to inject an elaborate rom hack with network functionality\nhttps://www.youtube.com/watch?v=O9dTmzRAL_4 Another insane one which work by switching game (!!) during the run\n- \"Can it run Doom\" Scene:\nhttps://twitter.com/sylefeb/status/1258808333265514497 Run a doom map renderer on a FPGA. Not on a classic computer \"emulated\" by the fpga, the renderer is directly implemented in the fpga\nhttps://www.youtube.com/watch?v=c6hnQ1RKhbo Yes doom can run doom\nSo what are your technical gem?\nComments URL: https://news.ycombinator.com/item?id=33696216\nPoints: 190\n# Comments: 214",
+          "link": "https://news.ycombinator.com/item?id=33696216",
+          "publishedOn": "2022-11-21T18:42:19.000Z",
+          "wordCount": 16584,
+          "title": "Ask HN: What weird technical scene are you fond/part of?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33695937",
+          "author": "kelthuzad",
+          "description": "Article URL: https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619\nComments URL: https://news.ycombinator.com/item?id=33695937\nPoints: 267\n# Comments: 95",
+          "link": "https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619",
+          "publishedOn": "2022-11-21T18:21:02.000Z",
+          "wordCount": 7044,
+          "title": "Apple sends DSID with iPhone analytics data, tests show",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c37a50d6f96ffab8b17a6837820ea96d.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33695886",
           "author": "ghuntley",
-          "description": "Article URL: https://gvolpe.com/blog/scala3-is-not-prod-ready/\nComments URL: https://news.ycombinator.com/item?id=33687179\nPoints: 10\n# Comments: 3",
-          "link": "https://gvolpe.com/blog/scala3-is-not-prod-ready/",
-          "publishedOn": "2022-11-21T00:30:43.000Z",
-          "wordCount": 900,
-          "title": "Scala 3 is not production ready",
-          "imageUrl": null
+          "description": "Article URL: https://emily.id.au/tailscale\nComments URL: https://news.ycombinator.com/item?id=33695886\nPoints: 533\n# Comments: 99",
+          "link": "https://emily.id.au/tailscale",
+          "publishedOn": "2022-11-21T18:17:54.000Z",
+          "wordCount": 4523,
+          "title": "CVE-2022-41924 – tailscaled can be used to remotely execute code on Windows",
+          "imageUrl": "https://emily.id.au/files/banner.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33687141",
-          "author": "bzogrammer",
-          "description": "Article URL: https://annasofia.xyz/2022/11/05/criticizing-computers.html\nComments URL: https://news.ycombinator.com/item?id=33687141\nPoints: 33\n# Comments: 2",
-          "link": "https://annasofia.xyz/2022/11/05/criticizing-computers.html",
-          "publishedOn": "2022-11-21T00:23:49.000Z",
-          "wordCount": 2099,
-          "title": "Criticizing Computers",
-          "imageUrl": "http://annasofia.xyz/assets/softcomp.jpg"
+          "id": "https://news.ycombinator.com/item?id=33694984",
+          "author": "bookofjoe",
+          "description": "Article URL: https://www.hyperganic.com/blog/we-just-built-the-worlds-largest-3d-printed-aerospike-rocket-engine/\nComments URL: https://news.ycombinator.com/item?id=33694984\nPoints: 66\n# Comments: 51",
+          "link": "https://www.hyperganic.com/blog/we-just-built-the-worlds-largest-3d-printed-aerospike-rocket-engine/",
+          "publishedOn": "2022-11-21T17:10:33.000Z",
+          "wordCount": 688,
+          "title": "We just built the world’s largest 3D-printed aerospike rocket engine",
+          "imageUrl": "https://d3p4h421bo5900.cloudfront.net/wp-content/uploads/2022/05/image-4-scaled.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33687031",
-          "author": "tosh",
-          "description": "Article URL: https://github.com/openzfsonosx\nComments URL: https://news.ycombinator.com/item?id=33687031\nPoints: 33\n# Comments: 8",
-          "link": "https://github.com/openzfsonosx",
-          "publishedOn": "2022-11-21T00:09:12.000Z",
-          "wordCount": 452,
-          "title": "OpenZFS on OS X",
-          "imageUrl": "https://avatars.githubusercontent.com/u/6936109?s=280&v=4"
+          "id": "https://news.ycombinator.com/item?id=33694568",
+          "author": "raykyri",
+          "description": "Article URL: https://jzhao.xyz/posts/bft-json-crdt/\nComments URL: https://news.ycombinator.com/item?id=33694568\nPoints: 151\n# Comments: 31",
+          "link": "https://jzhao.xyz/posts/bft-json-crdt/",
+          "publishedOn": "2022-11-21T16:41:29.000Z",
+          "wordCount": 6234,
+          "title": "Building a BFT JSON CRDT",
+          "imageUrl": "https://jzhao.xyz/res/og-card.png"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33686782",
-          "author": "pimeys",
-          "description": "Article URL: https://social.treehouse.systems/@alyssa/109378606742926582\nComments URL: https://news.ycombinator.com/item?id=33686782\nPoints: 85\n# Comments: 12",
-          "link": "https://social.treehouse.systems/@alyssa/109378606742926582",
-          "publishedOn": "2022-11-20T23:40:56.000Z",
-          "wordCount": 115,
-          "title": "Minecraft Running on Asahi Linux with Open Source GPU Drivers",
-          "imageUrl": "https://cache.treehouse.systems/media_attachments/files/109/378/598/300/399/922/original/bd5ad73999c56139.png"
+          "id": "https://news.ycombinator.com/item?id=33693873",
+          "author": "pjmlp",
+          "description": "Article URL: http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html\nComments URL: https://news.ycombinator.com/item?id=33693873\nPoints: 187\n# Comments: 135",
+          "link": "http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html",
+          "publishedOn": "2022-11-21T15:48:23.000Z",
+          "wordCount": 2985,
+          "title": "Why CVE-2022-3602 was not detected by fuzz testing",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1S5DXCOzxUNgBr4HEmkkzR2PJd-lA4NC4wHZ9FabJ5eZ4W34STScCbEOsCotD3p966G5ssLKujy4UGjQUlghOwOamBcVgX9ZMV4KT4C2HY89-jbaNxgL5drxt1LwmDoLrvm3U26sODL-D0ztSWfWj6aCmLzFg1jhlswx_osxvWYRaokVenMsnLP7b/w1200-h630-p-k-no-nu/punycode.png"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33686599",
-          "author": "andrepd",
-          "description": "Article URL: https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/\nComments URL: https://news.ycombinator.com/item?id=33686599\nPoints: 258\n# Comments: 121",
-          "link": "https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/",
-          "publishedOn": "2022-11-20T23:17:59.000Z",
-          "wordCount": 3126,
-          "title": "France bans Office 365 and Google Docs from schools and public administration",
-          "imageUrl": "https://siecledigital.fr/wp-content/uploads/2022/11/portaitpapndiaye-gouv.jpeg"
+          "id": "https://news.ycombinator.com/item?id=33693838",
+          "author": "ksec",
+          "description": "Article URL: https://itigic.com/dvd-sales-surpass-blu-ray-in-2021-physical-format-market/\nComments URL: https://news.ycombinator.com/item?id=33693838\nPoints: 110\n# Comments: 186",
+          "link": "https://itigic.com/dvd-sales-surpass-blu-ray-in-2021-physical-format-market/",
+          "publishedOn": "2022-11-21T15:46:03.000Z",
+          "wordCount": 1889,
+          "title": "DVD sales surpass Blu-ray in 2021: Physical format market",
+          "imageUrl": "https://itigic.com/wp-content/uploads/2021/04/20210416_6078f0724ddf7.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33686556",
-          "author": "ajsfoux234",
-          "description": "Article URL: https://old.reddit.com/r/discordapp/comments/ywjcep/cant_use_my_name/\nComments URL: https://news.ycombinator.com/item?id=33686556\nPoints: 33\n# Comments: 4",
-          "link": "https://old.reddit.com/r/discordapp/comments/ywjcep/cant_use_my_name/",
-          "publishedOn": "2022-11-20T23:13:12.000Z",
-          "wordCount": 6489,
-          "title": "Username cannot contain 'clyde'",
-          "imageUrl": "https://preview.redd.it/hfgad60z4a0a1.jpg?width=1200&height=628.272251309&auto=webp&crop=1200:628.272251309,smart&s=e49560f6cb4a6cac15df4939a1a04962e582498b"
+          "id": "https://news.ycombinator.com/item?id=33693779",
+          "author": "mfiguiere",
+          "description": "Article URL: https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/\nComments URL: https://news.ycombinator.com/item?id=33693779\nPoints: 160\n# Comments: 66",
+          "link": "https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/",
+          "publishedOn": "2022-11-21T15:41:51.000Z",
+          "wordCount": 7223,
+          "title": "How Precision Time Protocol is being deployed at Meta",
+          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2022/11/CD22-717-Eng-PTP-DeepDive-Hero-02.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=33686094",
-          "author": "matthewmorgan",
-          "description": "Article URL: https://briarproject.org/how-it-works/\nComments URL: https://news.ycombinator.com/item?id=33686094\nPoints: 136\n# Comments: 30",
-          "link": "https://briarproject.org/how-it-works/",
-          "publishedOn": "2022-11-20T22:21:45.000Z",
-          "wordCount": 745,
-          "title": "Briar: Peer-to-Peer Encrypted Messaging",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33685608",
-          "author": "belter",
-          "description": "Article URL: https://www.theregister.com/2022/11/19/liquid_cooling_sc22/\nComments URL: https://news.ycombinator.com/item?id=33685608\nPoints: 26\n# Comments: 10",
-          "link": "https://www.theregister.com/2022/11/19/liquid_cooling_sc22/",
-          "publishedOn": "2022-11-20T21:34:18.000Z",
-          "wordCount": 2283,
-          "title": "Liquid and immersion is the new cool at Supercomputing '22",
-          "imageUrl": "https://regmedia.co.uk/2022/11/18/midas_immersion_tank_2crsi.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33685567",
-          "author": "wslh",
-          "description": "Article URL: https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/\nComments URL: https://news.ycombinator.com/item?id=33685567\nPoints: 39\n# Comments: 19",
-          "link": "https://www.washingtonpost.com/wellness/2022/11/14/brown-noise-adhd-focus/",
-          "publishedOn": "2022-11-20T21:30:37.000Z",
-          "wordCount": 8863,
-          "title": "For some with ADHD, the low rumble of brown noise quiets the brain",
-          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PR3WRD2UPVEVJPDYV57XWM4EGI.gif&w=1440"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33685433",
-          "author": "atan2",
-          "description": "Article URL: https://pikuma.com/blog/what-is-dos4gw-protected-mode\nComments URL: https://news.ycombinator.com/item?id=33685433\nPoints: 48\n# Comments: 13",
-          "link": "https://pikuma.com/blog/what-is-dos4gw-protected-mode",
-          "publishedOn": "2022-11-20T21:19:05.000Z",
-          "wordCount": 2455,
-          "title": "DOS/4GW and Protected Mode (2021)",
-          "imageUrl": "https://pikuma.com/images/blog/what-is-dos4gw-protected-mode/thumbnail-1200x675.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33685209",
-          "author": "dynamicwebpaige",
-          "description": "Article URL: https://www.kite.com/blog/product/kite-is-saying-farewell/\nComments URL: https://news.ycombinator.com/item?id=33685209\nPoints: 433\n# Comments: 227",
-          "link": "https://www.kite.com/blog/product/kite-is-saying-farewell/",
-          "publishedOn": "2022-11-20T20:57:33.000Z",
-          "wordCount": 1548,
-          "title": "Kite is saying farewell and open-sourcing its code",
-          "imageUrl": "https://www.kite.com/wp-content/uploads/2019/10/IMG_4936-1024x683.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33684666",
-          "author": "Bogdanp",
-          "description": "Article URL: https://defn.io/2022/11/20/ann-franz/\nComments URL: https://news.ycombinator.com/item?id=33684666\nPoints: 121\n# Comments: 23",
-          "link": "https://defn.io/2022/11/20/ann-franz/",
-          "publishedOn": "2022-11-20T20:00:27.000Z",
-          "wordCount": 405,
-          "title": "Show HN: A native macOS client for Apache Kafka",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33684467",
-          "author": "wallflower",
-          "description": "Article URL: https://www.nytimes.com/2022/11/20/business/sports-betting-lobbying-kansas.html\nComments URL: https://news.ycombinator.com/item?id=33684467\nPoints: 58\n# Comments: 27",
-          "link": "https://www.nytimes.com/2022/11/20/business/sports-betting-lobbying-kansas.html",
-          "publishedOn": "2022-11-20T19:39:42.000Z",
-          "wordCount": null,
-          "title": "A lobbying blitz made sports betting ubiquitous",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33684255",
-          "author": "tosh",
-          "description": "Article URL: https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-33-tailscale-with-avery-pennarun\nComments URL: https://news.ycombinator.com/item?id=33684255\nPoints: 41\n# Comments: 4",
-          "link": "https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-33-tailscale-with-avery-pennarun",
-          "publishedOn": "2022-11-20T19:23:02.000Z",
-          "wordCount": 29461,
-          "title": "Tailscale with Avery Pennarun",
-          "imageUrl": "https://cdn.sanity.io/images/50q6fr1p/production/a089f4f612c8855e78f6f1eceebf9d3ac61d285d-1600x601.jpg?auto=format"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33684237",
-          "author": "DerekBickerton",
-          "description": "Article URL: https://www.cjchilvers.com/blog/just-putting-it-out-there/\nComments URL: https://news.ycombinator.com/item?id=33684237\nPoints: 56\n# Comments: 43",
-          "link": "https://www.cjchilvers.com/blog/just-putting-it-out-there/",
-          "publishedOn": "2022-11-20T19:21:02.000Z",
-          "wordCount": 1444,
-          "title": "Just putting it out there",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33684045",
-          "author": "kiyanwang",
-          "description": "Article URL: https://failingfast.io/opentelemetry-observability/\nComments URL: https://news.ycombinator.com/item?id=33684045\nPoints: 67\n# Comments: 26",
-          "link": "https://failingfast.io/opentelemetry-observability/",
-          "publishedOn": "2022-11-20T19:03:25.000Z",
-          "wordCount": 1809,
-          "title": "The Modern Observability Problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33684043",
-          "author": "masterofsome",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Man_of_the_Hole\nComments URL: https://news.ycombinator.com/item?id=33684043\nPoints: 99\n# Comments: 16",
-          "link": "https://en.wikipedia.org/wiki/Man_of_the_Hole",
-          "publishedOn": "2022-11-20T19:03:16.000Z",
-          "wordCount": 1862,
-          "title": "Man of the Hole",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b0/Man_of_the_Hole.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33683986",
-          "author": "tomrod",
-          "description": "Article URL: https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles\nComments URL: https://news.ycombinator.com/item?id=33683986\nPoints: 39\n# Comments: 1",
-          "link": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
-          "publishedOn": "2022-11-20T18:57:07.000Z",
-          "wordCount": 1639,
-          "title": "Good machine learning practice for medical device development",
-          "imageUrl": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33683642",
-          "author": "Tomte",
-          "description": "Article URL: https://www.youtube.com/watch?v=imMBwUGjXHs\nComments URL: https://news.ycombinator.com/item?id=33683642\nPoints: 76\n# Comments: 16",
-          "link": "https://www.youtube.com/watch?v=imMBwUGjXHs",
-          "publishedOn": "2022-11-20T18:22:38.000Z",
-          "wordCount": null,
-          "title": "The clever camera code on rolls of film [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=33683571",
-          "author": "susam",
-          "description": "Article URL: http://riscv.jghuff.com/\nComments URL: https://news.ycombinator.com/item?id=33683571\nPoints: 53\n# Comments: 20",
-          "link": "http://riscv.jghuff.com/",
-          "publishedOn": "2022-11-20T18:16:17.000Z",
-          "wordCount": 1743,
-          "title": "Welcome to the First RISC-V Site",
+          "id": "https://news.ycombinator.com/item?id=33693411",
+          "author": "arantius",
+          "description": "I had this idea kicking around in my head for quite a while.  Took an evening to make this, and a short morning to polish it a bit.  So here it is!\nComments URL: https://news.ycombinator.com/item?id=33693411\nPoints: 599\n# Comments: 148",
+          "link": "https://arantius.github.io/web-color-wheel/",
+          "publishedOn": "2022-11-21T15:12:01.000Z",
+          "wordCount": 1350,
+          "title": "Show HN: A color picker for named web colors",
           "imageUrl": null
         }
       ]
@@ -470,153 +470,103 @@
       "siteUrl": "https://www.reddit.com/r/datascience/top?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z0ib1g/help_with_discrete_values_in_the_lower_end_of_log/",
+          "id": "https://www.reddit.com/r/datascience/comments/z1gkk2/how_would_you_tell_which_distribution_is_has_the/",
           "author": null,
-          "description": "submitted by    /u/Hi-Techh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0ib1g/help_with_discrete_values_in_the_lower_end_of_log/",
-          "publishedOn": "2022-11-20T23:05:24.000Z",
-          "wordCount": 19882,
-          "title": "Help with discrete values in the lower end of log scale graphs? (more in comments)",
-          "imageUrl": "https://preview.redd.it/fgo7udlua81a1.jpg?auto=webp&s=32c763f7e5e0c3d46d81abc5182e8a9b7368c53e"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/z0i38w/standalone_interactive_html_from_jupyter_notebooks/",
-          "author": null,
-          "description": "I'd like to be able to make some interactive plots and tables in Jupyter to share with non coding colleagues. Most should be using Python.\n Ideally, sharing a single html is wonderful, or alternatively I can point them to a private URL from gitlab. But I have no idea of what's the easiest way to do this, any suggestions to get started?\n The important things here are that everything needs to remain private, so \"mybinder\" and others cannot be used since they require public repositories\n Many thanks for all the suggestions\n    submitted by    /u/Kiwi_Major  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0i38w/standalone_interactive_html_from_jupyter_notebooks/",
-          "publishedOn": "2022-11-20T22:57:00.000Z",
-          "wordCount": 19060,
-          "title": "Standalone Interactive html from jupyter notebooks",
+          "description": "I have a set of distributions and I need to tell which distribution is the most consistent, meaning which one has values that are all very close.\n Finding the distribution with the smallest standard deviation came to mind, but there are sometimes major outliers that shouldn’t be removed unless necessary.\n Anyone have any ideas? Thanks for your time\n    submitted by    /u/pizzagarrett  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z1gkk2/how_would_you_tell_which_distribution_is_has_the/",
+          "publishedOn": "2022-11-22T01:28:42.000Z",
+          "wordCount": 19593,
+          "title": "How would you tell which distribution is has the most consistent values?",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z0f07b/move_jobs_for_20k_more_within_2_months_of/",
+          "id": "https://www.reddit.com/r/datascience/comments/z1fiv3/daily_price_averages_used_fleet_car_market/",
           "author": null,
-          "description": "I have been working in a data position for 2 months but have seen a job advertised I am confident I could get for a £20k higher salary.\n I would need to include my current job in my CV as the title is a big value add to my offering.\n My concern is that the new company will see my disloyalty and it will affect my reputation applying to them in future (if unsuccessful now). But if I don’t apply, I’m leaving that huge pay increase on the table, for a job I would likely get.\n Thoughts on weighing the money vs reputational hit of disloyalty? I am also new to the industry, this is my second data job. I could perhaps change the start date of the current job?\n    submitted by    /u/AlleyOoopp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0f07b/move_jobs_for_20k_more_within_2_months_of/",
-          "publishedOn": "2022-11-20T20:55:17.000Z",
-          "wordCount": 20749,
-          "title": "Move jobs for 20k more within 2 months of starting current job?",
+          "description": "submitted by    /u/andesouz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z1fiv3/daily_price_averages_used_fleet_car_market/",
+          "publishedOn": "2022-11-22T00:40:24.000Z",
+          "wordCount": 19467,
+          "title": "Daily Price Averages - used Fleet Car Market",
+          "imageUrl": "https://external-preview.redd.it/z-GZqcUNoc-t0BE1cUg03deL8YYHV1fpPr_1Z5hwEf8.jpg?auto=webp&s=b8456d4fc558ac8de10a53f3c46c5fedb112ab29"
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/z1buws/what_is_my_job_title/",
+          "author": null,
+          "description": "Currently working for a large engineering company, usually based in the European HQ office (where all the Data & AI/Engineering team sits), but now based out of sales office in South America on a 6 month secondment.\n I am essentially the link between the local sales offices (in 8 countries across the Americas) and HQ, where all the digital product development is done. I document the current data collection processes and attempt to drive traction for various digital offerings that are in development. I am in constant communication with multiple internal teams and external customers.\n I have a masters in Data Science & Analytics, but also 3 years of sales experience - if that puts my background in perspective.\n Anyway, would like to tidy up my CV and am struggling what job title this would constitute. My direct report says I am an \"Evangelist\" but not a fan of that classification.\n Any suggestions are welcome!\n    submitted by    /u/shadowgroover  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z1buws/what_is_my_job_title/",
+          "publishedOn": "2022-11-21T22:07:17.000Z",
+          "wordCount": 19556,
+          "title": "What is my job title?",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z0cb01/discrimination_of_r_in_companies/",
+          "id": "https://www.reddit.com/r/datascience/comments/z1bb5z/just_wanted_to_share_the_best_typo_ill_ever_come/",
           "author": null,
-          "description": "I usually prefer R over Python because it let’s me be more efficient in many ways. I learned how to “productionize” my R code easily too. However what I see is that most companies prefer to embrace python or even forbid R sometimes in their stack. How to deal with this?\n    submitted by    /u/acdbddh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0cb01/discrimination_of_r_in_companies/",
-          "publishedOn": "2022-11-20T19:06:02.000Z",
-          "wordCount": 24757,
-          "title": "Discrimination of R in companies",
+          "description": "submitted by    /u/icanelectoo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z1bb5z/just_wanted_to_share_the_best_typo_ill_ever_come/",
+          "publishedOn": "2022-11-21T21:46:30.000Z",
+          "wordCount": 19534,
+          "title": "Just wanted to share the best typo I'll ever come across in an academic paper. Right in the acknowledgments, too.",
+          "imageUrl": "https://preview.redd.it/5qabzetyjd1a1.png?auto=webp&s=cde95a96bd10392a89a2ddb5aea562bdc98b1282"
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/z16efm/how_to_get_stakeholders_to_trust_your_product/",
+          "author": null,
+          "description": "Tldr; How to convince stakeholders that your product is working as intended and the can trust the output of it?\n Background: I have build this rather simple data pipeline which transforms the input data, applies some simple aggregations (not even the harmonic mean), some simple filters and produces plots of the data. Now, the stakeholders which are the sales team and my boss don't trust the output of the whole thing (anymore).\n Measures I took to build trust:\n  \nincluded unit tests with test cases in order to verify aggregation and construction of metrics\n separate aggregation and plotting into different steps of the pipeline\n made a diagram with data flow and all definitions\n rely mostly on well tested third party libraries (pandas and matplotlib)\n Versioning and documenting the code and the input to have reproducible pipeline runs\n  \nReasons why I think they don't trust it: * I am the only person developing it, so there is no review process and I could test my own logical errors with the unit tests * Communication between the sales team and me was suboptimal, i.e. the meaning of some metrics was not clear to them and I did not always get what the expected of some metrics were * The underling input data quality was poor and changing often but was out of my control. In the end it was blamed on the product even it was not it's fault * Development in production due to changing requirements, tight deadlines and feature request, which lead to minor bugs\n I am interested in your thoughts how I can improve the situation and how I can avoid similar problems in the future.\n    submitted by    /u/Life_Ad_6195  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z16efm/how_to_get_stakeholders_to_trust_your_product/",
+          "publishedOn": "2022-11-21T18:36:50.000Z",
+          "wordCount": 19557,
+          "title": "How to get stakeholders to trust your product",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z0c3ss/good_machine_learning_practice_for_medical_device/",
+          "id": "https://www.reddit.com/r/datascience/comments/z127u8/come_one_come_all_invite_to_a_quantum_machine/",
           "author": null,
-          "description": "submitted by    /u/IpsoCranius  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0c3ss/good_machine_learning_practice_for_medical_device/",
-          "publishedOn": "2022-11-20T18:58:06.000Z",
-          "wordCount": 19026,
-          "title": "Good Machine Learning Practice for Medical Device Development",
-          "imageUrl": "https://external-preview.redd.it/IBhRypt2B8D_ObUFNGD2iukkR2USzCW4UwuDHhDBB6s.jpg?auto=webp&s=2522ff4049299a70570b3d9ba95108f06b80351a"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/z0azpr/automl_for_small_hvac_business_help/",
-          "author": null,
-          "description": "Hello. \n What is considered the overall best AutoML for doing timeseries prediction and deploying model on a Edge computer? Its important not to be relying on any CloudService except when data can be uploaded there and having a model made.\n Whats to be predicted is energy consumption for a boiler.\n    submitted by    /u/Aldsi22  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0azpr/automl_for_small_hvac_business_help/",
-          "publishedOn": "2022-11-20T18:12:54.000Z",
-          "wordCount": 20668,
-          "title": "AutoML for small HVAC business help",
+          "description": "https://www.reddit.com/r/quantum_Mach_Learning?utm_medium=android_app&utm_source=share\n ​\n Hi all,\n So this is an invite to a quantum machine learning community which as the name says is aimed for people who are interested in this promising field to ineract and network with one another....\n May you be an undergrad or a grad student or a professional working in another field....you are welcome to join.\n Hope you do join and make it a thriving and lively place...\n See you all great people there....\n    submitted by    /u/thejay147  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z127u8/come_one_come_all_invite_to_a_quantum_machine/",
+          "publishedOn": "2022-11-21T15:48:24.000Z",
+          "wordCount": 19752,
+          "title": "COME ONE COME ALL..... Invite to a quantum machine learing community...",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z07m5f/how_do_you_stop_thinking_about_work_tasks_at_home/",
+          "id": "https://www.reddit.com/r/datascience/comments/z11itd/rapid_fire_technical_questioning_during_an/",
           "author": null,
-          "description": "So I work as an engineer but I've recently been handed a \"data science\" project at work which I'm doing with Python. I'm really excited to work on this project. The problem is, when I come back home after work, I'm still thinking about it even though I try not to.\n I would appreciate some tips to help me detach from work.\n    submitted by    /u/Unlikely_Silver_1650  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z07m5f/how_do_you_stop_thinking_about_work_tasks_at_home/",
-          "publishedOn": "2022-11-20T15:57:55.000Z",
-          "wordCount": 26414,
-          "title": "How do you stop thinking about work tasks at home?",
+          "description": "I observed a few company where one of the person on the hiring panel (often a fellow data scientist and not a person of managerial position) rapidly ask technical questions. I am not sure if it is pre-mediated to stress test a candidate, but the experience left a sour taste in my mouth. What do you think about this interview strategy?\n Unrelated, I got a little revenge when I get to rapidly fire the panel for their take on the negative reviews I gathered on glassdoor.\n    submitted by    /u/fanhui3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z11itd/rapid_fire_technical_questioning_during_an/",
+          "publishedOn": "2022-11-21T15:19:57.000Z",
+          "wordCount": 21415,
+          "title": "rapid fire technical questioning during an interview a red flag?",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z06u58/what_is_the_most_exciting_data_set_you_have/",
+          "id": "https://www.reddit.com/r/datascience/comments/z0tums/web_scraping_in_google_sheets_a_lowcode/",
           "author": null,
-          "description": "These questions go out to all my fellow scientists and/or people who are excited about data and the insights you gain from them.\n Which sector you worked for had the most interesting data sets?\n Which insights you gained from analysis still fascinate you today?\n Bonus: Which types of commercial companies work closest to actual research or publish in the domain? \n Background: I am starting to look for DS jobs, and before looking at pay / company name etc., I’d love to know where I should look for a fulfilling job (as in the data sounds fun). Without personal insights, my logic is more ‘anything insurance related sounds boring’ and ‘public transport sounds cool’. But I may not be aware of some sectors, or misjudge others.\n    submitted by    /u/mycellarium  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z06u58/what_is_the_most_exciting_data_set_you_have/",
-          "publishedOn": "2022-11-20T15:25:40.000Z",
-          "wordCount": 19202,
-          "title": "What is the most exciting Data Set you have worked with?",
+          "description": "Google Sheets have useful ImportXML() and ImportHTML() functions which allow to extract data from external websites and put them to sheet cells. If you never used it, try it now! Put this in Google Sheets cell: =IMPORTXML(\"\n https://en.wikipedia.org/wiki/Moon_landing\", \"//a/@href\")\n It is possible to do a lot of things with ImportXML, but there are a lot of cons as well:\n  \nIf the target website data requires some cleanup post-processing, it's getting very complicated since you are now \"programming with excel formulas\", rather painful process compared to regular code writing in conventional programming languages\n There is no proper launch & cache control so the function can be triggered occasionally and if the HTTP request fails, cells will be populated with ERR! values\n The approach only …",
+          "link": "https://www.reddit.com/r/datascience/comments/z0tums/web_scraping_in_google_sheets_a_lowcode/",
+          "publishedOn": "2022-11-21T08:40:47.000Z",
+          "wordCount": 21924,
+          "title": "Web scraping in Google Sheets: a low-code alternative to ImportXML() approach",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z04jfz/microsoft_meta_and_others_face_risking_drought/",
+          "id": "https://www.reddit.com/r/datascience/comments/z0q4jp/how_much_time_do_you_typically_spend_in_exploring/",
           "author": null,
-          "description": "submitted by    /u/Top_Primary9371  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z04jfz/microsoft_meta_and_others_face_risking_drought/",
-          "publishedOn": "2022-11-20T13:47:13.000Z",
-          "wordCount": 18618,
-          "title": "Microsoft, Meta and Others Face Risking Drought Risk to Their Data Centers",
+          "description": "I have an engineering background. I am exploring a career move into data science. Was offered a senior data scientist role at a large IT firm. My core responsibilities include \"data exploration and providing structured data for analysis\", which to me sounds like a data analyst role and not data scientist.\n Need some suggestions if I should proceed. From what I read online, data scientists do spend a lot of time exploring right data sources and structuring documents for optimum training and visualizations. How much time do you typically spend in these activities (in terms of % of work per week)? I want to see how much time I will get for learning \"cool\" stuff like training models and playing with algorithms. \n Thanks!\n    submitted by    /u/Professor1441  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z0q4jp/how_much_time_do_you_typically_spend_in_exploring/",
+          "publishedOn": "2022-11-21T05:06:26.000Z",
+          "wordCount": 20077,
+          "title": "How much time do you typically spend in exploring and structuring data?",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/datascience/comments/z0211e/is_creating_a_medium_blog_worth_it_to_promote/",
+          "id": "https://www.reddit.com/r/datascience/comments/z0q0yl/weekly_entering_transitioning_thread_21_nov_2022/",
           "author": null,
-          "description": "I’ve been thinking if Medium is still a good way to promote your work/knowledge to attract recruiters / get known in the field / expand network.\n Recently I notice a lot of meaningless/repetitive posts in the platform and have been wondering if writing for Medium is a still good idea\n Do you guys know a better way to promote yourself?\n    submitted by    /u/LogisticDepression  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z0211e/is_creating_a_medium_blog_worth_it_to_promote/",
-          "publishedOn": "2022-11-20T11:40:13.000Z",
-          "wordCount": 21994,
-          "title": "Is creating a Medium blog worth it to promote yourself?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/z01pry/recommendation_engine_using_lightfm/",
-          "author": null,
-          "description": "Hello everyone!\n I'm using Lightfm for movie recommendation, my question is quite simple but I can't find the solution to it:\n I have trained a model using :\n User Feature matrix (Age, gender etc..)\n Item Feature Matrix (movie category etc ..)\n User Item interactions: if the user watched the movie or not.\n So far so good I trained my model, But now I want to predict on a new user who has seen 5 movies.\n I have the user features and the new user interaction array but how do I use these information to make a prediction on the other movies he might see.\n This is different from a cold start to me because we have the info that the new user has seen 5 movies.\n It looks simple but I can't find anything that answers this\n Thanks you in advance for your help!\n P-s: I heard that we can use partial fit but that bothers me because I want to make a prediction and not train the model on new users\n    submitted by    /u/ParsnipIntrepid9234  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z01pry/recommendation_engine_using_lightfm/",
-          "publishedOn": "2022-11-20T11:22:38.000Z",
-          "wordCount": 20031,
-          "title": "Recommendation engine using LightFm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/z006h0/help_me_with_this_python_question/",
-          "author": null,
-          "description": "What will the output of the following be?\n 1 or 0 \n 0 and 0\n True and False and True\n 1 or 0 or 0\n    submitted by    /u/Weekly_Strength4472  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/z006h0/help_me_with_this_python_question/",
-          "publishedOn": "2022-11-20T09:47:34.000Z",
-          "wordCount": 18993,
-          "title": "Help me with this Python Question.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/yzyybv/how_much_do_you_find_a_fancy_computer_helps/",
-          "author": null,
-          "description": "Thinking about investing in a one of the nicer laptops ($1k-2k range) on black Friday, but wondering how much this will actually help my workload?\n    submitted by    /u/queen_quarantine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/yzyybv/how_much_do_you_find_a_fancy_computer_helps/",
-          "publishedOn": "2022-11-20T08:27:11.000Z",
-          "wordCount": 21553,
-          "title": "how much do you find a fancy computer helps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/yzss6u/compare_applicant_profiles/",
-          "author": null,
-          "description": "Once I post about an opening for a job, i have multiple people express interest via comments or DMs. is there a quick way to compare all these profiles to engage further with the eligible candidates?\n ​\n Edit 1: I was referring to LinkedIn. \n    submitted by    /u/sang89  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/yzss6u/compare_applicant_profiles/",
-          "publishedOn": "2022-11-20T02:24:23.000Z",
-          "wordCount": 20215,
-          "title": "Compare applicant profiles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/yzsnw1/data_science_online_bootcamp/",
-          "author": null,
-          "description": "Any idea on reasonable data science online bootcamp ?\n    submitted by    /u/paperjena  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/yzsnw1/data_science_online_bootcamp/",
-          "publishedOn": "2022-11-20T02:18:01.000Z",
-          "wordCount": 19316,
-          "title": "Data science online bootcamp!",
+          "description": "Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:\n  \nLearning resources (e.g. books, tutorials, videos)\n Traditional education (e.g. schools, degrees, electives)\n Alternative education (e.g. online courses, bootcamps)\n Job search questions (e.g. resumes, applying, career prospects)\n Elementary questions (e.g. where to start, what next)\n  \nWhile you wait for answers from the community, check out the FAQ and Resources pages on our wiki. You can also search for answers in past weekly threads.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/z0q0yl/weekly_entering_transitioning_thread_21_nov_2022/",
+          "publishedOn": "2022-11-21T05:01:09.000Z",
+          "wordCount": 21941,
+          "title": "Weekly Entering & Transitioning - Thread 21 Nov, 2022 - 28 Nov, 2022",
           "imageUrl": null
         }
       ]
@@ -627,144 +577,164 @@
       "siteUrl": "https://www.reddit.com/r/artificial/top?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z0k323/120_hours_of_neuralnet_ecosystem_evolution/",
+          "id": "https://www.reddit.com/r/artificial/comments/z1eke3/machine_learning_at_reasonable_scale_with_ciro/",
           "author": null,
-          "description": "submitted by    /u/urocyon_dev  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z0k323/120_hours_of_neuralnet_ecosystem_evolution/",
-          "publishedOn": "2022-11-21T00:20:28.000Z",
-          "wordCount": 13212,
-          "title": "120 Hours of Neural-Net Ecosystem Evolution",
-          "imageUrl": "https://external-preview.redd.it/KzthV0ZD1ag45_8gyN05Cw2cy1DdtXPEHSZSLOd8ESM.jpg?auto=webp&s=8307b6e3a0908667951c929e74216ba478002be0"
+          "description": "Hey all! Working on MLOps without the resources of big tech? Everything you’ve always wanted to know about Reasonable Scale MLOps will be uncovered by Ciro Greco (Ex-Vice President of AI at Coveo, co-founder and CEO at Tooso) and Jacopo Tagliabue (Ex-Director of AI at Coveo, co-fonder and CTO at Tooso) in an upcoming Sphere course in the spring. \n At its essence, Reasonable Scale means that ML systems should be designed and deployed with four explicit constraints in mind: \n  \nFinancial impact \n Team size\n Data volume\n Computing resources\n  \nThe course will focus on the link between MLOps and business strategy: because Reasonable Scale companies have several constraints, choices that appear exquisitely technical can play a very deep role in implementing a sound business strategy.\n You’ll have the opportunity to learn from Ciro and Jacopo’s experience from garage, scale-up and IPO scale where they had the opportunity to learn from their mistake and with Coveo contribute to R&D research in EcommerceAI more than any other company in 2020 (second only to Amazon).\n Find out more and join them for some hard-won MLOps wisdom from the trenches: https://www.getsphere.com/cohorts/machine-learning-at-reasonable-scale?source=Sphere-Communities-r-artificial\n    submitted by    /u/lorenzo_1999  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z1eke3/machine_learning_at_reasonable_scale_with_ciro/",
+          "publishedOn": "2022-11-21T23:57:15.000Z",
+          "wordCount": 13681,
+          "title": "Machine Learning at Reasonable Scale with Ciro Greco (ex-VP of AI at Coveo) and Jacopo Tagliabue (ex-Director of AI at Coveo and father of Reasonable Scale MLOps)",
+          "imageUrl": "https://external-preview.redd.it/S2ejoWUCg7GkxWp3vO3-ondIYVqvjIqDqK1q-X5wV_8.jpg?auto=webp&s=1a4263ee9c6b42795e08da657e9ace6d58fca8af"
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z0fffh/nightmare_video_with_artificial_intelligence/",
+          "id": "https://www.reddit.com/r/artificial/comments/z1c09h/meet_teco_an_efficient_video_prediction_ai_model/",
           "author": null,
-          "description": "submitted by    /u/nalr00n  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z0fffh/nightmare_video_with_artificial_intelligence/",
-          "publishedOn": "2022-11-20T21:12:03.000Z",
-          "wordCount": 13208,
-          "title": "nightmare video with artificial intelligence",
-          "imageUrl": "https://external-preview.redd.it/Y_LW38DoB7TlQahXRW61OCiGvt-PCSIC59G7meT8N-4.jpg?auto=webp&s=a12c241774a6b3bac6afebca97776809577ed519"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/z0ew4q/a_friendly_approach_to_ml_2022just_updated/",
-          "author": null,
-          "description": "The guide recently reached 3'000 stars on GitHub and tons of shares online.\n I am glad this guide can be useful to many of you, especially \"teaching\" people you can learn without going to an expensive university, even though I do not downplay this path. I just want to share that there are many other ways to learn something and create opportunities or even make money out of it.\n Learn by doing something you like and you will see what happens. I assure you it will be worthwhile.\n The guide: https://www.louisbouchard.ai/learnai/\n GitHub repo: https://github.com/louisfb01/start-machine-learning\n p.s. let me know if you find broken links or any other worthwhile resources that aren't in there!\n    submitted by    /u/OnlyProggingForFun  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z0ew4q/a_friendly_approach_to_ml_2022just_updated/",
-          "publishedOn": "2022-11-20T20:50:35.000Z",
-          "wordCount": 13832,
-          "title": "A friendly approach to ML (2022-just updated)!",
-          "imageUrl": "https://external-preview.redd.it/nOxgS9CIskv92t9n2BaU4cXmAPMYqtSHo0DGY56hfaw.jpg?auto=webp&s=9435afc680323a5d47aa3a4182079c6064d9eecf"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/z0e7ry/semiconductor_leaders_should_position_themselves/",
-          "author": null,
-          "description": "submitted by    /u/diegolujan1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z0e7ry/semiconductor_leaders_should_position_themselves/",
-          "publishedOn": "2022-11-20T20:23:11.000Z",
-          "wordCount": 13373,
-          "title": "Semiconductor leaders should position themselves to take advantage of developments in AI, IoT, and 5G. And researchers should focus on new ways to improve semiconductor technology inside—and outside—of Moore’s Law.",
-          "imageUrl": "https://external-preview.redd.it/5NA2lMCiylaMum-31JK5eIXII9UfkAPe0nlcIrxMMnE.jpg?auto=webp&s=e7e4e467d7752f6f65a16cda6e21dd4b67f8e414"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/z0brd2/notion_gets_into_ai_and_harvard_business_review/",
-          "author": null,
-          "description": "submitted by    /u/Distinct_Signature_4  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z0brd2/notion_gets_into_ai_and_harvard_business_review/",
-          "publishedOn": "2022-11-20T18:43:43.000Z",
-          "wordCount": 13861,
-          "title": "Notion gets into AI and Harvard Business Review weighs in on AI",
-          "imageUrl": "https://external-preview.redd.it/8oznefJDQ8lfWAGEfx7pUpLsXijrgme_-V1z3CQ5qJ0.jpg?auto=webp&s=5d508665f968822e88f499bd615d0620278b0205"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/z07l56/large_ai_models_could_soon_become_even_larger/",
-          "author": null,
-          "description": "submitted by    /u/Peaking_AI  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z07l56/large_ai_models_could_soon_become_even_larger/",
-          "publishedOn": "2022-11-20T15:56:46.000Z",
-          "wordCount": 13594,
-          "title": "Large AI models could soon become even larger much faster",
-          "imageUrl": "https://external-preview.redd.it/a6GTNAtOKDpsNJTAZOlYztBUlU4HAKMBLLHs2FwrMJM.jpg?auto=webp&s=79bdb5f0be182451807639b2f924985a9a30a44e"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/z066tn/does_ai_upscaling_a_picture_need_a_lot_of/",
-          "author": null,
-          "description": "I don't wanna be shook by the bills\n    submitted by    /u/jinboliao  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z066tn/does_ai_upscaling_a_picture_need_a_lot_of/",
-          "publishedOn": "2022-11-20T14:59:26.000Z",
-          "wordCount": 14919,
-          "title": "Does AI Upscaling a picture need a lot of electricity?",
+          "description": "submitted by    /u/ai-lover  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z1c09h/meet_teco_an_efficient_video_prediction_ai_model/",
+          "publishedOn": "2022-11-21T22:13:03.000Z",
+          "wordCount": 13399,
+          "title": "Meet TECO: An Efficient Video Prediction AI Model That Can Generate Long, Temporally Consistent Video For Complex Datasets In 3D scenes",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z054xs/looking_for_a_remote_job/",
+          "id": "https://www.reddit.com/r/artificial/comments/z1aw5v/email_automation/",
           "author": null,
-          "description": "Hey everyone, hope you all are well! I have recently completed my Research Intelligence Analyst Intern and currently looking for a remote job. If anyone here have any suggestion for me or can help me with my search then please let me know, I'll be happy to share my CV. Thanks in advance!\n    submitted by    /u/Ifrasaifi87  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z054xs/looking_for_a_remote_job/",
-          "publishedOn": "2022-11-20T14:13:39.000Z",
-          "wordCount": 13300,
-          "title": "Looking for a remote job",
+          "description": "Emails are the primary form of communication used by businesses worldwide and are a crucial part of any business organization. Using email automation, you can automate your repetitive email tasks, including opening emails, reading and processing them, sorting them, extracting data from them, working on them, and responding to them accordingly. ElectroNeek offers integrated email activities that are ready to be used for automation across various platforms, including Microsoft Outlook, Microsoft 365, Google, Yahoo, iCloud, Yandex, and others. Deep dive into how you can automate your email activities here: https://forum.electroneek.com/t/email-automation/1102\n Be part of our community, register here: https://forum.electroneek.com\n ​\n https://preview.redd.it/kvx7zlh3hd1a1.png?width=1620&format=png&auto=webp&s=5b93465806ac32f423fbfc0426bd4dd56c753417\n    submitted by    /u/spiderMonkey32  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z1aw5v/email_automation/",
+          "publishedOn": "2022-11-21T21:30:58.000Z",
+          "wordCount": 13413,
+          "title": "Email Automation",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z04cf6/does_this_exist_ai_that_gives_legal_advice/",
+          "id": "https://www.reddit.com/r/artificial/comments/z19mh2/nvidias_magic3d_turns_text_into_highresolution_3d/",
           "author": null,
-          "description": "Anyone seen this before?\n    submitted by    /u/FrontalLobeGang  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z04cf6/does_this_exist_ai_that_gives_legal_advice/",
-          "publishedOn": "2022-11-20T13:38:10.000Z",
-          "wordCount": 14023,
-          "title": "Does this exist? AI that gives legal advice.",
+          "description": "submitted by    /u/Number_5_alive  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z19mh2/nvidias_magic3d_turns_text_into_highresolution_3d/",
+          "publishedOn": "2022-11-21T20:41:31.000Z",
+          "wordCount": 13774,
+          "title": "Nvidia's Magic3D turns text into high-resolution 3D objects",
+          "imageUrl": "https://external-preview.redd.it/89cFPU0wIVPnKWE2OI1jSIbAqVLcdOkKRLfqiLKlMj8.jpg?auto=webp&s=ac984d1929da150c07a36b4f3b6312d3e8aaa6b0"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z18ny4/salesbiz_dev_jobs/",
+          "author": null,
+          "description": "Hi guys,\n I'm a proven sales professional with 6 years of exp being a top performer in each role. Currently in med tech/device and previously was in IT (all on the sales/marketing side) but I'm looking to get into Al. I'm hoping to join an awesome smaller team and get meaningful equity and help grow something that I can be proud of. Any tips/ advice on how I can identify some awesome up and coming Al companies?\n Thanks in advance!\n    submitted by    /u/ButterscotchTiny8830  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z18ny4/salesbiz_dev_jobs/",
+          "publishedOn": "2022-11-21T20:03:50.000Z",
+          "wordCount": 14185,
+          "title": "Sales/Biz Dev Jobs",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z04aqd/what_type_of_ai_is_this/",
+          "id": "https://www.reddit.com/r/artificial/comments/z17p91/universal_ai_the_narrative_driven_path/",
           "author": null,
-          "description": "Hey, i recently saw this video: https://youtu.be/U4ogK0MIzqk\n I was wondering, which type of AI is that? Is this machine learning, and therefore either: supervised/unsupervised/reinforcment learning?\n Or is this more in the deep learning section?\n Sorry, i am really new to this topic and I would love an answer!\n    submitted by    /u/Lana8888  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z04aqd/what_type_of_ai_is_this/",
-          "publishedOn": "2022-11-20T13:35:52.000Z",
-          "wordCount": 14310,
-          "title": "What type of AI is this?",
-          "imageUrl": "https://external-preview.redd.it/xQt_Ad5ep9Im9s3FtdLC9bPq-rTrzNgwazDG1uyBQfk.jpg?auto=webp&s=4fa3b48e8a71bab900f1d6a0b0c603aeffa27952"
+          "description": "submitted by    /u/Otarih  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z17p91/universal_ai_the_narrative_driven_path/",
+          "publishedOn": "2022-11-21T19:26:23.000Z",
+          "wordCount": 13075,
+          "title": "Universal AI: The narrative driven path",
+          "imageUrl": "https://external-preview.redd.it/Og3gOE4fV_4fkMGuUq_eGYf7Z9zUTtTqgqn2zJUU0mg.jpg?auto=webp&s=2d4fe4a2faa597f3a1d79725a3e4c9e11a9a6855"
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z03um2/free_ai_texttoimage_generator/",
+          "id": "https://www.reddit.com/r/artificial/comments/z17hl1/video_ai/",
           "author": null,
-          "description": "My friend has been working on this awesome AI generator that uses Stable Diffusion to generate Art and Images Here are some of its generations! \n its completely free and you can use it by joining the discord server:\n Discord \n https://preview.redd.it/j9ra8hwrv31a1.png?width=512&format=png&auto=webp&s=4850aee60e599e460bb02bedf0c8e2968d535c40\n https://preview.redd.it/ft44cjwrv31a1.png?width=512&format=png&auto=webp&s=c6ab4c563060568106f460ec8d11f6bccb610701\n    submitted by    /u/Bed0u1n  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z03um2/free_ai_texttoimage_generator/",
-          "publishedOn": "2022-11-20T13:15:07.000Z",
-          "wordCount": 15796,
-          "title": "Free AI text-to-image generator!",
+          "description": "I am currently doing some data analysis for a neuroscience project. I have hundreds of short 3 second videos of zebral larvafish interacting with oscillating dots at random. I have good programming knowledge but never messed with ai. I am curious if there is a pre-made template that can use these videos as a dataset and generate more from these. Thanks\n    submitted by    /u/kindaSocrates  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z17hl1/video_ai/",
+          "publishedOn": "2022-11-21T19:18:12.000Z",
+          "wordCount": 13343,
+          "title": "Video AI",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/z02jll/how_to_use_ai_to_sell_hair_dryers/",
+          "id": "https://www.reddit.com/r/artificial/comments/z15ogr/ai_dalle_is_telling_me_the_components_needed_to/",
           "author": null,
-          "description": "https://youtu.be/-PY8FS1iB2c\n    submitted by    /u/thosiris  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/z02jll/how_to_use_ai_to_sell_hair_dryers/",
-          "publishedOn": "2022-11-20T12:08:58.000Z",
-          "wordCount": 14343,
-          "title": "How to use AI to sell hair dryers :)",
-          "imageUrl": "https://external-preview.redd.it/SZb4n-lewdn1G7gtjLM15yhlei-JqyRPEJOcgdUdU3c.jpg?auto=webp&s=362a19eaeef89d93a1f4782d3aefc88c9b0f33bd"
+          "description": "submitted by    /u/ejpusa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z15ogr/ai_dalle_is_telling_me_the_components_needed_to/",
+          "publishedOn": "2022-11-21T18:09:29.000Z",
+          "wordCount": 13020,
+          "title": "AI (DALL-E) is telling me the components needed to build a time machine. Do these parts look familiar? Just asking.",
+          "imageUrl": "https://preview.redd.it/sdjtsyc5hc1a1.png?auto=webp&s=8e10c02ed5dc05b25595d57b0d5f78ea42cfd832"
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/yzxvo8/hey_guys_i_started_a_podcast_where_i_interview/",
+          "id": "https://www.reddit.com/r/artificial/comments/z14mix/magic3d_highresolution_textto3d_content_creation/",
           "author": null,
-          "description": "submitted by    /u/Money_Push  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/yzxvo8/hey_guys_i_started_a_podcast_where_i_interview/",
-          "publishedOn": "2022-11-20T07:17:26.000Z",
-          "wordCount": 13248,
-          "title": "Hey guys, I started a podcast where I interview guests from different subreddits and was wondering if anyone wanted to come on to talk about AI. DM me if you are interested.",
-          "imageUrl": "https://external-preview.redd.it/37iIuNG1YcnMR4tJdzaOAFVm6B77XfXpUtclO-zPoxE.jpg?auto=webp&s=a9ead4f4229dbbe944c932b9db169684b4573644"
+          "description": "submitted by    /u/magenta_placenta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z14mix/magic3d_highresolution_textto3d_content_creation/",
+          "publishedOn": "2022-11-21T17:27:30.000Z",
+          "wordCount": 15125,
+          "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
+          "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/artificial/comments/yztv1j/disturbed_down_with_the_sickness_nsfw_unofficial/",
+          "id": "https://www.reddit.com/r/artificial/comments/z0zrh8/three_key_takeaways_from_metas_galactica_ai/",
           "author": null,
-          "description": "submitted by    /u/Available_Tadpole829  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/yztv1j/disturbed_down_with_the_sickness_nsfw_unofficial/",
-          "publishedOn": "2022-11-20T03:21:43.000Z",
-          "wordCount": 12887,
-          "title": "Disturbed - Down With The Sickness (NSFW) (Unofficial AI Art Animated Music Video)",
-          "imageUrl": "https://external-preview.redd.it/PcL1oOzJil02OupDatbYAulzwIXfvIqt343pZWX4eBk.jpg?blur=40&format=pjpg&auto=webp&s=fb9a5903e2c43785eb4e1ff1f34490ae8875ca25"
+          "description": "submitted by    /u/bendee983  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0zrh8/three_key_takeaways_from_metas_galactica_ai/",
+          "publishedOn": "2022-11-21T14:03:18.000Z",
+          "wordCount": 13072,
+          "title": "Three key takeaways from Meta’s Galactica AI",
+          "imageUrl": "https://external-preview.redd.it/7b-Z3PCpZeA8ZZNf1AKfLmdE-WkHBljbl_9Qb1GpQ1Y.jpg?auto=webp&s=bf2955284ea2d37d3e7eae8c02cc92a673b08edb"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z0upbt/cute_pixel_numbuh_841/",
+          "author": null,
+          "description": "submitted by    /u/VIRUS-AOTOXIN  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0upbt/cute_pixel_numbuh_841/",
+          "publishedOn": "2022-11-21T09:33:48.000Z",
+          "wordCount": 13265,
+          "title": "(Cute Pixel) Numbuh 841",
+          "imageUrl": "https://preview.redd.it/uqh51jhfx91a1.png?auto=webp&s=a6d4ee58fafc1e0ce9f20af07a899143932af607"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z0sgq1/unique_romantic_vintage_wedding_couples_made_with/",
+          "author": null,
+          "description": "submitted by    /u/AubreBrumfield  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0sgq1/unique_romantic_vintage_wedding_couples_made_with/",
+          "publishedOn": "2022-11-21T07:15:57.000Z",
+          "wordCount": 18284,
+          "title": "UNIQUE Romantic Vintage Wedding Couples made With Artificial Intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z0r5us/how_does_a_cnn_classify_an_image/",
+          "author": null,
+          "description": "I am new to this topic. I think I get the general gist of the training part, how images are represented as matrix of pixel values, how a feature map is generated through matrix multiplication, and that weights are updated through backpropagation with respect to an error rate calculated from the prior prediction and the actual value. However, if I understand correctly, this is just the training right? How does it classify new data? Thank you!\n    submitted by    /u/kyutifee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0r5us/how_does_a_cnn_classify_an_image/",
+          "publishedOn": "2022-11-21T06:01:28.000Z",
+          "wordCount": 13151,
+          "title": "How does a CNN classify an image?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z0qw6p/%C3%A6nema_tool_but_every_lyric_is_audioreactive_to_an/",
+          "author": null,
+          "description": "Special Request!\n    submitted by    /u/Available_Tadpole829  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0qw6p/%C3%A6nema_tool_but_every_lyric_is_audioreactive_to_an/",
+          "publishedOn": "2022-11-21T05:46:52.000Z",
+          "wordCount": 12828,
+          "title": "Ænema - Tool but Every Lyric is Audioreactive to an AI Animation!",
+          "imageUrl": "https://external-preview.redd.it/5u8tVYIEn7D0VuaP_96PAVMTLr3qnzjCg9ZslOipYa8.jpg?auto=webp&s=9d9621b006ecb57cd78941de2964177f3fca7f0d"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z0pmhh/modi_a_generative_model_trained_in_a_completely/",
+          "author": null,
+          "description": "submitted by    /u/ai-lover  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0pmhh/modi_a_generative_model_trained_in_a_completely/",
+          "publishedOn": "2022-11-21T04:40:28.000Z",
+          "wordCount": 14553,
+          "title": "MoDi – a generative model trained in a completely unsupervised setting from an extremely diverse, unstructured and unlabeled motion dataset",
+          "imageUrl": "https://preview.redd.it/bf4qbglxg81a1.gif?format=png8&s=611086a0a0f3c967d887665192ae746580e6a597"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/z0no9v/reupload_is_this_idea_feasible/",
+          "author": null,
+          "description": "Hello! I'm working on a class project about the impact words have on how we perceive migrants. To develop the project based on this idea, I would like to show stock images and then show how they would change when generating variations (with an AI tool) of the same image. Essentially, to demonstrate how language can shape the perception that one has about a subject.\n Overall, I want to know if it is possible to develop an AI tool that generates variations of an initial image when adding text descriptors. Perhaps someone accessing the website could interact with the tool by adding textual descriptions that change the photo. This way, they would observe how stereotypes, words, and commonly used phrases change the original photos. Would you consider this feasible?\n As a result of using Google Translate, my idea wasn't clear. Hopefully, you'll understand my question better now since I translated it myself.\n Thanks in advance! :)\n    submitted by    /u/Candid-Bed3386  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/z0no9v/reupload_is_this_idea_feasible/",
+          "publishedOn": "2022-11-21T03:05:18.000Z",
+          "wordCount": 13376,
+          "title": "(reupload) Is this idea feasible?",
+          "imageUrl": null
         }
       ]
     },
@@ -774,254 +744,254 @@
       "siteUrl": "https://www.reddit.com/r/technology/top?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0jigh/tesla_recalls_300k_vehicles_over_taillight/",
+          "id": "https://www.reddit.com/r/technology/comments/z1fbnf/tumblr_to_add_support_for_activitypub_the_social/",
           "author": null,
-          "description": "submitted by    /u/Ssider69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0jigh/tesla_recalls_300k_vehicles_over_taillight/",
-          "publishedOn": "2022-11-20T23:55:46.000Z",
-          "wordCount": 14152,
-          "title": "Tesla recalls 300K vehicles over taillight software glitch",
-          "imageUrl": "https://external-preview.redd.it/yLnYSfaEvjOglGW9JoWG6A36_gRELYbRu3e3xFXGyAw.jpg?auto=webp&s=9a85e1195a91f125dbff50d0838ba287caa161a6"
+          "description": "submitted by    /u/vriska1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1fbnf/tumblr_to_add_support_for_activitypub_the_social/",
+          "publishedOn": "2022-11-22T00:31:09.000Z",
+          "wordCount": 13475,
+          "title": "Tumblr to add support for ActivityPub, the social protocol powering Mastodon and other apps",
+          "imageUrl": "https://external-preview.redd.it/K_3a_uADVBcbEe40ptiAbLDVX7eMhzo4GO4m04tQous.jpg?auto=webp&s=f845a8ae8e54ca29b4c908c2bf3387fe66bed075"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0il5f/volkswagens_new_ceo_puts_selfdriving_car_plans/",
+          "id": "https://www.reddit.com/r/technology/comments/z1f46g/amazon_alexa_is_a_colossal_failure_on_pace_to/",
           "author": null,
-          "description": "submitted by    /u/Soupjoe5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0il5f/volkswagens_new_ceo_puts_selfdriving_car_plans/",
-          "publishedOn": "2022-11-20T23:17:00.000Z",
-          "wordCount": 14623,
-          "title": "Volkswagen’s New CEO Puts Self-Driving Car Plans Under Review",
-          "imageUrl": "https://external-preview.redd.it/xXuhpM_7gXh_CmOL-DNZW3FmFdJT_K2iNDKMFm8LHeM.jpg?auto=webp&s=dd57cf7cc1d6d1c1646f18c9e6589d86405c9047"
+          "description": "submitted by    /u/SyrioForel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1f46g/amazon_alexa_is_a_colossal_failure_on_pace_to/",
+          "publishedOn": "2022-11-22T00:21:33.000Z",
+          "wordCount": 19949,
+          "title": "Amazon Alexa is a “colossal failure,” on pace to lose $10 billion this year",
+          "imageUrl": "https://external-preview.redd.it/zEhdYOavkXEMC7X3x-LH8w3nU5HU1Y8gaQ8j2wIVd7k.jpg?auto=webp&s=f34c4db8f694d08183dd68e0c2b15efaa1e988de"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0guca/agi_impossibility_of_safe_explicit_control/",
+          "id": "https://www.reddit.com/r/technology/comments/z1ddpy/big_video_games_are_dropping_old_gender/",
           "author": null,
-          "description": "submitted by    /u/DukkyDrake  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0guca/agi_impossibility_of_safe_explicit_control/",
-          "publishedOn": "2022-11-20T22:07:08.000Z",
-          "wordCount": 13233,
-          "title": "AGI: Impossibility of safe explicit control",
-          "imageUrl": "https://external-preview.redd.it/jsg8gYm_5t_zDSRs81vdln2u0TnEZLAHy1sl9kNlFYQ.jpg?auto=webp&s=030491d9e7affac476ad44f1a8eacfe9b5012f63"
+          "description": "submitted by    /u/777fer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1ddpy/big_video_games_are_dropping_old_gender/",
+          "publishedOn": "2022-11-21T23:07:13.000Z",
+          "wordCount": 14674,
+          "title": "Big video games are dropping old gender restrictions on character creation",
+          "imageUrl": "https://external-preview.redd.it/1Zx5QL9sXH6V4gBKhQ5-r-NSWnOBcol7fZ6U6niOgDA.jpg?auto=webp&s=6e4cbb268eb6db5ba15bbd007477daeb7ae0fa5d"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0fimy/egypt_inked_deals_on_renewable_energy_green/",
+          "id": "https://www.reddit.com/r/technology/comments/z1bb7p/aviation_regulators_push_for_more_automation_so/",
           "author": null,
-          "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0fimy/egypt_inked_deals_on_renewable_energy_green/",
-          "publishedOn": "2022-11-20T21:15:30.000Z",
-          "wordCount": 17014,
-          "title": "Egypt inked deals on renewable energy, green hydrogen worth $119 bln",
-          "imageUrl": "https://external-preview.redd.it/DH4rETMVtglbgEUyr4cyZ8MswSqjPdF77uftO0_uQIU.jpg?auto=webp&s=8d0a99482cb4cf08e493832fbfd9ee264990021f"
+          "description": "submitted by    /u/SyrioForel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1bb7p/aviation_regulators_push_for_more_automation_so/",
+          "publishedOn": "2022-11-21T21:46:32.000Z",
+          "wordCount": 14816,
+          "title": "Aviation regulators push for more automation so flights can be run by a single pilot",
+          "imageUrl": "https://external-preview.redd.it/SCBHQ66V1mUKii_3TWxHxmCQDHcNDf7OKREFPMwiqLY.jpg?auto=webp&s=066360cf6d71e7ec9b3833a6677c8248821b02f7"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0feh5/warner_parents_should_be_very_concerned_about/",
+          "id": "https://www.reddit.com/r/technology/comments/z1af4q/the_long_lonely_wait_to_recover_a_hacked_facebook/",
           "author": null,
-          "description": "submitted by    /u/DirefulMarmoset  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0feh5/warner_parents_should_be_very_concerned_about/",
-          "publishedOn": "2022-11-20T21:10:59.000Z",
-          "wordCount": 15130,
-          "title": "Warner: Parents should be ‘very concerned’ about TikTok",
-          "imageUrl": "https://external-preview.redd.it/oDcosd6rmKn9GwnM5eXjqyLFsnbLK-5yLJ7cOSrQGtc.jpg?auto=webp&s=1f1290b7cc6223181082029818f7c4423957422e"
+          "description": "submitted by    /u/CrankyBear  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1af4q/the_long_lonely_wait_to_recover_a_hacked_facebook/",
+          "publishedOn": "2022-11-21T21:12:42.000Z",
+          "wordCount": 15220,
+          "title": "The long, lonely wait to recover a hacked Facebook account",
+          "imageUrl": "https://external-preview.redd.it/S5yY_TeF5_XVBSWqciZ4Gp17OvvzmpJloLCx7LoPVBQ.jpg?auto=webp&s=7be435103195d82dc5d024b51cf9975cf924d6bf"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0fc10/collapsed_ftx_owes_nearly_31_billion_to_top_50/",
-          "author": null,
-          "description": "submitted by    /u/FearfulAnomaly  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0fc10/collapsed_ftx_owes_nearly_31_billion_to_top_50/",
-          "publishedOn": "2022-11-20T21:08:18.000Z",
-          "wordCount": 18349,
-          "title": "Collapsed FTX owes nearly $3.1 billion to top 50 creditors",
-          "imageUrl": "https://external-preview.redd.it/Wsun89RyMl7m6lRW-m_DJcH82E6ARkIVPSG3Pgp9ss8.jpg?auto=webp&s=911f7b99de8c22d0360e33c463db7ce4f3d2f305"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/z0czku/trials_of_first_turkish_unmanned_fighter_aircraft/",
+          "id": "https://www.reddit.com/r/technology/comments/z19jdl/judge_orders_amazon_to_stop_retaliations_against/",
           "author": null,
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0czku/trials_of_first_turkish_unmanned_fighter_aircraft/",
-          "publishedOn": "2022-11-20T19:33:39.000Z",
-          "wordCount": 14414,
-          "title": "Trials of first Turkish unmanned fighter aircraft successfully completes",
-          "imageUrl": "https://external-preview.redd.it/pgp5A_Br40itW9tOiDyv-FiP1Xp0W4lhiwcMfHeF6XU.jpg?auto=webp&s=cf05c0b236fc7cb987345cfb15011c2611fd8414"
+          "link": "https://www.reddit.com/r/technology/comments/z19jdl/judge_orders_amazon_to_stop_retaliations_against/",
+          "publishedOn": "2022-11-21T20:38:01.000Z",
+          "wordCount": 15377,
+          "title": "Judge orders Amazon to stop retaliations against organizers",
+          "imageUrl": "https://external-preview.redd.it/wLXh7WkjOXT8c45v4oO4u-jwxrFPQYRzlSnEltMtacQ.jpg?auto=webp&s=f9d6ff593c479b6e626124d9317692173aabe285"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0bp96/apple_built_its_empire_with_china_now_its/",
+          "id": "https://www.reddit.com/r/technology/comments/z181v6/head_of_intel_foundry_services_resigns_just_as/",
+          "author": null,
+          "description": "submitted by    /u/penguinopusredux  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z181v6/head_of_intel_foundry_services_resigns_just_as/",
+          "publishedOn": "2022-11-21T19:39:39.000Z",
+          "wordCount": 13479,
+          "title": "Head of Intel Foundry Services resigns just as chip biz gets going",
+          "imageUrl": "https://external-preview.redd.it/2Tbwj04Xev8TKbTw6P6HPnrFAwHpD4oDC3BL19bfnfc.jpg?auto=webp&s=797f24d6321a8267c526700afc172f66ab9579da"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/z16esm/3d_for_everyone_nvidias_magic3d_can_generate_3d/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z16esm/3d_for_everyone_nvidias_magic3d_can_generate_3d/",
+          "publishedOn": "2022-11-21T18:37:13.000Z",
+          "wordCount": 14688,
+          "title": "3D for everyone? Nvidia’s Magic3D can generate 3D models from text | New AI aims to democratize 3D content creation, no modeling skills required.",
+          "imageUrl": "https://external-preview.redd.it/C7DKdGRd-2KwRAMiKqhkxXB7i377MmJD8QNzjjJnRLQ.jpg?auto=webp&s=02a8340339d28ebdc4011cbad8e2a77c978cbb8c"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/z1507z/mercedes_makes_better_performance_a_1200/",
+          "author": null,
+          "description": "submitted by    /u/bored_in_NE  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1507z/mercedes_makes_better_performance_a_1200/",
+          "publishedOn": "2022-11-21T17:43:02.000Z",
+          "wordCount": 17250,
+          "title": "Mercedes Makes Better Performance a $1,200 Subscription in Its EVs",
+          "imageUrl": "https://external-preview.redd.it/RdU2WqWkcxwIPW7E5GaB5B7ervq6PsiTJobwujQ9u7M.jpg?auto=webp&s=43e131815ccf0e5ee06347fc22e5d98dbb6b82e8"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/z14t3x/fcc_unveils_big_update_to_broadband_mapand_wants/",
+          "author": null,
+          "description": "submitted by    /u/irkli  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z14t3x/fcc_unveils_big_update_to_broadband_mapand_wants/",
+          "publishedOn": "2022-11-21T17:34:57.000Z",
+          "wordCount": 14789,
+          "title": "FCC unveils big update to broadband map—and wants you to help correct errors",
+          "imageUrl": "https://external-preview.redd.it/jfbDJjNstTRKqjz-LEwmt_bcIXYGBSgumj1GjpCy3YU.jpg?auto=webp&s=2dd2d0afd4f199dd59cbaf5092eee039afbec115"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/z13wmf/apple_says_your_iphones_usage_data_is_anonymous/",
+          "author": null,
+          "description": "submitted by    /u/VeryBusinessPerson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z13wmf/apple_says_your_iphones_usage_data_is_anonymous/",
+          "publishedOn": "2022-11-21T16:58:12.000Z",
+          "wordCount": 15857,
+          "title": "Apple Says Your iPhone's Usage Data is Anonymous, but New Tests Say That's Not True",
+          "imageUrl": "https://external-preview.redd.it/ffPDlm2c6kk3fEzPPx9cAtOHwp5bqJz2eyMPAFVGkyY.jpg?auto=webp&s=57ad3b163c883905a6165908df93b46b637dc8fe"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/z13mhv/there_will_be_32_billion_gamers_in_2022_but/",
+          "author": null,
+          "description": "submitted by    /u/777fer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z13mhv/there_will_be_32_billion_gamers_in_2022_but/",
+          "publishedOn": "2022-11-21T16:46:17.000Z",
+          "wordCount": 19119,
+          "title": "There will be 3.2 billion gamers in 2022, but revenue is set to fall for first time in 15 years",
+          "imageUrl": "https://external-preview.redd.it/BEkWYb0PYRoNkDMxpk6zYIhTzkS-VRH3nC5CHJFFMqg.jpg?auto=webp&s=3bf14bc441468a6d71efd77805f7814d955e9d95"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/z135sh/thats_the_way_i_clocked_in_and_out_in_1988/",
           "author": null,
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0bp96/apple_built_its_empire_with_china_now_its/",
-          "publishedOn": "2022-11-20T18:41:19.000Z",
-          "wordCount": 14893,
-          "title": "Apple Built Its Empire With China. Now Its Foundation Is Showing Cracks.",
-          "imageUrl": "https://external-preview.redd.it/G5ih3bGXoPc-9daSI83XNOazp0coasH_esRwo4Ucy14.jpg?auto=webp&s=12744d9136cc6b002993f885609c670ea6a2ec68"
+          "link": "https://www.reddit.com/r/technology/comments/z135sh/thats_the_way_i_clocked_in_and_out_in_1988/",
+          "publishedOn": "2022-11-21T16:27:05.000Z",
+          "wordCount": 17644,
+          "title": "'That's the way I clocked in and out in 1988': Employee calls out workplace's near-obsolete punch clock system",
+          "imageUrl": "https://external-preview.redd.it/wg7L0WkZOP7-AJyaMtqTIvBayd8QVbp73GSeK-s9jEo.jpg?auto=webp&s=6522580a529037274af4a2ab12f509a6d0938853"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z0ahx8/whatsapp_launches_new_feature_which_allows_users/",
+          "id": "https://www.reddit.com/r/technology/comments/z110jh/microsoft_is_turning_windows_11s_start_menu_into/",
           "author": null,
-          "description": "submitted by    /u/BlitzOrion  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z0ahx8/whatsapp_launches_new_feature_which_allows_users/",
-          "publishedOn": "2022-11-20T17:54:11.000Z",
-          "wordCount": 13883,
-          "title": "WhatsApp launches new feature which allows users to share polls in chats",
-          "imageUrl": "https://external-preview.redd.it/FtX6bjLglrxIbS_ui-37En6rGLudd6QquzZTIjG4pxE.jpg?auto=webp&s=fc6c889085b947f48c5e74cbc408668bb04d1ac6"
+          "description": "submitted by    /u/speckz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z110jh/microsoft_is_turning_windows_11s_start_menu_into/",
+          "publishedOn": "2022-11-21T14:58:32.000Z",
+          "wordCount": 22078,
+          "title": "Microsoft is turning Windows 11's Start Menu into an advertisement delivery system",
+          "imageUrl": "https://external-preview.redd.it/kr9bvhgbdkI0pM4pBf8Kxv83mll8v1vvsoPE3Ugot1M.jpg?auto=webp&s=fe22b600cc69b594aead717b350270f02ed1075d"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z098ip/tiktok_draws_bipartisan_fire_in_us_on_china/",
+          "id": "https://www.reddit.com/r/technology/comments/z10c20/idme_lied_about_its_facial_recognition_tech/",
           "author": null,
-          "description": "submitted by    /u/lAStbaby6534  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z098ip/tiktok_draws_bipartisan_fire_in_us_on_china/",
-          "publishedOn": "2022-11-20T17:04:30.000Z",
-          "wordCount": 15056,
-          "title": "TikTok Draws Bipartisan Fire in US on China Surveillance Concern",
-          "imageUrl": "https://external-preview.redd.it/NuCaGcZ2-WjxjgE1bT6hgA5BLVMrxoGU09LkgHJ-clE.jpg?auto=webp&s=365df0ff093e6c584f1fda49fa7db0f2d8d742b9"
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z10c20/idme_lied_about_its_facial_recognition_tech/",
+          "publishedOn": "2022-11-21T14:28:51.000Z",
+          "wordCount": 18990,
+          "title": "ID.me Lied About Its Facial Recognition Tech, Congress Says | The identity software delayed Americans from getting unemployment checks during a critical period of the pandemic.",
+          "imageUrl": "https://external-preview.redd.it/wTMvrCuO5Qf9Ux9yPyrknIgYapuIb9qhscsOKI48s6w.jpg?auto=webp&s=e3d2617cf57e393c1be21906145fe49d07f8bef4"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/z08xrq/rethinking_data_and_rebalancing_digital_power/",
+          "id": "https://www.reddit.com/r/technology/comments/z1053h/police_tracked_traffic_of_all_national_isps_to/",
           "author": null,
-          "description": "submitted by    /u/JRepin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z08xrq/rethinking_data_and_rebalancing_digital_power/",
-          "publishedOn": "2022-11-20T16:52:57.000Z",
-          "wordCount": 14728,
-          "title": "Rethinking data and rebalancing digital power",
-          "imageUrl": "https://external-preview.redd.it/1lmFO7SKFpb2ecOejXLo3TNhGcL71eIo3IqQx4pR08s.jpg?auto=webp&s=32ab38c9460dda6fcff2e82bdbb89df0aea1ff43"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/z08stn/european_union_strikes_6bn_deal_to_develop_own/",
-          "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z08stn/european_union_strikes_6bn_deal_to_develop_own/",
-          "publishedOn": "2022-11-20T16:47:24.000Z",
-          "wordCount": 14714,
-          "title": "European Union strikes €6bn deal to develop own broadband satellite network",
-          "imageUrl": "https://external-preview.redd.it/3pHvl6onoV4qKFyRWDqNBS60hDZSKOnps2RiBar7MNk.jpg?auto=webp&s=bbf7771e16e4ebc8c9e860de7563187ebc1d8a38"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/z06zvg/neoplants_bioengineers_houseplants_to_use_them_as/",
-          "author": null,
-          "description": "submitted by    /u/fchung  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z06zvg/neoplants_bioengineers_houseplants_to_use_them_as/",
-          "publishedOn": "2022-11-20T15:32:14.000Z",
-          "wordCount": 14954,
-          "title": "Neoplants bioengineers houseplants to use them as air purifiers",
-          "imageUrl": "https://external-preview.redd.it/LYDUC3HnvpsGzPlTClEYxT89DVS_guz4o8i_-M5PGs8.jpg?auto=webp&s=df1d3d6f688aba70b71705c12f0a3790f17f900d"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/z06hnf/getir_likely_to_acquire_gorillas_well_below/",
-          "author": null,
-          "description": "submitted by    /u/Doener23  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z06hnf/getir_likely_to_acquire_gorillas_well_below/",
-          "publishedOn": "2022-11-20T15:11:22.000Z",
-          "wordCount": 15906,
-          "title": "Getir likely to acquire Gorillas well below valuation",
-          "imageUrl": "https://external-preview.redd.it/6Sj8RSfXzEsf5VopZfhX_w1iq1NCrARZytjX3cXtIPo.jpg?auto=webp&s=d4002fa6957ae1c1840f4797d5fcb5565da1cbe6"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/z04ihp/canada_invites_g7_ministers_to_develop_programs/",
-          "author": null,
-          "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/z04ihp/canada_invites_g7_ministers_to_develop_programs/",
-          "publishedOn": "2022-11-20T13:45:59.000Z",
-          "wordCount": 14488,
-          "title": "Canada invites G7 ministers to develop programs, tools for tackling disinformation",
+          "description": "submitted by    /u/speckz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z1053h/police_tracked_traffic_of_all_national_isps_to/",
+          "publishedOn": "2022-11-21T14:20:03.000Z",
+          "wordCount": 14961,
+          "title": "Police Tracked Traffic of All National ISPs to Catch Pirate IPTV Users",
           "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzzvu0/apple_silicon_supports_the_ancient_intel_8080/",
+          "id": "https://www.reddit.com/r/technology/comments/z0z849/meta_is_trying_to_prevent_suspicious_adults_from/",
           "author": null,
-          "description": "submitted by    /u/redhatGizmo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzzvu0/apple_silicon_supports_the_ancient_intel_8080/",
-          "publishedOn": "2022-11-20T09:28:07.000Z",
-          "wordCount": 16349,
-          "title": "Apple silicon supports the ancient Intel 8080 through a secret extension",
-          "imageUrl": "https://external-preview.redd.it/9qmYWdkZsTWFPl8o-LLP5Kc_O-8dBt8tfPtHQNh6eZg.jpg?auto=webp&s=b9699dd362f803a65a622137ad39aea49369e062"
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0z849/meta_is_trying_to_prevent_suspicious_adults_from/",
+          "publishedOn": "2022-11-21T13:38:47.000Z",
+          "wordCount": 15252,
+          "title": "Meta is trying to prevent 'suspicious' adults from messaging teens on Facebook and Instagram | Facebook is also changing the default privacy settings for younger teens.",
+          "imageUrl": "https://external-preview.redd.it/7DO8Xybpr1ix4-PpOSuMbw0O8-fmChbH51GHb87I_gY.jpg?auto=webp&s=eab42b029d500d79ee6983aa791f1598cc954f57"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzyznl/firstever_isp_study_reveals_arbitrary_costs/",
+          "id": "https://www.reddit.com/r/technology/comments/z0wq5j/apple_device_analytics_contain_identifying_icloud/",
           "author": null,
-          "description": "submitted by    /u/Ephoenix6  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzyznl/firstever_isp_study_reveals_arbitrary_costs/",
-          "publishedOn": "2022-11-20T08:29:38.000Z",
-          "wordCount": 20453,
-          "title": "First-Ever ISP Study Reveals Arbitrary Costs, Fluctuating Speeds, Lack of Options",
-          "imageUrl": "https://external-preview.redd.it/RY2ke-voKLKAlbdedEaptlXus5-Phjj6l1TkSI3b2OA.jpg?auto=webp&s=292b875d8a0628b70fcab1495113360363f5586b"
+          "description": "submitted by    /u/Avieshek  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0wq5j/apple_device_analytics_contain_identifying_icloud/",
+          "publishedOn": "2022-11-21T11:31:56.000Z",
+          "wordCount": 14079,
+          "title": "Apple Device Analytics Contain Identifying iCloud User Data, Claim Security Researchers",
+          "imageUrl": "https://external-preview.redd.it/CTAisyYuV2JEcmWdEvobUH_GMUjziYuaCTcvz8TY2cU.jpg?auto=webp&s=5f609556d5027730156d708e5f317cede320f089"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzydy5/humanoid_robots_sooner_than_you_might_think/",
+          "id": "https://www.reddit.com/r/technology/comments/z0wh27/tsmc_to_roll_out_3nm_chips_in_us_morris_chang/",
           "author": null,
-          "description": "submitted by    /u/Tao_Dragon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzydy5/humanoid_robots_sooner_than_you_might_think/",
-          "publishedOn": "2022-11-20T07:50:47.000Z",
-          "wordCount": 14092,
-          "title": "Humanoid Robots: Sooner Than You Might Think",
-          "imageUrl": "https://external-preview.redd.it/yHN3GVMPH1mwNsvQAEe304E5wlDRtWGqQtIWWVqqKhA.jpg?auto=webp&s=b34d482a8bbe5935a2a64a0971ac38efa5c0172e"
+          "description": "submitted by    /u/Saltedline  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0wh27/tsmc_to_roll_out_3nm_chips_in_us_morris_chang/",
+          "publishedOn": "2022-11-21T11:18:17.000Z",
+          "wordCount": 13337,
+          "title": "TSMC to roll out 3nm chips in U.S.: Morris Chang",
+          "imageUrl": "https://external-preview.redd.it/RRSdz5ItxMweQ6_qCGob0sqAA5TtzirB-UmUeh8C1XE.jpg?auto=webp&s=4d9ddfb7e0dbdb26edea59ddfe4dd1845709bf40"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzy6iq/polytherapeutic_tinnitus_treatment_app_delivers/",
+          "id": "https://www.reddit.com/r/technology/comments/z0vi9c/depression_as_a_marketing_tool_when_influencers/",
           "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzy6iq/polytherapeutic_tinnitus_treatment_app_delivers/",
-          "publishedOn": "2022-11-20T07:36:53.000Z",
-          "wordCount": 16759,
-          "title": "\"Polytherapeutic\" tinnitus treatment app delivers impressive results",
-          "imageUrl": "https://external-preview.redd.it/HK2PPMDXkVMSEs55YGlV6jgNAnyzcWOpWRuTElNLFG8.jpg?auto=webp&s=06d9379b337c9beef7ea3626c46c15a8300ad775"
+          "description": "submitted by    /u/Khalifa_Nomi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0vi9c/depression_as_a_marketing_tool_when_influencers/",
+          "publishedOn": "2022-11-21T10:22:48.000Z",
+          "wordCount": 18449,
+          "title": "Depression as a marketing tool? When influencers get the mental health conversation wrong",
+          "imageUrl": "https://external-preview.redd.it/cg7T8JDNuijLny7skiS8EbCSpjjINrQO9K9hpa7ZsYo.jpg?auto=webp&s=7266d9b94eeb9322786873c938f5df5b7c495ddf"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzwwsi/nasa_plans_for_humans_to_live_on_the_moon_this/",
+          "id": "https://www.reddit.com/r/technology/comments/z0vbce/study_automation_drives_income_inequality/",
           "author": null,
-          "description": "submitted by    /u/Additional-Two-7312  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzwwsi/nasa_plans_for_humans_to_live_on_the_moon_this/",
-          "publishedOn": "2022-11-20T06:16:02.000Z",
-          "wordCount": 18730,
-          "title": "NASA Plans For Humans To Live On The Moon ‘This Decade,’ Official Tells BBC",
-          "imageUrl": "https://external-preview.redd.it/1o5kz-CU8IPLhB7NqyEZoFLZFOOWrgyBblC_FcXchFc.jpg?auto=webp&s=4555d058b2f38a48542e866fd8a4ea828e3661b7"
+          "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0vbce/study_automation_drives_income_inequality/",
+          "publishedOn": "2022-11-21T10:11:07.000Z",
+          "wordCount": 18243,
+          "title": "Study: Automation drives income inequality",
+          "imageUrl": null
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzwu0u/amazon_job_cuts_extend_into_2023_ceo_says/",
-          "author": null,
-          "description": "submitted by    /u/Additional-Two-7312  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzwu0u/amazon_job_cuts_extend_into_2023_ceo_says/",
-          "publishedOn": "2022-11-20T06:11:28.000Z",
-          "wordCount": 13864,
-          "title": "Amazon Job Cuts Extend Into 2023, CEO Says",
-          "imageUrl": "https://external-preview.redd.it/dd8tq_cXn46RMtNwv94mp7pY7SiLsa1j6INtIeFHHlQ.jpg?auto=webp&s=60e33d17386cb7b6ffca2e9b223644a1d3a5ff62"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/yzw1yd/france_germany_spain_agree_on_moving_on_with_fcas/",
+          "id": "https://www.reddit.com/r/technology/comments/z0t0oj/us_is_increasing_pace_of_hypersonic_weapons/",
           "author": null,
           "description": "submitted by    /u/marketrent  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzw1yd/france_germany_spain_agree_on_moving_on_with_fcas/",
-          "publishedOn": "2022-11-20T05:24:53.000Z",
-          "wordCount": 14906,
-          "title": "France, Germany, Spain agree on moving on with FCAS warplane development",
-          "imageUrl": "https://external-preview.redd.it/lsIQs1WE4MWjcI-Whc9yDkr9wmoy1IQbK8bqeVazunc.jpg?auto=webp&s=fba00c20afda6df4bdb959a279b3a0f68d682766"
+          "link": "https://www.reddit.com/r/technology/comments/z0t0oj/us_is_increasing_pace_of_hypersonic_weapons/",
+          "publishedOn": "2022-11-21T07:49:41.000Z",
+          "wordCount": 19217,
+          "title": "US is increasing pace of hypersonic weapons development to chase China and Russia, senior admiral says",
+          "imageUrl": "https://external-preview.redd.it/bY1PfflY3gmFg6uXtFpjlHNmEuJnG50R8JMG8L07qrc.jpg?auto=webp&s=649a33922666b5e48836936bcaa87502f58b941b"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzubco/scientists_have_developed_a_wearable_ring_that/",
+          "id": "https://www.reddit.com/r/technology/comments/z0s3pu/a_grid_of_quantum_islands_could_reveal_secrets/",
           "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzubco/scientists_have_developed_a_wearable_ring_that/",
-          "publishedOn": "2022-11-20T03:46:41.000Z",
-          "wordCount": 15689,
-          "title": "Scientists Have Developed a Wearable Ring That Repels Insects",
-          "imageUrl": "https://external-preview.redd.it/ejfHs1cPKf70UfwWFQuGi68TyDaZ-SL1etU0FlJxVKE.jpg?auto=webp&s=599c37973458f2811094666d16e88c93b5e4e01c"
+          "description": "submitted by    /u/Vailhem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0s3pu/a_grid_of_quantum_islands_could_reveal_secrets/",
+          "publishedOn": "2022-11-21T06:54:53.000Z",
+          "wordCount": 14125,
+          "title": "A grid of quantum islands could reveal secrets for powerful technologies",
+          "imageUrl": "https://external-preview.redd.it/IMf7uVgNXLNW708GbRswq8955kwY_zF4LbPT3F-n-tY.jpg?auto=webp&s=a2b78adeb53a5bba7727aaa6f27d9152887b89f5"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yztpht/arvancloud_a_firm_sanctioned_for_helping_iran_to/",
+          "id": "https://www.reddit.com/r/technology/comments/z0ohwo/tsmc_planning_advanced_chip_production_in_arizona/",
           "author": null,
           "description": "submitted by    /u/WexfordHo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yztpht/arvancloud_a_firm_sanctioned_for_helping_iran_to/",
-          "publishedOn": "2022-11-20T03:13:59.000Z",
-          "wordCount": 13857,
-          "title": "ArvanCloud, A Firm Sanctioned For Helping Iran To Create A Sanitized Internet",
-          "imageUrl": "https://external-preview.redd.it/gWoVuSxlBIg983RibE_Icq9zPs2dj_O9P3MLaCkttQc.jpg?auto=webp&s=0979ceb1828c90ce6752c58794dadcb2d6383bb4"
+          "link": "https://www.reddit.com/r/technology/comments/z0ohwo/tsmc_planning_advanced_chip_production_in_arizona/",
+          "publishedOn": "2022-11-21T03:44:36.000Z",
+          "wordCount": 15292,
+          "title": "TSMC planning advanced chip production in Arizona, company founder says",
+          "imageUrl": "https://external-preview.redd.it/XbKak5gjeKhk91hiYUsxQgar_4ZomXrwSWGgrEBtRko.jpg?auto=webp&s=57fa9302972d4e0ef141581aaabbe336710c0b1e"
         },
         {
-          "id": "https://www.reddit.com/r/technology/comments/yzsf8q/musk_restores_trumps_twitter_account_after_online/",
+          "id": "https://www.reddit.com/r/technology/comments/z0mp1v/roku_rivals_amazons_fire_tv_stick_with_a/",
           "author": null,
-          "description": "submitted by    /u/powercow  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/yzsf8q/musk_restores_trumps_twitter_account_after_online/",
-          "publishedOn": "2022-11-20T02:05:22.000Z",
-          "wordCount": 18374,
-          "title": "Musk restores Trump’s Twitter account after online poll",
-          "imageUrl": "https://external-preview.redd.it/tpwsxxHxQGHbeo6-_7BJLCMZpeid0c51ncavOEkOWEU.jpg?auto=webp&s=8b5f789b21e0078c1a097c542dd0e60a4d73b424"
+          "description": "submitted by    /u/A-Dog22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/z0mp1v/roku_rivals_amazons_fire_tv_stick_with_a/",
+          "publishedOn": "2022-11-21T02:19:21.000Z",
+          "wordCount": 16473,
+          "title": "Roku rivals Amazon's Fire TV Stick with a blockbuster free upgrade coming soon",
+          "imageUrl": "https://external-preview.redd.it/Qcu4c0-ur2irvGQTp4YB9yXWRrA5dEeHkl9x91TohYs.jpg?auto=webp&s=d98a6f8244d3aa90e88c7549d22282de258cc468"
         }
       ]
     },
@@ -1030,6 +1000,16 @@
       "feedUrl": "https://aeon.co/feed",
       "siteUrl": "https://aeon.co",
       "articles": [
+        {
+          "id": "urn:id:5349",
+          "author": "Aeon Video",
+          "description": "A filmmaker turns his lens on the beauty of family life as he tries to make sense of his parents’ decision to die together \n - by Aeon Video\n Watch at Aeon",
+          "link": "https://aeon.co/videos/when-his-elderly-parents-make-a-suicide-pact-doron-struggles-to-accept-their-choice?utm_source=rss-feed",
+          "publishedOn": "2022-11-21T11:01:00.000Z",
+          "wordCount": 7570,
+          "title": "The love and death of Yosef and Zilli",
+          "imageUrl": "https://omicron.aeon.co/images/d116452d-3495-4c32-a57e-7ec4ba162360/header_the-love-and-death-of-yosef-and-zilli-landscape-1.jpg"
+        },
         {
           "id": "urn:id:5337",
           "author": "Olivia Judson",
@@ -1046,7 +1026,7 @@
           "description": "An unsparing animation depicts the hell of the bombing of Hiroshima and its aftermath, as told by one of its survivors \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/what-akiko-saw-at-the-centre-of-the-hiroshima-blast-and-the-indelible-mark-it-left?utm_source=rss-feed",
           "publishedOn": "2022-11-17T11:01:00.000Z",
-          "wordCount": 7726,
+          "wordCount": 7690,
           "title": "Obon",
           "imageUrl": "https://nu.aeon.co/images/3fe35db1-2379-427e-9c4a-592764f0bc7a/header_obon-landscape-1.jpg"
         },
@@ -1136,7 +1116,7 @@
           "description": "Travel by snowmobile through a pristine white landscape in north Quebec in search of the dozens of Inuit words for snow \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/yes-the-inuit-have-dozens-of-words-for-snow-but-what-does-each-one-mean-exactly?utm_source=rss-feed",
           "publishedOn": "2022-11-08T11:01:00.000Z",
-          "wordCount": 7572,
+          "wordCount": 7555,
           "title": "Names for snow",
           "imageUrl": "https://alpha.aeon.co/images/f580fc4e-fd73-4fbf-b25e-2b18f272b7ea/header_names-for-snow-landscape.jpg"
         },
@@ -1156,7 +1136,7 @@
           "description": "‘Emancipation is curiously coupled with risk’ – one woman’s exploration of the beauty, solitude and perils of the US West \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/one-woman-prepares-for-the-risky-solitude-of-georgia-okeeffes-american-west?utm_source=rss-feed",
           "publishedOn": "2022-11-07T11:01:00.000Z",
-          "wordCount": 7658,
+          "wordCount": 7694,
           "title": "Ida western exile",
           "imageUrl": "https://omicron.aeon.co/images/4c785128-19f6-4a11-97da-2ba3d4b3d9fc/header_ida-wesrern-exile-landscape-1.jpg"
         },
@@ -1176,7 +1156,7 @@
           "description": "A manual produced for emperors to decode the stars, the Astronomicum Caesareum is also an extraordinarily beautiful book \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/how-one-of-historys-most-beautiful-books-was-used-to-find-fate-in-the-cosmos?utm_source=rss-feed",
           "publishedOn": "2022-11-03T10:01:00.000Z",
-          "wordCount": 7569,
+          "wordCount": 7638,
           "title": "Using the Astronomicum Caesareum book",
           "imageUrl": "https://alpha.aeon.co/images/988a9d11-c597-4bb7-9af9-11f47365b7e0/header_using-the-astronomicum-caesareum-book-landscape-3.jpg"
         },
@@ -1196,7 +1176,7 @@
           "description": "Sappho was a priestess of love, whose homoerotic poetry was revered in ancient Greece – and burned centuries later \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/sapphos-homoerotic-poetry-was-beloved-in-ancient-greece-and-burned-centuries-later?utm_source=rss-feed",
           "publishedOn": "2022-11-01T10:01:00.000Z",
-          "wordCount": 7701,
+          "wordCount": 7721,
           "title": "The legacy of Sappho",
           "imageUrl": "https://nu.aeon.co/images/4b5b8bee-6b53-483e-9021-56c47a7bf517/header_the-surprising-origins-of-the-word-lesbian-landscape-3.jpg"
         },
@@ -1216,19 +1196,9 @@
           "description": "Nature is full of symmetries, from spiral galaxies to florets of broccoli. So why do complex creatures break the pattern? \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/symmetry-rules-life-on-earth-but-it-comes-with-many-fascinating-exceptions?utm_source=rss-feed",
           "publishedOn": "2022-10-31T10:01:00.000Z",
-          "wordCount": 7532,
+          "wordCount": 7601,
           "title": "The science of symmetry",
           "imageUrl": "https://alpha.aeon.co/images/c9c5d3b8-1a0c-4c9f-9fdd-d45eae0c957b/header_the-science-of-symmetry-landscape-1.jpg"
-        },
-        {
-          "id": "urn:id:5321",
-          "author": "Martin Kovan",
-          "description": "The Buddha taught not to kill, yet his followers have at times disobeyed him. Can murderers still be Buddhists? \n - by Martin Kovan\n Read at Aeon",
-          "link": "https://aeon.co/essays/if-killing-is-antithetical-to-buddhism-how-can-they-do-it?utm_source=rss-feed",
-          "publishedOn": "2022-10-31T10:00:00.000Z",
-          "wordCount": 9341,
-          "title": "The lethal act",
-          "imageUrl": "https://epsilon.aeon.co/images/175d39e3-906f-4458-a7ed-5149f20c4477/header_essay-rtr33exq.jpg"
         }
       ]
     },
@@ -1242,18 +1212,7 @@
       "title": "Farnam Street",
       "feedUrl": "https://fs.blog/feed/",
       "siteUrl": "https://fs.blog/",
-      "articles": [
-        {
-          "id": "https://www.farnamstreetblog.com/?p=23995",
-          "author": "Farnam Street",
-          "description": "Michael Abrashoff was in his mid-thirties when he took command of the USS Benfold, a guided missile destroyer and one of the worst-performing ships in the navy. Despite her potency, the “dysfunctional ship had a sullen crew that resented being there and could not wait to get out of the Navy.” By the time he left, less …\nThe post Lessons on Leadership: Michael Abrashoff on Turning the Worst Ship in the Navy into the Best appeared first on Farnam Street.",
-          "link": "https://fs.blog/michael-abrashoff-leadership/",
-          "publishedOn": "2022-10-23T11:00:00.000Z",
-          "wordCount": 1972,
-          "title": "Lessons on Leadership: Michael Abrashoff on Turning the Worst Ship in the Navy into the Best",
-          "imageUrl": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2016/01/Lessons-on-Leadership-Michael-Abrashoff.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Quanta Magazine",
@@ -1261,12 +1220,22 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=120730",
+          "author": "Patrick Honner",
+          "description": "Proving that two polygons have the same area can be as easy as cutting them up and rearranging the pieces.             \nThe post The Simple Geometry Behind Brownie Bake Offs and Equal Areas first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/",
+          "publishedOn": "2022-11-21T15:31:33.000Z",
+          "wordCount": 7872,
+          "title": "The Simple Geometry Behind Brownie Bake Offs and Equal Areas",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/NovemberAcademy-cr.RobertNeubecker-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=120649",
           "author": "Charlie Wood",
           "description": "Two physicists have calculated that the universe has a higher entropy — and is therefore more likely — than alternative possible universes.            \nThe post Why This Universe? A New Calculation Suggests Our Cosmos Is Typical. first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/",
           "publishedOn": "2022-11-17T15:22:14.000Z",
-          "wordCount": 9082,
+          "wordCount": 9108,
           "title": "Why This Universe? A New Calculation Suggests Our Cosmos Is Typical.",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/CosmicEntropy-cr.KouzouSakai-Social.webp"
         },
@@ -1276,7 +1245,7 @@
           "description": "For more than 250 years, mathematicians have wondered if the Euler equations might sometimes fail to describe a fluid’s flow. A new computer-assisted proof marks a major breakthrough in that quest.            \nThe post Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/",
           "publishedOn": "2022-11-16T15:40:45.000Z",
-          "wordCount": 8009,
+          "wordCount": 8035,
           "title": "Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/3D-Euler-Blowup-cr.DVDP-Social.webp"
         },
@@ -1286,7 +1255,7 @@
           "description": "New research in fish suggests that gut microbes can have a crucial early influence on the brain’s social development.            \nThe post The Gut Microbiome Helps Social Skills Develop in the Brain first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/the-gut-microbiome-helps-social-skills-develop-in-the-brain-20221115/",
           "publishedOn": "2022-11-15T15:11:21.000Z",
-          "wordCount": 5476,
+          "wordCount": 5502,
           "title": "The Gut Microbiome Helps Social Skills Develop in the Brain",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/MicrobesPruneNeurons-DanielCastranova_NICHD-Social.webp"
         },
@@ -1296,19 +1265,9 @@
           "description": "Albert Einstein’s ideas about space-time aren’t exactly intuitive, and they aren’t exactly Einstein’s, either.             \nThe post How to Think About Relativity first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/how-to-think-about-relativitys-concept-of-space-time-20221114/",
           "publishedOn": "2022-11-14T14:53:52.000Z",
-          "wordCount": 6611,
+          "wordCount": 6637,
           "title": "How to Think About Relativity",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/Relativity-cr.PeterGreenwood-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=120506",
-          "author": "Allison Whitten",
-          "description": "An energy-efficient chip called NeuRRAM fixes an old design flaw to run large-scale AI algorithms on smaller devices, reaching the same accuracy as wasteful digital computers.            \nThe post New Chip Expands the Possibilities for AI first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/",
-          "publishedOn": "2022-11-10T15:18:11.000Z",
-          "wordCount": 7321,
-          "title": "New Chip Expands the Possibilities for AI",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/11/NeurramChips-cr.Sen%CC%83or_Salme-1200-Social.webp"
         }
       ]
     },
@@ -1317,6 +1276,26 @@
       "feedUrl": "https://feeds.feedburner.com/brainpickings/rss",
       "siteUrl": "https://www.themarginalian.org",
       "articles": [
+        {
+          "id": "https://www.themarginalian.org/?p=79139",
+          "author": "Maria Popova",
+          "description": "\"It is so easy to give, so exquisitely rewarding. Receiving, on the other hand, if it be well done, requires a fine balance of self-knowledge and kindness.\"",
+          "link": "https://www.themarginalian.org/2022/11/21/john-steinbeck-sea-of-cortez-receiving/",
+          "publishedOn": "2022-11-21T17:29:14.000Z",
+          "wordCount": 2765,
+          "title": "The Art of Receiving: John Steinbeck on the True Meaning of Gratitude",
+          "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2015/05/johnsteinbeck3.jpg?fit=600%2C315&ssl=1"
+        },
+        {
+          "id": "https://www.themarginalian.org/?p=79128",
+          "author": "Maria Popova",
+          "description": "\"Tenderness is the most modest form of love. It is the kind of love that does not appear in the scriptures or the gospels, no one swears by it, no one cites it... It appears wherever we take a close and careful look at another being, at something that is not our 'self.’\"",
+          "link": "https://www.themarginalian.org/2022/11/21/tenderness-olga-tokarczuk-nobel-prize/",
+          "publishedOn": "2022-11-21T15:16:37.000Z",
+          "wordCount": 3585,
+          "title": "Storytelling and the Art of Tenderness: Olga Tokarczuk’s Magnificent Nobel Prize Acceptance Speech",
+          "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2022/11/olgatokarczuk.jpg?fit=1125%2C591&ssl=1"
+        },
         {
           "id": "https://www.themarginalian.org/?p=79123",
           "author": "Maria Popova",
@@ -1496,26 +1475,6 @@
           "wordCount": 2780,
           "title": "The Unphotographable #7: Richard Powers on the Majestic Mass Migration of Sandhill Cranes",
           "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2022/07/unphotographable.jpg?fit=1200%2C600&ssl=1"
-        },
-        {
-          "id": "https://www.themarginalian.org/?p=76363",
-          "author": "Maria Popova",
-          "description": "\"Courage, devotion, the spirit of sacrifice, are as contagious as cowardice, submission, and panic.\"",
-          "link": "https://www.themarginalian.org/2022/10/28/peter-kropotkin-the-spirit-of-revolt/",
-          "publishedOn": "2022-10-28T16:48:06.000Z",
-          "wordCount": 2961,
-          "title": "The Spirit of Revolt: The Radical Russian Dissident Prince Peter Kropotkin on How to Reboot a Complacent Society",
-          "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2022/10/kaynielsen_revolt.jpg?fit=1200%2C630&ssl=1"
-        },
-        {
-          "id": "https://www.themarginalian.org/?p=78873",
-          "author": "Maria Popova",
-          "description": "What it takes \"to think abstract problems through on several planes at the same time, to stay alert for symbolic and allegorical meanings, to appreciate the utility of nuance.\"",
-          "link": "https://www.themarginalian.org/2022/10/27/barry-lopez-metaphor/",
-          "publishedOn": "2022-10-27T18:37:18.000Z",
-          "wordCount": 2827,
-          "title": "How to Move a Mind: Barry Lopez on the Power of Metaphor Over Data",
-          "imageUrl": "https://www.themarginalian.org/wp-content/uploads/2016/02/arthurrackham_grimm00.jpg?fit=600%2C315&ssl=1"
         }
       ]
     },
@@ -1525,12 +1484,72 @@
       "siteUrl": "https://futurism.com",
       "articles": [
         {
+          "id": "https://futurism.com/?p=275440",
+          "author": "Maggie Harrison",
+          "description": "NASA Nazis? Like it or not, the fifth installation of the iconic \"Indiana Jones\" series is on its way, with Harrison Ford himself reprising his role as the series' fedora-wearing, whip-wielding protagonist. Though the movie's full title is still under wraps, its creators revealed a few details about the plot in an Empire exclusive — and […]",
+          "link": "https://futurism.com/the-byte/bad-guy-indiana-jones-nazi-nasa",
+          "publishedOn": "2022-11-21T21:36:13.000Z",
+          "wordCount": 3206,
+          "title": "Bad Guy in New \"Indiana Jones\" Movie Is Nazi Who Works at NASA",
+          "imageUrl": "https://wp-assets.futurism.com/2022/11/bad-guy-indiana-jones-nazi-nasa-1.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=275441",
+          "author": "Noor Al-Sibai",
+          "description": "Changing The Game NASA's Artemis mission has, after months of delay and tens of billions of dollars, finally reached the Moon, which it will orbit for the next three-and-a-half weeks. Just a few days after its launch, the Orion spacecraft has reached its lunar destination and is now engaging in the orbit pattern it will […]",
+          "link": "https://futurism.com/the-byte/nasa-artemis-reaches-moon",
+          "publishedOn": "2022-11-21T20:51:23.000Z",
+          "wordCount": 3066,
+          "title": "Rejoice! NASA's Artemis I Is Now Orbiting the Moon",
+          "imageUrl": "https://wp-assets.futurism.com/2022/11/nasa-artemis-reaches-moon.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=275420",
+          "author": "Maggie Harrison",
+          "description": "Silly Billy Happy Holidays to all, especially Microsoft founder Bill Gates. The billionaire philanthropist took to LinkedIn on Saturday to celebrate a more niche holiday: World Toilet Day. And as proof of his, uh spirit for the holiday, the tech mogul shared — or, as some might argue, overshared — some tales of his fecal […]",
+          "link": "https://futurism.com/the-byte/bill-gates-product-fecal-sludge",
+          "publishedOn": "2022-11-21T19:58:51.000Z",
+          "wordCount": 3130,
+          "title": "Bill Gates Reflects on Drinking Product of Fecal Sludge",
+          "imageUrl": "https://wp-assets.futurism.com/2022/11/bill-gates-product-fecal-sludge.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=274869",
+          "author": "Maggie Harrison",
+          "description": "Scott Kelly, the retired NASA astronaut, is someone you might call an outspoken guy. The retired NASA astronaut and US Navy captain, who once held the American record for the longest time spent in a single orbit, takes a no-holds-barred approach to Twitter, where he's spent the last several months not only expressing his support […]",
+          "link": "https://futurism.com/scott-kelly-interview",
+          "publishedOn": "2022-11-21T19:02:04.000Z",
+          "wordCount": 7351,
+          "title": "Retired NASA Astronaut Scott Kelly Dishes on Ukraine, Russia, and Moon Mission",
+          "imageUrl": "https://wp-assets.futurism.com/2022/11/scott-kelly-ukraine-russia-sls.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=275422",
+          "author": "Noor Al-Sibai",
+          "description": "Damages It appears that NASA's Artemis 1 rocket launchpad caught way more damage than expected when it finally took off from Kennedy Space Center last week. As Reuters space reporter Joey Roulette tweeted, a source within the agency said that damage to the launchpad \"exceeded mission management’s expectations,\" and per his description, it sounds fairly severe. […]",
+          "link": "https://futurism.com/the-byte/nasa-artemis-launchpad-damage",
+          "publishedOn": "2022-11-21T18:21:14.000Z",
+          "wordCount": 2812,
+          "title": "NASA Launch Pad Sustained Significant Damage During Artemis Takeoff",
+          "imageUrl": "https://wp-assets.futurism.com/2022/11/nasa-artemis-launchpad-damage.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=275419",
+          "author": "Noor Al-Sibai",
+          "description": "Keep Posting Even amid its seeming death knell, Twitter is still causing major problems for people — just ask Sam Bankman-Fried, the now-infamous founder of the FTX crypto exchange whose lawyers just fired him as a client because he simply refused to stop tweeting. As Bloomberg reports, the Paul Weiss law firm announced that it's dropped […]",
+          "link": "https://futurism.com/the-byte/sam-bankman-fried-lawyers-quit-tweeting",
+          "publishedOn": "2022-11-21T15:48:23.000Z",
+          "wordCount": 2725,
+          "title": "Sam Bankman-Fried's Lawyers Quit Because of His \"Incessant and Disruptive Tweeting\"",
+          "imageUrl": "https://wp-assets.futurism.com/2022/11/sam-bankman-fried-lawyers-quit-tweeting.jpg"
+        },
+        {
           "id": "https://futurism.com/?p=275254",
           "author": "Frank Landymore",
           "description": "Rock of Ages Where Earth's water comes from remains a contentious topic amongst scientists, but a meteorite that landed in England last year may contain a key chunk of evidence. Dubbed the Winchcombe meteorite, the space rock was examined by researchers from the National History Museum in London, who found that it contained water similar […]",
           "link": "https://futurism.com/the-byte/evidence-soggy-meteorites-earth-oceans",
           "publishedOn": "2022-11-20T16:34:37.000Z",
-          "wordCount": 3079,
+          "wordCount": 3111,
           "title": "Evidence Grows That Soggy Meteorites Gave Earth Its Oceans",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/evidence-soggy-meteorites-earth-oceans.jpg"
         },
@@ -1540,7 +1559,7 @@
           "description": "Fabulating After just a few days online (and tons of Twitter criticism), Meta-formerly-Facebook has taken down its Galactica academic paper-writing generator. Released on November 15, Meta pulled the plug on Galactica after three days of experts and random Twitter users dunking on the scientific paper-trained Large Language Model (LLM) over its penchant to spit out […]",
           "link": "https://futurism.com/the-byte/facebook-takes-down-galactica-ai",
           "publishedOn": "2022-11-20T16:33:40.000Z",
-          "wordCount": 2764,
+          "wordCount": 2796,
           "title": "Facebook Takes Down AI That Churns Out Fake Academic Papers After Widespread Criticism",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/facebook-academic-ai.jpg"
         },
@@ -1550,7 +1569,7 @@
           "description": "NASA's James Webb Space Telescope is adjusting its orbit to make sure it won't get pelted with even more micrometeorites. In fact, scientists back on the ground are being forced to adjust the observatory's entire operations strategy as a result of having to move it away from the \"micrometeoroid avoidance zone,\" according to a NASA […]",
           "link": "https://futurism.com/the-byte/nasa-adjusting-james-webb-orbit-meteorites",
           "publishedOn": "2022-11-20T16:31:10.000Z",
-          "wordCount": 2520,
+          "wordCount": 2711,
           "title": "NASA Adjusting James Webb Orbit to Get Damaged by Meteorites Less",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/nasa-adjusting-james-webb-orbit-meteorites.jpg"
         },
@@ -1560,7 +1579,7 @@
           "description": "Researchers have come up with a vaccine that appears to block fentanyl from getting rats high. They're hailing the research as a \"breakthrough discovery,\" potentially paving the way for a new treatment for people trying to kick an opioid addiction. Fentanyl addiction remains an enormously serious problem in America and worldwide. It can be up to 50 […]",
           "link": "https://futurism.com/neoscope/vaccine-blocks-fentanyl-brains-rats",
           "publishedOn": "2022-11-20T16:29:21.000Z",
-          "wordCount": 3576,
+          "wordCount": 3578,
           "title": "New Vaccine Blocks Fentanyl in Brains of Rats",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/vaccine-blocks-fentanyl-brains-rats.jpg"
         },
@@ -1570,7 +1589,7 @@
           "description": "MycelioTronics Electronic waste, also known as \"e-waste,\" is a major polluter, not to mention an increasingly difficult issue to combat. After all, modern use of electronics isn't exactly slowing down, and as such, meaningful E-waste mitigation efforts been few and far between. Excitingly, however, a team of Austrian scientists are working on a creative new […]",
           "link": "https://futurism.com/the-byte/circuit-board-mushrooms",
           "publishedOn": "2022-11-20T16:28:01.000Z",
-          "wordCount": 2727,
+          "wordCount": 2760,
           "title": "Scientists Build Circuit Boards Based on Mushrooms",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/circuit-board-mushrooms.jpg"
         },
@@ -1590,7 +1609,7 @@
           "description": "The universe is so vast and old that we can't possibly fathom it all. But we can make some pretty admirable efforts of charting it. A stunning new map put together by astronomers at Johns Hopkins University displays the entire known universe in all its glory, showcasing some 200,000 galaxies as tiny dots that span […]",
           "link": "https://futurism.com/the-byte/amazing-map-scroll-known-universe",
           "publishedOn": "2022-11-19T17:21:52.000Z",
-          "wordCount": 2647,
+          "wordCount": 2825,
           "title": "Amazing Map Lets You Scroll Through the Entire Known Universe",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/amazing-map-scroll-known-universe.jpg"
         },
@@ -1600,7 +1619,7 @@
           "description": "Above all else, FTX advertisements wanted you to know two things: that cryptocurrency is a force for good, and that you don't need to be an expert to buy and trade it. In fact, you don't even have to understand it at all. You just need to get involved, because if you don't, you'll get […]",
           "link": "https://futurism.com/lawsuit-celebrities-shilled-crypto-investments",
           "publishedOn": "2022-11-19T16:00:17.000Z",
-          "wordCount": 4503,
+          "wordCount": 4451,
           "title": "Behind the Lawsuit Against Celebs Who Shilled FTX Before Its Spectacular Meltdown",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/lawyer-celebrities-shilled-crypto-investments.jpg"
         },
@@ -1610,7 +1629,7 @@
           "description": "NASA is denying that James Webb, the State Department and NASA leader for whom the agency's famous and groundbreaking new space telescope is named, led homophobic government purges — and a bunch of astronomers are clapping back at the assertion. \"After an exhaustive search of U.S. government and Truman library archives,\" administrator Bill Nelson was […]",
           "link": "https://futurism.com/experts-nasa-james-webb-homophobia-decision",
           "publishedOn": "2022-11-19T15:00:54.000Z",
-          "wordCount": 3093,
+          "wordCount": 3259,
           "title": "Experts Excoriate NASA Report Claiming James Webb Wasn't Homophobic",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/experts-nasa-james-webb-homophobia-decision.png"
         },
@@ -1620,7 +1639,7 @@
           "description": "Nice Rocket Revenge porn is a horrible, terrible thing, and Twitter definitely should continue to ban anyone who attempts to post it on the app. That being said, a video of a rocket taking off — an actual rocket, you pervs — does not revenge porn make, and shouldn't be flagged as such. Of course, it […]",
           "link": "https://futurism.com/the-byte/twitter-video-moon-rocket-revenge-porn",
           "publishedOn": "2022-11-18T21:57:00.000Z",
-          "wordCount": 3279,
+          "wordCount": 3468,
           "title": "Twitter Claims Video of Moon Rocket Launch Is Revenge Porn",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/twitter-video-moon-rocket-revenge-porn.png"
         },
@@ -1630,7 +1649,7 @@
           "description": "Stayin' Alive NASA's astronaut social media handbook just dropped — and they've got some staunch guidelines for space tweeting and safety. As part of a public records request, NASA released to Vox an almost entirely unredacted copy of its current social media handbook for astronauts, and it offers a fascinating look into the agency's social-first policies […]",
           "link": "https://futurism.com/the-byte/nasa-astronauts-iss-social-media-safety",
           "publishedOn": "2022-11-18T21:12:59.000Z",
-          "wordCount": 2528,
+          "wordCount": 2717,
           "title": "NASA Tells Astronauts That Tweeting Isn't As Important as Staying Alive",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/nasa-astronauts-iss-social-media-safety.jpg"
         },
@@ -1640,7 +1659,7 @@
           "description": "Worst Case Scenario Elon Musk's Twitter-buying experiment is somehow going even worse than expected amid reports that he's locked employees out of the company's office buildings. First reported by CNN media reporter Oliver Darcy, the email sent to staff and leaked to reporters informed Twitter workers on Thursday that informed them out of the blue […]",
           "link": "https://futurism.com/the-byte/elon-musk-locks-twitter-office-meeting",
           "publishedOn": "2022-11-18T20:18:44.000Z",
-          "wordCount": 2844,
+          "wordCount": 2874,
           "title": "Elon Musk Locks Twitter Employees Out Office, Then Asks Them to Meet Him on the 10th Floor",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/elon-musk-locks-twitter-employees-out.jpg"
         },
@@ -1660,69 +1679,9 @@
           "description": "No Photos, Please NASA apparently barred the press from photographing the Artemis moon rocket launch when it lifted its Orion capsule off to space earlier this week. As multiple space reporters noted on Twitter, the agency reportedly sent journalists a message telling them they were prohibited from photographing the Artemis 1 launch tower. \"NASA did […]",
           "link": "https://futurism.com/the-byte/nasa-press-no-photos-artemis",
           "publishedOn": "2022-11-18T18:35:01.000Z",
-          "wordCount": 2538,
+          "wordCount": 2727,
           "title": "NASA Orders Press Not to Photograph Launch Site After Moon Mission Takes Off",
           "imageUrl": "https://wp-assets.futurism.com/2022/11/nasa-press-no-photos-artemis.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=275206",
-          "author": "Noor Al-Sibai",
-          "description": "Birth Canal The James Webb Space Telescope's latest mind-bending image just dropped — and this one is, in a word, splendid. As NASA notes in a blog post about the finding, the telescope's Near-Infrared Camera (NIRCam) was put to incredible use when capturing the \"once-hidden features\" of the beginnings of a star. Known as \"protostars,\" […]",
-          "link": "https://futurism.com/the-byte/nasa-james-webb-star-born",
-          "publishedOn": "2022-11-18T17:52:48.000Z",
-          "wordCount": 2970,
-          "title": "NASA Drops Stunning New James Webb Image of a Star Being Born",
-          "imageUrl": "https://wp-assets.futurism.com/2022/11/nasa-james-webb-star-born.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=275240",
-          "author": "Maggie Harrison",
-          "description": "Red Crew, Blue Crew Had it not been for the heroics of Trent Annis, Billy Cairns and Chad Garrett, three members of NASA's specialized \"Red Crew,\" NASA's absolutely massive — and incredibly expensive — Space Launch System (SLS), which has faced a long, painful series of delays, likely wouldn't have made it off the ground […]",
-          "link": "https://futurism.com/the-byte/nasas-red-crew-blue-shirts",
-          "publishedOn": "2022-11-18T17:00:37.000Z",
-          "wordCount": 2996,
-          "title": "Experts Baffled by Why NASA’s “Red Crew” Wear Blue Shirts",
-          "imageUrl": "https://wp-assets.futurism.com/2022/11/nasas-red-crew-blue-shirts.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=275061",
-          "author": "Maggie Harrison",
-          "description": "Vacation Nation As crypto exchange FTX continues its demise, a few certain ghosts of crypto collapses' past have somewhat unexpectedly crawled out of the rubble. Namely: Zhu Su and Kyle Davies, the now-maybe-not-missing cofounders of the notorious Three Arrows Capital (3AC) hedge fund. After months of radio silence, the disgraced hedge honchos have made a […]",
-          "link": "https://futurism.com/guy-crypto-meltdown-coincidence-extradition",
-          "publishedOn": "2022-11-18T16:08:40.000Z",
-          "wordCount": 3517,
-          "title": "Guy Linked to Huge Crypto Meltdown Says It’s Just a Coincidence That He’s Hanging Out in a Country With No Extradition to United States",
-          "imageUrl": "https://wp-assets.futurism.com/2022/11/guy-behind-crypto-meltdown-coincidence-extradition.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=275169",
-          "author": "Maggie Harrison",
-          "description": "In just about two years, Facebook-turned-Meta CEO Mark Zuckerberg's metaverse vision has cost his company upwards of $15 billion, cratering value, and, at least in part, mass company layoffs. That's a high price tag, especially when the Facebook creator has shockingly little to show for it — in actual technology, but also in public interest. […]",
-          "link": "https://futurism.com/facebook-exec-zuckerberg-sycophants",
-          "publishedOn": "2022-11-18T15:23:02.000Z",
-          "wordCount": 3633,
-          "title": "Former Facebook Exec Says Zuckerberg Has Surrounded Himself With Sycophants",
-          "imageUrl": "https://wp-assets.futurism.com/2022/11/facebook-exec-zuckerberg-sycophants.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=275215",
-          "author": "Victor Tangermann",
-          "description": "The value of Bored Ape Yacht Club NFTs has absolutely plummeted, leaving celebrities with six figure losses, a hilarious conclusion to a bewildering trend. Earlier this year, popstar Justin Bieber bought an Ape for a whopping $1.3 million. Now that the NFT economy has essentially collapsed in on itself, it's worth a measly $69,000, as […]",
-          "link": "https://futurism.com/the-byte/celebrities-bored-apes-are-hilariously-worthless-now",
-          "publishedOn": "2022-11-18T14:42:55.000Z",
-          "wordCount": 2738,
-          "title": "Celebrities' Bored Apes Are Hilariously Worthless Now",
-          "imageUrl": "https://wp-assets.futurism.com/2022/11/celebrities-bored-apes-are-hilariously-worthless-now.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=275262",
-          "author": "Victor Tangermann",
-          "description": "Elon Musk's Twitter operations are still in free fall. The intrepid billionaire CEO sent an email to staff telling them that they \"need to be extremely hardcore\" and work long hours at the office or quit and get three months severance, as The Washington Post reports. Employees had until 5 pm today to click \"yes\" […]",
-          "link": "https://futurism.com/panicked-elon-musk-begging-engineers-not-to-leave",
-          "publishedOn": "2022-11-17T21:57:40.000Z",
-          "wordCount": 3276,
-          "title": "Panicked Elon Musk Reportedly Begging Engineers Not to Leave",
-          "imageUrl": "https://wp-assets.futurism.com/2022/11/panicked-elon-musk-begging-engineers-not-to-leave.jpg"
         }
       ]
     }
