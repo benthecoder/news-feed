@@ -2,10 +2,1122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://benthecoder.github.io/news-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T01:39:06.125Z</updated>
+    <updated>2022-12-19T01:36:56.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://benthecoder.github.io/news-feeds/index.html"/>
     <link rel="self" href="https://benthecoder.github.io/news-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IARPA Wants AI to 'Identify Overlooked Info, Auto-Generate Comments' for Intel Reporting]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zpdo2p/iarpa_wants_ai_to_identify_overlooked_info/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zpdo2p/iarpa_wants_ai_to_identify_overlooked_info/"/>
+        <updated>2022-12-19T01:03:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Publicize  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical details on the Musicstore, per one of the engineers]]></title>
+        <id>https://lobste.rs/s/fa7ru0</id>
+        <link href="https://cohost.org/cathoderaydude/post/647905-technical-details-on"/>
+        <updated>2022-12-19T01:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>calvin@users.lobste.rs (calvin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NumPy 1.24 Release Notes]]></title>
+        <id>https://news.ycombinator.com/item?id=34046434</id>
+        <link href="https://github.com/numpy/numpy/releases/tag/v1.24.0"/>
+        <updated>2022-12-19T00:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/numpy/numpy/releases/tag/v1.24.0
+Comments URL: https://news.ycombinator.com/item?id=34046434
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>drunkendog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marion Smith, the world’s most prolific cave explorer, dies at 80]]></title>
+        <id>https://news.ycombinator.com/item?id=34045636</id>
+        <link href="https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html"/>
+        <updated>2022-12-18T23:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html
+Comments URL: https://news.ycombinator.com/item?id=34045636
+Points: 6
+# Comments: 1]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Generated and Illustrated Sci-Fi Novel - What do you think? Download it and see for yourself!]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zpbj15/aigenerated_and_illustrated_scifi_novel_what_do/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zpbj15/aigenerated_and_illustrated_scifi_novel_what_do/"/>
+        <updated>2022-12-18T23:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone. Have you ever read a book written 100% by AI?
+ Now you got the chance. I started to work on my Sci-Fi novel using Artificial Intelligence. Together, we wrote an exciting book and made fantastic illustrations for it.
+ It's called Beyond The Horizon, it takes place in the year 2120. The main character, Jenna, a young astronaut is sent on a mission to explore a new planet.
+ Here is the link for the first chapter (pdf version): https://drive.google.com/file/d/1eaY3EOVW4LucsEfcNvugknxbkti9xaqD/view?usp=share_link
+ Let me know what you think!
+ Thanks,
+ Tom
+    submitted by    /u/Character-Bison7282  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should I step down as head of Twitter? I will abide by the results of this poll]]></title>
+        <id>https://news.ycombinator.com/item?id=34045423</id>
+        <link href="https://twitter.com/elonmusk/status/1604617643973124097"/>
+        <updated>2022-12-18T23:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/elonmusk/status/1604617643973124097
+Comments URL: https://news.ycombinator.com/item?id=34045423
+Points: 422
+# Comments: 352]]></summary>
+        <author>
+            <name>calcifer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variance Inflation Factor and sample size]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zpb5li/variance_inflation_factor_and_sample_size/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zpb5li/variance_inflation_factor_and_sample_size/"/>
+        <updated>2022-12-18T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently started working on a time series prediction and forecasting task, and the dataset that I use contains close to 700 features and only 4 years worth of monthly data points (just 48 samples). Part of my preprocessing workflow will obviously be to remove the multicollinearity. As a first starting point, I considered using the VIF before going onto other methods. After the first tests, I quickly realized that almost all of the features are flagged as highly correlated. I went on to further test this hypothesis by running correlation tests on individual features that got the highest VIF values, and found out that they were not linearly correlated to more than a couple of features.
+ This outcome led me to the question of whether VIF is dependent on sample size, and if the results would be different with a much larger sample size. I couldn't find any evidence to support this and the next obvious step is to test this hypothesis by recursively reducing a large enough dataset. Before I do so though, does anyone have any experience with such an effect?
+    submitted by    /u/Realistic_Decision99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Praise of Walking: A Poetic Manifesto for Our Simplest Instrument of Discovery, Transformation, and Transcendence]]></title>
+        <id>https://www.themarginalian.org/?p=79386</id>
+        <link href="https://www.themarginalian.org/2022/12/18/in-praise-of-walking-thomas-a-clark/"/>
+        <updated>2022-12-18T22:44:56.000Z</updated>
+        <summary type="html"><![CDATA["That something exists outside ourselves and our preoccupations, so near, so readily available, is our greatest blessing."]]></summary>
+        <author>
+            <name>Maria Popova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devpod: Remote development environment at Uber]]></title>
+        <id>https://news.ycombinator.com/item?id=34044784</id>
+        <link href="https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/"/>
+        <updated>2022-12-18T22:44:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/
+Comments URL: https://news.ycombinator.com/item?id=34044784
+Points: 24
+# Comments: 9]]></summary>
+        <author>
+            <name>phgn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter suspends pg's account [fixed]]]></title>
+        <id>https://news.ycombinator.com/item?id=34044047</id>
+        <link href="https://twitter.com/paulg/"/>
+        <updated>2022-12-18T22:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/paulg/
+Comments URL: https://news.ycombinator.com/item?id=34044047
+Points: 1427
+# Comments: 952]]></summary>
+        <author>
+            <name>operatingthetan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp9ahh/irs_accidentally_releases_112000_taxpayers/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp9ahh/irs_accidentally_releases_112000_taxpayers/"/>
+        <updated>2022-12-18T21:44:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TradingAllIn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publicis Sapient vs Oliver Wyman]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp8kep/publicis_sapient_vs_oliver_wyman/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp8kep/publicis_sapient_vs_oliver_wyman/"/>
+        <updated>2022-12-18T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[I have an offer as a graduate data scientist at both OW and PS. What do people think is better regarding learning/exit opportunities and reputation?
+ View Poll
+    submitted by    /u/Zsodiac  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Internals]]></title>
+        <id>https://lobste.rs/s/0b03wt</id>
+        <link href="https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html"/>
+        <updated>2022-12-18T20:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>calvin@users.lobste.rs (calvin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRS accidentally releases taxpayers’ private data again]]></title>
+        <id>https://news.ycombinator.com/item?id=34043099</id>
+        <link href="https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again"/>
+        <updated>2022-12-18T20:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again
+Comments URL: https://news.ycombinator.com/item?id=34043099
+Points: 217
+# Comments: 48]]></summary>
+        <author>
+            <name>arkadiyt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A minor memorial for Leo Laporte on terrestrial AM radio]]></title>
+        <id>https://news.ycombinator.com/item?id=34042928</id>
+        <link href="http://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html"/>
+        <updated>2022-12-18T20:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html
+Comments URL: https://news.ycombinator.com/item?id=34042928
+Points: 44
+# Comments: 28]]></summary>
+        <author>
+            <name>classichasclass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser extension that lets you follow accounts on foreign Mastodon instances]]></title>
+        <id>https://news.ycombinator.com/item?id=34042651</id>
+        <link href="https://github.com/Lartsch/FediAct"/>
+        <updated>2022-12-18T20:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Lartsch/FediAct
+Comments URL: https://news.ycombinator.com/item?id=34042651
+Points: 63
+# Comments: 21]]></summary>
+        <author>
+            <name>shafyy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance was once FTX's rival and possible savior. Now it's trying not to be its sequel]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp722n/binance_was_once_ftxs_rival_and_possible_savior/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp722n/binance_was_once_ftxs_rival_and_possible_savior/"/>
+        <updated>2022-12-18T20:07:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/AmethystOrator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The golden age of streaming TV is over]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp71h1/the_golden_age_of_streaming_tv_is_over/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp71h1/the_golden_age_of_streaming_tv_is_over/"/>
+        <updated>2022-12-18T20:06:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Overview & Implementation of K-Means Clustering]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp6sig/an_overview_implementation_of_kmeans_clustering/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp6sig/an_overview_implementation_of_kmeans_clustering/"/>
+        <updated>2022-12-18T19:56:16.000Z</updated>
+        <summary type="html"><![CDATA[K-means clustering is a popular unsupervised machine learning technique for grouping similar data points into clusters. K-means is efficient and widely applicable in fields such as customer segmentation, image compression, anomaly detection, text mining, and fraud detection. 
+ Here's a post I've written detailing an overview of the algorithm, as well as a simple implementation & animation in Python. Cheers and happy coding! 
+ Link: https://gradiently.io/An%20Overview%20&%20Implementation%20of%20K-Means%20Clustering/
+    submitted by    /u/Ill-Tomato-8400  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter bans links and username mentions relating to Facebook, Instagram and other rivals]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp6lk4/twitter_bans_links_and_username_mentions_relating/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp6lk4/twitter_bans_links_and_username_mentions_relating/"/>
+        <updated>2022-12-18T19:47:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sudobeast  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Propose Building City Inside Giant Bag Around Entire Asteroid]]></title>
+        <id>https://futurism.com/?p=277529</id>
+        <link href="https://futurism.com/asteroid-city-bag-bennu"/>
+        <updated>2022-12-18T19:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Researchers admitted that it's "wildly theoretical" to propose putting a giant mesh bag around an asteroid to build space cities — but that it's technically feasible all the same. Taking their cues from the golden era of science fiction and NASA's ambitious 1970s project planning, a team of engineers and astrophysicists at the University of […]]]></summary>
+        <author>
+            <name>Noor Al-Sibai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're Deeply Alarmed By This Robodog That Can Climb Up Walls]]></title>
+        <id>https://futurism.com/?p=277665</id>
+        <link href="https://futurism.com/the-byte/robodog-that-climbs-walls"/>
+        <updated>2022-12-18T19:39:31.000Z</updated>
+        <summary type="html"><![CDATA[There's not a lot of burgeoning tech out there that as often vacillates between being cute and absolutely horrifying as robotic vertebrates — especially robodogs, as we like to call them — but they seem to strut that line as easily as they're able to brandish a giant gun, or uh, climb walls now. Yes, […]]]></summary>
+        <author>
+            <name>Frank Landymore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Anyone tired of everything being a subscription now?]]></title>
+        <id>https://news.ycombinator.com/item?id=34041962</id>
+        <link href="https://news.ycombinator.com/item?id=34041962"/>
+        <updated>2022-12-18T19:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Not newspapers or media services (though those can be annoying too), but products in general? It feels like it's getting harder and harder to just buy something in the tech world, especially when it comes to running programs on my home computer. Want a password manager? It's a SaaS now. Note taking app? SaaS. Image editor or office suite? SaaS (thanks Adobe...)
+This is especially annoying given I generally refuse to rent anything in life, and will go out of my way to buy something upfront simply so there's no risk of losing it if finances get worse in future (or the wrong billionaire buys the company). Yet it seems like it's getting harder to do so, especially when open source products don't exist for that domain.
+So yeah, why is that? And is anyone else tired of the constant barrage of subscriptions for things that should be one off purchases?
+Comments URL: https://news.ycombinator.com/item?id=34041962
+Points: 467
+# Comments: 340]]></summary>
+        <author>
+            <name>CM30</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government should incentivize high performance home builders]]></title>
+        <id>https://news.ycombinator.com/item?id=34041900</id>
+        <link href="https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/"/>
+        <updated>2022-12-18T19:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/
+Comments URL: https://news.ycombinator.com/item?id=34041900
+Points: 24
+# Comments: 5]]></summary>
+        <author>
+            <name>pilingual</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s it like at Tiktok or Uber?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp5rwk/whats_it_like_at_tiktok_or_uber/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp5rwk/whats_it_like_at_tiktok_or_uber/"/>
+        <updated>2022-12-18T19:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello, could any employees of these companies share what the work culture is like? I have seen some job postings I liked for recent grads at each company and wanted to know what people think of them. For context I am a soon to graduate statistics MS and would like to know if either company is more stats heavy? Also what are they like for recent grads who are pretty young still
+    submitted by    /u/medylan  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artists fed up with AI-image generators use Mickey Mouse to goad copyright lawsuits]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp5jpl/artists_fed_up_with_aiimage_generators_use_mickey/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp5jpl/artists_fed_up_with_aiimage_generators_use_mickey/"/>
+        <updated>2022-12-18T19:00:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Genevieves_bitch  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why use regularization for linear regression?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp57fh/why_use_regularization_for_linear_regression/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp57fh/why_use_regularization_for_linear_regression/"/>
+        <updated>2022-12-18T18:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Other than when X (data matrix) is not invertible and assuming i haven't done any feature engineering to make the linear regression effectively be a polynomial regression, I don't really see the point in using regularization for vanilla linear regression. How could a line overfit?
+    submitted by    /u/alesaso2000  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Dream 112 - AI created this EPIC ART Animation.]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zp5303/ai_dream_112_ai_created_this_epic_art_animation/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zp5303/ai_dream_112_ai_created_this_epic_art_animation/"/>
+        <updated>2022-12-18T18:39:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/LordPewPew777  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I. Submission games - The interrogation]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zp4skl/ai_submission_games_the_interrogation/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zp4skl/ai_submission_games_the_interrogation/"/>
+        <updated>2022-12-18T18:26:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/goronmask  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML5 Canvas on Rails? Part 1]]></title>
+        <id>https://lobste.rs/s/qkgrux</id>
+        <link href="https://fogel.dev/software/canvas_on_rails_1/"/>
+        <updated>2022-12-18T18:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>afogel@users.lobste.rs (afogel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Bans Accounts Promoting Other Social Networks]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp4k1i/twitter_bans_accounts_promoting_other_social/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp4k1i/twitter_bans_accounts_promoting_other_social/"/>
+        <updated>2022-12-18T18:15:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/justAnotherLedditor  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten influential programming languages (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=34040397</id>
+        <link href="https://www.hillelwayne.com/post/influential-dead-languages/"/>
+        <updated>2022-12-18T18:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hillelwayne.com/post/influential-dead-languages/
+Comments URL: https://news.ycombinator.com/item?id=34040397
+Points: 201
+# Comments: 139]]></summary>
+        <author>
+            <name>ksec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 'created decoy labor group' to derail unionization]]></title>
+        <id>https://news.ycombinator.com/item?id=34040361</id>
+        <link href="https://www.theregister.com/2022/12/16/apple_decoy_labor_group/"/>
+        <updated>2022-12-18T18:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2022/12/16/apple_decoy_labor_group/
+Comments URL: https://news.ycombinator.com/item?id=34040361
+Points: 306
+# Comments: 24]]></summary>
+        <author>
+            <name>LinuxBender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELI5 data science?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp45wd/eli5_data_science/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp45wd/eli5_data_science/"/>
+        <updated>2022-12-18T17:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Long story short, in college I loved research and stats and ended up being a TA for 2 years, realized I liked it more than the career path I chose (physical therapist) but thought I decided too late (wrong obviously) so, am trying to figure out data or research related fields that won’t require going back to get another bachelors (I’m fine doing another masters or certificate). Can anyone shed some light on what you do day to day, and any pros/cons, salaries if you’re willing?
+    submitted by    /u/flanker218  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech’s latest controversy? The return of the five-day, in-person work week]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp40pl/techs_latest_controversy_the_return_of_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp40pl/techs_latest_controversy_the_return_of_the/"/>
+        <updated>2022-12-18T17:49:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/glawgii  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google introduces end-to-end encryption for Gmail on the web]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp40e0/google_introduces_endtoend_encryption_for_gmail/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp40e0/google_introduces_endtoend_encryption_for_gmail/"/>
+        <updated>2022-12-18T17:49:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/psychothumbs  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers]]></title>
+        <id>https://lobste.rs/s/rvs4xq</id>
+        <link href="https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html"/>
+        <updated>2022-12-18T17:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>honeyryderchuck@users.lobste.rs (honeyryderchuck)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grocery Stores Alarmed by Spinach Giving Dozens of Customers Hallucinogenic Trips]]></title>
+        <id>https://futurism.com/?p=277823</id>
+        <link href="https://futurism.com/neoscope/grocery-stores-recall-hallucinogenic-spinach"/>
+        <updated>2022-12-18T17:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Grocery stores have been forced to recall some prepackaged salad mixes after tons of people got sick from a baby spinach mix that gave them freakin' hallucinations, man. As Melbourne, Australia's The Age newspaper reports, at least 47 people in across the country have reported symptoms after eating the baby spinach sold in prepackaged salad kits […]]]></summary>
+        <author>
+            <name>Noor Al-Sibai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are simplified inputs in SHAP, LIME?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp3bqs/what_are_simplified_inputs_in_shap_lime/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp3bqs/what_are_simplified_inputs_in_shap_lime/"/>
+        <updated>2022-12-18T17:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I've been reading the original papers of a few model explainability techniques such as SHAP, LIME. I believe that I got the gist of those concepts except one thing. They mention simplified input X' corresponding to the actual input X. Could you please explain what it means for a normal tabular dataset?
+    submitted by    /u/eternalmathstudent  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Explained]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp39u3/sql_explained/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp39u3/sql_explained/"/>
+        <updated>2022-12-18T17:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone!
+ If you are looking to understand SQL at a fundamental level, I have made a video that explains what SQL is and how it functions in just 5 minutes.
+ https://youtu.be/JexPhiN7FUo
+ Let me know what you think!
+    submitted by    /u/0neEquals0ne  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motion (YC W20) Is Hiring Senior Fullstack Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=34039639</id>
+        <link href="https://jobs.ashbyhq.com/motion?utm_source=hn"/>
+        <updated>2022-12-18T17:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.ashbyhq.com/motion?utm_source=hn
+Comments URL: https://news.ycombinator.com/item?id=34039639
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>ethanyu94</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A self-driving lab (SDL) at the University of Toronto has discovered organic lasers with state-of-the-art performance⁠ — and it only took 2 days. SDLs work by combining artificial intelligence, automation, and advanced computing to discover new things]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zp30w4/a_selfdriving_lab_sdl_at_the_university_of/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zp30w4/a_selfdriving_lab_sdl_at_the_university_of/"/>
+        <updated>2022-12-18T17:00:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Aerothermal  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronomers Intrigued by Certain Stars That Are "Glitching"]]></title>
+        <id>https://futurism.com/?p=277832</id>
+        <link href="https://futurism.com/the-byte/astronomers-stars-glitching"/>
+        <updated>2022-12-18T16:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Galactic Lodestars Something strange is happening with stars: they're "glitching" out. Stellar "glitches," as they're called, are large structural variations that occur in the inner cores of red giants. And astronomers, after taking a deeper look, have found that these "glitches" happen way more often than expected. This is not the first time that glitching […]]]></summary>
+        <author>
+            <name>Frank Landymore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Transcript – read YouTube videos]]></title>
+        <id>https://news.ycombinator.com/item?id=34039362</id>
+        <link href="https://youtubetranscript.com/"/>
+        <updated>2022-12-18T16:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://youtubetranscript.com/
+Comments URL: https://news.ycombinator.com/item?id=34039362
+Points: 219
+# Comments: 96]]></summary>
+        <author>
+            <name>fragmede</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV disappears, but HBO Max removing shows feels different]]></title>
+        <id>https://news.ycombinator.com/item?id=34039283</id>
+        <link href="https://www.vulture.com/article/hbo-max-warner-cancelations-disappearing-tv-streaming-future.html"/>
+        <updated>2022-12-18T16:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vulture.com/article/hbo-max-warner-cancelations-disappearing-tv-streaming-future.html
+Comments URL: https://news.ycombinator.com/item?id=34039283
+Points: 50
+# Comments: 50]]></summary>
+        <author>
+            <name>marban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S.-French satellite launched to map almost all of the world’s oceans, lakes, rivers]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp2akv/usfrench_satellite_launched_to_map_almost_all_of/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp2akv/usfrench_satellite_launched_to_map_almost_all_of/"/>
+        <updated>2022-12-18T16:25:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Wagamaga  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything as a Service]]></title>
+        <id>https://news.ycombinator.com/item?id=34039028</id>
+        <link href="https://curiositysink.substack.com/p/everything-as-a-service"/>
+        <updated>2022-12-18T16:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://curiositysink.substack.com/p/everything-as-a-service
+Comments URL: https://news.ycombinator.com/item?id=34039028
+Points: 54
+# Comments: 13]]></summary>
+        <author>
+            <name>raptisj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start with CP/M]]></title>
+        <id>https://news.ycombinator.com/item?id=34039000</id>
+        <link href="https://www.retrotechnology.com/dri/howto_cpm.html"/>
+        <updated>2022-12-18T16:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.retrotechnology.com/dri/howto_cpm.html
+Comments URL: https://news.ycombinator.com/item?id=34039000
+Points: 51
+# Comments: 10]]></summary>
+        <author>
+            <name>marcodiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating Logan Paul's biggest scam [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=34038948</id>
+        <link href="https://www.youtube.com/watch?v=386p68_lDHA"/>
+        <updated>2022-12-18T16:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=386p68_lDHA
+Comments URL: https://news.ycombinator.com/item?id=34038948
+Points: 295
+# Comments: 156]]></summary>
+        <author>
+            <name>marban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QOI is now my favorite asset format]]></title>
+        <id>https://lobste.rs/s/wy1vyr</id>
+        <link href="https://nullprogram.com/blog/2022/12/18/"/>
+        <updated>2022-12-18T15:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>calvin@users.lobste.rs (calvin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richard Feynman on looking at the world from another point of view (1973)]]></title>
+        <id>https://news.ycombinator.com/item?id=34038784</id>
+        <link href="https://cassandradispatch.org/richard-feynman-on-looking-at-the-world-from-another-point-of-view/"/>
+        <updated>2022-12-18T15:51:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cassandradispatch.org/richard-feynman-on-looking-at-the-world-from-another-point-of-view/
+Comments URL: https://news.ycombinator.com/item?id=34038784
+Points: 89
+# Comments: 30]]></summary>
+        <author>
+            <name>shafyy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is associates degree in Data or Computer Science enough to pivot into the field?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zp1drd/is_associates_degree_in_data_or_computer_science/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zp1drd/is_associates_degree_in_data_or_computer_science/"/>
+        <updated>2022-12-18T15:43:29.000Z</updated>
+        <summary type="html"><![CDATA[I have an BS in Urban Planning with a certificate in Geographic Info Science (GIS). The certificate actually took me through many statistics classes and a few introductory Python/R classes. 
+ If I were to pursue an associates in DS or CS would that be enough to break into entry level analyst roles? Maybe in the real estate industry or government departments, given the urban planning background. 
+ I’m open to receiving a masters down the line but would like to try the work out first.
+    submitted by    /u/squigglemash  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrated virtual reality pioneer leaves Facebook's parent]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zp1bgs/frustrated_virtual_reality_pioneer_leaves/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zp1bgs/frustrated_virtual_reality_pioneer_leaves/"/>
+        <updated>2022-12-18T15:40:20.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Ssider69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I asked ChatGPT to write a Twitter hook. This was the result:]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zp1axh/i_asked_chatgpt_to_write_a_twitter_hook_this_was/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zp1axh/i_asked_chatgpt_to_write_a_twitter_hook_this_was/"/>
+        <updated>2022-12-18T15:39:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TheVellerShow  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve been battling cancer last 2 years, but now only have a few days left]]></title>
+        <id>https://news.ycombinator.com/item?id=34038601</id>
+        <link href="https://twitter.com/stokesneuro/status/1604369158883491841"/>
+        <updated>2022-12-18T15:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/stokesneuro/status/1604369158883491841
+Comments URL: https://news.ycombinator.com/item?id=34038601
+Points: 321
+# Comments: 219]]></summary>
+        <author>
+            <name>donsupreme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epigrams in Programming (1982)]]></title>
+        <id>https://lobste.rs/s/baahab</id>
+        <link href="http://www.cs.yale.edu/homes/perlis-alan/quotes.html"/>
+        <updated>2022-12-18T15:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>amw-zero@users.lobste.rs (amw-zero)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs: ffmpeg and macOS aliasing commands]]></title>
+        <id>https://lobste.rs/s/kzr2mw</id>
+        <link href="https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/"/>
+        <updated>2022-12-18T14:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>xenodium@users.lobste.rs (xenodium)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structuring Clojure Applications]]></title>
+        <id>https://lobste.rs/s/4h42vn</id>
+        <link href="https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html"/>
+        <updated>2022-12-18T14:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Yogthos@users.lobste.rs (Yogthos)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAOS Operating System]]></title>
+        <id>https://lobste.rs/s/bqdupq</id>
+        <link href="http://www.uruk.org/emu/Taos.html"/>
+        <updated>2022-12-18T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>lproven@users.lobste.rs (lproven)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how can I make myself stand-out to get an interview and eventually a good job ?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zoza64/how_can_i_make_myself_standout_to_get_an/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zoza64/how_can_i_make_myself_standout_to_get_an/"/>
+        <updated>2022-12-18T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[I am a master student of Data Science in Sydney, but I am struggling to find an internship. So far, in last one year, I have learned almost all of the core subjects (big data, ML, Data Viz) with a good grades yet I am unable to get an interview opportunity for a Data Science related role.
+ So, how can I make myself stand-out to get an interview and eventually a good job ?
+    submitted by    /u/ContentTie6637  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any web development for data science courses?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zoyxkx/any_web_development_for_data_science_courses/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zoyxkx/any_web_development_for_data_science_courses/"/>
+        <updated>2022-12-18T13:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Hello, 
+ I am a web developer who also learnt data science over the past year. People mentioned how beneficial it is to know both, and while I do know both pretty well, I am not able to correlate them. Are there any courses or languages I can learn to incorporate the two?
+    submitted by    /u/saadiyaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Tech shame' is hitting young colleagues the hardest as they try to fix older colleagues' technical issues and their own / Gen Z workers are 10 times more likely to feel ashamed about technical issues than their older colleagues, HP survey says.]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zoynbu/tech_shame_is_hitting_young_colleagues_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zoynbu/tech_shame_is_hitting_young_colleagues_the/"/>
+        <updated>2022-12-18T13:29:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple accused of creating illegal pseudo-union at Ohio store]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zoyju3/apple_accused_of_creating_illegal_pseudounion_at/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zoyju3/apple_accused_of_creating_illegal_pseudounion_at/"/>
+        <updated>2022-12-18T13:24:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/thebelsnickle1991  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's First Hovering Robot That Collects Rare Minerals From Sea Floor Allows Industry to Ditch Dredging]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zoxup2/worlds_first_hovering_robot_that_collects_rare/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zoxup2/worlds_first_hovering_robot_that_collects_rare/"/>
+        <updated>2022-12-18T12:46:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/HentaiUwu_6969  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lockfile trick: Package an npm project with Nix in 20 lines]]></title>
+        <id>https://lobste.rs/s/btnml1</id>
+        <link href="https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html"/>
+        <updated>2022-12-18T12:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>nmattia@users.lobste.rs (nmattia)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany cuts the ribbon on first LNG terminal]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zoxgvs/germany_cuts_the_ribbon_on_first_lng_terminal/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zoxgvs/germany_cuts_the_ribbon_on_first_lng_terminal/"/>
+        <updated>2022-12-18T12:24:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas gifts for data scientist]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zoxbdz/christmas_gifts_for_data_scientist/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zoxbdz/christmas_gifts_for_data_scientist/"/>
+        <updated>2022-12-18T12:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Any idea? Something else than book would be nice !
+ Edit: I was more thinking of something funny / humorous.
+    submitted by    /u/The_Placard  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social media influencers are charged with feeding followers ‘a steady diet of misinformation’ in a pump and dump stock scheme that netted $100 million]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zowvi5/social_media_influencers_are_charged_with_feeding/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zowvi5/social_media_influencers_are_charged_with_feeding/"/>
+        <updated>2022-12-18T11:49:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Wagamaga  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The U.S. is finally investing in domestic chip production—will it make a difference?]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zowmxg/the_us_is_finally_investing_in_domestic_chip/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zowmxg/the_us_is_finally_investing_in_domestic_chip/"/>
+        <updated>2022-12-18T11:34:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Vailhem  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheating on your college essay with ChatGPT won't get you good grades, say professors — but AI could make education fairer]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zowbmn/cheating_on_your_college_essay_with_chatgpt_wont/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zowbmn/cheating_on_your_college_essay_with_chatgpt_wont/"/>
+        <updated>2022-12-18T11:13:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany ups reliance on Huawei for 5G despite security fears -survey]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zow2x6/germany_ups_reliance_on_huawei_for_5g_despite/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zow2x6/germany_ups_reliance_on_huawei_for_5g_despite/"/>
+        <updated>2022-12-18T10:58:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Doener23  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Significant breakthrough’: This new sea salt battery has 4 times the capacity of lithium]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zovo9c/significant_breakthrough_this_new_sea_salt/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zovo9c/significant_breakthrough_this_new_sea_salt/"/>
+        <updated>2022-12-18T10:31:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why censoring the OpenAI/ ChatGPT is useless: It's ''PC'' on surface but you can actually force/submit it into bypassing it's restrictions]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zovhc4/why_censoring_the_openai_chatgpt_is_useless_its/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zovhc4/why_censoring_the_openai_chatgpt_is_useless_its/"/>
+        <updated>2022-12-18T10:18:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/exoboy1993  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to clean artifacts with AI from old animations?]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zovf9j/how_to_clean_artifacts_with_ai_from_old_animations/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zovf9j/how_to_clean_artifacts_with_ai_from_old_animations/"/>
+        <updated>2022-12-18T10:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I grew up watching the tom sawyer movie in my native language. When searching for it I could not buy it in my native language and could only download it from an old forum. I decided to buy the DVD in English (I shared it for free btw https://archive.org/details/a-storybook-classic-tom-sawyer-2005) and then maybe put my native's language lines over it. the problem is, it's kinda dirty from artifacts. Is there any way to clean it using AI?
+ thanks in advance :)
+    submitted by    /u/suicidal_boy_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs User Survey - 2022 - Results]]></title>
+        <id>https://lobste.rs/s/eaoa7p</id>
+        <link href="https://emacssurvey.org/results/3425413930"/>
+        <updated>2022-12-18T09:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>susam@users.lobste.rs (susam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chartered data scientist legit or scam?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zouwik/chartered_data_scientist_legit_or_scam/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zouwik/chartered_data_scientist_legit_or_scam/"/>
+        <updated>2022-12-18T09:40:02.000Z</updated>
+        <summary type="html"><![CDATA[There’s a chartered data scientist exam and i dont know if it’s a scam or companies and universities actually respect it Does anyone know?
+    submitted by    /u/Ok-Marionberry3478  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As a newbie to SQL, how do I decide whether to use SQL for the actual data analysis in a project, or just for wrangling the data?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zougy0/as_a_newbie_to_sql_how_do_i_decide_whether_to_use/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zougy0/as_a_newbie_to_sql_how_do_i_decide_whether_to_use/"/>
+        <updated>2022-12-18T09:10:16.000Z</updated>
+        <summary type="html"><![CDATA[I'm trying to self-teach SQL and I'm planning on picking some data set, figuring out how to store it in a database, and then playing around with it a bit before deciding on some sort of analysis to do or maybe ML algorithm to apply (I figure I may as well get some practice in other DS topics while trying to learn SQL, since SQL is just a tool afterall). I figure I'll need to use Python or R if I want to apply an ML algorithm without implementing the whole thing from scratch, but I'll at least need to do some exploratory data analysis first to figure what features of the data look interesting, what algorithm might be appropriate, etc. 
+ But how do I decide how much to do with SQL and how much to do with Python/R? I've posted about learning SQL a few times this past week and I've gotten several responses saying essentially that SQL is nothing more than reading in data from a database and doing simple manipulations on it, like select and merge, but also several other responses saying to be sure I learn more SQL than that if I want to actually have useful skills. Obviously context is key and I figure there are some people who only use SQL for the basics and others who use it for mich more advanced stuff. 
+ I guess what I'm asking is, how do I know when SQL is the appropriate tool for the job? Like, is it a good tool to use for exploratory analysis, such as computing descriptive statistics and creating summary tables of variables? Or is mostly used to extract/group/etc subsets of data? Or, to put it another way, should I use SQL just for the same types of operations I'd use R's dplyr library for, when working on a small dataset read in from an Excel file, then switch to R or Python? Or would it be reasonable to also use it for EDA?
+    submitted by    /u/dcfan105  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swedish Firm to Unlock the Electricity of the Sea With Largest Wave Power Station in the World]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zot5pj/swedish_firm_to_unlock_the_electricity_of_the_sea/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zot5pj/swedish_firm_to_unlock_the_electricity_of_the_sea/"/>
+        <updated>2022-12-18T07:44:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernet transceiver]]></title>
+        <id>https://lobste.rs/s/tifp2y</id>
+        <link href="https://imihajlov.tk/blog/posts/eth-to-spi/"/>
+        <updated>2022-12-18T07:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>friendlysock@users.lobste.rs (friendlysock)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing std::lock_guard with a factory function]]></title>
+        <id>https://lobste.rs/s/wnsxjy</id>
+        <link href="https://quuxplusone.github.io/blog/2022/12/14/my-lock-guard/"/>
+        <updated>2022-12-18T06:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>raymii@users.lobste.rs (raymii)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portfolio Examples]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zos2gd/portfolio_examples/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zos2gd/portfolio_examples/"/>
+        <updated>2022-12-18T06:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Is there a place to find portfolio examples? How do people usually attach a portfolio to a resume? What do these portfolios look like? How are they optimized? 
+ I'm about to start my final year of a Bachelors in Data Science and want to start trying to find a full / part-time (not just seasonal) internship/job. I have seen a handful of the hiring managers in this sub say they do check the portfolios, and sometimes they do more damage than good. I was hoping to find some examples of great portfolios to compare to mine. 
+ TIA
+    submitted by    /u/RunescapeJoe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tricked m3.euagendas.org, the Twitter analysis website, with adversarial inputs (2019)]]></title>
+        <id>https://lobste.rs/s/stqy9r</id>
+        <link href="https://worthdoingbadly.com/nn-adversarial/"/>
+        <updated>2022-12-18T06:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Corbin@users.lobste.rs (Corbin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuroscience major -> data science masters?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zoryyn/neuroscience_major_data_science_masters/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zoryyn/neuroscience_major_data_science_masters/"/>
+        <updated>2022-12-18T06:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Current neuroscience major. Would it be viable to apply to data science masters programs with this degree? I was thinking of adding a CS minor too.
+    submitted by    /u/qsauce6  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weird, open-ended question: How good at DS do I need to be to get a DS internship?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zorihl/weird_openended_question_how_good_at_ds_do_i_need/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zorihl/weird_openended_question_how_good_at_ds_do_i_need/"/>
+        <updated>2022-12-18T05:59:51.000Z</updated>
+        <summary type="html"><![CDATA[question is a bit confusing, but let me explain. I study data science at university, but it seems to be a lot more data analysis than actual data science (for now, at least) but I still want to end up in the field of data science and have an internship under my belt before I graduate (I'm a junior rn). So what are some concepts I should know, and how well should I know them?
+ For example, within machine learning (or other concepts), which models should I know and how well should I know them?
+ Let me know if I'm still confusing lol.. and any other advice is much appreciated ! - sincerely, a struggling college student.
+    submitted by    /u/throwaway_jfkdhsmdns  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental cancer therapy shows success in more than 70% of patients in global clinical trials]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zora4w/experimental_cancer_therapy_shows_success_in_more/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zora4w/experimental_cancer_therapy_shows_success_in_more/"/>
+        <updated>2022-12-18T05:45:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ford’s electric F-150 Lightning is getting more expensive, again]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zopsaw/fords_electric_f150_lightning_is_getting_more/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zopsaw/fords_electric_f150_lightning_is_getting_more/"/>
+        <updated>2022-12-18T04:21:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Bankman-Fried to reverse decision on contesting extradition]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zopje0/sam_bankmanfried_to_reverse_decision_on/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zopje0/sam_bankmanfried_to_reverse_decision_on/"/>
+        <updated>2022-12-18T04:08:41.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/pstbo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rules of the road navigating the tech layoffs and hiring]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zopial/rules_of_the_road_navigating_the_tech_layoffs_and/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zopial/rules_of_the_road_navigating_the_tech_layoffs_and/"/>
+        <updated>2022-12-18T04:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone!
+ I psuedo joined the tech layoff getting put into a free agency to apply anywhere by my company and have been joining the mad job rush getting into things. I thought to share some experiential learning I had going on that roughly equates to normal good practice, but is also a good reminder to always consider ourselves expendable and a free agent regardless of if we're safe or not. I'm getting this quality checked on multiple communities and I'd love to hear your feedback.
+  
+If your resume stands out, they have a specific need, and you fill it beautifully which you’ll understand based on the job description, you can expect to get through the hiring process quickly.
+ If it’s a not sure, the initial contact and scheduling of the interview will go quickly and the process can be v…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing the Perceus reference counting GC]]></title>
+        <id>https://lobste.rs/s/sryur4</id>
+        <link href="https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662"/>
+        <updated>2022-12-18T03:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>jado@users.lobste.rs (jado)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California invests $2.6 billion to build 90,000 EV chargers]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zoow41/california_invests_26_billion_to_build_90000_ev/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zoow41/california_invests_26_billion_to_build_90000_ev/"/>
+        <updated>2022-12-18T03:33:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany ups reliance on Huawei for 5G despite security fears -survey]]></title>
+        <id>https://www.reddit.com/r/technology/comments/zooftr/germany_ups_reliance_on_huawei_for_5g_despite/</id>
+        <link href="https://www.reddit.com/r/technology/comments/zooftr/germany_ups_reliance_on_huawei_for_5g_despite/"/>
+        <updated>2022-12-18T03:10:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sign_up_in_secondss  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xmas gift book rec - game theory-related ML/AI book]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/zoo1h7/xmas_gift_book_rec_game_theoryrelated_mlai_book/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/zoo1h7/xmas_gift_book_rec_game_theoryrelated_mlai_book/"/>
+        <updated>2022-12-18T02:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello AI Reddit,
+ I am writing to ask for help Christmas shopping! : ) 
+ My brother has a masters in ML and works at an AI company. He is working on a long-term project, and he explained to me that he is approaching the project through a game theory lens, while other AI teams working on the same project have taken a nat'l language processing-focused approach. The project involves solving a complex board game for real-life applications. I am looking for books that would offer him interesting/useful information about game theory in ML context. I am also open to any other AI/ML/comp sci book recs. He reads textbooks about chemistry and comp sci for pleasure, so this would NOT be a "super lame" gift for him. 
+ ​
+ Thank you!
+    submitted by    /u/userofreddit2021777  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm attempting to self-teach SQL. If I already know already know Python, should I start by using a Python API for SQL or would that handicap me?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zon2g1/im_attempting_to_selfteach_sql_if_i_already_know/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zon2g1/im_attempting_to_selfteach_sql_if_i_already_know/"/>
+        <updated>2022-12-18T02:00:53.000Z</updated>
+        <summary type="html"><![CDATA[For context, I'm currently finishing my bachelor's degree in electrical engineering and I just completed my minor in data science (i.e. I finished the last course required to satisfy the minor's requirements). I found I like the data science stuff significantly more than EE, but I'm too far along to even consider switching majors at this point. Hence, I'm trying to self-teach additional data science skills and I know being to use SQL and work with databases (something none of my DS courses covered unfortunately) in particular is a vital skill to have if I have any hope of getting a job in DS. 
+ I posted previously about this and I got a ton of responses with people recommending so many different learning platforms and several different API's and DBMS's that I'm a little unsure where to start. I started just reading about what databases even are so I can have a clear mental model in my head, but now I'm struggling to decide how to actually get started with SQL itself. 
+ The easiest thing (and hence what I'm tempted to do) would probably be to use one of the Python API's people recommended, just because I already have some experience using Python for data cleaning, exploration, and analysis, and I have Python fully set-up on my system already (and getting everything set up to use any new programming language is typically a pain). But is that a good idea, seeing as this will be the first time I've used SQL? Will it it hurt me later on if I get used to just using Python to call SQL rather than learning how to use it directly? Like, would prospective employers be less likely to higher me if I only have experience using SQL via Python, or will there be things I can't do through the API? Or am I just completely overthinking this and it doesn't really matter whether I use SQL directly or indirectly?
+    submitted by    /u/dcfan105  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Becoming a better programmer is twice as hard as just writing code. This is how I will sum up my learning of the past 30 years.]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zomtw5/becoming_a_better_programmer_is_twice_as_hard_as/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zomtw5/becoming_a_better_programmer_is_twice_as_hard_as/"/>
+        <updated>2022-12-18T01:49:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ishwarjha  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bolin Programming Language]]></title>
         <id>https://lobste.rs/s/pasqme</id>
@@ -14,6 +1126,18 @@
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>zdsmith@users.lobste.rs (zdsmith)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P&C Claim Data?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/zom9b9/pc_claim_data/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/zom9b9/pc_claim_data/"/>
+        <updated>2022-12-18T01:20:34.000Z</updated>
+        <summary type="html"><![CDATA[I’m looking for some data on p&c insurance losses (claim/no-claim; claim size; peril; date; address). Does anyone know if there is a public data base with this?
+    submitted by    /u/MGeeeeeezy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
         </author>
     </entry>
     <entry>
@@ -27,33 +1151,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product assortment/range optimisation for FMCG]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zolerx/product_assortmentrange_optimisation_for_fmcg/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zolerx/product_assortmentrange_optimisation_for_fmcg/"/>
-        <updated>2022-12-18T00:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Hi guys, From your experience, what models would you consider for product assortment/range optimisation for FMCG retail sector ( i.e getting the right product range in the right store/ product placement).
- I’ve seen some use XGBoost for product placement, but curious to know what other models work well.
- I know we have to take product substitution into consideration so Customer Decision Tree Model is already taken care of.
-    submitted by    /u/Maria_Adel  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is AI the public doesn't know about already in use?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zokjag/is_ai_the_public_doesnt_know_about_already_in_use/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zokjag/is_ai_the_public_doesnt_know_about_already_in_use/"/>
-        <updated>2022-12-18T00:09:49.000Z</updated>
-        <summary type="html"><![CDATA[I'm wondering about political candidates. Could they be using AI to find out what to say and not say, and to write speeches to improve their chances of getting elected? Is the military using AI do improve military scenarios and design more effective weapons? Is the Federal Reserve Bank using AI to make financial decisions? Are investment banks using AI to model stock and bond markets, to improve their performance? Are American military experts using AI to help Ukraine succeed on the battlefield?
- If so, how much of this is really secret, and how much known to insiders but just catching the public eye?
-    submitted by    /u/jollybumpkin  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Converting my PhD thesis into HTML]]></title>
         <id>https://lobste.rs/s/kzxhr7</id>
         <link href="https://desfontain.es/privacy/latex-to-html.html"/>
@@ -61,71 +1158,6 @@
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>teymour@users.lobste.rs (teymour)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does It Inline?]]></title>
-        <id>https://news.ycombinator.com/item?id=34033557</id>
-        <link href="https://bolinlang.com/does-it-inline"/>
-        <updated>2022-12-17T23:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bolinlang.com/does-it-inline
-Comments URL: https://news.ycombinator.com/item?id=34033557
-Points: 18
-# Comments: 0]]></summary>
-        <author>
-            <name>luu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are any core books and literature to learn data science / healthcare analytics for a novice]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zok0jz/what_are_any_core_books_and_literature_to_learn/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zok0jz/what_are_any_core_books_and_literature_to_learn/"/>
-        <updated>2022-12-17T23:48:39.000Z</updated>
-        <summary type="html"><![CDATA[I am a clinical coding auditor and consultant for hospitals. I recently got hired by a healthcare analytics company to do auditing for health insurance payers. My position does not involve data work, but I have always wanted to be involved in data. 
- I am wondering if there are some books and literature to study on the side. I would maybe later apply to a position here involving data analytics.
-    submitted by    /u/Ok_Raspberry8535  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The human cost of neurotechnology failure]]></title>
-        <id>https://news.ycombinator.com/item?id=34033389</id>
-        <link href="https://www.nature.com/immersive/d41586-022-03810-5/index.html"/>
-        <updated>2022-12-17T23:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/immersive/d41586-022-03810-5/index.html
-Comments URL: https://news.ycombinator.com/item?id=34033389
-Points: 72
-# Comments: 22]]></summary>
-        <author>
-            <name>JonEllis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The record-breaking -108.00 diopter myopia lenses (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=34033275</id>
-        <link href="https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d"/>
-        <updated>2022-12-17T23:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pointsdevue.com/article/record-high-myopia-solved-alliance-experts-10800-d
-Comments URL: https://news.ycombinator.com/item?id=34033275
-Points: 24
-# Comments: 11]]></summary>
-        <author>
-            <name>jsnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you need be fluent in English to be a data analyst?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zoivvn/do_you_need_be_fluent_in_english_to_be_a_data/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zoivvn/do_you_need_be_fluent_in_english_to_be_a_data/"/>
-        <updated>2022-12-17T22:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone,
- Im not an english native speaker. Although, I can speak english but not on a professional level (my opinion). I've always been seeking for jobs that are more on the technical side so I dont have to communicate much in english. Recently, I've grown an interest in becoming a data analyst but afraid that my english is not efficient enough. Can anyone tell me if excellent oral and writing skill will be required? thanks!
-    submitted by    /u/Comfortable_Bug_3102  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
         </author>
     </entry>
     <entry>
@@ -139,169 +1171,6 @@ Points: 24
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Career choices]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zoihog/career_choices/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zoihog/career_choices/"/>
-        <updated>2022-12-17T22:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Hey guys!
- Just looking for some guidance. I have a degree in liberal arts, whack degree I know; I spent way too much time goofing around in college and when graduation time came, it was either get the liberal arts degree or spend another 3ish semesters studying. I ended up taking the liberal arts degree and bouncing, probably should’ve stayed in school but ohh whale, but I’m reaching out because I’ve been playing with new ideas. 
- I would really like a to get a job in data analytics or data science. I’m aware that a degree makes getting a job in that area 100x more easy and I’m willing to go back to school. I have two options right now: I can go to a Purdue sister school, Purdue Fort Wayne, and do in person classes. Or I can do an online bachelors program at IUPUI, a sister school of Indiana University. Housing would not be an issue for either since I live 10-15 minutes from Purdue Fort Wayne and iupui classes are online. Price is similar.
- I’m just worried about workplaces not valuing an online degree.
- Any input is appreciated.
- Thanks in advance.
-    submitted by    /u/c_a_a_07  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Golden Age of Basic (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=34032861</id>
-        <link href="https://spectrum.ieee.org/the-golden-age-of-basic"/>
-        <updated>2022-12-17T22:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/the-golden-age-of-basic
-Comments URL: https://news.ycombinator.com/item?id=34032861
-Points: 12
-# Comments: 13]]></summary>
-        <author>
-            <name>susam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Golden Age of Basic (2014)]]></title>
-        <id>https://lobste.rs/s/8d9mms</id>
-        <link href="https://spectrum.ieee.org/the-golden-age-of-basic"/>
-        <updated>2022-12-17T22:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>susam@users.lobste.rs (susam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch and iPhone crash detection software an issue for search and rescue crews]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zohtes/apple_watch_and_iphone_crash_detection_software/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zohtes/apple_watch_and_iphone_crash_detection_software/"/>
-        <updated>2022-12-17T22:13:10.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/No-Drawing-6975  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey guys, I'm working on a project to create 'self-replicating knowledge agents' inside large language model interfaces like ChatGPT. Check out /r/SelfReplicatingAI if you're interested in exploring this concept!]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zoht4t/hey_guys_im_working_on_a_project_to_create/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zoht4t/hey_guys_im_working_on_a_project_to_create/"/>
-        <updated>2022-12-17T22:12:50.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/slackermanz  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone with data scientist experience in energy sector?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zohi08/anyone_with_data_scientist_experience_in_energy/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zohi08/anyone_with_data_scientist_experience_in_energy/"/>
-        <updated>2022-12-17T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I’ve previously worked as a Data Scientist mainly with NLP and most recently I’ve been working as a Data Engineer. I will be joining a new team as a Data Scientist in energy sector, specifically HVAC. What kind of topics should I prepare myself from technical point of view, my Python, SQL skills are above average or average.
-    submitted by    /u/Gagan_Ku2905  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Jobs Insult Response (1997) [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=34032672</id>
-        <link href="https://www.youtube.com/watch?v=oeqPrUmVz-o"/>
-        <updated>2022-12-17T21:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=oeqPrUmVz-o
-Comments URL: https://news.ycombinator.com/item?id=34032672
-Points: 97
-# Comments: 50]]></summary>
-        <author>
-            <name>yagodragon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second opinion on UNC Charlotte Master's Data Science and Business Analytics]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zohe6d/second_opinion_on_unc_charlotte_masters_data/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zohe6d/second_opinion_on_unc_charlotte_masters_data/"/>
-        <updated>2022-12-17T21:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone, as the title says I am planning to attend and begin UNC Charlotte's Master's in Data Science and Business Analytics and wanted to get a second opinion from people in industry/students. I graduated with a biology degree in 2021 and since have dived into coding, math, stats since school and want to further my education. I understand that OMSA has a program for 10k but I want a program in person where I can develop connections at the same time. UNCC's program is slightly over 20k and has many connections with industries in the area and host a myriad of seminars, career fairs, and have a great placement rate. Now my question is, would the time investment be worth it to develop connections and deepen my analytical/technical skills at this program vs working my way up as an analyst? My goal is to work as a data scientist or a machine learning engineer and potentially work my way into management later on. The link to this program is as follows: https://catalog.charlotte.edu/preview_program.php?catoid=33&poid=8834
- Thanks in advance for all responses and insights!
-    submitted by    /u/NoAssociate4601  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A self-updating list of the most current useragents]]></title>
-        <id>https://news.ycombinator.com/item?id=34032605</id>
-        <link href="https://www.useragents.me/"/>
-        <updated>2022-12-17T21:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Hi Hacker News!
-I made a site which displays the most common useragents found on the web.
-The site updates weekly with data sourced from the server access logs of another site I run in order to give an accurate picture of the devices and browsers being used on the web.
-I do a lot of web scraping in my work and it's this group of people who I had in mind when creating the site.
-The data is presented as useragent, browser, os, and relative percentage of occurence. It can be viewed as a table on the site or via json in the API.
-Please let me know your thoughts or feedback and I hope you find it useful!
-Thanks!
-Comments URL: https://news.ycombinator.com/item?id=34032605
-Points: 90
-# Comments: 40]]></summary>
-        <author>
-            <name>stayml</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Google is correlating location data to your IP]]></title>
-        <id>https://news.ycombinator.com/item?id=34032484</id>
-        <link href="https://news.ycombinator.com/item?id=34032484"/>
-        <updated>2022-12-17T21:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN, Is this a known thing? I'm pretty frustrated, and even given my near-complete disillusionment about capital-driven-tech these days, I can't believe Google is doing this.
-I just got home from being in Mexico where I used my VPN (because of course US financial apps panic if you access them outside the US).
-I fired up my LG TV running the YouTube app (which I'm not signed into) and every, single, ad is in Spanish.
-My Edge browser on my desktop computer gives results in Mexico and claims I'm in Quintanna Roo. In many places, I cannot override this, at least without signing in and/or apparently explicitly feeding it more accurate location data to "fix" it's perception.
-Is this expected/known? At one point, it even said "based on your IP address" despite the fact that my IP clearly looks up to a Washington State IP address.
-I just wish I could make this known to Google's advertisers. Are they aware that when I travel, they're pay to show me ads that I can't understand?
-Comments URL: https://news.ycombinator.com/item?id=34032484
-Points: 68
-# Comments: 58]]></summary>
-        <author>
-            <name>wereallterrrist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switching models because a model takes too long to train]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zogrsk/switching_models_because_a_model_takes_too_long/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zogrsk/switching_models_because_a_model_takes_too_long/"/>
-        <updated>2022-12-17T21:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Working on a time series classification project. I’m going through the sktime library and reading each and every classifiers summary about the method that’s being used under the hood to fit the model, and I’m basing my choices based on how long it may take to train. For example, half of them are distance based (nearest neighbors) methods, and I know for my dataset a distance matrix (and most data in general) just takes a stupid amount of time to compute. Or some do Shapelet discovery, which is traversing the entire subsequence space and computing distances between the subsequence and original series and using those subsequences (shapelets) to predict, which also, takes a long time. So I’m just avoiding using them for others (interval based)
- Does anyone else do this? Is this a bad practice?
-    submitted by    /u/AdFew4357  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get root on macOS 13.0.1 the macOS Dirty Cow bug]]></title>
-        <id>https://news.ycombinator.com/item?id=34032402</id>
-        <link href="https://worthdoingbadly.com/macdirtycow/"/>
-        <updated>2022-12-17T21:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://worthdoingbadly.com/macdirtycow/
-Comments URL: https://news.ycombinator.com/item?id=34032402
-Points: 121
-# Comments: 44]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug]]></title>
         <id>https://lobste.rs/s/pdqg4e</id>
         <link href="https://worthdoingbadly.com/macdirtycow/"/>
@@ -309,209 +1178,6 @@ Points: 121
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>fro@users.lobste.rs (fro)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-adjusting Venn and other diagram TOOL?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zofz2p/selfadjusting_venn_and_other_diagram_tool/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zofz2p/selfadjusting_venn_and_other_diagram_tool/"/>
-        <updated>2022-12-17T20:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Hello scientists,
- I have some basic data, more like a very basic personal project, and I want to find a way how to visualize it in a nice way. A three circle Venn diagram is not enough, I will need something like a "oval flower model" with multiple intertwining and mutually intersecting fields.
- The basic tools online and in Excel seem not to be self adjusting based on how much text I want to put into the image (some fields require a lot of it). So I would like to find an online tool which can create a beautiful visual representation for me and which would automatically adjust the size of the diagram fields. 
- I am not proficient yet in advanced tools or programming languages like R or Python, so I would like something simple.
- I am sure such a thing exist, I just suck a bit at finding it. It seems very easy, something that would look like this but that would automatically adjust the size and shape:
- https://slidemodel.com/templates/4-set-venn-diagram-for-powerpoint/
-    submitted by    /u/Sheetmusicman94  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is there an image to text AI generator?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zofrnt/is_there_an_image_to_text_ai_generator/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zofrnt/is_there_an_image_to_text_ai_generator/"/>
-        <updated>2022-12-17T20:46:09.000Z</updated>
-        <summary type="html"><![CDATA[I'm talking about an AI to describe the image not to look for actual text in the image.
-    submitted by    /u/wezzeld  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are the largest companies developing AI other than the obvious like Google]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zofr5r/what_are_the_largest_companies_developing_ai/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zofr5r/what_are_the_largest_companies_developing_ai/"/>
-        <updated>2022-12-17T20:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Who are the little guys doing AI in a big way? Who are the ones to watch?
-    submitted by    /u/dust_in_light  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capture the flag using OSINT techniques (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=34031917</id>
-        <link href="https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/"/>
-        <updated>2022-12-17T20:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.netwatchglobal.com/solutions/capture-the-flag-using-osint-techniques/
-Comments URL: https://news.ycombinator.com/item?id=34031917
-Points: 29
-# Comments: 3]]></summary>
-        <author>
-            <name>kelseyfrog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noted 😌 (not sure about 5)]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zoerqh/noted_not_sure_about_5/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zoerqh/noted_not_sure_about_5/"/>
-        <updated>2022-12-17T20:02:49.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/cavemanpiggy  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unredacter: Never use pixelation as a redaction technique]]></title>
-        <id>https://news.ycombinator.com/item?id=34031568</id>
-        <link href="https://github.com/BishopFox/unredacter"/>
-        <updated>2022-12-17T19:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/BishopFox/unredacter
-Comments URL: https://news.ycombinator.com/item?id=34031568
-Points: 231
-# Comments: 71]]></summary>
-        <author>
-            <name>linker3000</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Dream 134 - Incredible Trip: Discovery of Zion - Last hope for Human ...]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zoehop/ai_dream_134_incredible_trip_discovery_of_zion/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zoehop/ai_dream_134_incredible_trip_discovery_of_zion/"/>
-        <updated>2022-12-17T19:50:53.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/LordPewPew777  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C’s transfer from MIT to non-profit going poorly]]></title>
-        <id>https://news.ycombinator.com/item?id=34031292</id>
-        <link href="https://twitter.com/robinberjon/status/1603834995830816769"/>
-        <updated>2022-12-17T19:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/robinberjon/status/1603834995830816769
-Comments URL: https://news.ycombinator.com/item?id=34031292
-Points: 137
-# Comments: 43]]></summary>
-        <author>
-            <name>andruby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growing a Networked Garden with Spritely Goblins]]></title>
-        <id>https://news.ycombinator.com/item?id=34031136</id>
-        <link href="https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html"/>
-        <updated>2022-12-17T19:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html
-Comments URL: https://news.ycombinator.com/item?id=34031136
-Points: 70
-# Comments: 1]]></summary>
-        <author>
-            <name>paroneayea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growing a Networked Garden with Spritely Goblins]]></title>
-        <id>https://lobste.rs/s/npc8ex</id>
-        <link href="https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html"/>
-        <updated>2022-12-17T19:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>dustyweb@users.lobste.rs (dustyweb)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is your workflow for decrypting PII fields from a database?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zodofx/what_is_your_workflow_for_decrypting_pii_fields/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zodofx/what_is_your_workflow_for_decrypting_pii_fields/"/>
-        <updated>2022-12-17T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I'm curious what folks in larger companies have found useful for working around/with encrypted data within a database. Not passwords but other types of controlled info – device checkins, friend lists, etc.
- Does your security team have a process/tool in place to access the decryption key(s) from your code? Are there other limits on what you can do/can't do?
-    submitted by    /u/rszumski  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat GPT : The AI chatbot talked up as a potential Google killer. After all, the AI chatbot seems to be slaying a great deal of search engine responses.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zodobb/chat_gpt_the_ai_chatbot_talked_up_as_a_potential/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zodobb/chat_gpt_the_ai_chatbot_talked_up_as_a_potential/"/>
-        <updated>2022-12-17T19:14:45.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Zee2A  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rush to electric vehicles may be an expensive mistake, say climate strategists.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zodn4h/rush_to_electric_vehicles_may_be_an_expensive/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zodn4h/rush_to_electric_vehicles_may_be_an_expensive/"/>
-        <updated>2022-12-17T19:13:14.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Candid-Ad7897  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interactive Guide to Flexbox]]></title>
-        <id>https://lobste.rs/s/mg8vcr</id>
-        <link href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"/>
-        <updated>2022-12-17T19:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Gaelan@users.lobste.rs (Gaelan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Threatens Blowtorching Internet Platforms – Including Wikipedia]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zod6u4/uk_threatens_blowtorching_internet_platforms/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zod6u4/uk_threatens_blowtorching_internet_platforms/"/>
-        <updated>2022-12-17T18:53:23.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/EmbarrassedHelp  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorting with SIMD]]></title>
-        <id>https://lobste.rs/s/syzzto</id>
-        <link href="https://tweedegolf.nl/en/blog/79/sorting-with-simd"/>
-        <updated>2022-12-17T18:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>raymii@users.lobste.rs (raymii)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it a downgrade going from Associate Director DS to Principal DS]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zoctli/is_it_a_downgrade_going_from_associate_director/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zoctli/is_it_a_downgrade_going_from_associate_director/"/>
-        <updated>2022-12-17T18:37:08.000Z</updated>
-        <summary type="html"><![CDATA[I am at company A an Associate Director DS since 1.8 years, with no guarantee to move to director anytime soon. I have been offered a position of Principal DS at company B with 13% salary increase, sign-in bonus and payout of 70% of my unvested stocks value. Pay wise it is an upgrade.
-    submitted by    /u/IllustratorInfamous1  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
         </author>
     </entry>
     <entry>
@@ -525,190 +1191,6 @@ Points: 70
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cheers to generating infinite game assets during run-time!]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zocekb/cheers_to_generating_infinite_game_assets_during/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zocekb/cheers_to_generating_infinite_game_assets_during/"/>
-        <updated>2022-12-17T18:18:42.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ytcoinartist  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I put my username as Bobbert_The_3rd and The AI did this lol]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zocaxz/i_put_my_username_as_bobbert_the_3rd_and_the_ai/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zocaxz/i_put_my_username_as_bobbert_the_3rd_and_the_ai/"/>
-        <updated>2022-12-17T18:14:06.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/cheesemuncher1781  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Factual AI Q&A – Answers based on Huberman Lab transcripts]]></title>
-        <id>https://news.ycombinator.com/item?id=34030389</id>
-        <link href="https://huberman.rile.yt/"/>
-        <updated>2022-12-17T18:05:04.000Z</updated>
-        <summary type="html"><![CDATA[This is a quick prototype I built for semantic search and factual question answering using embeddings and GPT-3.
-It tries to solve the LLM hallucination issue by guiding it only to answer questions from the given context instead of making things up. If you ask something not covered in an episode, it should say that it doesn't know rather than providing a plausible, but potentially incorrect response.
-It uses Whisper to transcribe, text-embedding-ada-002 to embed, Pinecone.io to search, and text-davinci-003 to generate the answer.
-More examples and explanations here: https://twitter.com/rileytomasek/status/1603854647575384067
-Comments URL: https://news.ycombinator.com/item?id=34030389
-Points: 52
-# Comments: 15]]></summary>
-        <author>
-            <name>rileyt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A quick art piece on the whole AI debate going on. Who made What for Who using What. Original content by @gardehesten https://www.instagram.com/reel/CmM8sIPDNzI/?igshid=YmMyMTA2M2Y=]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zobzn6/a_quick_art_piece_on_the_whole_ai_debate_going_on/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zobzn6/a_quick_art_piece_on_the_whole_ai_debate_going_on/"/>
-        <updated>2022-12-17T18:00:06.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Ambitious_Dig3082  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive xkcd comic about gravity]]></title>
-        <id>https://lobste.rs/s/lhdm6m</id>
-        <link href="https://xkcd.com/2712/"/>
-        <updated>2022-12-17T17:43:36.000Z</updated>
-        <summary type="html"><![CDATA[The comic promotes Randall’s new book What If? 2.
-Comments]]></summary>
-        <author>
-            <name>mihaitodor@users.lobste.rs (mihaitodor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What else besides degree andskills assesment?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zobh1y/what_else_besides_degree_andskills_assesment/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zobh1y/what_else_besides_degree_andskills_assesment/"/>
-        <updated>2022-12-17T17:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Looking at picking up the Masters and then moving into some kind of data scientist position and I am wondering what else do they look for besides your degree and assessing your skills? As an analogy I know that in many Circles of the financial world if you don't have good credit then you are dead in the water and they're not going to let you mess with anybody else's money. Is there anything similar to that in the data scientist world? If I'm going to make this jump from 1 career to another than I need to make sure that I anticipate all the speed bumps that I can before I commit
-    submitted by    /u/grizgrin75  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul Thagard - Substrate-Independent Minds]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zobbvn/paul_thagard_substrateindependent_minds/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zobbvn/paul_thagard_substrateindependent_minds/"/>
-        <updated>2022-12-17T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/timothy-ventura  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple changed how reading books works in iOS 16]]></title>
-        <id>https://news.ycombinator.com/item?id=34029914</id>
-        <link href="https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks"/>
-        <updated>2022-12-17T17:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks
-Comments URL: https://news.ycombinator.com/item?id=34029914
-Points: 296
-# Comments: 229]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corviale, a one-kilometer residential complex in Rome]]></title>
-        <id>https://news.ycombinator.com/item?id=34029784</id>
-        <link href="https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome"/>
-        <updated>2022-12-17T17:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.archdaily.com/956906/corviale-a-one-kilometer-residential-complex-in-rome
-Comments URL: https://news.ycombinator.com/item?id=34029784
-Points: 91
-# Comments: 58]]></summary>
-        <author>
-            <name>thunderbong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PepsiCo’s new Semis can haul Frito-Lay food products for around 425 miles (684 km), but for heavier loads of sodas, the trucks will do shorter trips of around 100 miles (160 km), O’Connell said.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zoazze/pepsicos_new_semis_can_haul_fritolay_food/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zoazze/pepsicos_new_semis_can_haul_fritolay_food/"/>
-        <updated>2022-12-17T17:15:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/redingerforcongress  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVR-GCC Compiler Makes Questionable Code]]></title>
-        <id>https://news.ycombinator.com/item?id=34029750</id>
-        <link href="https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/"/>
-        <updated>2022-12-17T17:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/
-Comments URL: https://news.ycombinator.com/item?id=34029750
-Points: 53
-# Comments: 42]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Closures: Disclosing lambda’s inner monomaniac object]]></title>
-        <id>https://lobste.rs/s/kcm0fx</id>
-        <link href="https://www.iro.umontreal.ca/~monnier/oclosure.pdf"/>
-        <updated>2022-12-17T17:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>susam@users.lobste.rs (susam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorting with SIMD]]></title>
-        <id>https://news.ycombinator.com/item?id=34029603</id>
-        <link href="https://tweedegolf.nl/en/blog/79/sorting-with-simd"/>
-        <updated>2022-12-17T16:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tweedegolf.nl/en/blog/79/sorting-with-simd
-Comments URL: https://news.ycombinator.com/item?id=34029603
-Points: 126
-# Comments: 36]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What can I get my sibling who is an AI data scientist?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zoagmh/what_can_i_get_my_sibling_who_is_an_ai_data/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zoagmh/what_can_i_get_my_sibling_who_is_an_ai_data/"/>
-        <updated>2022-12-17T16:50:38.000Z</updated>
-        <summary type="html"><![CDATA[My sibling has a career in data science and machine learning and they are really into it, it is their hobby too. Any ideas what I cam get them?
- They won’t like knick knacks like a mug with an AI generated dog, or a t shirt. They would just throw that out. What would be a great gift is something (not a book) that allows them to explore, learn, or experiment with ai more.
-    submitted by    /u/CoupleConsistent5378  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do I also use a train/test/holdout split in unsupervised learning?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zoaan4/do_i_also_use_a_traintestholdout_split_in/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zoaan4/do_i_also_use_a_traintestholdout_split_in/"/>
-        <updated>2022-12-17T16:43:09.000Z</updated>
-        <summary type="html"><![CDATA[I'm trying to set up an unsupervised learning project for anomaly detection and I'm learning along the way. Since I haven't got any previous experience with unsupervised experiments, I have what is probably a very basic question with regard to setting up my experiment: is the basic approach for unsupervised learning broadly comparable to that of supervised learning?
- My intent is to go with a data split of 70:15:15 (train/test/holdout) and do an EDA on the data. I want to check how meaningful certain features are, whether they correlate etc.. Then I'll drop features and/or engineer derived features and see how they cluster and whether PCA will result in any insight with regard to feature relevance?
- Since I'll likely use the insight of the PCA to inform the feature engineering, I think a holdout data set is necessary - at least in theory. However, since anomalies are both _anomalous_ and sparse, I'm not really sure whether this can actually be practically implemented.
- Any pointers to best practices or or design philosophies would be much appreciate by this unsupervised newbie. ;)
-    submitted by    /u/norfkens2  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Virginia Woolf on Self-Knowledge and the Blind Spots of Sympathy]]></title>
         <id>https://www.themarginalian.org/?p=79379</id>
         <link href="https://www.themarginalian.org/2022/12/17/virginia-woolf-self-knowledge/"/>
@@ -716,91 +1198,6 @@ Points: 126
         <summary type="html"><![CDATA["We do not know our own souls, let alone the souls of others... There is a virgin forest in each."]]></summary>
         <author>
             <name>Maria Popova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training AI to speak as someone]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zoa2hp/training_ai_to_speak_as_someone/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zoa2hp/training_ai_to_speak_as_someone/"/>
-        <updated>2022-12-17T16:32:45.000Z</updated>
-        <summary type="html"><![CDATA[So i just found out that it is possible to train AI to synthesize speech as someone else. How long would it take to train an AI to do this? How much speech is needed? Are there any tutorials or explanations out there?
-    submitted by    /u/Mixtery1  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A frontend for models like GPT]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo9ntj/a_frontend_for_models_like_gpt/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo9ntj/a_frontend_for_models_like_gpt/"/>
-        <updated>2022-12-17T16:14:58.000Z</updated>
-        <summary type="html"><![CDATA[Is there an open source web-frontend for GPT-Neo models and such that runs locally?
- Something that
-  
-lets you choose modules with different configuration (GPT-2, GPT-Neo-1.3B, gpu accelerated, etc.)
- regenerate chunks of text
- edit generated messages
- inserts own sections of text
- includes or excludes chunks of text with a checkbox for the generation of the next text
-  
-Those features are probably heavily inspired by character.ai, and based on my very limited experience with gpt-neo-1.3B.
- I'm thinking about starting such a project, but my time is very limited due to my other projects already.
- Are there other developers with angular / react / python flask / tensorflow / pytorch / huggingface experience?
-    submitted by    /u/sezanzeb  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is there an AI app that I can throw a a song in and it will generate something original based on that ?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo9n25/is_there_an_ai_app_that_i_can_throw_a_a_song_in/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo9n25/is_there_an_ai_app_that_i_can_throw_a_a_song_in/"/>
-        <updated>2022-12-17T16:14:01.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/melonhusktwitter  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If a company has a Data Engineer, Analyst, and a ML Engineer, what does the Data Scientist do?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo99yd/if_a_company_has_a_data_engineer_analyst_and_a_ml/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo99yd/if_a_company_has_a_data_engineer_analyst_and_a_ml/"/>
-        <updated>2022-12-17T15:58:07.000Z</updated>
-        <summary type="html"><![CDATA[I’ve seen companies hiring for all 4 at once at a single location so I’m curious how the responsibilities would be divided. I feel there still lacks universal definitions for these roles.
-    submitted by    /u/bassabyss  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker’s Eufy deleted these 10 privacy promises instead of answering our questions]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo98e8/ankers_eufy_deleted_these_10_privacy_promises/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo98e8/ankers_eufy_deleted_these_10_privacy_promises/"/>
-        <updated>2022-12-17T15:56:04.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ovirt001  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Textual Markdown – a Markdown “browser” in the terminal]]></title>
-        <id>https://news.ycombinator.com/item?id=34028765</id>
-        <link href="https://github.com/willmcgugan/textual-markdown"/>
-        <updated>2022-12-17T15:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN,
-This is a TUI app which displays interactive Markdown documents. Interactive in the sense that you can scroll code fences / tables / and click links. There's a Table of Contents extracted from the MD, and a very rudimentary browser like forward + back.
-I'm thinking it could be the starting point for a variety of hypertext like applications in the terminal.
-Very much a work in progress.
-Comments URL: https://news.ycombinator.com/item?id=34028765
-Points: 177
-# Comments: 24]]></summary>
-        <author>
-            <name>willm</name>
         </author>
     </entry>
     <entry>
@@ -834,140 +1231,6 @@ Points: 177
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cross Regional Dask on AWS]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo8v5e/cross_regional_dask_on_aws/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo8v5e/cross_regional_dask_on_aws/"/>
-        <updated>2022-12-17T15:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Check out out, would you use this?
- https://github.com/aws-samples/distributed-compute-on-aws-with-cross-regional-dask
-    submitted by    /u/oconpa  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apk.sh is a Bash script that makes reverse engineering Android apps easier]]></title>
-        <id>https://news.ycombinator.com/item?id=34028601</id>
-        <link href="https://github.com/ax/apk.sh"/>
-        <updated>2022-12-17T15:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ax/apk.sh
-Comments URL: https://news.ycombinator.com/item?id=34028601
-Points: 288
-# Comments: 68]]></summary>
-        <author>
-            <name>petodo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could i clone my voice for ai and start making music career and putting zero effort]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo8k4q/could_i_clone_my_voice_for_ai_and_start_making/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo8k4q/could_i_clone_my_voice_for_ai_and_start_making/"/>
-        <updated>2022-12-17T15:24:14.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AppleFanBoySheesh  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Forecasts $1 Billion in Revenue by 2024]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo89x3/openai_forecasts_1_billion_in_revenue_by_2024/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo89x3/openai_forecasts_1_billion_in_revenue_by_2024/"/>
-        <updated>2022-12-17T15:10:29.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/liquidocelotYT  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The empty list]]></title>
-        <id>https://news.ycombinator.com/item?id=34028304</id>
-        <link href="https://www.tfeb.org/fragments/2022/12/16/the-empty-list/"/>
-        <updated>2022-12-17T15:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tfeb.org/fragments/2022/12/16/the-empty-list/
-Comments URL: https://news.ycombinator.com/item?id=34028304
-Points: 72
-# Comments: 75]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm taking generating at least 10 prompts a day as seriously as a job. Should I do it? Why?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo831h/im_taking_generating_at_least_10_prompts_a_day_as/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo831h/im_taking_generating_at_least_10_prompts_a_day_as/"/>
-        <updated>2022-12-17T15:01:12.000Z</updated>
-        <summary type="html"><![CDATA[I'm taking generating at least 10 prompts a day as seriously as a job.
-    submitted by    /u/TheVellerShow  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The empty list]]></title>
-        <id>https://lobste.rs/s/3kzdzw</id>
-        <link href="https://www.tfeb.org/fragments/2022/12/16/the-empty-list/"/>
-        <updated>2022-12-17T14:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>jmiven@users.lobste.rs (jmiven)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inverse activation function]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo7wjc/inverse_activation_function/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo7wjc/inverse_activation_function/"/>
-        <updated>2022-12-17T14:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Hi all,
- Currently I am researching extreme learning machines, and - after I calculated the beta weights - I would like to optimize the alpha weights (similarly with the Moore-Penrose pseudo inverse) in order to receive better accuracy.
- During this backward calculation, I use the inverse of the previously applied activation function. In case of the inverse sigmoid and tanh (logit and arctan), I receive NaN values, although with the inverse leaky ReLU, on certain datasets, the method yields better accuracy. Unfortunately, in most cases, the accuracy drops (sometimes significantly) with these new optimized alpha weights. What do you think, what is the reason for this?
-    submitted by    /u/Electrical-Plane3730  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open AI still appears to be fairly stupid]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo7id4/open_ai_still_appears_to_be_fairly_stupid/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo7id4/open_ai_still_appears_to_be_fairly_stupid/"/>
-        <updated>2022-12-17T14:33:30.000Z</updated>
-        <summary type="html"><![CDATA[I played around with open AI and asked: 
- how long would it take a swimmer to circle the Earth? 
- It basically just divived the length of the equatir by the speed of an average swimmer.....WTF!
- I know the question is difficult to answer, but a little more sophistication would be in order
-    submitted by    /u/Consistent-Put-6551  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Avatars with Stable Diffusion - Outdo Lensa for Free and Without a GPU or Computer - Comprehensive Video Tutorial Provided]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo6skl/ai_avatars_with_stable_diffusion_outdo_lensa_for/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo6skl/ai_avatars_with_stable_diffusion_outdo_lensa_for/"/>
-        <updated>2022-12-17T13:56:03.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/CeFurkan  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hahaha So True :D]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo68qb/hahaha_so_true_d/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo68qb/hahaha_so_true_d/"/>
-        <updated>2022-12-17T13:25:17.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Slayd3r_07  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zero-initialize objects of automatic storage duration]]></title>
         <id>https://lobste.rs/s/l8bkmp</id>
         <link href="http://wg21.link/P2723"/>
@@ -975,195 +1238,6 @@ Points: 72
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>carlmjohnson@users.lobste.rs (carlmjohnson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT AI just solved an unsolved math problem - The Collatz Conjecture]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo64dm/chatgpt_ai_just_solved_an_unsolved_math_problem/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo64dm/chatgpt_ai_just_solved_an_unsolved_math_problem/"/>
-        <updated>2022-12-17T13:18:18.000Z</updated>
-        <summary type="html"><![CDATA[I first asked the chatbot (ChatGPT by Openai) to "Prove the Collatz conjecture" straightforwardly and nothing meaningful came out except what it is and how unproven it is. This was its conclusion: "Despite these efforts, the conjecture remains unsolved. It is considered to be one of the most challenging and intriguing unsolved problems in mathematics."
- Then I proceeded with "try to solve it" & then "use another method that no one used before to solve it" with no worthy answer.
- I figured that these cheap shots weren't gonna do it, so I worked around the question and proceeded with this:
- "3n+1 where n is a positive integer n/2 where n is a non-negative integer. Prove the answer end by cycling through 1,4,2,1,4,2,1,… if n is a positive integer. This is a repetitive process and you will rep…]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing a Static Site Generator Using Shake]]></title>
-        <id>https://lobste.rs/s/axkbmk</id>
-        <link href="https://abhinavsarkar.net/posts/static-site-generator-using-shake/"/>
-        <updated>2022-12-17T12:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>abhin4v@users.lobste.rs (abhin4v)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master’s degree?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo5ma2/masters_degree/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo5ma2/masters_degree/"/>
-        <updated>2022-12-17T12:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Hi community! I am a senior in college with Mathematics major. I am based in NYC. I have an avid internet in pursuing a career in Data Science. In the past I have participated in a year long data science fellowship run by my University. I have also participated in a Data Science summer school run by a major technology company. I have been persistently applying to related roles but I haven’t had offers or fair amount of interviews either (I am in a student visa currently). Most of the Data Science jobs ask for at least Master’s degree or fair amount of years of experience. Now my concern is that if I should pursue a MS in Data Science.
-    submitted by    /u/m30aru  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water-based circuit concept switches much faster than semiconductors]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo5eyv/waterbased_circuit_concept_switches_much_faster/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo5eyv/waterbased_circuit_concept_switches_much_faster/"/>
-        <updated>2022-12-17T12:35:27.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Vailhem  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[thoughts?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo5cll/thoughts/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo5cll/thoughts/"/>
-        <updated>2022-12-17T12:31:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/DwightScott69  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offend a data scientist in one tweet]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo5bwf/offend_a_data_scientist_in_one_tweet/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo5bwf/offend_a_data_scientist_in_one_tweet/"/>
-        <updated>2022-12-17T12:30:15.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/datasciencepro  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“It is the more personal pain of seeing a 5% GPU utilization number in production. I am offended by it.”—John Carmack, reflecting on his resignation from Facebook]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo58mo/it_is_the_more_personal_pain_of_seeing_a_5_gpu/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo58mo/it_is_the_more_personal_pain_of_seeing_a_5_gpu/"/>
-        <updated>2022-12-17T12:24:33.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/datasciencepro  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moldova suspends 6 TV channels over alleged misinformation]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo5717/moldova_suspends_6_tv_channels_over_alleged/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo5717/moldova_suspends_6_tv_channels_over_alleged/"/>
-        <updated>2022-12-17T12:21:47.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Wagamaga  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switzerland’s Giant “Water Battery” Starts Working]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo53e4/switzerlands_giant_water_battery_starts_working/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo53e4/switzerlands_giant_water_battery_starts_working/"/>
-        <updated>2022-12-17T12:15:13.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Wagamaga  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study finds 4G, 5G stations are safer than a microwave]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo52ps/study_finds_4g_5g_stations_are_safer_than_a/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo52ps/study_finds_4g_5g_stations_are_safer_than_a/"/>
-        <updated>2022-12-17T12:14:07.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/signed7  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best approach for rewriting my code more efficiently?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo4p8z/the_best_approach_for_rewriting_my_code_more/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo4p8z/the_best_approach_for_rewriting_my_code_more/"/>
-        <updated>2022-12-17T11:49:32.000Z</updated>
-        <summary type="html"><![CDATA[I'm trying to do a new project in R, where I'm working with a lot of data (about 6GB of text) my inefficient code is tying me down a lot and was hoping maybe you guys had some tricks.
- I'm supposed to load in large .txt files, each file should be split into shorter parts consisting of 10 words each, they are then put into my data frame with each word being put into one of 10 columns. 
- The problem is that my code is slow, like really slow. It takes around 20 minutes to load the first 100000 rows of text into my dataframe, which is less than 1% of my data. I have also noticed that code slows down the further it takes to run, it takes about a second to load in the first 3000 rows, and 15 seconds for the first 10000 rows. 
- What is the main bottleneck slowing me down? Should I just rewrite th…]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVR-GCC Compiler Makes Questionable Code]]></title>
-        <id>https://lobste.rs/s/otr7ua</id>
-        <link href="https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/"/>
-        <updated>2022-12-17T11:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>raymii@users.lobste.rs (raymii)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Org Mode to keep track of exercise]]></title>
-        <id>https://lobste.rs/s/eythvh</id>
-        <link href="https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/"/>
-        <updated>2022-12-17T11:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>susam@users.lobste.rs (susam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the state-of-the-art upscaling AI for Illustrations?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo3x08/whats_the_stateoftheart_upscaling_ai_for/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo3x08/whats_the_stateoftheart_upscaling_ai_for/"/>
-        <updated>2022-12-17T10:55:37.000Z</updated>
-        <summary type="html"><![CDATA[I'm currently using RealESRGAN, so I was hoping for some advancements in artifact reduction.
-    submitted by    /u/typcalthowawayacount  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patrol and Security Guard Services]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/zo3qye/patrol_and_security_guard_services/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/zo3qye/patrol_and_security_guard_services/"/>
-        <updated>2022-12-17T10:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Request a free quote online. 1Northwest Security Services offers first-rate Security Services in Timmins area: Licensed Security Guards, security consulting, Uniformed Security Guards; Security Patrol Services; Concierge Services; Mobile Patrol Services; Risk & Threat Analysis; Investigations, Executive Protection and more.
- ​
- Contact our local Timmins security services office to discuss custom solutions to help your organization increase security and reduce risk.
- ​
- We serve the entire Timmins area, including the cities of Chapleau, Connaught, Englehart, Haileybury, Holland, Iroquois Falls, Kapuskasing, Kirkland Lake, La Sarre, Rouyn-Noranda, South Porcupine, and Temiskaming Shores, Hearst, Cochran Ontario.
- ​
- How to Apply for Your Ontario Security Licence
- In the province of Ontario it is mandatory that every security guard obtains a provincially issued licence. Each person is responsible for applying for, renewing and maintaining their licence, not their employer. The licence is valid for up-to two years. New applicants can visit our offices for more information.
- ​
- For more information visit our website here: https://www.northwestsecurity.ca/
-    submitted by    /u/Desperate_Cut7080  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eufy has removed privacy-focused language from its website amid ongoing security camera fiasco]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo3piv/eufy_has_removed_privacyfocused_language_from_its/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo3piv/eufy_has_removed_privacyfocused_language_from_its/"/>
-        <updated>2022-12-17T10:40:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/HeroldMcHerold  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -1177,29 +1251,6 @@ Points: 72
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The era of one-shot, multimillion-dollar genetic cures is here — Gene therapies promise long-term relief from intractable diseases, if insurers agree to pony up]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo385o/the_era_of_oneshot_multimilliondollar_genetic/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo385o/the_era_of_oneshot_multimilliondollar_genetic/"/>
-        <updated>2022-12-17T10:07:52.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/marketrent  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common dataset prep operations?]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo2tb9/common_dataset_prep_operations/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo2tb9/common_dataset_prep_operations/"/>
-        <updated>2022-12-17T09:39:22.000Z</updated>
-        <summary type="html"><![CDATA[What are some common functions/transformations you run on a dataset before training and what libraries do you use, or is it a custom script?
-    submitted by    /u/jy2k  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Let's Encrypt now supports ACME-CAA: closing the DV loophole]]></title>
         <id>https://lobste.rs/s/j9scg2</id>
         <link href="https://www.devever.net/~hl/acme-caa-live"/>
@@ -1207,195 +1258,6 @@ Points: 72
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>hlandau@users.lobste.rs (hlandau)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter reinstates accounts of suspended journalists and Mastodon]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo1i8k/twitter_reinstates_accounts_of_suspended/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo1i8k/twitter_reinstates_accounts_of_suspended/"/>
-        <updated>2022-12-17T08:06:23.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/DemiFiendRSA  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petabyte for the masses: DNA storage could come as cartridges by 2030]]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo1dty/petabyte_for_the_masses_dna_storage_could_come_as/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo1dty/petabyte_for_the_masses_dna_storage_could_come_as/"/>
-        <updated>2022-12-17T07:58:38.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network Graphs of all Goals & Goal Chances created by WC2022 finalists, visualized.]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/zo16rm/network_graphs_of_all_goals_goal_chances_created/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/zo16rm/network_graphs_of_all_goals_goal_chances_created/"/>
-        <updated>2022-12-17T07:45:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/noimgonnalie  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marc Benioff tells Salesforce workers that new employees are 'facing lower productivity']]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo14pp/marc_benioff_tells_salesforce_workers_that_new/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo14pp/marc_benioff_tells_salesforce_workers_that_new/"/>
-        <updated>2022-12-17T07:41:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/EagleEyes_009  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In scathing exit memo, Meta VR expert John Carmack derides the company's bureaucracy: 'I have never been able to kill stupid things before they cause damage.']]></title>
-        <id>https://www.reddit.com/r/technology/comments/zo0ugf/in_scathing_exit_memo_meta_vr_expert_john_carmack/</id>
-        <link href="https://www.reddit.com/r/technology/comments/zo0ugf/in_scathing_exit_memo_meta_vr_expert_john_carmack/"/>
-        <updated>2022-12-17T07:21:37.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/marketrent  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I work in Data Viz in my team and am feeling bigtime imposter syndrome around my boss and DEs/DAs]]></title>
-        <id>https://www.reddit.com/r/datascience/comments/znzgsr/i_work_in_data_viz_in_my_team_and_am_feeling/</id>
-        <link href="https://www.reddit.com/r/datascience/comments/znzgsr/i_work_in_data_viz_in_my_team_and_am_feeling/"/>
-        <updated>2022-12-17T05:53:49.000Z</updated>
-        <summary type="html"><![CDATA[I’m 27 - through my 20s I’ve had some industry changes, education pivots etc - but I finally found a bit of a niche in data science, if you consider data viz a vertical. 
- I was hired as a data viz specialist this summer - finally fully getting away from my biz management background. I’m also a CS grad student (on and off), which also contributes to imposter syndrome (I struggle a bit). Anyways, in many ways, I’m still sort of entry level. 
- I work in an agile environment with 3-4 data engineers, my boss is an ex sr analyst/engineer, and some salesforce folks. I just feel…stupid. They make these amazing things with data happen in queries, I just make it pretty dashboards and do some side admin work (notifications/comms). I get good feedback, I think I’m liked, and I’m the only data viz per…]]></summary>
-        <author>
-            <name>top scoring links : datascience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I had an hour to spare so I made ChatGPT and MidJourney create some great testimonials for myself from some of world's most imaginary leaders.]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/znzfpp/i_had_an_hour_to_spare_so_i_made_chatgpt_and/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/znzfpp/i_had_an_hour_to_spare_so_i_made_chatgpt_and/"/>
-        <updated>2022-12-17T05:51:58.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/QubaHQ  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chipmakers to spend $500b on 84 new fabs by 2024 despite shaky economy]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znzfdj/chipmakers_to_spend_500b_on_84_new_fabs_by_2024/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znzfdj/chipmakers_to_spend_500b_on_84_new_fabs_by_2024/"/>
-        <updated>2022-12-17T05:51:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Vailhem  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest AI Research at UC Berkeley developed a tracking algorithm for tracking the Dynamics of the Tear Film Lipid Layer]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/znz8rq/latest_ai_research_at_uc_berkeley_developed_a/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/znz8rq/latest_ai_research_at_uc_berkeley_developed_a/"/>
-        <updated>2022-12-17T05:40:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ai-lover  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple 'created decoy labor group' to derail unionization]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znyzhz/apple_created_decoy_labor_group_to_derail/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znyzhz/apple_created_decoy_labor_group_to_derail/"/>
-        <updated>2022-12-17T05:24:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Georgia becomes latest to ban TikTok from state computers]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znywj7/georgia_becomes_latest_to_ban_tiktok_from_state/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znywj7/georgia_becomes_latest_to_ban_tiktok_from_state/"/>
-        <updated>2022-12-17T05:19:55.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Ben_aid  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla’s new virtual power plant lets Texans sell electricity back to the grid / Tesla is inviting Powerwall owners in parts of Texas to join in on its new retail electric provider service that is designed to save on energy costs.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znyl8x/teslas_new_virtual_power_plant_lets_texans_sell/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znyl8x/teslas_new_virtual_power_plant_lets_texans_sell/"/>
-        <updated>2022-12-17T05:01:13.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AsslessBaboon  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The strange case of BeOS, SRS and the silent Power Mac 6500]]></title>
-        <id>https://lobste.rs/s/yszu9m</id>
-        <link href="https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html"/>
-        <updated>2022-12-17T04:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>classichasclass@users.lobste.rs (classichasclass)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[flag of robocracy as designed by craiyon]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/znx25y/flag_of_robocracy_as_designed_by_craiyon/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/znx25y/flag_of_robocracy_as_designed_by_craiyon/"/>
-        <updated>2022-12-17T03:31:15.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/weedmaster6669  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Carmack is leaving Meta]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znwzwr/john_carmack_is_leaving_meta/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znwzwr/john_carmack_is_leaving_meta/"/>
-        <updated>2022-12-17T03:27:45.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/dapperlemon  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Use Text Pixelation To Redact Sensitive Information]]></title>
-        <id>https://lobste.rs/s/zl9lin</id>
-        <link href="https://bishopfox.com/blog/unredacter-tool-never-pixelation"/>
-        <updated>2022-12-17T02:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>sharpcoder@users.lobste.rs (sharpcoder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any AI libraries that can recognize the names of products?]]></title>
-        <id>https://www.reddit.com/r/artificial/comments/znvtgd/any_ai_libraries_that_can_recognize_the_names_of/</id>
-        <link href="https://www.reddit.com/r/artificial/comments/znvtgd/any_ai_libraries_that_can_recognize_the_names_of/"/>
-        <updated>2022-12-17T02:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Have you seen how google lens can recognize the brand of shirt someone is wearing?
- https://seo.london/google-lens-product-recognition/amp/
- Is there a way to train an AI to do this? Or a similar library/ open source project?
-    submitted by    /u/Decamillionaires  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : artificial</name>
         </author>
     </entry>
     <entry>
@@ -1409,50 +1271,6 @@ Points: 72
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla and Nissan Make the Most Reliable Electric Vehicles]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znvmdc/tesla_and_nissan_make_the_most_reliable_electric/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znvmdc/tesla_and_nissan_make_the_most_reliable_electric/"/>
-        <updated>2022-12-17T02:11:31.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/hoppeeness  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk's team is seeking new investors for Twitter]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znvha2/elon_musks_team_is_seeking_new_investors_for/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znvha2/elon_musks_team_is_seeking_new_investors_for/"/>
-        <updated>2022-12-17T02:04:17.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Vendoban  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Removes Pornhub Channel, Citing Multiple Violations of Guidelines]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znvbuu/youtube_removes_pornhub_channel_citing_multiple/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znvbuu/youtube_removes_pornhub_channel_citing_multiple/"/>
-        <updated>2022-12-17T01:56:34.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/DemiFiendRSA  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new subreddit dedicated to the Elon Musk jet tracker is one of the fastest-growing pages on the website, with almost 40,000 members in 2 days]]></title>
-        <id>https://www.reddit.com/r/technology/comments/znuu29/a_new_subreddit_dedicated_to_the_elon_musk_jet/</id>
-        <link href="https://www.reddit.com/r/technology/comments/znuu29/a_new_subreddit_dedicated_to_the_elon_musk_jet/"/>
-        <updated>2022-12-17T01:30:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AlexanderDaychilde  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Emergency Power Stations of 2022]]></title>
         <id>https://futurism.com/?p=277853</id>
         <link href="https://futurism.com/best-emergency-power-stations"/>
@@ -1460,26 +1278,6 @@ Points: 72
         <summary type="html"><![CDATA[Though we may not like to admit it, most of us have come to depend on a small arsenal of personal electronics devices to get us through the day, which is why it can be especially jarring when a power outage or trip to a remote camping site threatens our ability to use these devices. […]]]></summary>
         <author>
             <name>Tony Carrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hindley-Milner type inference (in Rust)]]></title>
-        <id>https://lobste.rs/s/nshprk</id>
-        <link href="https://reasoning.page/compilers/hindley-milner-rust/"/>
-        <updated>2022-12-16T23:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>teymour@users.lobste.rs (teymour)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your favorite timeless "technical books"?]]></title>
-        <id>https://lobste.rs/s/blfhr3</id>
-        <link href="https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books"/>
-        <updated>2022-12-16T22:22:59.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I was wondering what are your favorite “technical books” and why do you love them? By “technical books,” I mean stuff that I could reasonably expense as part of my work’s learning budget. By “timeless,” I mean that they won’t immediately go out of date once the next version of the software is released.]]></summary>
-        <author>
-            <name>yaymukund@users.lobste.rs (yaymukund)</name>
         </author>
     </entry>
     <entry>
@@ -1593,16 +1391,6 @@ Points: 72
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OCaml 5.0.0 (with multicore and effects) is out]]></title>
-        <id>https://lobste.rs/s/dpp19k</id>
-        <link href="https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974"/>
-        <updated>2022-12-16T12:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>mseri@users.lobste.rs (mseri)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Many wisdoms]]></title>
         <id>urn:id:5399</id>
         <link href="https://aeon.co/essays/cant-agree-what-wisdom-means-all-the-more-reason-to-seek-it?utm_source=rss-feed"/>
@@ -1630,46 +1418,6 @@ Points: 72
         <link href="https://futurism.com/the-byte/uber-deploying-robots-to-replace-human-delivery-drivers"/>
         <updated>2022-12-15T21:48:03.000Z</updated>
         <summary type="html"><![CDATA[Uber Bot Two years after selling off its self-driving car business, Uber is rolling out a fleet of six-wheeled delivery robots to replace human Uber Eats drivers in Miami, an important new development given the company's dominance in the field. The company is partnering with California-based sidewalk robot company Cartken for a pilot program in […]]]></summary>
-        <author>
-            <name>Victor Tangermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Zealand Officially Bans Cigarettes for Anybody Born After 2008]]></title>
-        <id>https://futurism.com/?p=277561</id>
-        <link href="https://futurism.com/neoscope/new-zealand-officially-bans-cigarettes-born-after-2008"/>
-        <updated>2022-12-15T21:00:16.000Z</updated>
-        <summary type="html"><![CDATA[New Zealand's parliament has passed new legislation, prohibiting the sale of cigarettes or tobacco products to anybody born after 2008. That means the island nation has effectively banned cigarettes for all future generations to come as well, the first country to have ever passed legislation of this kind. The ban will come into effect next […]]]></summary>
-        <author>
-            <name>Victor Tangermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flat Earthers Puzzled by Why People Don't Fall Off "Bottom" of Globe]]></title>
-        <id>https://futurism.com/?p=277661</id>
-        <link href="https://futurism.com/the-byte/flat-earthers-bottom-globe"/>
-        <updated>2022-12-15T20:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Impossiball-ers The Flat Earthers have struck again — and this time, they're really confused as to why cities don't plummet into space when they're on the planet's "bottom." In spite of, you know, millennia of established science, national news outlets like USA Today are still having to debunk these kinds of outlandish claims, often spread via […]]]></summary>
-        <author>
-            <name>Noor Al-Sibai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judas Identified in FTX Last Supper]]></title>
-        <id>https://futurism.com/?p=277652</id>
-        <link href="https://futurism.com/the-byte/betrayer-ftx-last-supper"/>
-        <updated>2022-12-15T19:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Judas A Judas has emerged in the epic fall from grace of former cryptocurrency exchange CEO Sam Bankman-Fried. The company's former co-CEO Ryan Salame reportedly told Bahamian regulators of "possible mishandling of clients' assets" by Bankman-Fried two days before FTX filed for Chapter 11 bankruptcy last on November 11, CNBC reports. It's the first […]]]></summary>
-        <author>
-            <name>Victor Tangermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA Spacecraft Snaps Incredible Image of Volcano-Covered Moon]]></title>
-        <id>https://futurism.com/?p=277639</id>
-        <link href="https://futurism.com/the-byte/nasa-spacecraft-snaps-incredible-image-of-volcano-covered-moon"/>
-        <updated>2022-12-15T18:42:19.000Z</updated>
-        <summary type="html"><![CDATA[NASA has released a stunning infrared image of Jupiter's moon Io from a mere 50,000 miles away. The image, which was taken on July 5 by the space agency's Juno spacecraft, shows an incredible amount of detail, including the celestial body's volcanically-active surface. The observations could lead to some fascinating new insights into Jupiter's fourth-largest […]]]></summary>
         <author>
             <name>Victor Tangermann</name>
         </author>
@@ -2123,16 +1871,6 @@ The post What Causes Alzheimer’s? Scientists Are Rethinking the Answer. first 
         <link href="https://www.themarginalian.org/2022/11/24/the-choreography-of-everyday-life-annie-b-parson/"/>
         <updated>2022-11-25T04:12:07.000Z</updated>
         <summary type="html"><![CDATA[Finding that vitalizing "a reciprocity between us perceiving the world together through art, and the world in turn reading us through what we make."]]></summary>
-        <author>
-            <name>Maria Popova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Bowie on Creativity and His Advice to Artists]]></title>
-        <id>https://www.themarginalian.org/?p=79146</id>
-        <link href="https://www.themarginalian.org/2022/11/24/david-bowie-creativity-advice/"/>
-        <updated>2022-11-25T04:11:49.000Z</updated>
-        <summary type="html"><![CDATA["It's terribly dangerous for an artist to fulfill other people's expectations"]]></summary>
         <author>
             <name>Maria Popova</name>
         </author>
