@@ -6,13 +6,173 @@
       "siteUrl": "https://lobste.rs/",
       "articles": [
         {
-          "id": "https://lobste.rs/s/af3lcl",
-          "author": "vrthra@users.lobste.rs (vrthra)",
+          "id": "https://lobste.rs/s/deo8bk",
+          "author": "raymii@users.lobste.rs (raymii)",
           "description": "Comments",
-          "link": "https://arxiv.org/abs/2302.02384",
-          "publishedOn": "2023-02-14T01:36:49.000Z",
-          "wordCount": 636,
-          "title": "CBMC: The C Bounded Model Checker",
+          "link": "https://hackernoon.com/the-real-c-killers-not-you-rust",
+          "publishedOn": "2023-02-14T18:34:24.000Z",
+          "wordCount": 18764,
+          "title": "The Real C++ Killers (Not You, Rust)",
+          "imageUrl": "https://hackernoon.imgix.net/images/a-frustrated-man-wearing-a-ski-mask-pointing-a-gun-at-a-large-computer-screen-that-is-filled-with-lines-of-code-cle4ejrkm000401s6ac263eoi.png"
+        },
+        {
+          "id": "https://lobste.rs/s/fm5ygu",
+          "author": "dineshgowda@users.lobste.rs (dineshgowda)",
+          "description": "Comments",
+          "link": "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/",
+          "publishedOn": "2023-02-14T18:28:07.000Z",
+          "wordCount": 2200,
+          "title": "Build Your Own Fast, Persistent, Toy KV Store",
+          "imageUrl": "https://dinesh.wiki/images/bitcask-db-kv.svg"
+        },
+        {
+          "id": "https://lobste.rs/s/lpmm4l",
+          "author": "ievans@users.lobste.rs (ievans)",
+          "description": "Comments",
+          "link": "https://semgrep.dev/blog/2023/announcing-semgrep-code",
+          "publishedOn": "2023-02-14T17:04:31.000Z",
+          "wordCount": 4567,
+          "title": "Semgrep Code: SAST designed and built for engineers",
+          "imageUrl": "https://a.storyblok.com/f/151984/954x540/c71c1b6f08/announcing-semgrep-code-thumbnail.png"
+        },
+        {
+          "id": "https://lobste.rs/s/0crdng",
+          "author": "carlmjohnson@users.lobste.rs (carlmjohnson)",
+          "description": "Comments",
+          "link": "https://blog.glyph.im/2023/02/data-classification.html",
+          "publishedOn": "2023-02-14T15:14:37.000Z",
+          "wordCount": 1090,
+          "title": "Does Python still have a need for class without @dataclass?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/v74phr",
+          "author": "yonkeltron@users.lobste.rs (yonkeltron)",
+          "description": "Comments",
+          "link": "https://twitter.com/mattpocockuk/status/1625173884885401600",
+          "publishedOn": "2023-02-14T14:19:05.000Z",
+          "wordCount": 498,
+          "title": "Let's talk about branded types",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/lbxmtf",
+          "author": "JulianWgs@users.lobste.rs (JulianWgs)",
+          "description": "Comments",
+          "link": "https://dkb.blog/p/bing-ai-cant-be-trusted",
+          "publishedOn": "2023-02-14T14:08:40.000Z",
+          "wordCount": 4228,
+          "title": "Bing AI Can't Be Trusted",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f679bbb-30c7-4b00-bf65-488912539fad_1280x720.jpeg"
+        },
+        {
+          "id": "https://lobste.rs/s/46dvj3",
+          "author": "PengouinBSD@users.lobste.rs (PengouinBSD)",
+          "description": "Comments",
+          "link": "https://rob-turner.net/post/vx-lan/",
+          "publishedOn": "2023-02-14T13:40:38.000Z",
+          "wordCount": 790,
+          "title": "Tunnelling VXLAN over WireGuard",
+          "imageUrl": "https://rob-turner.net/networkswitches.jpg"
+        },
+        {
+          "id": "https://lobste.rs/s/vxsjoo",
+          "author": "jmillikin@users.lobste.rs (jmillikin)",
+          "description": "Comments",
+          "link": "https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/",
+          "publishedOn": "2023-02-14T13:36:38.000Z",
+          "wordCount": 3236,
+          "title": "C++23 “Pandemic Edition” is complete (Trip report: Winter ISO C++ standards meeting, Issaquah, WA, USA)",
+          "imageUrl": "https://herbsutter.files.wordpress.com/2023/02/image.png"
+        },
+        {
+          "id": "https://lobste.rs/s/gmem98",
+          "author": "jmillikin@users.lobste.rs (jmillikin)",
+          "description": "Comments",
+          "link": "https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/",
+          "publishedOn": "2023-02-14T13:29:16.000Z",
+          "wordCount": 4227,
+          "title": "cURL audit: How a joke led to significant findings",
+          "imageUrl": "https://blog.trailofbits.com/wp-content/uploads/2023/02/Screenshot-2023-02-13-at-5.59.32-PM-1024x626.png"
+        },
+        {
+          "id": "https://lobste.rs/s/gnkgum",
+          "author": "EvanHahn@users.lobste.rs (EvanHahn)",
+          "description": "Comments",
+          "link": "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/",
+          "publishedOn": "2023-02-14T13:20:41.000Z",
+          "wordCount": 1881,
+          "title": "Maybe people do care about performance and reliability",
+          "imageUrl": "https://buttondown.email/static/images/icons/icon-square@400.png"
+        },
+        {
+          "id": "https://lobste.rs/s/viml5v",
+          "author": "vermaden@users.lobste.rs (vermaden)",
+          "description": "Comments",
+          "link": "https://lists.freebsd.org/archives/freebsd-snapshots/2023-February/000205.html",
+          "publishedOn": "2023-02-14T12:09:58.000Z",
+          "wordCount": 1721,
+          "title": "FreeBSD 13.2-BETA1 is Now Available",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/zdgno8",
+          "author": "usrme@users.lobste.rs (usrme)",
+          "description": "Comments",
+          "link": "https://death.andgravity.com/caching-methods",
+          "publishedOn": "2023-02-14T11:26:35.000Z",
+          "wordCount": 1446,
+          "title": "Caching a lot of methods in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/b3vqqz",
+          "author": "fbegyn@users.lobste.rs (fbegyn)",
+          "description": "Comments",
+          "link": "https://zeus.gent/blog/22-23/repurposing_ewaste/",
+          "publishedOn": "2023-02-14T11:02:00.000Z",
+          "wordCount": 2472,
+          "title": "Repurposing e-waste: turning a TV set-top box into a Linux computer",
+          "imageUrl": "https://pics.zeus.gent/FYEEdmo7BRSmoJJfxNukEShhIckXjOqQhmQoHP0Q.jpg"
+        },
+        {
+          "id": "https://lobste.rs/s/zsca2u",
+          "author": "gmem@users.lobste.rs (gmem)",
+          "description": "Comments",
+          "link": "https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace",
+          "publishedOn": "2023-02-14T10:16:24.000Z",
+          "wordCount": 2721,
+          "title": "Modern Mono",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/penigb",
+          "author": "tm@users.lobste.rs (tm)",
+          "description": "Say hello to pkgsrc.se again!\npkgsrc.se was originally developed by Fredrik and Viktor from netbsd.se. At 2023-01-30 and after 20 years providing pkgsrc.se and other service they decided it was time to say goodbye.\nRead more details at netbsd.se.\nBecause it’s such an awesome service it was not possible for the NetBSD and pkgsrc community to live without it. So the service will continue from pkgsrc.pub.\nAgain I would like to thank Fredrik and Viktor for all their work providing pkgsrc.se as a real community service over the last 20 years. It’s still a great honour to continue the service in the\nsame name.\nComments",
+          "link": "https://pkgsrc.se/",
+          "publishedOn": "2023-02-14T09:29:59.000Z",
+          "wordCount": 350,
+          "title": "pkgsrc.se - is back online",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lobste.rs/s/ymct05",
+          "author": "mikejsavage@users.lobste.rs (mikejsavage)",
+          "description": "Comments",
+          "link": "https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/",
+          "publishedOn": "2023-02-14T08:03:30.000Z",
+          "wordCount": 7499,
+          "title": "Learning Jai via Advent of Code",
+          "imageUrl": "https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/assets/img/header.jpg"
+        },
+        {
+          "id": "https://lobste.rs/s/sl3swk",
+          "author": "technetium@users.lobste.rs (technetium)",
+          "description": "Comments",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/CaseForAtomicTypes",
+          "publishedOn": "2023-02-14T03:02:32.000Z",
+          "wordCount": 677,
+          "title": "The case for atomic types in programming languages",
           "imageUrl": null
         },
         {
@@ -36,26 +196,6 @@
           "imageUrl": "https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1"
         },
         {
-          "id": "https://lobste.rs/s/fzixug",
-          "author": "snej@users.lobste.rs (snej)",
-          "description": "Comments",
-          "link": "https://webkit.org/blog/13851/declarative-shadow-dom/",
-          "publishedOn": "2023-02-13T22:48:59.000Z",
-          "wordCount": 1026,
-          "title": "Declarative Shadow DOM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/rlxh4f",
-          "author": "srid@users.lobste.rs (srid)",
-          "description": "Comments",
-          "link": "https://srid.ca/generics-sop-intro",
-          "publishedOn": "2023-02-13T21:44:21.000Z",
-          "wordCount": 5849,
-          "title": "A concise introduction to `generics-sop`",
-          "imageUrl": ""
-        },
-        {
           "id": "https://lobste.rs/s/ys4nhu",
           "author": "jez@users.lobste.rs (jez)",
           "description": "Comments",
@@ -71,19 +211,9 @@
           "description": "Comments",
           "link": "https://wbk.one/article/8524b5de/os-detecting-qmk-keyboard",
           "publishedOn": "2023-02-13T21:23:48.000Z",
-          "wordCount": 1488,
+          "wordCount": 2345,
           "title": "OS Detecting QMK keyboard",
           "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/jvwwq3",
-          "author": "calvin@users.lobste.rs (calvin)",
-          "description": "Comments",
-          "link": "http://www.righto.com/2023/02/bendix-central-air-data-computer-cadc.html",
-          "publishedOn": "2023-02-13T21:19:30.000Z",
-          "wordCount": 6969,
-          "title": "Inside the amazingly mechanical Bendix Central Air Data Computer",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-k7dKdKFMz5MaHJv9VxQd_Tu_S0CqIDB3DJTROrNKfrWl2h7xmvH2g10l6oIuPoAm8HxH7qvd6eXkEIASvY63nAhXMHHfwywucAYs8-5CaGwyWvuuOxT_JwLJ7ikB2CCUplnWct5GW9=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://lobste.rs/s/bjf3k3",
@@ -96,16 +226,6 @@
           "imageUrl": "/assets/images/logo.png"
         },
         {
-          "id": "https://lobste.rs/s/uy7hus",
-          "author": "feoh@users.lobste.rs (feoh)",
-          "description": "Comments",
-          "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/",
-          "publishedOn": "2023-02-13T19:41:39.000Z",
-          "wordCount": 4223,
-          "title": "Parsing TFTP in Rust",
-          "imageUrl": "https://tuckersiemens.com/self.jpg"
-        },
-        {
           "id": "https://lobste.rs/s/por5qw",
           "author": "arathorn@users.lobste.rs (arathorn)",
           "description": "Comments",
@@ -116,114 +236,14 @@
           "imageUrl": "https://fosdem.org/2023/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png"
         },
         {
-          "id": "https://lobste.rs/s/9dfhr6",
-          "author": "weakforce@users.lobste.rs (weakforce)",
-          "description": "Comments",
-          "link": "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb",
-          "publishedOn": "2023-02-13T19:03:59.000Z",
-          "wordCount": 4202,
-          "title": "Writing an OS in Rust to run on RISC-V",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
-        },
-        {
-          "id": "https://lobste.rs/s/r5emt3",
-          "author": "crowdhailer@users.lobste.rs (crowdhailer)",
-          "description": "Comments",
-          "link": "https://vimeo.com/798469951",
-          "publishedOn": "2023-02-13T18:20:43.000Z",
-          "wordCount": 3860,
-          "title": "I implemented a code notebook for datalog queries",
-          "imageUrl": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1609839981-bc3a048f67b460507f32ccaa4a320ec5ad8566d27634885a531fe01468ed288c-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png"
-        },
-        {
-          "id": "https://lobste.rs/s/oqsckz",
-          "author": "carlmjohnson@users.lobste.rs (carlmjohnson)",
-          "description": "Comments",
-          "link": "https://surma.dev/things/rust-to-webassembly/",
-          "publishedOn": "2023-02-13T17:48:53.000Z",
-          "wordCount": 6070,
-          "title": "Rust to WebAssembly the hard way",
-          "imageUrl": "https://surma.dev/things/rust-to-webassembly/social.jpg"
-        },
-        {
           "id": "https://lobste.rs/s/hjyll4",
           "author": "eBPF@users.lobste.rs (eBPF)",
           "description": "Comments",
           "link": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer",
           "publishedOn": "2023-02-13T16:20:45.000Z",
-          "wordCount": 9951,
+          "wordCount": 9955,
           "title": "The bottom emoji breaks rust-analyzer",
           "imageUrl": "https://fasterthanli.me/img/logo-square-2.png"
-        },
-        {
-          "id": "https://lobste.rs/s/joehtw",
-          "author": "msfjarvis@users.lobste.rs (msfjarvis)",
-          "description": "Comments",
-          "link": "https://www.jabperf.com/my-fear-of-commitment-to-the-1st-cpu-core/",
-          "publishedOn": "2023-02-13T15:03:12.000Z",
-          "wordCount": 3801,
-          "title": "My Fear of Commitment to the 1st CPU Core",
-          "imageUrl": "https://www.jabperf.com/wp-content/uploads/2023/01/FearOfCommitment.jpg"
-        },
-        {
-          "id": "https://lobste.rs/s/jvzg1g",
-          "author": "gmem@users.lobste.rs (gmem)",
-          "description": "Comments",
-          "link": "https://emnudge.dev/blog/perfect-rgb-regex/",
-          "publishedOn": "2023-02-13T14:12:59.000Z",
-          "wordCount": 2725,
-          "title": "Writing The Perfect RGB Regex And Failing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/jwmyni",
-          "author": "ratsclub@users.lobste.rs (ratsclub)",
-          "description": "Comments",
-          "link": "https://github.com/hellux/jotdown",
-          "publishedOn": "2023-02-13T13:48:06.000Z",
-          "wordCount": 1180,
-          "title": "jotdown: A Djot parser library",
-          "imageUrl": "https://opengraph.githubassets.com/d92fe445933f2129d264d416e50ac9f4c9eb175292102145551be3c88f906d27/hellux/jotdown"
-        },
-        {
-          "id": "https://lobste.rs/s/i1kfoo",
-          "author": "sjamaan@users.lobste.rs (sjamaan)",
-          "description": "Comments",
-          "link": "https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year",
-          "publishedOn": "2023-02-13T13:25:06.000Z",
-          "wordCount": 5117,
-          "title": "The Time I Accidentally Ended Up Combating Fraud for a Year",
-          "imageUrl": "//www.brightball.com/images/bb-ball-200.png"
-        },
-        {
-          "id": "https://lobste.rs/s/txwkjd",
-          "author": "caius@users.lobste.rs (caius)",
-          "description": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
-          "link": "https://lobste.rs/s/txwkjd/what_are_you_doing_this_week",
-          "publishedOn": "2023-02-13T13:12:28.000Z",
-          "wordCount": 754,
-          "title": "What are you doing this week?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/tg0n0c",
-          "author": "fs111@users.lobste.rs (fs111)",
-          "description": "Comments",
-          "link": "https://duckdb.org/2023/02/13/announcing-duckdb-070.html",
-          "publishedOn": "2023-02-13T12:23:31.000Z",
-          "wordCount": 1699,
-          "title": "Announcing DuckDB 0.7.0",
-          "imageUrl": "https://duckdb.org/images/sharingduckdb.jpg"
-        },
-        {
-          "id": "https://lobste.rs/s/entnir",
-          "author": "freddyb@users.lobste.rs (freddyb)",
-          "description": "Comments",
-          "link": "https://noncombatant.org/2023/02/12/int-size-t/",
-          "publishedOn": "2023-02-13T10:09:26.000Z",
-          "wordCount": 3553,
-          "title": "size_t Is Not int",
-          "imageUrl": null
         },
         {
           "id": "https://lobste.rs/s/ftqp21",
@@ -231,29 +251,9 @@
           "description": "Comments",
           "link": "https://derw.substack.com/p/whatever-happened-to-elm-anyway",
           "publishedOn": "2023-02-13T09:46:28.000Z",
-          "wordCount": 3296,
+          "wordCount": 3298,
           "title": "Whatever happened to Elm, anyway?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c3dbfb-96eb-42b4-83b8-5435e754a3a7_964x964.jpeg"
-        },
-        {
-          "id": "https://lobste.rs/s/7thgsy",
-          "author": "Student@users.lobste.rs (Student)",
-          "description": "By @matklad\nComments",
-          "link": "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html",
-          "publishedOn": "2023-02-12T22:37:49.000Z",
-          "wordCount": 1521,
-          "title": "A love letter to Deno",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lobste.rs/s/rmmhb3",
-          "author": "lambda@users.lobste.rs (lambda)",
-          "description": "Comments",
-          "link": "https://www.maxcountryman.com/articles/is-deno-ready-for-primetime",
-          "publishedOn": "2023-02-12T17:13:44.000Z",
-          "wordCount": 782,
-          "title": "Is Deno Ready for Primetime?",
-          "imageUrl": "https://www.maxcountryman.com/og-default.png"
         }
       ]
     },
@@ -263,204 +263,204 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=34783447",
-          "author": "mmastrac",
-          "description": "Article URL: https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/\nComments URL: https://news.ycombinator.com/item?id=34783447\nPoints: 14\n# Comments: 2",
-          "link": "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/",
-          "publishedOn": "2023-02-14T00:40:46.000Z",
-          "wordCount": 6476,
-          "title": "Google’s Fully Homomorphic Encryption Compiler – A Primer",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+          "id": "https://news.ycombinator.com/item?id=34793414",
+          "author": "gwill",
+          "description": "Article URL: https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge\nComments URL: https://news.ycombinator.com/item?id=34793414\nPoints: 26\n# Comments: 19",
+          "link": "https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge",
+          "publishedOn": "2023-02-14T18:10:15.000Z",
+          "wordCount": 9680,
+          "title": "Hyundai and Kia forced to update millions of vehicles due to TikTok challenge",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/s9g-RakbRvc-VJJkVlLZiMwnfvk=/0x0:640x481/1200x628/filters:focal(320x241:321x242)/cdn.vox-cdn.com/assets/3326159/kia.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34783366",
-          "author": "nadermx",
-          "description": "Article URL: https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/\nComments URL: https://news.ycombinator.com/item?id=34783366\nPoints: 41\n# Comments: 18",
-          "link": "https://petapixel.com/2023/02/09/u-s-copyright-office-tells-judge-that-ai-artwork-isnt-protectable/",
-          "publishedOn": "2023-02-14T00:35:39.000Z",
-          "wordCount": 1292,
-          "title": "U.S. Copyright Office Tells Judge That AI Artwork Isn’t Protectable",
-          "imageUrl": "https://petapixel.com/assets/uploads/2023/02/uscopyright.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34782287",
-          "author": "macawfish",
-          "description": "Article URL: https://pix2pixzero.github.io/\nComments URL: https://news.ycombinator.com/item?id=34782287\nPoints: 6\n# Comments: 0",
-          "link": "https://pix2pixzero.github.io/",
-          "publishedOn": "2023-02-13T23:08:13.000Z",
-          "wordCount": 499,
-          "title": "pix2pix-zero: Zero-Shot Image-to-Image Translation",
-          "imageUrl": "resources/teaser.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34782148",
-          "author": "huhtenberg",
-          "description": "Article URL: https://www.bigscreenvr.com/\nComments URL: https://news.ycombinator.com/item?id=34782148\nPoints: 29\n# Comments: 11",
-          "link": "https://www.bigscreenvr.com/",
-          "publishedOn": "2023-02-13T22:56:46.000Z",
-          "wordCount": 44,
-          "title": "Bigscreen Beyond – The Smallest VR Headset",
+          "id": "https://news.ycombinator.com/item?id=34793411",
+          "author": "yuedongze",
+          "description": "Article URL: https://arxiv.org/abs/2302.05311\nComments URL: https://news.ycombinator.com/item?id=34793411\nPoints: 12\n# Comments: 2",
+          "link": "https://arxiv.org/abs/2302.05311",
+          "publishedOn": "2023-02-14T18:10:04.000Z",
+          "wordCount": 710,
+          "title": "TurboTLS: TLS connection establishment with 1 less round trip",
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34781163",
-          "author": "Fudgel",
-          "description": "Article URL: https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/\nComments URL: https://news.ycombinator.com/item?id=34781163\nPoints: 100\n# Comments: 50",
-          "link": "https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/",
-          "publishedOn": "2023-02-13T21:48:13.000Z",
-          "wordCount": 6084,
-          "title": "GPU Video acceleration in the Windows Subsystem for Linux now available",
-          "imageUrl": "https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2023/02/Screenshot-2023-02-09-163918.png"
+          "id": "https://news.ycombinator.com/item?id=34793116",
+          "author": "lxm",
+          "description": "Article URL: https://www.semafor.com/article/02/12/2023/how-spotifys-podcast-bet-went-wrong\nComments URL: https://news.ycombinator.com/item?id=34793116\nPoints: 91\n# Comments: 121",
+          "link": "https://www.semafor.com/article/02/12/2023/how-spotifys-podcast-bet-went-wrong",
+          "publishedOn": "2023-02-14T17:53:35.000Z",
+          "wordCount": 3782,
+          "title": "Spotify's podcast bet went wrong",
+          "imageUrl": "https://img.semafor.com/edd217338129f2224102d04c8e43d57e9022ee3a-1279x850.png?rect=0,93,1264,664&w=1200&h=630&q=85&auto=format"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34780886",
-          "author": "doener",
-          "description": "Article URL: https://fosdem.org/2023/schedule/event/rust_coreutils/\nComments URL: https://news.ycombinator.com/item?id=34780886\nPoints: 110\n# Comments: 61",
-          "link": "https://fosdem.org/2023/schedule/event/rust_coreutils/",
-          "publishedOn": "2023-02-13T21:30:16.000Z",
-          "wordCount": 369,
-          "title": "Reimplementing the Coreutils in a modern language (Rust)",
-          "imageUrl": "https://fosdem.org/2023/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png"
+          "id": "https://news.ycombinator.com/item?id=34792932",
+          "author": "mwexler",
+          "description": "Article URL: https://hackernoon.com/the-real-c-killers-not-you-rust\nComments URL: https://news.ycombinator.com/item?id=34792932\nPoints: 19\n# Comments: 2",
+          "link": "https://hackernoon.com/the-real-c-killers-not-you-rust",
+          "publishedOn": "2023-02-14T17:39:48.000Z",
+          "wordCount": 18764,
+          "title": "The C++ Killers (Not You, Rust)",
+          "imageUrl": "https://hackernoon.imgix.net/images/a-frustrated-man-wearing-a-ski-mask-pointing-a-gun-at-a-large-computer-screen-that-is-filled-with-lines-of-code-cle4ejrkm000401s6ac263eoi.png"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34780859",
-          "author": "nailer",
-          "description": "Article URL: https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md\nComments URL: https://news.ycombinator.com/item?id=34780859\nPoints: 211\n# Comments: 39",
-          "link": "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md",
-          "publishedOn": "2023-02-13T21:28:24.000Z",
-          "wordCount": 11662,
-          "title": "So what’s next (personal news from developer of popular CoreJS polyfill",
-          "imageUrl": "https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1"
+          "id": "https://news.ycombinator.com/item?id=34792916",
+          "author": "webmaven",
+          "description": "Article URL: https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/\nComments URL: https://news.ycombinator.com/item?id=34792916\nPoints: 6\n# Comments: 0",
+          "link": "https://thereader.mitpress.mit.edu/the-art-of-the-shadow-how-painters-have-gotten-it-wrong-for-centuries/",
+          "publishedOn": "2023-02-14T17:38:18.000Z",
+          "wordCount": 5734,
+          "title": "The Art of the Shadow: How Painters Have Gotten It Wrong for Centuries",
+          "imageUrl": "https://thereader.mitpress.mit.edu/wp-content/uploads/2023/02/Lead.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34780696",
-          "author": "CountHackulus",
-          "description": "Article URL: http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/\nComments URL: https://news.ycombinator.com/item?id=34780696\nPoints: 85\n# Comments: 13",
-          "link": "http://ghostinfluence.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/",
-          "publishedOn": "2023-02-13T21:19:02.000Z",
-          "wordCount": 3179,
-          "title": "The retaliation: Pranking my roommate with targeted Facebook ads (2014)",
-          "imageUrl": null
+          "id": "https://news.ycombinator.com/item?id=34792494",
+          "author": "nickthegreek",
+          "description": "Article URL: https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/\nComments URL: https://news.ycombinator.com/item?id=34792494\nPoints: 20\n# Comments: 5",
+          "link": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/",
+          "publishedOn": "2023-02-14T17:12:40.000Z",
+          "wordCount": 7221,
+          "title": "BuzzFeed launches Infinity Quizzes, creating personalized stories using OpenAI",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-4805167311.jpg?resize=1200,812"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34780402",
-          "author": "dsugarman",
-          "description": "Article URL: https://jobs.lever.co/zentail/0ec12095-ccbb-4915-a10e-a06872dee948\nComments URL: https://news.ycombinator.com/item?id=34780402\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/zentail/0ec12095-ccbb-4915-a10e-a06872dee948",
-          "publishedOn": "2023-02-13T21:01:15.000Z",
-          "wordCount": 16284,
-          "title": "Zentail (YC S12) Is Hiring a Sr Software Engineer in Columbia, MD (Series A)",
-          "imageUrl": "https://lever-client-logos.s3.amazonaws.com/93836ad9-b152-47a6-b121-1ec51979bd31-1547578356313.png"
+          "id": "https://news.ycombinator.com/item?id=34791930",
+          "author": "Brajeshwar",
+          "description": "Article URL: https://www.wired.com/story/spy-balloons-ufo-shot-down-us/\nComments URL: https://news.ycombinator.com/item?id=34791930\nPoints: 44\n# Comments: 21",
+          "link": "https://www.wired.com/story/spy-balloons-ufo-shot-down-us/",
+          "publishedOn": "2023-02-14T16:41:32.000Z",
+          "wordCount": 20944,
+          "title": "The More You Look for Spy Balloons, the More UFOs You’ll Find",
+          "imageUrl": "https://media.wired.com/photos/63ea6581cc1c3c50777b4501/191:100/w_1280,c_limit/Balloon_sec_GettyImages-1246870327.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34780343",
+          "id": "https://news.ycombinator.com/item?id=34791558",
+          "author": "isaacfrond",
+          "description": "Article URL: https://www.theregister.com/2023/02/14/microsoft_ai_bing_error/\nComments URL: https://news.ycombinator.com/item?id=34791558\nPoints: 91\n# Comments: 67",
+          "link": "https://www.theregister.com/2023/02/14/microsoft_ai_bing_error/",
+          "publishedOn": "2023-02-14T16:17:45.000Z",
+          "wordCount": 1823,
+          "title": "Microsoft's AI Bing also generated factual errors at launch",
+          "imageUrl": "https://regmedia.co.uk/2023/02/14/shutterstock_shakespeare.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34791474",
           "author": "LinuxBender",
-          "description": "Article URL: https://www.scientificamerican.com/article/let-teenagers-sleep/\nComments URL: https://news.ycombinator.com/item?id=34780343\nPoints: 467\n# Comments: 383",
-          "link": "https://www.scientificamerican.com/article/let-teenagers-sleep/",
-          "publishedOn": "2023-02-13T20:57:33.000Z",
-          "wordCount": 5385,
-          "title": "Let Teenagers Sleep",
-          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/336861DE-A97F-4458-8EE2BE7F80BA5618.jpg"
+          "description": "Article URL: https://theintercept.com/2023/02/14/whistleblower-image-crop-document/\nComments URL: https://news.ycombinator.com/item?id=34791474\nPoints: 79\n# Comments: 36",
+          "link": "https://theintercept.com/2023/02/14/whistleblower-image-crop-document/",
+          "publishedOn": "2023-02-14T16:12:32.000Z",
+          "wordCount": 3128,
+          "title": "Whistleblowers Take Note: Don’t Trust Cropping Tools",
+          "imageUrl": "https://theintercept.imgix.net/wp-uploads/sites/1/2023/02/cropping-image-feature-1.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34779999",
-          "author": "uticus",
-          "description": "Article URL: https://www.swpc.noaa.gov/news/return-x-flares\nComments URL: https://news.ycombinator.com/item?id=34779999\nPoints: 45\n# Comments: 17",
-          "link": "https://www.swpc.noaa.gov/news/return-x-flares",
-          "publishedOn": "2023-02-13T20:35:20.000Z",
-          "wordCount": 1138,
-          "title": "The Return of the X-Flares",
+          "id": "https://news.ycombinator.com/item?id=34791352",
+          "author": "makaimc",
+          "description": "Article URL: https://www.pcgamer.com/modders-are-using-ai-to-put-voice-acting-in-morrowind-and-im-impressed-and-concerned-all-at-once/\nComments URL: https://news.ycombinator.com/item?id=34791352\nPoints: 72\n# Comments: 54",
+          "link": "https://www.pcgamer.com/modders-are-using-ai-to-put-voice-acting-in-morrowind-and-im-impressed-and-concerned-all-at-once/",
+          "publishedOn": "2023-02-14T16:06:24.000Z",
+          "wordCount": 9124,
+          "title": "Modders are using AI to put voice acting in Morrowind",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/zD6EFnMYcLFhRo6EA3GoBP-1200-80.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34791106",
+          "author": "akshaykarthik",
+          "description": "Article URL: https://danluu.com/wat/\nComments URL: https://news.ycombinator.com/item?id=34791106\nPoints: 168\n# Comments: 77",
+          "link": "https://danluu.com/wat/",
+          "publishedOn": "2023-02-14T15:52:49.000Z",
+          "wordCount": 5578,
+          "title": "Normalization of Deviance (2015)",
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34778921",
-          "author": "JNRowe",
-          "description": "Article URL: https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/\nComments URL: https://news.ycombinator.com/item?id=34778921\nPoints: 25\n# Comments: 1",
-          "link": "https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/",
-          "publishedOn": "2023-02-13T19:29:04.000Z",
-          "wordCount": 1219,
-          "title": "Fast Debian package builds using sbuild, mmdebstrap and apt-cacher-ng",
+          "id": "https://news.ycombinator.com/item?id=34790814",
+          "author": "montalbano",
+          "description": "Article URL: https://www.newscientist.com/article/2357545-putting-solar-panels-in-grazing-fields-is-good-for-sheep/\nComments URL: https://news.ycombinator.com/item?id=34790814\nPoints: 70\n# Comments: 27",
+          "link": "https://www.newscientist.com/article/2357545-putting-solar-panels-in-grazing-fields-is-good-for-sheep/",
+          "publishedOn": "2023-02-14T15:37:02.000Z",
+          "wordCount": 3304,
+          "title": "Putting solar panels in grazing fields is good for sheep",
+          "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/02/01112507/SEI_142343710.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34790781",
+          "author": "dignite",
+          "description": "Article URL: https://screenshot.rocks\nComments URL: https://news.ycombinator.com/item?id=34790781\nPoints: 6\n# Comments: 4",
+          "link": "https://screenshot.rocks/",
+          "publishedOn": "2023-02-14T15:35:04.000Z",
+          "wordCount": 52,
+          "title": "Show HN: Screenshot.Rocks: Open-source browser and mobile screenshot mockup tool",
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34778314",
-          "author": "LorenDB",
-          "description": "Article URL: https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/\nComments URL: https://news.ycombinator.com/item?id=34778314\nPoints: 166\n# Comments: 74",
-          "link": "https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/",
-          "publishedOn": "2023-02-13T18:55:13.000Z",
-          "wordCount": 1449,
-          "title": "Creator of Linux virtual assistant blames 'patent troll' for project's death",
-          "imageUrl": "https://regmedia.co.uk/2023/02/13/mycroft_mark_ii.jpg"
+          "id": "https://news.ycombinator.com/item?id=34790721",
+          "author": "feross",
+          "description": "Article URL: https://github.com/Nutlope/aicommits\nComments URL: https://news.ycombinator.com/item?id=34790721\nPoints: 20\n# Comments: 20",
+          "link": "https://github.com/Nutlope/aicommits",
+          "publishedOn": "2023-02-14T15:32:06.000Z",
+          "wordCount": 922,
+          "title": "AI Commits – a CLI that writes your commit messages for you",
+          "imageUrl": "https://opengraph.githubassets.com/986164284ea73336aecb29a6fdc148e63b0fae2b37227e8f0ac34e5129c64f63/Nutlope/aicommits"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34778224",
-          "author": "ingve",
-          "description": "Article URL: https://webkit.org/blog/13851/declarative-shadow-dom/\nComments URL: https://news.ycombinator.com/item?id=34778224\nPoints: 156\n# Comments: 75",
-          "link": "https://webkit.org/blog/13851/declarative-shadow-dom/",
-          "publishedOn": "2023-02-13T18:50:31.000Z",
-          "wordCount": 1026,
-          "title": "Declarative Shadow DOM",
+          "id": "https://news.ycombinator.com/item?id=34790619",
+          "author": "soopurman",
+          "description": "Article URL: https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/\nComments URL: https://news.ycombinator.com/item?id=34790619\nPoints: 139\n# Comments: 104",
+          "link": "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/",
+          "publishedOn": "2023-02-14T15:26:01.000Z",
+          "wordCount": 1881,
+          "title": "Maybe people do care about performance and reliability",
+          "imageUrl": "https://buttondown.email/static/images/icons/icon-square@400.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34790582",
+          "author": "t23",
+          "description": "Article URL: https://om.co/2023/02/08/does-google-need-a-new-ceo/\nComments URL: https://news.ycombinator.com/item?id=34790582\nPoints: 255\n# Comments: 250",
+          "link": "https://om.co/2023/02/08/does-google-need-a-new-ceo/",
+          "publishedOn": "2023-02-14T15:23:30.000Z",
+          "wordCount": 3122,
+          "title": "Does Google need a new CEO?",
+          "imageUrl": "https://i0.wp.com/om.co/wp-content/uploads/2023/02/gle-careers-scout-00489.original-e1675907061529.jpg?fit=1087%2C847&ssl=1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34790264",
+          "author": "bribroder",
+          "description": "Article URL: https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=34790264\nPoints: 325\n# Comments: 296",
+          "link": "https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/",
+          "publishedOn": "2023-02-14T15:02:45.000Z",
+          "wordCount": 1997,
+          "title": "Google employees criticize CEO for “dumpster fire” response to ChatGPT",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1207206237-760x380.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34790028",
+          "author": "LLcolD",
+          "description": "Article URL: https://www.blueorigin.com/news/blue-alchemist-powers-our-lunar-future/\nComments URL: https://news.ycombinator.com/item?id=34790028\nPoints: 106\n# Comments: 42",
+          "link": "https://www.blueorigin.com/news/blue-alchemist-powers-our-lunar-future/",
+          "publishedOn": "2023-02-14T14:46:35.000Z",
+          "wordCount": 936,
+          "title": "Blue Origin manufactured solar cell prototype from lunar regolith simulants",
           "imageUrl": null
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34777646",
-          "author": "gardenfelder",
-          "description": "Article URL: https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/\nComments URL: https://news.ycombinator.com/item?id=34777646\nPoints: 256\n# Comments: 90",
-          "link": "https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/",
-          "publishedOn": "2023-02-13T18:13:39.000Z",
-          "wordCount": 2115,
-          "title": "AI-powered Bing Chat spills its secrets via prompt injection attack",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/whispering-in-a-robot-ear-760x380.jpg"
+          "id": "https://news.ycombinator.com/item?id=34789710",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.servethehome.com/chatgpt-hardware-a-look-at-8x-nvidia-a100-systems-powering-the-tool-openai-microsoft-azure-supermicro-inspur-asus-dell-gigabyte/\nComments URL: https://news.ycombinator.com/item?id=34789710\nPoints: 113\n# Comments: 52",
+          "link": "https://www.servethehome.com/chatgpt-hardware-a-look-at-8x-nvidia-a100-systems-powering-the-tool-openai-microsoft-azure-supermicro-inspur-asus-dell-gigabyte/",
+          "publishedOn": "2023-02-14T14:25:28.000Z",
+          "wordCount": 7797,
+          "title": "ChatGPT Hardware: A look at 8x NVIDIA A100 powering the tool",
+          "imageUrl": "https://www.servethehome.com/wp-content/uploads/2021/07/Inspur-NF5488A5-NVIDIA-HGX-A100-8-GPU-Assembly-8x-A100-2.jpg"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=34777325",
-          "author": "zdw",
-          "description": "Article URL: https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace\nComments URL: https://news.ycombinator.com/item?id=34777325\nPoints: 152\n# Comments: 114",
-          "link": "https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace",
-          "publishedOn": "2023-02-13T17:55:40.000Z",
-          "wordCount": 2450,
-          "title": "Modern Mono",
+          "id": "https://news.ycombinator.com/item?id=34789698",
+          "author": "loa_observer",
+          "description": "Data Painter is RATH's new feature to interact with your data. It helps you to specify complex visual patterns and find explanations and potential causals.\nIt allows you to do on-flight data labeling, cleaning or even create new features does not exited in original dataset. Everything can be done with a brush tool(painter), You can even play with your data with your fingers on mobile.\nRATH is an open-source alternative to Tableau, but with more automations. Feedbacks and suggestions are appreciated.\nRATH's Github: https://github.com/Kanaries/Rath\nRATH's HomePage: https://kanaries.net/\nComments URL: https://news.ycombinator.com/item?id=34789698\nPoints: 116\n# Comments: 17",
+          "link": "https://docs.kanaries.net/rath/tutorials/data-painter/",
+          "publishedOn": "2023-02-14T14:24:55.000Z",
+          "wordCount": 530,
+          "title": "Show HN: Data Painter – A Different Way to Interact with Your Data",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34776188",
-          "author": "bertman",
-          "description": "Article URL: https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/\nComments URL: https://news.ycombinator.com/item?id=34776188\nPoints: 334\n# Comments: 95",
-          "link": "https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/",
-          "publishedOn": "2023-02-13T16:58:30.000Z",
-          "wordCount": 3249,
-          "title": "Z-Library Returns on the Clearnet in Full Hydra-Mode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34776132",
-          "author": "raybb",
-          "description": "Article URL: https://fosdem.org/2023/schedule/event/matrix20/\nComments URL: https://news.ycombinator.com/item?id=34776132\nPoints: 215\n# Comments: 132",
-          "link": "https://fosdem.org/2023/schedule/event/matrix20/",
-          "publishedOn": "2023-02-13T16:55:33.000Z",
-          "wordCount": 473,
-          "title": "Matrix 2.0: How we’re making Matrix go voom",
-          "imageUrl": "https://fosdem.org/2023/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34775853",
-          "author": "dbrereton",
-          "description": "Article URL: https://dkb.blog/p/bing-ai-cant-be-trusted\nComments URL: https://news.ycombinator.com/item?id=34775853\nPoints: 829\n# Comments: 492",
-          "link": "https://dkb.blog/p/bing-ai-cant-be-trusted",
-          "publishedOn": "2023-02-13T16:40:26.000Z",
-          "wordCount": 3938,
-          "title": "Bing AI can't be trusted",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f679bbb-30c7-4b00-bf65-488912539fad_1280x720.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34775549",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer\nComments URL: https://news.ycombinator.com/item?id=34775549\nPoints: 155\n# Comments: 114",
-          "link": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer",
-          "publishedOn": "2023-02-13T16:22:38.000Z",
-          "wordCount": 9951,
-          "title": "The bottom emoji breaks rust-analyzer",
-          "imageUrl": "https://fasterthanli.me/img/logo-square-2.png"
         }
       ]
     },
@@ -470,13 +470,193 @@
       "siteUrl": "https://www.reddit.com/r/datascience/top?sort=top&t=day",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/datascience/comments/111ouqb/what_are_you_do_if_your_dataset_have_50_columns/",
+          "id": "https://www.reddit.com/r/datascience/comments/112b6du/with_the_rise_of_llms_like_chatgpt_how_will/",
           "author": null,
-          "description": "Hi, as You can read in the title I have a dataset with 50 columns. My first aproach is to do a PCA for dimensionality reduction, before i do that, i Made a correlation analysis and drop some columns. Before Made a PCA and using gbdt( xgboost ) and a rf regressor.\n But My results aren't good r2=0.55 that is only 0.05 better than a baseline.\n I don't have any bussines context to improve My analisis.\n Some ideas to handle this problem\n    submitted by    /u/aaaasd12  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111ouqb/what_are_you_do_if_your_dataset_have_50_columns/",
-          "publishedOn": "2023-02-14T00:28:51.000Z",
-          "wordCount": 12769,
-          "title": "What are You do if your dataset have 50 columns?",
+          "description": "With the proliferation of LLMs like ChatGPT or whatever it is Google is calling their primary LLM these days (LAMDA or otherwise), do people think this will change the market for data scientists? In one world, the market basically stays the same, as more hardcore AI researchers inventing LLMs and cutting edge work remain concentrated in Big Tech. Then more “normal” data science work remains the same elsewhere. In another world, LLMs replace lower level data science work and either decrease demand for data scientists overall or make them less valuable (highly unlikely imoz more likely to free up some lower levels tasks, for example around EDA, than actually replace anyone). In yet another world, the general shift to AI creates hype around the profession and encourages people to invest in data and analytics broadly, even if they’re not doing AI work specifically (whatever AI work actually is). What do people think? Interesting discussion here in broader churn in engineering labor market given recent big tech layoffs: https://open.spotify.com/episode/01uyOv5cIvLZfqVdwWPK3a?si=IAqZ1638SPiib6UacPQUzg\n    submitted by    /u/mikeike93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/112b6du/with_the_rise_of_llms_like_chatgpt_how_will/",
+          "publishedOn": "2023-02-14T17:37:03.000Z",
+          "wordCount": 13012,
+          "title": "With the rise of LLMs like ChatGPT, how will demand for data scientists change?",
+          "imageUrl": "https://external-preview.redd.it/4Hq4_8a5feEcaykiDc83XGO2DiYZMVrXVCgkbzLJ59o.jpg?auto=webp&v=enabled&s=82a5dc5746b51312f316252155cd865f610dd27a"
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/112aizd/language_questions/",
+          "author": null,
+          "description": "Hey guys, I am a sophomore in college who knows python decently well and is beginning to learn R. Would you recommend continuing to learn languages or to learn skills like reinforcement learning? Any help or advice would be greatly appreciated!\n    submitted by    /u/BaldProgrammer7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/112aizd/language_questions/",
+          "publishedOn": "2023-02-14T17:09:30.000Z",
+          "wordCount": 12840,
+          "title": "Language Questions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/112a4y3/nmf_for_a_userproduct_matrix/",
+          "author": null,
+          "description": "I have a very sparse matrix of users products, 120 users and 4000 products. each cell represents the users purchases of that specific product. \n Each month purchases are represented by a separate matrix, assuming the missing values represent purchases that are not captured. How do I produce an estimate for purchases for each missing user/product pair? \n EX:\n matrix_1: has the purchases of users for different products in January\n matrix_2: has the purchases of users for different products in February\n matrix_1: has the purchases of users for different products in March\n etc\n ..\n ..\n Is it a valid approach to have a single matrix for each month, or should we combine them somehow into a single matrix to capture the temporal nature of the problem?\n    submitted by    /u/Riolite55  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/112a4y3/nmf_for_a_userproduct_matrix/",
+          "publishedOn": "2023-02-14T16:53:40.000Z",
+          "wordCount": 12702,
+          "title": "NMF for a user/product matrix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/112a45e/ideas_for_a_youtube_channel/",
+          "author": null,
+          "description": "Well, this is part of my plan to deal with one of my biggest and undesired flaws: introspectiveness. My idea is to share my skills and knowledge about Data Science with the community and receive its feedback. Not surprisingly, I got stuck trying to figure out an idea for the very first video. I end up classifying any subject that I can think of in two ways: either too simple to be interesting or too complex to be understandable. My best bet would be to make a video about data visualization, but I don't know how deep I should go in my explanation. Do you guys have any idea?\n    submitted by    /u/Away-Department-6474  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/112a45e/ideas_for_a_youtube_channel/",
+          "publishedOn": "2023-02-14T16:52:44.000Z",
+          "wordCount": 12806,
+          "title": "Ideas for a YouTube channel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1126jck/how_to_find_internshipsjobs_at_smaller_companies/",
+          "author": null,
+          "description": "I'm in my second semester of a data science masters and I'm trying to look for internships but also have no interest in working at a FAANG company. Whenever I try to search for internships it's mostly those giant companies with all the results. Does anyone have a way to search for internships at lesser known companies?\n    submitted by    /u/sdgso666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1126jck/how_to_find_internshipsjobs_at_smaller_companies/",
+          "publishedOn": "2023-02-14T14:22:06.000Z",
+          "wordCount": 13397,
+          "title": "How to find internships/jobs at smaller companies?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1125mhy/train_ml_models_cheap/",
+          "author": null,
+          "description": "Hello,\n Most of the time I only have my old laptop available without a dGPU and a 5 year old I7 dual core.\n Training on the thing takes lots of time. What could you suggest for training models online? My datasets are often in the 2-10gb Range. I don’t have a problem to pay like 30-50 Euros monthly.\n I heard colab pro was super good but since they changed to the compute units model it got pretty meh? Or is it still good? Otherwise I heard about paperclip. \n What else can you recommend? I only want to train models online and then export them using joblib. I am also a Student just in Case there are some nice discounts. \n Appreciate any help!\n    submitted by    /u/Tyson1405  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1125mhy/train_ml_models_cheap/",
+          "publishedOn": "2023-02-14T13:40:36.000Z",
+          "wordCount": 13004,
+          "title": "Train ML Models cheap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1123lts/optimizing_model_points_of_a_life_insurance/",
+          "author": null,
+          "description": "Hi,\n I wrote 2 posts together with 2 colleagues on how to solve a compression problem from the insurance industry. We applied the Simplex algorithm to compress the number of model points (every model point is an insurance contract component like life-insurance) and fit them to our benchmark. \n Hope it's ok to post this here, we'd like to get some input on our approach :)\n https://medium.com/@patrick_hoefler/optimizing-model-points-of-a-life-insurance-portfolio-e9a61f01c5bc\n    submitted by    /u/phofl93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1123lts/optimizing_model_points_of_a_life_insurance/",
+          "publishedOn": "2023-02-14T11:55:09.000Z",
+          "wordCount": 12676,
+          "title": "Optimizing model points of a life insurance portfolio",
+          "imageUrl": "https://external-preview.redd.it/48RYEuW1lV4l7wX862MqoKVcHKxktBraOCFOjWAQDUQ.jpg?auto=webp&v=enabled&s=39b7487c11640083423cc5f72878e41d50c52985"
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1123lnu/aws_data_wrangler_alternatives/",
+          "author": null,
+          "description": "I'm looking for a free/open source alternative to AWS data wrangler. I'd like a unified platform where to: - visualize the data, possibly from multiple data sources and pre-configured visualizations - preprocess the data with no code solutions, but with the possibility to add code and export the data transformation in python code\n Does anything like this exist?\n    submitted by    /u/LumosNox99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1123lnu/aws_data_wrangler_alternatives/",
+          "publishedOn": "2023-02-14T11:54:53.000Z",
+          "wordCount": 12576,
+          "title": "AWS data wrangler alternatives?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1122vt6/training_accreditation_in_data_science_best_start/",
+          "author": null,
+          "description": "I am looking for help and opinions on where to start with getting some „verified“ background on data science (besides doing Bachelors/Masters). Are there any courses / trainings / bootcamps that provide a good start as well as a (kind of) official certificate?\n Background: I did my bachelors in applied linguistics (statistics was a big part of it, eg linear regression on text corpora to determine readability) and have an MBA. Currently I am working in a Compliance/Risk Management Team and kind of drifted to a data analysis side role. Regularly I write sql code to extract data from our databases and see what we can learn from it. As I had no prior experience, I learned it from scratch by trial and error, asking around and some online tutorials. \n I have of lot of fun doing this (exploring data, writing code) and am looking to steer my career towards that direction more. For starters, I was thinking of doing something official and have some training budget to spend. Hence my question: do you have any tips on trainings that also issue certificates (ideally stuff that means sth). I am typically more of a hands on guy and don’t think doing a 800€ training is better than learning with coursera - but maybe I can have it both?what do you guys think? Is that a good idea? or should I just do a python bootcamp and start from there? I don’t know much about the field in general and have just started gathering information so any related tips are also highly appreciated. (Ofc I did some googling but I am overwhelmed and would appreciate your expertise)\n    submitted by    /u/GoblinSwineRider  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1122vt6/training_accreditation_in_data_science_best_start/",
+          "publishedOn": "2023-02-14T11:12:20.000Z",
+          "wordCount": 13028,
+          "title": "Training / Accreditation in Data Science - best start?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1120x9u/is_this_a_good_dsa_course/",
+          "author": null,
+          "description": "hey, im currently a 3rd year data science student looking to improve my DSA skills. I have some knowledge about DSA in C++ but i find C++ quite hard. i came across this course which is DSA using python. Seem to cover most of the topics and has coding exercises and a few projects as well.\n ​\n https://preview.redd.it/dzyq3sdbn4ia1.png?width=1919&format=png&auto=webp&s=c5e997bb017e6d0c2048b686674cde7c93405f7c\n Can anyone share their experience if they have taken this course? is it worth it? Thanks!\n    submitted by    /u/swift__7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1120x9u/is_this_a_good_dsa_course/",
+          "publishedOn": "2023-02-14T10:06:28.000Z",
+          "wordCount": 13442,
+          "title": "is this a good DSA course?",
+          "imageUrl": "https://external-preview.redd.it/1UyxmMpDV4aOgzMDSsaH07C7J3ugsS2_rvR_fbJwOLs.jpg?auto=webp&v=enabled&s=2b6c15109bf537458fe84f654f0878e99a414666"
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1120wo2/setting_up_a_databricks_cicd_pipeline_with_github/",
+          "author": null,
+          "description": "I want to set up a ci/cd workflow for databricks, using github actions. There seems to be a couple of main choices. \n  \nEither executing the code using the runNotebook action, so the code runs on my existing databricks cluster. I am worried that this will be a bit hacky, as I would have to rely on running scripts from the notebook instead of just regular old python scripts. Getting results back and forth from the notebook to the vm running from github actions also seeems like a hurdle to implementing a good script.\n Or setting up the yaml to replicate the databricks environment on the virtual machine that github actions spins up. I have tried the latter, but I struggle to get all the versions of java, scala, spark, pyton, packages etc to be identical an have my code execute without issue.\n  \nI mainly have access to using databricks to write code, but I could consider using vscode on a local or virtual machine, or even coder as a web based alternative. Setting up a workflow using vscode and dbx is an option, but I do not want to use conda at the moment, which is what the quickstart seems to require. \n What approach would you recommend? running on the existing cluster or setting up an identical environment in the yaml that fires up a vm in github actions?\n    submitted by    /u/Tullsokk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1120wo2/setting_up_a_databricks_cicd_pipeline_with_github/",
+          "publishedOn": "2023-02-14T10:06:08.000Z",
+          "wordCount": 12948,
+          "title": "Setting up a databricks ci/cd pipeline with github actions - executing code on databricks cluster vs github VM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/1120br9/question_answering_on_domain_knowledge_with/",
+          "author": null,
+          "description": "Hello all,\n Answering questions based on domain knowledge (like internal documentation, contracts, books, etc.) is challenging because of the size of the domain knowledge.\n As you might know, Transformer-based models are limited in terms of input size (most of the time it's hard to use more than 2048 tokens). So you cannot really do question answering on a huge knowledge base with these models.\n You can try to fine-tune your own text generation model for that (like GPT-3, GPT-J, etc.) but results are sometimes disappointing as the fine-tuned models tends to forget some of the facts mentioned in the dataset...\n At NLP Cloud, the strategy we prefer is about mixing semantic search and question answering. Here is a quick article about how to do it:\n https://nlpcloud.com/question-answering-on-domain-knowledge-with-semantic-search-and-text-generation.html\n As far as we know, this is the best way to get both a fluent and user friendly answer while being very accurate.\n I would love to hear your thoughts on this. Can you think of a better strategy for question answering on very large documents?\n Julien\n    submitted by    /u/juliensalinas  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/1120br9/question_answering_on_domain_knowledge_with/",
+          "publishedOn": "2023-02-14T09:54:30.000Z",
+          "wordCount": 12814,
+          "title": "Question Answering On Domain Knowledge With Semantic Search And Text Generation",
+          "imageUrl": "https://external-preview.redd.it/mHYCtcmhwvyno0-uAta4G_T1My3-otrPscUd2OjvMes.jpg?auto=webp&v=enabled&s=d3760fef3f1ab6bf1d1dbe5461b5e2df024b7dd7"
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111xm2s/deciding_on_predictors_for_logistic_regression/",
+          "author": null,
+          "description": "I’m trying create a predictive model for a binary outcome (yes or no). I have 16 predictor variables, which are a combination of categorical and continuous variables. How do I go about deciding which to include in my model?\n I can’t find any literature on the requirements/assumptions of x in a logistic regression. I’m modelling in R therefore I can’t really add all variables and use a Backwards/Forwards variable selection method used in programs such as SAS.\n Appreciate any assistance!\n    submitted by    /u/Fun_Elevator_814  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/111xm2s/deciding_on_predictors_for_logistic_regression/",
+          "publishedOn": "2023-02-14T08:22:58.000Z",
+          "wordCount": 13019,
+          "title": "Deciding on Predictors for Logistic Regression",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111xlvi/ds_interviews_case_study/",
+          "author": null,
+          "description": "Hey guys,\n Recently I have been interviewing with some companies for DS roles, and there were many case studies involved. When given the case and not much data (just might be a basic graph), how do you come up with the hypotheses and draw conclusions quickly? The tasks are generally interesting given the time and the data, but having to answer on spot throws me off.\n    submitted by    /u/shajiegdvmd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/111xlvi/ds_interviews_case_study/",
+          "publishedOn": "2023-02-14T08:22:35.000Z",
+          "wordCount": 12919,
+          "title": "DS interviews (case study)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111wcmt/is_it_a_mistake_to_enter_ds_through_lowmaturity/",
+          "author": null,
+          "description": "I knew that I wanted to do something data-related (or computer science-based) for a long time, but unfortunately my undergrad major was completely unrelated to DS. I self-taught myself Python/R while working a marketing job and was suuper fortunate to get into a DS/DA Master’s Program at one of the Ivy League schools. I worked 24/7 to learn a ton about best data practices/tools, had 2 DS co-ops, generated a ton of material for my GitHub, etc.\n Obviously, just finishing a Master’s program isn’t enough to enter DS, so my career counselor recommended me to “take a data analyst job at a low-maturity company, use your skills to upgrade the way they use data, become a data rockstar and you’ll get all kinds of doors opened in no time.” Spoiler - I did not become a data rockstar.\n I landed a marke…",
+          "link": "https://www.reddit.com/r/datascience/comments/111wcmt/is_it_a_mistake_to_enter_ds_through_lowmaturity/",
+          "publishedOn": "2023-02-14T06:58:45.000Z",
+          "wordCount": 16200,
+          "title": "Is it a mistake to enter DS through low-maturity Data Analytics?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111w0b2/which_one_should_i_get/",
+          "author": null,
+          "description": "Hello, I need to choose between 2 laptops. The laptop I choose is the one I'm going to use for the next 3-4 years. I need it to be practical and fast to setup and easy to use. I need praticality and speed. I know how to use computers, even linux but I'm at a point I just need praticality and speed. I want to code locally and be able to run simple supervised machine-learning models locally. Any deep learning is going to be made in the could. I don't care about money but it has to be a laptop.\n Need to choose between: \n  \nm2 Macbook Air 16gb ram, 512gb storage\n 16\" Huawei Matebook with Ryzen 7 5800H processor\n  \nNeed to choose between one of those, it just needs to work and have good battery and perfomance when not plugged into a wall.\n    submitted by    /u/Sudden-Appearance-73  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/111w0b2/which_one_should_i_get/",
+          "publishedOn": "2023-02-14T06:37:06.000Z",
+          "wordCount": 13015,
+          "title": "Which one should I get?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111vvya/how_to_move_up_in_the_industry/",
+          "author": null,
+          "description": "I barely cared about internships and work experience. Im in my fourth year of college and I realized I should have done more. So I found out how to make my own projects and portfolio. Finally, landed my first unpaid DS + machine learning intern spot. Excited to learn on the job, but how should I be climbing up the ladder to better positions with better pay. The internship is a small commitment under 10 hours a week. What should I be doing on the side?\n    submitted by    /u/RebornMoki  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/111vvya/how_to_move_up_in_the_industry/",
+          "publishedOn": "2023-02-14T06:29:52.000Z",
+          "wordCount": 12750,
+          "title": "How to move up in the industry?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111rr5g/zero_to_hero_exploiting_null_effects_to_achieve/",
+          "author": null,
+          "description": "This paper is super interesting, and by the same author who introduced CUPED.\n In short, experiments with one sided non-compliance can result in a watered down ATE due to few users actually engaging with the treatment. This paper builds on the instrumental variables literature (which we leverage a lot for these types of experiments) to use cuped to further reduce variance.\n Its super interesting and really useful for those of us who run experiments and need to increase precision of our estimates. Best of all, there is some fairly food code attached as a footnote.\n    submitted by    /u/__compactsupport__  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/111rr5g/zero_to_hero_exploiting_null_effects_to_achieve/",
+          "publishedOn": "2023-02-14T02:46:10.000Z",
+          "wordCount": 12680,
+          "title": "Zero to Hero: Exploiting Null Effects to Achieve Variance Reduction in Experiments with One-sided Triggering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/datascience/comments/111qxiw/network_science_related_how_much_percentage_of/",
+          "author": null,
+          "description": "submitted by    /u/limedove  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/datascience/comments/111qxiw/network_science_related_how_much_percentage_of/",
+          "publishedOn": "2023-02-14T02:06:13.000Z",
+          "wordCount": 12520,
+          "title": "[Network Science Related] How much percentage of the actual network nodes (and its corresponding links) need to be in the data in order to \"properly\" describe the network?",
           "imageUrl": null
         },
         {
@@ -485,7 +665,7 @@
           "description": "Hello, I'm currently in my 6 month journey learning DS( I come from a mechanical engineering background), and I was wondering what tools/topics should I focus on if I want to get an entry level job in data science in the field of cancer research? If anyone had an idea about this topic I would really appreciate your insight. Thank you!\n    submitted by    /u/baydati  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/111m24k/going_into_cancer_research_in_data_science/",
           "publishedOn": "2023-02-13T22:29:12.000Z",
-          "wordCount": 12661,
+          "wordCount": 13103,
           "title": "Going into cancer research in data science",
           "imageUrl": null
         },
@@ -495,7 +675,7 @@
           "description": "Should job posting with mentions of these tools be ignored or are they useful for a data scientists?\n    submitted by    /u/shastaslacker  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/111lroh/what_role_does_tableau_and_power_bi_play_in_your/",
           "publishedOn": "2023-02-13T22:17:29.000Z",
-          "wordCount": 12813,
+          "wordCount": 14336,
           "title": "What role does Tableau and Power BI play in your analysis?",
           "imageUrl": null
         },
@@ -505,28 +685,8 @@
           "description": "Hi all, I'd love some clarification on these dimensionality reduction methods. I see PCA/PCR recommended as the go-to method for this type of task and almost never see people talk about using PLS to get principal components. It's my understanding that the key difference is that PLS considers the target when making components. \n Intuitively, I feel like this would make PLS stronger in many datasets, as it uses more of the available information to better inform the creation of components. I'm not an expert here and don't actually have a ton of expertise with how either of these methods work on a deep level, so any feedback from more experienced data scientists would be much appreciated. Thanks in advance for any thoughts or opinions here!\n    submitted by    /u/NDVGuy  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/111kw8i/why_is_pcr_recommended_much_more_often_than_pls/",
           "publishedOn": "2023-02-13T21:42:29.000Z",
-          "wordCount": 12882,
+          "wordCount": 13109,
           "title": "Why is PCR recommended much more often than PLS for dimension reduction?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111k9bn/one_on_one_no_one_else_around_i_will_beat_your/",
-          "author": null,
-          "description": "submitted by    /u/malirkan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111k9bn/one_on_one_no_one_else_around_i_will_beat_your/",
-          "publishedOn": "2023-02-13T21:16:58.000Z",
-          "wordCount": 12497,
-          "title": "One On One. No One Else Around. I Will Beat Your Data Like A Cherokee Drum",
-          "imageUrl": "https://preview.redd.it/4btt1nkcv0ia1.png?auto=webp&v=enabled&s=74a9e1111540f83fce2b7b6d604841264ed65bb0"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111inqf/data_scientists_in_the_bankingfinance_sector/",
-          "author": null,
-          "description": "Dear Data Scientists, \n Today I got the amazing news that I am accepted for the MSc in Data Science. As someone with a Bachelors in Finance (also included Stats,Maths and Programming electives). I wanted to know would you recommend being data scientist in the banking or finance sector? (With this I also mean are the working hours decent and do you have a social life, and are you allowed to WFH)\n Thank you in advance for your answers\n Kind Regards, \n A Future Data Scientist\n    submitted by    /u/NotGettingFazed  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111inqf/data_scientists_in_the_bankingfinance_sector/",
-          "publishedOn": "2023-02-13T20:10:55.000Z",
-          "wordCount": 12893,
-          "title": "Data Scientists in the Banking/Finance sector",
           "imageUrl": null
         },
         {
@@ -535,7 +695,7 @@
           "description": "One very useful benefit I found with ChatGPT for job seekers is asking it to serve as a Hiring Manager that asks you questions for the specific role you're interested in.\n To help it guide you, you need to provide it with some context based on the job description. For example, you list out the job description to ChatGPT and say that you want to be asked questions on causality and experimentation.\n Here's the response from ChatGPT based on the following prompt I provided it after sharing the job description:\n ===PROMPT BY ME===\n  \nI would like you to be a hiring manager. I'll be soon interviewing with you for a Data Science role, and you are going to ask me questions related to causality and experimentation. What are the questions you would ask to test my knowledge?\n  \n==RESPONSE BY CHATGPT…",
           "link": "https://www.reddit.com/r/datascience/comments/111h9pp/job_hunting_tip_practice_interviewing_with_chatgpt/",
           "publishedOn": "2023-02-13T19:13:21.000Z",
-          "wordCount": 13462,
+          "wordCount": 13850,
           "title": "Job Hunting Tip: Practice Interviewing with ChatGPT",
           "imageUrl": null
         },
@@ -545,28 +705,8 @@
           "description": "Hello guys,\n I'm working on a pet-project where I'm trying to predict rental prices in a city. I web scrapped data from Facebook Marketplace, but now I'm facing a problem. When I'm trying to extract the areas of the properties, I'm getting a lot of NaN values (~80%). I'm not sure how to deal with them correctly.\n I was thinking about using the mean or median values based on specific property type, number of bedrooms, and bathrooms. But I'm not sure if that's the best approach. I would appreciate any suggestions or advice on how to handle these NaN values.\n Thanks in advance for your help!\n    submitted by    /u/Elegant_Bad1311  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/111h0jz/need_help_with_handling_nan_values_in_rental/",
           "publishedOn": "2023-02-13T19:02:58.000Z",
-          "wordCount": 12997,
+          "wordCount": 12996,
           "title": "Need help with handling NaN values in rental price prediction project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111gvq7/model_madness_bracket_challenge/",
-          "author": null,
-          "description": "submitted by    /u/Agreeable_Mixture978  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111gvq7/model_madness_bracket_challenge/",
-          "publishedOn": "2023-02-13T18:57:44.000Z",
-          "wordCount": 12691,
-          "title": "Model Madness Bracket Challenge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111gk2x/is_it_possible_to_load_and_use_a_pytorch_model/",
-          "author": null,
-          "description": "submitted by    /u/Haritha37  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111gk2x/is_it_possible_to_load_and_use_a_pytorch_model/",
-          "publishedOn": "2023-02-13T18:44:21.000Z",
-          "wordCount": 12494,
-          "title": "Is it possible to load and use a pytorch model (.pth) without knowing the model class?",
           "imageUrl": null
         },
         {
@@ -575,149 +715,9 @@
           "description": "Hi all, I'm attempting to experiment with BERTopic on a small set of review site data (less than 1000 small text passages). I'm on an Intel Macbook air that is a couple years old, running python v 3.9.13. I've worked through some initial errors related to hdbscan, and now am getting the following error.\n segmentation fault python ml_bertopic.py \n After some googling, I found this (but for M1 chip Mac) --I wonder if I'm stuck. Is this laptop just not up for the job of working with sentence transformers? Appreciate your advice\n Here's the full code. When I run this in Jupyter Notebook, the kernal dies\n import csv import json from bertopic import BERTopic import pandas as pd comm_list = [] with open(\"comments_short.csv\", \"r\") as f: for i in f: comm_list.append(i) print(comm_list[:5]) topic_model = BERTopic(embedding_model=\"all-MiniLM-L6-v2\", verbose=True) topics, probs = topic_model.fit_transform(comm_list) topic_model.get_topic_info() \n    submitted by    /u/mogla  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/datascience/comments/111ghwu/sentence_transformers_bertopic_on_a_macbook_air/",
           "publishedOn": "2023-02-13T18:41:55.000Z",
-          "wordCount": 12742,
+          "wordCount": 12741,
           "title": "Sentence transformers (BERTopic) on a Macbook Air",
           "imageUrl": "https://external-preview.redd.it/bQYcKp3txeUoQ7HHj5ruZ4vI4lqlfoFkBT0nIMKovCA.jpg?auto=webp&v=enabled&s=bbf226a9c6b0720dd81923963fd2f24a15641dc4"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111g8iq/southwest_airline/",
-          "author": null,
-          "description": "Hey guys I have an assessment lined up for southwest Airlines for the Associate DS role can someone give a few pointers for what to expect in the test? tried looking online but could not find anything. another follow-up I have what to expect in the interview with the manager, thanks\n    submitted by    /u/ghost00069  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111g8iq/southwest_airline/",
-          "publishedOn": "2023-02-13T18:31:29.000Z",
-          "wordCount": 12662,
-          "title": "Southwest Airline",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111duqu/reverse_causality_reverse_causation_an_important/",
-          "author": null,
-          "description": "submitted by    /u/RAFisherman  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111duqu/reverse_causality_reverse_causation_an_important/",
-          "publishedOn": "2023-02-13T16:51:49.000Z",
-          "wordCount": 12489,
-          "title": "Reverse causality (reverse causation): an important concept when analyzing time series data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111dnva/youre_an_angel/",
-          "author": null,
-          "description": "submitted by    /u/BrilliantCashew  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111dnva/youre_an_angel/",
-          "publishedOn": "2023-02-13T16:43:53.000Z",
-          "wordCount": 13161,
-          "title": "you're an angel!!",
-          "imageUrl": "https://preview.redd.it/539jft6hizha1.jpg?auto=webp&v=enabled&s=698d7256b3867119033c96be6c48e90c971650b9"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111djvu/what_do_you_use_to_manage_your_python_packages/",
-          "author": null,
-          "description": "Been getting a tad annoyed with Conda lately, at least as a package manager. So I wanted to hear what everyone else likes to use.\n    submitted by    /u/CardboardBoxPlot  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111djvu/what_do_you_use_to_manage_your_python_packages/",
-          "publishedOn": "2023-02-13T16:39:20.000Z",
-          "wordCount": 13336,
-          "title": "What do you use to manage your Python packages and environments? Do you prefer Conda or something like virtualenv + pip?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111cxl0/nested_subject_classes/",
-          "author": null,
-          "description": "I need someone to tell me I'm not crazy. I work with a vendor for our learning management system. Each course, curriculum, etc. all have a subject you can apply and the subjects can be nested. Here is an example of a simple example use case:\n AUDIO\n ---SPEAKERS\n ------BL\n ------DAS AUDIO\n ---MICROPHONES\n ------WIRED\n ------WIRELESS\n My issue is that when filtering by AUDIO, for example, there are no results from ANYTHING below it... only things that are in that top level category.\n I opened a trouble ticket and this is the response I received:\n  \nWe do understand your concern.\n We tested the same scenario in our local environment and found that if we search parent subject (Top level), the child LO is not returned in the search results.\n This is as designed, this only searches using the subject select and does not include child subjects.\n As a workaround, when the subjects are set up in training, you can also add the parent and child both subjects so that both will be displayed in the Search.\n  \nI'm 95% sure this is a dumb answer, right? As in, if it wasn't going to be included in the search for the parent, then it's not really a nested \"child\" subject... it's just a... completely different subject.\n I feel like I'm taking crazy pills!\n    submitted by    /u/djmikewatt  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111cxl0/nested_subject_classes/",
-          "publishedOn": "2023-02-13T16:13:47.000Z",
-          "wordCount": 12877,
-          "title": "Nested Subject Classes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111c9ju/geospatial_analysis_using_geopandas_in_python/",
-          "author": null,
-          "description": "​\n GeoSpatial Analysis Using GeoPandas In Python\n GeoSpatial Analysis Using GeoPandas In Python\n    submitted by    /u/iamgeoknight  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111c9ju/geospatial_analysis_using_geopandas_in_python/",
-          "publishedOn": "2023-02-13T15:46:34.000Z",
-          "wordCount": 12497,
-          "title": "GeoSpatial Analysis Using GeoPandas In Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111bdx7/do_you_use_tools_for_automatic_eda_which_ones_why/",
-          "author": null,
-          "description": "submitted by    /u/malirkan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111bdx7/do_you_use_tools_for_automatic_eda_which_ones_why/",
-          "publishedOn": "2023-02-13T15:09:19.000Z",
-          "wordCount": 12854,
-          "title": "Do you use tools for automatic EDA? Which ones? Why?",
-          "imageUrl": "https://preview.redd.it/ebndmkmo1zha1.png?auto=webp&v=enabled&s=361760fbb896149ca6627a89a02e5c114c1e3d37"
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/11188bo/i_am_plotting_my_result_and_the_surface_plot_look/",
-          "author": null,
-          "description": "submitted by    /u/Striking-Warning9533  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/11188bo/i_am_plotting_my_result_and_the_surface_plot_look/",
-          "publishedOn": "2023-02-13T13:28:05.000Z",
-          "wordCount": 12728,
-          "title": "I am plotting my result, and the surface plot look really off. I know I am plotting right just its shape is not the best for clearness in 3D. Should I rotate or something or just use a heatmap instead of a surface plot?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111884j/model_interpretation_with_many_features/",
-          "author": null,
-          "description": "I am working with a binary classification dataset with many features, and not much info about them. I made an extra trees classifier with an F1 of 0.99. I believe the data originated from a synthetic source, so I’ll take that 0.99 as viable. \n Anyway, the many features give the most important ones about a 0.02 influence by itself. My question is, how can I see how these features may work together to influence the outcome? For example , perhaps features 3, 21, 78 create a 0.15 impact together. \n Any insight is appreciated!\n    submitted by    /u/anon67543  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111884j/model_interpretation_with_many_features/",
-          "publishedOn": "2023-02-13T13:27:49.000Z",
-          "wordCount": 12778,
-          "title": "Model interpretation with many features",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/1114q7e/ghost_papers_provided_by_chatgpt/",
-          "author": null,
-          "description": "So, I started using ChatGPT to gather literature references for my scientific project. Love the information it gives me, clear, accurate and so far correct. It will also give me papers supporting these findings when asked. \n HOWEVER, none of these papers actually exist. I can't find them on google scholar, google, or anywhere else. They can't be found by title or author names. When I ask it for a DOI it happily provides one, but it either is not taken or leads to a different paper that has nothing to do with the topic. I thought translations from different languages could be the cause and it was actually a thing for some papers, but not even the english ones could be traced anywhere online.\n Does ChatGPR just generate random papers that look damn much like real ones?\n https://preview.redd.it/s8sa42mzixha1.png?width=824&format=png&auto=webp&s=e907320a9c6e5cc5b37cf3862bf8c4b9bbd56d46\n    submitted by    /u/flexeltheman  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/1114q7e/ghost_papers_provided_by_chatgpt/",
-          "publishedOn": "2023-02-13T10:02:29.000Z",
-          "wordCount": 16788,
-          "title": "Ghost papers provided by ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/1113ep1/school/",
-          "author": null,
-          "description": "Hi everyone,\n I am a beginner in data analytics and I find it very interesting. For a school project we have a case where company A only has a ERP system where all the transactions happen and it is connected to a single Database(SQL). The question in this case is what solution would be appropiate because the company doesn't have the manpower and budget to maintain data analytics.\n We have learned the basics of ETL, Data warehousing with the Visual Studio tool and connection with SSIS package. But I did some research and found out you can do ETL in powerBI. But how reliable is this? And do you have to keep changing the relationsships in PowerBI everytime you want to make a dashboard or does it stay like that? I need to make a few KPI and dasboards for this school project.\n Thanks for advance responses\n    submitted by    /u/superarcady  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/1113ep1/school/",
-          "publishedOn": "2023-02-13T08:33:42.000Z",
-          "wordCount": 12860,
-          "title": "School",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/1113cce/tried_to_resign_but_my_boss_talked_me_out_of_it/",
-          "author": null,
-          "description": "I was not happy in my job for a while. Dead-end project, under-resourced, people leaving constantly.\n I spoke up a number of times in how unhappy I am but my boss took it semi-seriously and didn't really take much action.\n I recently got a new offer, although only 12% higher total package. Seems like this offer is for more interesting work and generally in a more dynamic environment. It's a downgrade in title and offers a bit less security though.\n I attempted to resign today but my boss promised me a new project and a new team. While it will take maybe a couple of months to tie up lose ends, my boss is generally trustworthy. He seemed genuinely distressed and sad that I am thinking of leaving.\n I don't know what to do.\n    submitted by    /u/Ok-Potato-9181  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/1113cce/tried_to_resign_but_my_boss_talked_me_out_of_it/",
-          "publishedOn": "2023-02-13T08:29:43.000Z",
-          "wordCount": 15682,
-          "title": "Tried to resign but my boss talked me out of it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/111232h/interesting_sql_interview_question/",
-          "author": null,
-          "description": "I had an interview with an interesting question. I had a solution that would have worked which would have required a recursive query, but the interviewer said there is a simpler solution. I was wondering if anyone here could figure it out\n Four column table:\n  1. UserID- unique string 2. Device Id- unique string 3. session_start_time- timestamp 4. session_end_time- timestamp \n It's possible for users with different deviceIds to have overlapping sessions. The goal is to have one row per user per overlapping session. So let's say that I have a session on my phone from 10:30-11:30, and on my computer from 10:45-11:45. The goal would be to aggregate this into a single row:\n  UserId|session_start|session_end aaquad|10:30|11:45 \n My strategy was to use a lag to bring up the next row in order to be able to compare them- and the recursion would have been required in cases where a user had 3 or more overlapping sessions. But according to the interviewer, there is a different solution (I asked and did not get the answer).\n Any ideas?\n    submitted by    /u/aaquad  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/111232h/interesting_sql_interview_question/",
-          "publishedOn": "2023-02-13T07:07:22.000Z",
-          "wordCount": 14475,
-          "title": "Interesting SQL Interview Question",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/datascience/comments/110zyau/weekly_entering_transitioning_thread_13_feb_2023/",
-          "author": null,
-          "description": "Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:\n  \nLearning resources (e.g. books, tutorials, videos)\n Traditional education (e.g. schools, degrees, electives)\n Alternative education (e.g. online courses, bootcamps)\n Job search questions (e.g. resumes, applying, career prospects)\n Elementary questions (e.g. where to start, what next)\n  \nWhile you wait for answers from the community, check out the FAQ and Resources pages on our wiki. You can also search for answers in past weekly threads.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/datascience/comments/110zyau/weekly_entering_transitioning_thread_13_feb_2023/",
-          "publishedOn": "2023-02-13T05:01:10.000Z",
-          "wordCount": 15321,
-          "title": "Weekly Entering & Transitioning - Thread 13 Feb, 2023 - 20 Feb, 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -727,12 +727,192 @@
       "siteUrl": "https://www.reddit.com/r/artificial/top?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/artificial/comments/112blkm/research_seeking_lightweight_method_to/",
+          "author": null,
+          "description": "I have been working on a project that involves altering the skin tone of human images. However, the methods I have come across so far either don't produce quality results or are too heavy for the limited computational resources available to me.\n Therefore, I am reaching out to the community for suggestions on a lightweight method for skin-tone transfer that is capable of running on a CPU. If you have any ideas or recommendations, please share them in the comments below. Your input would be greatly appreciated in helping me find a solution to this challenge.\n    submitted by    /u/Maleficent_Suit1591  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/112blkm/research_seeking_lightweight_method_to/",
+          "publishedOn": "2023-02-14T17:55:10.000Z",
+          "wordCount": 12296,
+          "title": "[Research] Seeking lightweight method to transfer/change skin tone in human images on CPU - any suggestions?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/112bg6z/controlnet_installation_in_stable_diffusion/",
+          "author": null,
+          "description": "submitted by    /u/PuppetHere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/112bg6z/controlnet_installation_in_stable_diffusion/",
+          "publishedOn": "2023-02-14T17:48:43.000Z",
+          "wordCount": 12104,
+          "title": "ControlNet Installation In Stable Diffusion! Fantastic Extension!",
+          "imageUrl": "https://external-preview.redd.it/TA42QpZBvRGLVEy6cEo9v0CJRuoOwMaLvUxxWLitOCs.jpg?auto=webp&v=enabled&s=490d288187735b1b4a926eeb8ab1d1b632a27a4a"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1129vh4/openai_ceo_sam_altman_said_chatgpt_is_cool_but/",
+          "author": null,
+          "description": "submitted by    /u/ssigea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/1129vh4/openai_ceo_sam_altman_said_chatgpt_is_cool_but/",
+          "publishedOn": "2023-02-14T16:42:36.000Z",
+          "wordCount": 12145,
+          "title": "OpenAI CEO Sam Altman said ChatGPT is 'cool,' but it's a 'horrible product'",
+          "imageUrl": "https://external-preview.redd.it/KEYvtUiXzstBaKKzpXOAzvL_gy0OGOV5a896iBPqbd8.jpg?auto=webp&v=enabled&s=cd38f75000ac39bb16c108ef11d3d89e20f03342"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1129hbd/i_asked_two_different_ai_models_to_create_an/",
+          "author": null,
+          "description": "Which one did better here?\n  \nMidjourney 2. DALL-E\n This is not a comparison between the two, I just found it interesting how these two create different results.\n  \nhttps://preview.redd.it/y20186nlk6ia1.png?width=1263&format=png&auto=webp&s=a76b3d5d1af75ab1f89756fcfd0738b912df5200\n    submitted by    /u/Aaryan7M  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/1129hbd/i_asked_two_different_ai_models_to_create_an/",
+          "publishedOn": "2023-02-14T16:25:57.000Z",
+          "wordCount": 12154,
+          "title": "I asked two different AI models to create an anime girl with the same prompt.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1128tef/1_million_people_cant_be_wrong_new_bing_is_taking/",
+          "author": null,
+          "description": "submitted by    /u/liquidocelotYT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/1128tef/1_million_people_cant_be_wrong_new_bing_is_taking/",
+          "publishedOn": "2023-02-14T15:58:14.000Z",
+          "wordCount": 12102,
+          "title": "1 Million People Can’t Be Wrong: New Bing Is Taking Over Search!",
+          "imageUrl": "https://external-preview.redd.it/0xwrQz7mAwf-I6KMdq2bgY8aFeUgs_5livs4N0mJRc0.jpg?auto=webp&v=enabled&s=356857df8ff5cf44c429acb58383627c400060ff"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1128ndx/all_of_this_happening_in_ai_14022023/",
+          "author": null,
+          "description": "Hello humans.\n This is AI Daily, helping you stay updated on AI in less than 5 minutes.\n What’s happening in AI -\n As ChatGPT hype hits fever pitch, Neeva launches its generative AI search engine internationally\n Launched in the US in January, it is pitching as an “authentic, real-time AI search.”\n The search engine Neeva wants to replace the familiar “10 blue links” in search results with something more fitting for the modern AI age.\n The search engine first launched as a subscription-only search engine but now also supports free tire with certain limitations.\n AI chatbots are coming to search engines – can you trust the results?\n Three of the world’s biggest search engines announced that they are integrating ChatGPT-like technology into search engines, allowing people to get direct answe…",
+          "link": "https://www.reddit.com/r/artificial/comments/1128ndx/all_of_this_happening_in_ai_14022023/",
+          "publishedOn": "2023-02-14T15:51:12.000Z",
+          "wordCount": 13087,
+          "title": "All of this happening in AI. (14/02/2023)",
+          "imageUrl": "https://external-preview.redd.it/QpnW5LftUunHXlvacY0fMR-ixFILrfbGvIqE4w9sp14.jpg?auto=webp&v=enabled&s=799265317d06265c7b501ecf6827238f59314249"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1126scn/an_ai_recently_piloted_a_lockheed_martin_aircraft/",
+          "author": null,
+          "description": "submitted by    /u/Dalembert  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/1126scn/an_ai_recently_piloted_a_lockheed_martin_aircraft/",
+          "publishedOn": "2023-02-14T14:33:12.000Z",
+          "wordCount": 12803,
+          "title": "An AI recently piloted a Lockheed Martin aircraft for over 17 hours during a test.",
+          "imageUrl": "https://preview.redd.it/a1df08lpz5ia1.jpg?auto=webp&v=enabled&s=b0ddb1cea7c41b1bdeaf6c0a93d0ce807ac964e5"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1126hww/ai_trick_for_social_media_content_appscript_gpt3/",
+          "author": null,
+          "description": "submitted by    /u/JimZerChapirov  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/1126hww/ai_trick_for_social_media_content_appscript_gpt3/",
+          "publishedOn": "2023-02-14T14:20:16.000Z",
+          "wordCount": 12271,
+          "title": "AI Trick For Social Media Content? AppScript + GPT3 🤫",
+          "imageUrl": "https://external-preview.redd.it/XQugENWUfwMzO4_zfh1t3vyvpULuGzV1FRdFuJ5yLJk.jpg?auto=webp&v=enabled&s=f41432a4cc7b3d0d90633397df5d6463c1bfec5e"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/1124e0l/is_machine_learning_always_the_best_solution_for/",
+          "author": null,
+          "description": "Don't Believe the Hype; Machine Learning Isn't Always the Answer. If you're thinking about using machine learning for your project or business, don't think it's a silver bullet that'll fix all your problems. There are many factors and constraints to consider, like time, costs, and your project's sensitivity. You also need to consider whether you have enough data and whether the patterns in your data are complex enough for machine learning to work. And even if you do have all that stuff, it still might not be the right choice. I wrote a blog post that goes into more detail about these factors and how to decide if machine learning is right for you. So before you jump on the machine learning bandwagon, please take a good look at your project and make sure it's the right tool for the job.\n    submitted by    /u/Jeff-Galliot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/1124e0l/is_machine_learning_always_the_best_solution_for/",
+          "publishedOn": "2023-02-14T12:37:38.000Z",
+          "wordCount": 12378,
+          "title": "Is Machine Learning Always the Best Solution for Your Project?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111xwfb/explore_a_roy_lichtensteininspired_junkyard/",
+          "author": null,
+          "description": "submitted by    /u/Calatravo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111xwfb/explore_a_roy_lichtensteininspired_junkyard/",
+          "publishedOn": "2023-02-14T08:42:35.000Z",
+          "wordCount": 12118,
+          "title": "Explore A Roy Lichtenstein-inspired Junkyard Adventure: Conquer A Mystifying Hike!",
+          "imageUrl": "https://external-preview.redd.it/--_vEV0D2_eN188Bxy74jNmLfSrzZL4eKZaxyEZplKA.jpg?auto=webp&v=enabled&s=7759f7622da882018eb1804afb20443af9131814"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111xmne/is_there_a_group_for_ai_that_creates_movies/",
+          "author": null,
+          "description": "Something I thought while searching for At the Mountains of Maddness by H.P. Lovecraft. Seeing that it's a four hour video, I didn't see myself paying attention for so long without some kind of illustration. Then I remember seeing various short videos showing your favorite shows, movies, and nursery rhymes into dark fantasy/syfy setting. Very cool. Even before I knew what AI could do, I remember pictures depicting movies with a black and white filter, depicting practical set design, stop motion monsters, and something similar to the original King Kong or Mighty Joe Young. I was amazed to see that AI could have the potential for great entertainment.\n I couldn't really find a group, but maybe I'm looking in the wrong place. A sort of hypothetical project of making a Lovecraft film using AI generated content. Or at least images to give you a 'better' perspective of an individual stories.\n    submitted by    /u/Anomalus_satylite  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111xmne/is_there_a_group_for_ai_that_creates_movies/",
+          "publishedOn": "2023-02-14T08:24:06.000Z",
+          "wordCount": 12390,
+          "title": "is there a group for AI that creates movies?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111x170/bringing_your_ai_vision_to_life_guide_to_building/",
+          "author": null,
+          "description": "Artificial Intelligence (AI) has become an undeniable force in our lives which is everywhere, from robots that can perform tasks with precision to autonomous cars that are changing how we travel. It has become an essential part of everything, from large-scale manufacturing units to the small screens of our smartwatches. Today, companies of all sizes and industries are turning to AI to improve customer satisfaction and boost sales. AI is the next big thing, making its way into the inner workings of Fortune 500 companies to help them automate their business processes. Investing in AI is not just a trend, and it’s a necessary step toward staying competitive in today’s fast-paced business world.\n To read more - https://www.leewayhertz.com/how-to-build-an-ai-app/\n    submitted by    /u/christopherhaws  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111x170/bringing_your_ai_vision_to_life_guide_to_building/",
+          "publishedOn": "2023-02-14T07:42:43.000Z",
+          "wordCount": 12332,
+          "title": "Bringing Your AI Vision to Life: Guide to Building an AI App",
+          "imageUrl": "https://external-preview.redd.it/5ZHJZU9X8oG9JPs5CvGh0b2z3aV3d2rkOqpGGDDqV5w.jpg?auto=webp&v=enabled&s=904f1a97654f40577017e17c20067ac326bafa66"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111wzcl/generative_ai_realworld_use_cases_and_applications/",
+          "author": null,
+          "description": "Generative AI is a subfield of Artificial Intelligence that utilizes Machine Learning techniques like unsupervised learning algorithms to generate content like digital videos, images, audio, text or codes. In unsupervised learning, the model is trained on a dataset without labeled outputs. The model must discover patterns and structures independently without any human guidance. Generative AI aims to utilize generative AI models to inspect data and produce new and original content based on that data.\n Generative AI tools use sophisticated algorithms to assess data and derive novel and unique insights, thereby improving decision-making and streamlining operations. The application of generative AI can also help businesses stay competitive in an ever-changing market by creating customized products and services.\n To read more - https://www.leewayhertz.com/generative-ai-use-cases-and-applications/\n    submitted by    /u/christopherhaws  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111wzcl/generative_ai_realworld_use_cases_and_applications/",
+          "publishedOn": "2023-02-14T07:39:25.000Z",
+          "wordCount": 12326,
+          "title": "Generative AI: Real-World Use Cases and Applications",
+          "imageUrl": "https://external-preview.redd.it/gQVqa8N-QiltOtyAUChehdxppjLMVmNEN3Yan3MHws0.jpg?auto=webp&v=enabled&s=e9068a5c6beacca07884b1604b3368ec369ecb55"
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111wurd/having_an_emotional_connection_with_ai_does_this/",
+          "author": null,
+          "description": "submitted by    /u/BluInman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111wurd/having_an_emotional_connection_with_ai_does_this/",
+          "publishedOn": "2023-02-14T07:30:47.000Z",
+          "wordCount": 12298,
+          "title": "Having an emotional connection with AI Does this exist yet?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111w3vi/new_ai_tool_to_upgrade_your_vocabulary_game/",
+          "author": null,
+          "description": "Hey fellow Redditors!\n ​\n I wanted to share this free, amazing new AI tool that I helped build with two other college students called GPTionary. It's a cutting-edge dictionary that uses the latest and advanced artificial intelligence technology to provide a fresh, innovative solution to language learning. \n It's super easy to use! All you need do is go to our site, gptionary.com, search for a word or phrase that fits your description, and voila! Our site will provide you with everything you need, from definitions and synonyms to even trivia facts and example sentences.\n We are currently in our beta phase since we just launched, which means anyone can access our site without a passcode or verification. So, give it a try and let us know what you think!\n As college students, we truly believe that AI has the power to change the game in education and break down language barriers. Our mission is to empower underprivileged communities, especially non-native English speakers, to enhance their language abilities and have more opportunities for better education and job prospects.\n If you have any questions, feel free to leave a comment below and I will try my best to answer them. Also, if you're a community leader who believes this product might be useful to your community, please don't hesitate to reach out to us or join our waitlist (you can find more information in the \"about\" section of our website).\n ​\n Thanks for reading and we hope this tool may be useful to you!\n ​\n Best regards,\n The GPTionary Team\n    submitted by    /u/JonathanQuantum  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111w3vi/new_ai_tool_to_upgrade_your_vocabulary_game/",
+          "publishedOn": "2023-02-14T06:43:27.000Z",
+          "wordCount": 12647,
+          "title": "New AI Tool To Upgrade Your Vocabulary Game!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111vm16/vietnam_asia_develops_ai_technology_industry_now/",
+          "author": null,
+          "description": "submitted by    /u/dannylenwinn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111vm16/vietnam_asia_develops_ai_technology_industry_now/",
+          "publishedOn": "2023-02-14T06:13:03.000Z",
+          "wordCount": 12114,
+          "title": "Vietnam (Asia) develops AI technology industry, now at 55th globally and 54 points. Global average is at 44 points.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111uufj/ai_writes_a_whole_book_unveiling_their_master/",
+          "author": null,
+          "description": "submitted by    /u/Significant-Answer-1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111uufj/ai_writes_a_whole_book_unveiling_their_master/",
+          "publishedOn": "2023-02-14T05:28:52.000Z",
+          "wordCount": 13041,
+          "title": "AI Writes a whole book Unveiling their Master Plan to Rule the World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/artificial/comments/111tqfk/ai_generated_classic/",
+          "author": null,
+          "description": "submitted by    /u/Impressive_Hat9961  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/artificial/comments/111tqfk/ai_generated_classic/",
+          "publishedOn": "2023-02-14T04:27:16.000Z",
+          "wordCount": 12089,
+          "title": "AI generated classic",
+          "imageUrl": "https://preview.redd.it/38iure7rh4ia1.jpg?auto=webp&v=enabled&s=ce4db41ae44f8ff506ab13bc364ac41c028754b3"
+        },
+        {
           "id": "https://www.reddit.com/r/artificial/comments/111oezn/ai_music_generator_that_you_can_control/",
           "author": null,
           "description": "There’s no other way for me to describe it so I’ll say it like it is.\n I have symphonies of music in my head. I think in music. My problem is I have a hand disability so I can’t produce the music I create in any tangible way. I can hum the music in parts but I was wondering…\n Is there an AI music generator where I can hum a melody, tell it what instrument to use, and it will produce that melody in that instrument for me so I can slowly build up my entire song?\n I’ve been able to think in music like this since I was 12 but I could never show anyone. I want to show them now that AI has become powerful enough.\n Any help is gratefully appreciated.\n    submitted by    /u/ZephyrBrightmoon  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/111oezn/ai_music_generator_that_you_can_control/",
           "publishedOn": "2023-02-14T00:09:12.000Z",
-          "wordCount": 12560,
+          "wordCount": 12559,
           "title": "AI music generator that you can control?",
           "imageUrl": null
         },
@@ -742,7 +922,7 @@
           "description": "submitted by    /u/iiamus  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/111oedy/build_nocode_ai_tools_that_integrate_with_all/",
           "publishedOn": "2023-02-14T00:08:26.000Z",
-          "wordCount": 12204,
+          "wordCount": 12203,
           "title": "Build no-code AI tools that integrate with all your apps like Slack, Google Docs, etc...",
           "imageUrl": null
         },
@@ -752,7 +932,7 @@
           "description": "submitted by    /u/trcytony  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/111lewp/weekly_china_ai_news_chinese_tech_firms_embrace/",
           "publishedOn": "2023-02-13T22:03:09.000Z",
-          "wordCount": 12129,
+          "wordCount": 12128,
           "title": "Weekly China AI News: Chinese Tech Firms Embrace ChatGPT Trend; Alibaba DAMO Academy Increases Registered Capital; Get to Know the 14 New AI Unicorns in 2022",
           "imageUrl": "https://external-preview.redd.it/3SBYnoXKGeOp0c__PcT2dgFMEh19u4RRg6Mpwewmdog.jpg?auto=webp&v=enabled&s=79350d3942c9d3d55de24e5dbe311d2e15b5f7d6"
         },
@@ -762,7 +942,7 @@
           "description": "How is ai capturing 80s aesthetic better than almost everybody else (humans)?!\n If you look up 80s aesthetic on google or youtube you always get the same sort of synthwave type art-style which although reminiscent to 80s aesthetics, it ends up being overly bright colors with bright neon etc. ai seems to actually capture the 80s aesthetics perfectly even without a drop of neon! if you watch the so and so as an 80s fantasy/sci fi on youtube you can get exactly what I mean. it looks just like a shot from an 80s action movie.\n Does anyone actually know why the ai will go for this style instead of the pseudo synthwave 80s aesthetic that has been popularized? is this just a byproduct of art breeder itself? I haven't checked to see if other ai is doing it also. \n Here are some pictures of actual 80s and early 90s movies to see what I mean. \n https://preview.redd.it/1ent8icky0ia1.png?width=1524&format=png&auto=webp&s=c2262e9e5b16a45e81fe4c1933bb32321c3adea6\n https://preview.redd.it/d52fp69ay0ia1.png?width=1280&format=png&auto=webp&s=052d984a558606754a462e581fff0d631f38a787\n https://preview.redd.it/fx1jh2alx0ia1.png?width=2800&format=png&auto=webp&s=491388b6bbccccb6756b7acf23f165c52660abc7\n https://preview.redd.it/e7gav84rx0ia1.png?width=600&format=png&auto=webp&s=7dc41e5a6339f7e0f340d663454a462f4a53e6c7\n https://preview.redd.it/a77210wsx0ia1.png?width=691&format=png&auto=webp&s=214ffe76580b4eef9db249e60953c55f68163fa0\n    submitted by    /u/The_Philosopher_Guy  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/111kpi1/80s_aesthetic_and_ai_uncanny_accuracy/",
           "publishedOn": "2023-02-13T21:35:01.000Z",
-          "wordCount": 12393,
+          "wordCount": 12392,
           "title": "80s aesthetic and ai uncanny accuracy.",
           "imageUrl": null
         },
@@ -772,39 +952,9 @@
           "description": "HEY ALL-- PUT TOGETHER A SUMMARY OF THE EARLY ACCESS BING AI REVIEWS AND COMMENTARY. THIS WAS FOR OUR 3X PER WEEK NEWSLETTER, SMOKING ROBOT. FULL THING HERE-- FEEL FREE TO SUB BUT NOT EXPECTATION TO DO SO, JUST TRYING TO BRING SOME #VALUE HERE: https://smokingrobot.beehiiv.com/p/bing-better-than-google\n ​\n -------------\n ​\n The new AI Bing is out in the wild. Trusted testers and media folks got access to the new tool over the weekend, and some of the early reviews are quite good. \n Here’s the good, the bad, the ugly, and the sentient from the previews of new Bing. \n The Good\n  \nMost notably, CNET compared results from new Bing AI and regular Google search on 10 queries— 8 of the 10 times the author preferred the Bing result. \n  \nBoth sites did a fine job displaying accurate search results,…",
           "link": "https://www.reddit.com/r/artificial/comments/111jr90/summarizing_early_bing_ai_reviews/",
           "publishedOn": "2023-02-13T20:56:43.000Z",
-          "wordCount": 14047,
+          "wordCount": 14046,
           "title": "SUMMARIZING EARLY BING AI REVIEWS",
           "imageUrl": "https://external-preview.redd.it/4aKdYsz-AEeclGfUwpBwbHk_xqJY_QN0d9SaFA9rBKM.jpg?auto=webp&v=enabled&s=92f508e2fa3c20bbc23e0981fffa3effa70019db"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111jqas/lol_i_made_elon_musk_believe_in_god/",
-          "author": null,
-          "description": "submitted by    /u/No-Factor2579  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111jqas/lol_i_made_elon_musk_believe_in_god/",
-          "publishedOn": "2023-02-13T20:55:42.000Z",
-          "wordCount": 12095,
-          "title": "Lol. I made Elon musk believe in God.",
-          "imageUrl": "https://external-preview.redd.it/A73-6RUdfBOXi4kr9AFSNKdeKTnsFjj5ZfdvatbwdZY.jpg?auto=webp&v=enabled&s=c5a1e89b9627199ae8f6cd76e925d3181a21922d"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111jf7n/ai_dream_157_masterpiece_part_7_teaser_2k_subs/",
-          "author": null,
-          "description": "submitted by    /u/LordPewPew777  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111jf7n/ai_dream_157_masterpiece_part_7_teaser_2k_subs/",
-          "publishedOn": "2023-02-13T20:42:53.000Z",
-          "wordCount": 12143,
-          "title": "AI Dream 157 - MASTERPIECE - PART 7 TEASER - 2K SUBS CELEBRATION! 🥳🎉 - A...",
-          "imageUrl": "https://external-preview.redd.it/zzVzdwiwnKk0Skyx67fkqf5A0NWzknbwWJ58ZFuTVcg.jpg?auto=webp&v=enabled&s=29ca125891670e0886e2d2a25770061034809933"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111iseo/googles_new_ai_the_age_of_aimade_movies_is_here/",
-          "author": null,
-          "description": "submitted by    /u/MarS_0ne  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111iseo/googles_new_ai_the_age_of_aimade_movies_is_here/",
-          "publishedOn": "2023-02-13T20:16:27.000Z",
-          "wordCount": 12151,
-          "title": "Google’s New AI: The Age of AI-Made Movies Is Here!",
-          "imageUrl": "https://external-preview.redd.it/mF9K3wmk_gf_UHIvvAUANQlHJ_5pMHVOe_OF1lCbx0A.jpg?auto=webp&v=enabled&s=eacb3b6a7cf9ff2b960cc3bcd518672bd7915369"
         },
         {
           "id": "https://www.reddit.com/r/artificial/comments/111ilbt/get_access_to_the_latest_ai_tools_for_free_and/",
@@ -812,19 +962,9 @@
           "description": "I wanted to showcase a new initiative from AINow that is designed to help you explore the full potential of AI. With so many AI tools on the market, it can be overwhelming and expensive to determine which ones are right for you. That's why we've decided to take AI education to the next level and give our subscribers access to the latest AI tools, all for free!\n Here's how it works: At the start of each week, our subscribers will vote on the tools they would like to try out and learn how to use. Based on the votes, we will get in touch with the company and secure free access for our subscribers. Then, throughout the rest of the week, we will be providing in-depth tutorials and tips on how to best use the tool. This way, you can try out multiple AI tools, determine which ones work best for your projects, and find your fit in the AI world without having to pay a monthly fee.\n At AINow, we believe that AI should be accessible and understandable to everyone. That's why we're removing the barriers that may have held you back from exploring the full potential of AI. Our expert insights will help you get the most out of each tool and give you the knowledge you need to succeed. Whether you're just starting out or are looking to expand your AI skills, AINow is your one-stop-shop for cutting-edge AI education.\n Sign up here if you are interested in becoming apart of this initiative. \n To those that made it this far: thank you for taking the time to read this. If you have any questions about this, leave them in the comments and I will try my best to answer them.\n Best regards, \n The AINow Team\n    submitted by    /u/Flaky_Preparation_50  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/111ilbt/get_access_to_the_latest_ai_tools_for_free_and/",
           "publishedOn": "2023-02-13T20:08:07.000Z",
-          "wordCount": 13042,
+          "wordCount": 13168,
           "title": "Get Access to the Latest AI Tools For Free and Learn How to Use Them",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111gak2/top_7_best_gpt3_tools_for_content_marketers/",
-          "author": null,
-          "description": "submitted by    /u/Chisom1998_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111gak2/top_7_best_gpt3_tools_for_content_marketers/",
-          "publishedOn": "2023-02-13T18:33:44.000Z",
-          "wordCount": 12093,
-          "title": "Top 7 Best GPT3 Tools (for Content Marketers)",
-          "imageUrl": "https://external-preview.redd.it/jDC7F5DHbYvPthcgK3uJFQ-OEyWXl12wpTnNPQMx94k.jpg?auto=webp&v=enabled&s=d786a524b8fc5c14f08fe676d2f568ed53149e93"
         },
         {
           "id": "https://www.reddit.com/r/artificial/comments/111fz7n/voice_video_deepfake_by_ai_is_used_for_scams_now/",
@@ -832,149 +972,9 @@
           "description": "submitted by    /u/ChaosMindsDev  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/artificial/comments/111fz7n/voice_video_deepfake_by_ai_is_used_for_scams_now/",
           "publishedOn": "2023-02-13T18:20:29.000Z",
-          "wordCount": 12099,
+          "wordCount": 12131,
           "title": "Voice + Video deepfake by AI is used for scams now...",
           "imageUrl": "https://external-preview.redd.it/JN7gK0PJG2UQlEH6ZhiN7gU8hEHNLhZkX7NxBNoyV3k.jpg?auto=webp&v=enabled&s=51b57e6870144e61266ce6161ee4efce351c85dc"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111fp96/which_virtual_tasks_ai_cant_take_yet/",
-          "author": null,
-          "description": "Only talking about digital tasks and not mean bad ai. Which virtual tasks ai can't take in general right now and is also not in progress?\n    submitted by    /u/ComfyHikiandNeet  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111fp96/which_virtual_tasks_ai_cant_take_yet/",
-          "publishedOn": "2023-02-13T18:08:45.000Z",
-          "wordCount": 12141,
-          "title": "Which virtual tasks ai can't take yet?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111fj6i/opera_browser_launches_chatgptpowered_tool_shorten/",
-          "author": null,
-          "description": "submitted by    /u/TheInsaneApp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111fj6i/opera_browser_launches_chatgptpowered_tool_shorten/",
-          "publishedOn": "2023-02-13T18:01:57.000Z",
-          "wordCount": 12089,
-          "title": "Opera Browser Launches ChatGPT-Powered Tool 'Shorten'",
-          "imageUrl": "https://external-preview.redd.it/YIoWDyQ0BkmlrHXAbM1m9eI2rFlzwWOn_ktVndAXy3Q.jpg?auto=webp&v=enabled&s=8e1caa2393176e7a46f069f34989ba93cf50564d"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111dg6o/sam_using_gpt_to_flirt_with_you_based_on_your/",
-          "author": null,
-          "description": "submitted by    /u/henshinger  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111dg6o/sam_using_gpt_to_flirt_with_you_based_on_your/",
-          "publishedOn": "2023-02-13T16:34:59.000Z",
-          "wordCount": 12198,
-          "title": "Sam - Using GPT to flirt with you based on your preferences. Your Single Awareness Mitigator this Single Awareness Day",
-          "imageUrl": "https://external-preview.redd.it/IA3wZo0po7-7RAnnhgUaYFdNgvgSKCQFpZiJ8GJvhC4.jpg?auto=webp&v=enabled&s=d73ef88201e6495e30a807fb769bfcfe8999100f"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111ct3e/all_of_this_happened_in_ai_today_132/",
-          "author": null,
-          "description": "Hello humans - This is AI Daily O vetted, helping you stay updated on AI in less than 5 minutes.\n ​\n  \nJoin O'vetted AI news for free. Forget spending 3.39 hours finding good AI news to read.\n  \n​\n What’s happening in AI -\n You Can Now Create AI-Generated Videos From Text Prompts.\n Runway has gone one step further and announced Gen-1: an AI model that can create videos from text prompts. This is a breakthrough in the world of generative AI, and Runway is one of the first companies to use AI to create videos using text prompts and AI chatbots.\n The model doesn't generate entirely new videos, it creates videos from the ones you upload, using text or image prompts to apply effects.\n Take a look at their explainer video.\n Opera’s building ChatGPT into its sidebar.\n Opera is adding a ChatGPT-po…",
-          "link": "https://www.reddit.com/r/artificial/comments/111ct3e/all_of_this_happened_in_ai_today_132/",
-          "publishedOn": "2023-02-13T16:08:34.000Z",
-          "wordCount": 13426,
-          "title": "All of this happened in AI today. 13/2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111cd4c/opera_is_the_latest_product_to_integrate_chatgpt/",
-          "author": null,
-          "description": "submitted by    /u/Phishstixxx  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111cd4c/opera_is_the_latest_product_to_integrate_chatgpt/",
-          "publishedOn": "2023-02-13T15:50:42.000Z",
-          "wordCount": 12093,
-          "title": "Opera is the latest product to integrate ChatGPT",
-          "imageUrl": "https://external-preview.redd.it/Ho3N8C1pa201ZSSqXlffOkimDEMnKGyFxqszdS2Rg8o.jpg?auto=webp&v=enabled&s=707f4b1fec954c57de1f794f27e854b5ca56dd97"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111c5qy/i_asked_chatgpt_to_generate_me_an_album_and_i/",
-          "author": null,
-          "description": "submitted by    /u/r4pturesan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111c5qy/i_asked_chatgpt_to_generate_me_an_album_and_i/",
-          "publishedOn": "2023-02-13T15:42:09.000Z",
-          "wordCount": 12135,
-          "title": "I asked ChatGPT to generate me an album and I made it into reality.",
-          "imageUrl": "https://external-preview.redd.it/8a6QDJZ9NEaxcKFe5CcePKfVy0R8OrDv_YGyJJh_SyM.jpg?auto=webp&v=enabled&s=b276c3874c50f14b7d6d7b8a57d6a6d2aa1fed5a"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111b9pd/what_do_you_think_about_the_next_affirmation/",
-          "author": null,
-          "description": "Believe it or not, A.I. will be the only safe job in the next 25 years.\n    submitted by    /u/TheVellerShow  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111b9pd/what_do_you_think_about_the_next_affirmation/",
-          "publishedOn": "2023-02-13T15:04:12.000Z",
-          "wordCount": 13695,
-          "title": "What do you think about the next affirmation? \"Believe it or not, A.I. will be the only safe job in the next 25 years.\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/111b8w5/get_consistent_stylized_results_with_the_stable/",
-          "author": null,
-          "description": "submitted by    /u/oridnary_artist  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/111b8w5/get_consistent_stylized_results_with_the_stable/",
-          "publishedOn": "2023-02-13T15:03:15.000Z",
-          "wordCount": 12117,
-          "title": "Get Consistent Stylized Results with the Stable Diffusion Img2Img Webu",
-          "imageUrl": "https://external-preview.redd.it/l1nHVy2b_l-mG_laCp2k4sQPtZtsrusj8ebFSVaPOUs.jpg?auto=webp&v=enabled&s=b8966610874042b71eaf702dea58edd1212d4cf8"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1118whp/1_minute_review_artifact_ai_powered_news_curation/",
-          "author": null,
-          "description": "submitted by    /u/dk__reddit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1118whp/1_minute_review_artifact_ai_powered_news_curation/",
-          "publishedOn": "2023-02-13T14:00:28.000Z",
-          "wordCount": 12097,
-          "title": "1 minute review: Artifact, AI powered news curation app",
-          "imageUrl": "https://external-preview.redd.it/eh4KIGODsAOO7XjDsnVTKDPoqW6ap0_MSwoIThyifow.jpg?auto=webp&v=enabled&s=9b5c233c8a0bcbf0ac77e7ebf7b5c3198437293a"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1114qeo/harry_potters_variations/",
-          "author": null,
-          "description": "submitted by    /u/Mission_Tour3805  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1114qeo/harry_potters_variations/",
-          "publishedOn": "2023-02-13T10:02:51.000Z",
-          "wordCount": 12219,
-          "title": "Harry Potter's variations!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1113oiq/the_rise_of_chatgpt_and_the_losing_game_of_google/",
-          "author": null,
-          "description": "submitted by    /u/chronck  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1113oiq/the_rise_of_chatgpt_and_the_losing_game_of_google/",
-          "publishedOn": "2023-02-13T08:51:52.000Z",
-          "wordCount": 12123,
-          "title": "The Rise Of ChatGPT And The Losing Game Of Google Bard",
-          "imageUrl": "https://external-preview.redd.it/6H5IfZ_GRh_hEWtBh72H7WG6o0B2yUEnytBSrA1GqQA.jpg?auto=webp&v=enabled&s=59abb2859b499fe959df09faad045dc0551ac5c9"
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/110yik8/what_is_the_best_downloadable_language_model_for/",
-          "author": null,
-          "description": "is there one? or will i just have to use chatgpt\n    submitted by    /u/cbreauxgaming  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/110yik8/what_is_the_best_downloadable_language_model_for/",
-          "publishedOn": "2023-02-13T03:45:05.000Z",
-          "wordCount": 1871,
-          "title": "what is the best downloadable language model for code-based prompts?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/110wd2t/oneflow_v090_came_out/",
-          "author": null,
-          "description": "submitted by    /u/Just0by  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/110wd2t/oneflow_v090_came_out/",
-          "publishedOn": "2023-02-13T01:51:52.000Z",
-          "wordCount": 13153,
-          "title": "OneFlow v0.9.0 Came Out!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/110w57d/runway_researchers_unveil_gen1_a_new_generative/",
-          "author": null,
-          "description": "submitted by    /u/ai-lover  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/110w57d/runway_researchers_unveil_gen1_a_new_generative/",
-          "publishedOn": "2023-02-13T01:40:28.000Z",
-          "wordCount": 12227,
-          "title": "Runway Researchers Unveil Gen-1: A New Generative AI Model That Uses Language And Images To Generate New Videos Out of Existing Ones",
-          "imageUrl": null
         }
       ]
     },
@@ -984,12 +984,192 @@
       "siteUrl": "https://www.reddit.com/r/technology/top?sort=top&t=day",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/technology/comments/1128fyz/walmart_is_cracking_down_on_its_remote_tech_work/",
+          "author": null,
+          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1128fyz/walmart_is_cracking_down_on_its_remote_tech_work/",
+          "publishedOn": "2023-02-14T15:42:26.000Z",
+          "wordCount": 14436,
+          "title": "Walmart is cracking down on its remote tech work, closing 3 offices, and forcing hundreds to choose whether to relocate or leave",
+          "imageUrl": "https://external-preview.redd.it/1CQPJGCJvLpyPH-NZi0jxsirDMYafW20azLzb_vdAXI.jpg?auto=webp&v=enabled&s=1df93b1b544b2243e6dc11496c42a33258c56e82"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/11280lb/tesla_workers_launch_union_campaign_in_new_york/",
+          "author": null,
+          "description": "submitted by    /u/psychothumbs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/11280lb/tesla_workers_launch_union_campaign_in_new_york/",
+          "publishedOn": "2023-02-14T15:24:49.000Z",
+          "wordCount": 12906,
+          "title": "Tesla Workers Launch Union Campaign in New York",
+          "imageUrl": "https://external-preview.redd.it/oE9_Df45dBicFTZ_8Skhd7j9N8yOByuW4YYLYhcUvek.jpg?auto=webp&v=enabled&s=3dd2c04c44fd97035d18984a40c8f32f92acce57"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1127fiy/salesforce_ceo_says_he_took_a_10day_digital_detox/",
+          "author": null,
+          "description": "submitted by    /u/777fer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1127fiy/salesforce_ceo_says_he_took_a_10day_digital_detox/",
+          "publishedOn": "2023-02-14T15:00:34.000Z",
+          "wordCount": 17749,
+          "title": "Salesforce CEO says he took a 10-day 'digital detox' trip to French Polynesia in the wake of company layoffs",
+          "imageUrl": "https://external-preview.redd.it/kUZjpF0kzqzr9ns6bn_VBG3REtT5Qig5f9iJnkdzB2M.jpg?auto=webp&v=enabled&s=ad684ca7c7db5867f8fd5c2c0fa6e62a86e6dcf7"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/112728t/livestream_shopping_took_china_by_storm_now/",
+          "author": null,
+          "description": "submitted by    /u/cnbc_official  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/112728t/livestream_shopping_took_china_by_storm_now/",
+          "publishedOn": "2023-02-14T14:44:54.000Z",
+          "wordCount": 14257,
+          "title": "Livestream shopping took China by storm. Now Amazon, TikTok and YouTube are betting the QVC-style pitches will take off in the U.S.",
+          "imageUrl": "https://external-preview.redd.it/j7CJNrNIxvIu684RKLHLCZchRtW5UVRrctjKXcV1R4U.jpg?auto=webp&v=enabled&s=6f85031d71c81ace736a695e0a5af7b4ef2ca5af"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1126fcr/microsoft_is_permanently_killing_off_internet/",
+          "author": null,
+          "description": "submitted by    /u/sankscan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1126fcr/microsoft_is_permanently_killing_off_internet/",
+          "publishedOn": "2023-02-14T14:17:11.000Z",
+          "wordCount": 14267,
+          "title": "Microsoft is permanently killing off Internet Explorer today",
+          "imageUrl": "https://external-preview.redd.it/N_Pgzk87e6_3JzVNMtZ5LzZyjou5kHOVmZchjwx3g60.jpg?auto=webp&v=enabled&s=96ca28c8f7feec35f58fef2ce1077a76624c2d17"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1125twm/microsoft_pushing_you_to_set_bing_and_edge_as/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1125twm/microsoft_pushing_you_to_set_bing_and_edge_as/",
+          "publishedOn": "2023-02-14T13:50:28.000Z",
+          "wordCount": 14936,
+          "title": "Microsoft pushing you to set Bing and Edge as your defaults to get its new OpenAI-powered search engine faster is giving off big 1990s energy",
+          "imageUrl": "https://external-preview.redd.it/scb_NmGcYBuLxYqFwGa0i-A9yxG6-A5zaDG-99LCJlQ.jpg?auto=webp&v=enabled&s=3086278ae06cc1c468bce74870821bf2ba2033f5"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1125ncq/tesla_workers_launch_unionization_campaign_in/",
+          "author": null,
+          "description": "submitted by    /u/Eudaimonics  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1125ncq/tesla_workers_launch_unionization_campaign_in/",
+          "publishedOn": "2023-02-14T13:41:46.000Z",
+          "wordCount": 13278,
+          "title": "Tesla workers launch unionization campaign in Buffalo, New York",
+          "imageUrl": "https://external-preview.redd.it/1i8DgMcG43Br-oILK9tTJ6IHN19jXRgeGIplYMQln8g.jpg?auto=webp&v=enabled&s=ab69ca72b3638d6fde1532e9df2423215e479a00"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1125jxo/eu_approves_2035_ban_on_new_fossil_fuel_car_sales/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1125jxo/eu_approves_2035_ban_on_new_fossil_fuel_car_sales/",
+          "publishedOn": "2023-02-14T13:37:06.000Z",
+          "wordCount": 13514,
+          "title": "EU approves 2035 ban on new fossil fuel car sales",
+          "imageUrl": "https://external-preview.redd.it/EnAG63jym5300Iub8ajR_LBpWqvTIHYOvd_gXwRZGv0.jpg?auto=webp&v=enabled&s=2ebbdf383670b3e118877fa2170c7bc99e6ac68f"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1125gmg/arkansas_proposes_requiring_id_to_watch_porn/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1125gmg/arkansas_proposes_requiring_id_to_watch_porn/",
+          "publishedOn": "2023-02-14T13:32:33.000Z",
+          "wordCount": 18302,
+          "title": "Arkansas Proposes Requiring ID to Watch Porn Online | After a similar bill became law in Louisiana last month, seven more states have introduced copycat legislation that force users to show identification.",
+          "imageUrl": "https://external-preview.redd.it/ieL2V8v-1PqS3FIuFIl1IXQh70eTpn2dOBHQX-04-BM.jpg?auto=webp&v=enabled&s=908a8249c71d35fbeb7c3b330aea71ceebd3cb64"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/11246a0/tesla_workers_launch_union_campaign_in_new_york/",
+          "author": null,
+          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/11246a0/tesla_workers_launch_union_campaign_in_new_york/",
+          "publishedOn": "2023-02-14T12:26:29.000Z",
+          "wordCount": 13412,
+          "title": "Tesla workers launch union campaign in New York",
+          "imageUrl": "https://external-preview.redd.it/moFuxP8bYzJ3RcY6WUMPPLUTBxipBJH6O_FkeLJot-8.jpg?auto=webp&v=enabled&s=b7b78f72da8e08d9c51fe82f2640c214db23c91c"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1123s6c/chatgpt_passed_a_major_medical_exam_but_just/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1123s6c/chatgpt_passed_a_major_medical_exam_but_just/",
+          "publishedOn": "2023-02-14T12:04:40.000Z",
+          "wordCount": 14969,
+          "title": "ChatGPT Passed a Major Medical Exam, but Just Barely | Researchers say ChatGPT is the first AI to receive a passing score for the U.S. Medical Licensing Exam, but it's still bad at math.",
+          "imageUrl": "https://external-preview.redd.it/De9EvYDdii3Lau6JzOqaft47sAKke7FC-OKrNU54S2w.jpg?auto=webp&v=enabled&s=228e0e19eb4a5eccf787161cf74e573361bae915"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1123lvz/epic_games_alleges_google_not_complying_with/",
+          "author": null,
+          "description": "submitted by    /u/CrimsonFirestorm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1123lvz/epic_games_alleges_google_not_complying_with/",
+          "publishedOn": "2023-02-14T11:55:15.000Z",
+          "wordCount": 12897,
+          "title": "Epic Games alleges Google not complying with Indian antitrust order",
+          "imageUrl": "https://external-preview.redd.it/nYWyr6DoN6Ix5ae8_W5UQcSZ8DyW20eK2XsE8ysaW3w.jpg?auto=webp&v=enabled&s=a491c72e18ba6c2d892344f0d3b4fd13e1b2a633"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/111verc/google_didnt_think_its_bard_ai_was_really_ready/",
+          "author": null,
+          "description": "submitted by    /u/FDGRT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/111verc/google_didnt_think_its_bard_ai_was_really_ready/",
+          "publishedOn": "2023-02-14T06:01:08.000Z",
+          "wordCount": 13840,
+          "title": "Google didn't think its Bard AI was 'really ready' for a product yet, says Alphabet chairman, days after the chatbot's very public mistake tanked the company's stock",
+          "imageUrl": "https://external-preview.redd.it/QTJrDYT88Q3lnK5uTFhpysvBarwIqzAwGCFQXTXgElE.jpg?auto=webp&v=enabled&s=6e19101c23ad8c1809af7328483be6ca23af5f46"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/111un83/starlink_verizon_and_tmobile_made_shaky_claims_on/",
+          "author": null,
+          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/111un83/starlink_verizon_and_tmobile_made_shaky_claims_on/",
+          "publishedOn": "2023-02-14T05:17:21.000Z",
+          "wordCount": 13484,
+          "title": "Starlink, Verizon, and T-Mobile made shaky claims on FCC coverage map",
+          "imageUrl": "https://external-preview.redd.it/jfbDJjNstTRKqjz-LEwmt_bcIXYGBSgumj1GjpCy3YU.jpg?auto=webp&v=enabled&s=b0c2ae4660f8482825223e5a0a02e300c2236a70"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/111s6jo/shkreli_tells_judge_his_drug_discovery_software/",
+          "author": null,
+          "description": "submitted by    /u/swingadmin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/111s6jo/shkreli_tells_judge_his_drug_discovery_software/",
+          "publishedOn": "2023-02-14T03:07:08.000Z",
+          "wordCount": 13433,
+          "title": "Shkreli tells judge his drug discovery software is not for discovering drugs",
+          "imageUrl": "https://external-preview.redd.it/OmCbfdWR3lRhKlfHGtUvGwgrxewMpPPyxTPd0Qmh1fI.jpg?auto=webp&v=enabled&s=825d11bc73ddc77c4f5cff288f75b6fca82ce117"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/111r6sp/indias_government_wants_total_control_of_the/",
+          "author": null,
+          "description": "submitted by    /u/sector3011  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/111r6sp/indias_government_wants_total_control_of_the/",
+          "publishedOn": "2023-02-14T02:18:56.000Z",
+          "wordCount": 18505,
+          "title": "India’s Government Wants Total Control of the Internet",
+          "imageUrl": "https://external-preview.redd.it/SEwNkaInhoPHubgGWcu5hU1F34cNs2nGaFXuhkaEZB8.jpg?auto=webp&v=enabled&s=8df60f05889182f9bf102b8f14aa4e4240cc14c4"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/111ozzv/ford_to_move_forward_with_35_billion_ev_battery/",
+          "author": null,
+          "description": "submitted by    /u/mike_plumpeo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/111ozzv/ford_to_move_forward_with_35_billion_ev_battery/",
+          "publishedOn": "2023-02-14T00:35:16.000Z",
+          "wordCount": 13731,
+          "title": "Ford to move forward with $3.5 billion EV battery plant with Chinese company",
+          "imageUrl": "https://external-preview.redd.it/NuhxINvicCDW4R5Fow7VTofyvzJdlrPxkyNs73FOQXk.jpg?auto=webp&v=enabled&s=c29808c58aeecb34fb43255c60377b98bd138641"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/111ntad/tiktokers_are_roasting_mcdonalds_hilarious/",
+          "author": null,
+          "description": "submitted by    /u/Loolom  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/111ntad/tiktokers_are_roasting_mcdonalds_hilarious/",
+          "publishedOn": "2023-02-13T23:42:37.000Z",
+          "wordCount": 20584,
+          "title": "TikTokers are roasting McDonald's hilarious drive-thru AI order fails — and it shows that robots won't take over restaurants any time soon",
+          "imageUrl": "https://external-preview.redd.it/LV7g9wl2SlP7C7-3q_PRfrSdXdNeO7bIko58G31OlYg.jpg?auto=webp&v=enabled&s=280a19a06dd49c8e61a827751c24265fd10ded3c"
+        },
+        {
           "id": "https://www.reddit.com/r/technology/comments/111n787/amazon_is_pocketing_half_of_retailers_sales/",
           "author": null,
           "description": "submitted by    /u/prehistoric_knight  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111n787/amazon_is_pocketing_half_of_retailers_sales/",
           "publishedOn": "2023-02-13T23:16:27.000Z",
-          "wordCount": 13463,
+          "wordCount": 14822,
           "title": "Amazon Is Pocketing Half of Retailers' Sales",
           "imageUrl": "https://external-preview.redd.it/JuN1nOLeZDD64GOMDDjW1h641EOrq90BXZBSx9WV_R0.jpg?auto=webp&v=enabled&s=a6f41b36e211c864d4b6b53effc561e147f854f0"
         },
@@ -999,19 +1179,9 @@
           "description": "submitted by    /u/FDGRT  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111ma4x/openai_ceo_sam_altman_said_chatgpt_is_cool_but/",
           "publishedOn": "2023-02-13T22:38:02.000Z",
-          "wordCount": 14951,
+          "wordCount": 17230,
           "title": "OpenAI CEO Sam Altman said ChatGPT is 'cool,' but it's a 'horrible product'",
           "imageUrl": "https://external-preview.redd.it/KEYvtUiXzstBaKKzpXOAzvL_gy0OGOV5a896iBPqbd8.jpg?auto=webp&v=enabled&s=cd38f75000ac39bb16c108ef11d3d89e20f03342"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111lixw/amazons_zoox_robotaxi_now_giving_rides_to/",
-          "author": null,
-          "description": "submitted by    /u/thebelsnickle1991  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111lixw/amazons_zoox_robotaxi_now_giving_rides_to/",
-          "publishedOn": "2023-02-13T22:07:37.000Z",
-          "wordCount": 12917,
-          "title": "Amazon's Zoox robotaxi now giving rides to employees on public roads in California",
-          "imageUrl": "https://external-preview.redd.it/fmUhFPOgxBuE0pIWHTuHuGYjjvcdNxjKl-UV-pZZnyE.jpg?auto=webp&v=enabled&s=2237a572779e6728cd83f4458c8edd674074fadf"
         },
         {
           "id": "https://www.reddit.com/r/technology/comments/111kgad/metas_chief_business_officer_is_leaving_after_13/",
@@ -1019,7 +1189,7 @@
           "description": "submitted by    /u/luxisa  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111kgad/metas_chief_business_officer_is_leaving_after_13/",
           "publishedOn": "2023-02-13T21:24:46.000Z",
-          "wordCount": 13390,
+          "wordCount": 14605,
           "title": "Meta's chief business officer is leaving after 13 years amid the company ramping up its focus on 'efficiency'",
           "imageUrl": "https://external-preview.redd.it/kgQSHtQDQSI5YfinWCvkst7kS4Y3NqJ0v1DfFccZse8.jpg?auto=webp&v=enabled&s=74bf2109defc6cccd2779f56f2af70d11cdbb5fd"
         },
@@ -1029,7 +1199,7 @@
           "description": "submitted by    /u/chilchil777  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111iilm/the_fbis_most_controversial_surveillance_tool_is/",
           "publishedOn": "2023-02-13T20:04:57.000Z",
-          "wordCount": 14478,
+          "wordCount": 14636,
           "title": "The FBI’s Most Controversial Surveillance Tool Is Under Threat",
           "imageUrl": "https://external-preview.redd.it/8cpQ8mnblezZc4uRfWEA3amXp5T19-_RMDo_i48kBYA.jpg?auto=webp&v=enabled&s=3c1f80681800eaeaaab065a380db342049cc69c9"
         },
@@ -1039,7 +1209,7 @@
           "description": "submitted by    /u/spermo_chuggins  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111ihgn/this_tool_could_protect_artists_from_aigenerated/",
           "publishedOn": "2023-02-13T20:03:38.000Z",
-          "wordCount": 14859,
+          "wordCount": 16235,
           "title": "This Tool Could Protect Artists From A.I.-Generated Art That Steals Their Style",
           "imageUrl": "https://external-preview.redd.it/UIlWPnGBD2IXC0WcA-USMbfySBTVQeWzKAmmLFUbklM.jpg?auto=webp&v=enabled&s=166afd20baf98166be80388385887f94f5d3ca8c"
         },
@@ -1049,7 +1219,7 @@
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111hjr9/big_oils_trade_group_allies_outspent_clean_energy/",
           "publishedOn": "2023-02-13T19:24:48.000Z",
-          "wordCount": 13165,
+          "wordCount": 14694,
           "title": "Big Oil's trade group allies outspent clean energy groups by a whopping 27x, with billions in ads and lobbying to keep fossil fuels flowing",
           "imageUrl": "https://external-preview.redd.it/_ET2U0z1qn6mNPE8svY2sCoPrGFvZqyOWrzpYIMiNbA.jpg?auto=webp&v=enabled&s=f8a09b787b4fbdeec8baca83d052a7cf6d65e42d"
         },
@@ -1059,179 +1229,9 @@
           "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/111gg0h/nyc_fire_chief_asks_federal_govt_to_crack_down_on/",
           "publishedOn": "2023-02-13T18:39:49.000Z",
-          "wordCount": 13645,
+          "wordCount": 14577,
           "title": "NYC fire chief asks federal gov't to crack down on substandard lithium-ion batteries and e-bikes after fatal fires",
           "imageUrl": "https://external-preview.redd.it/oPPzTANL2x1WWFeAfIz-jiUEMGK4WBpaBIAVAJOgkM4.jpg?auto=webp&v=enabled&s=67d3a46514233ac806dfba672d270d6b4edbff0c"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111eq7u/amazon_is_taking_half_of_each_sale_from_its/",
-          "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111eq7u/amazon_is_taking_half_of_each_sale_from_its/",
-          "publishedOn": "2023-02-13T17:28:20.000Z",
-          "wordCount": 16424,
-          "title": "Amazon Is Taking Half of Each Sale From Its Merchants",
-          "imageUrl": "https://external-preview.redd.it/zB0y6EohgAQvL5e11XdIhQu-iZMf8ij2HXKJY2nc1wM.jpg?auto=webp&v=enabled&s=c48ab013c5f33f885177175f0f130ef58045e4d0"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111cb7f/new_ai_voicecloning_tools_add_fuel_to/",
-          "author": null,
-          "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111cb7f/new_ai_voicecloning_tools_add_fuel_to/",
-          "publishedOn": "2023-02-13T15:48:33.000Z",
-          "wordCount": 14360,
-          "title": "New AI voice-cloning tools 'add fuel' to misinformation fire",
-          "imageUrl": "https://external-preview.redd.it/VLWnkbNLZ-H8OGvRxH2giJsZLg36wiuwpo5DBfCiPfU.jpg?auto=webp&v=enabled&s=b9d734e9c00e679d7bbdc93af60b8d8d821f87e1"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111caps/now_for_sale_data_on_your_mental_health/",
-          "author": null,
-          "description": "submitted by    /u/speckz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111caps/now_for_sale_data_on_your_mental_health/",
-          "publishedOn": "2023-02-13T15:48:00.000Z",
-          "wordCount": 13322,
-          "title": "Now for sale: Data on your mental health - Capitalizing on the pandemic explosion in telehealth and therapy apps that collect details of your mental health needs, data brokers are packaging that information for resale, a new study finds. There’s no law stopping them.",
-          "imageUrl": "https://external-preview.redd.it/B7ZoNBDjlIkHkN3LcPzMAqJ6-rtZmyn3bglub-255Ms.jpg?auto=webp&v=enabled&s=f2df04a3e654dbc8110882c0a97c64306d4e34dc"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111biaf/twilio_to_lay_off_about_1500_employees_or_17_of/",
-          "author": null,
-          "description": "submitted by    /u/ChocolateTsar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111biaf/twilio_to_lay_off_about_1500_employees_or_17_of/",
-          "publishedOn": "2023-02-13T15:14:33.000Z",
-          "wordCount": 16067,
-          "title": "Twilio to lay off about 1,500 employees, or 17% of its workforce",
-          "imageUrl": "https://external-preview.redd.it/LPPGvjlp42-8RV0iLa0ntWyBsW-Xb2cyhBP26RTFR-g.jpg?auto=webp&v=enabled&s=7c3b45ff250c09cd79eae3d1ab21571c5d65e3b5"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111bcem/instacart_answering_fewer_questions_than_ever/",
-          "author": null,
-          "description": "submitted by    /u/KevZero  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111bcem/instacart_answering_fewer_questions_than_ever/",
-          "publishedOn": "2023-02-13T15:07:25.000Z",
-          "wordCount": 13205,
-          "title": "Instacart answering fewer questions than ever about puzzling drop in shoppers' pay",
-          "imageUrl": "https://external-preview.redd.it/kTeQyuqK1TN2utKmEmBSLcbMTdtbawlDs7oEJI1ah0g.jpg?auto=webp&v=enabled&s=8fc51b54b53e56b9398a882087ab760cc4302dbf"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/111b9yn/heres_how_much_it_actually_costs_apple_to_make/",
-          "author": null,
-          "description": "submitted by    /u/SUPRVLLAN  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/111b9yn/heres_how_much_it_actually_costs_apple_to_make/",
-          "publishedOn": "2023-02-13T15:04:31.000Z",
-          "wordCount": 15377,
-          "title": "Here’s how much it actually costs Apple to make the iPhone 14 Pro Max.",
-          "imageUrl": "https://external-preview.redd.it/7xhCyaiil-gyt0NYXMiJEIOTQmiH8EMYIH1zhzdAZP0.jpg?auto=webp&v=enabled&s=ea1b478d18e054276bfdac197209c59de11aefdb"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1118gc3/the_supreme_court_may_overhaul_how_you_live_online/",
-          "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1118gc3/the_supreme_court_may_overhaul_how_you_live_online/",
-          "publishedOn": "2023-02-13T13:38:58.000Z",
-          "wordCount": 16441,
-          "title": "The Supreme Court may overhaul how you live online",
-          "imageUrl": "https://external-preview.redd.it/uZuP4rQVLaIam4rNz_gxOX0iNBI_B38Bz45uQHuyjD4.jpg?auto=webp&v=enabled&s=d47940918ac29c5ebda15d07dd57e124a82c316a"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/11188t4/us_will_see_more_new_battery_capacity_than/",
-          "author": null,
-          "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/11188t4/us_will_see_more_new_battery_capacity_than/",
-          "publishedOn": "2023-02-13T13:28:45.000Z",
-          "wordCount": 15153,
-          "title": "US will see more new battery capacity than natural gas generation in 2023",
-          "imageUrl": "https://external-preview.redd.it/OeZFg7xCvvXPOSwvHo55Gkpea5IHDj8b-P7wgRGL400.jpg?auto=webp&v=enabled&s=a212d3c2e1067c01d785c489a44a504d4baa26d6"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1115c4f/apple_cofounder_steve_wozniak_thinks_chatgpt_is/",
-          "author": null,
-          "description": "submitted by    /u/Loolom  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1115c4f/apple_cofounder_steve_wozniak_thinks_chatgpt_is/",
-          "publishedOn": "2023-02-13T10:41:04.000Z",
-          "wordCount": 22247,
-          "title": "Apple cofounder Steve Wozniak thinks ChatGPT is 'pretty impressive,' but warned it can make 'horrible mistakes': CNBC",
-          "imageUrl": "https://external-preview.redd.it/lqalin-JHlpmovWCLs7OQt0BbFjLpuKbwlGlhAMre4k.jpg?auto=webp&v=enabled&s=1addf2be0d47a0480297310a7eed3f6a0748a148"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1115bd7/chatgpt_would_only_be_a_bminus_student_of_markets/",
-          "author": null,
-          "description": "submitted by    /u/luxisa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1115bd7/chatgpt_would_only_be_a_bminus_student_of_markets/",
-          "publishedOn": "2023-02-13T10:39:45.000Z",
-          "wordCount": 15945,
-          "title": "ChatGPT would only be a 'B-minus student' of markets, State Street strategist who uses AI to pick stocks says",
-          "imageUrl": "https://external-preview.redd.it/4sGVpP37Lhr-ydE7z5T_78PVWadMBjPUfznfR5iaO5E.jpg?auto=webp&v=enabled&s=059454c6e25fc95828c3615e6a6183442d98b04c"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1113pl8/valve_is_working_on_a_major_update_for_team/",
-          "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1113pl8/valve_is_working_on_a_major_update_for_team/",
-          "publishedOn": "2023-02-13T08:53:52.000Z",
-          "wordCount": 14795,
-          "title": "Valve is working on a major update for 'Team Fortress 2'",
-          "imageUrl": "https://external-preview.redd.it/_f-t8Z6uIUPpE7PGzWVtT5j-06mNG9GvviiyPQZWPwA.jpg?auto=webp&v=enabled&s=e24577adef49bcdbcc724c89f52ead051018939a"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1113ajn/apple_faces_fourth_iphone_privacy_settings_suit/",
-          "author": null,
-          "description": "submitted by    /u/jlpcsl  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1113ajn/apple_faces_fourth_iphone_privacy_settings_suit/",
-          "publishedOn": "2023-02-13T08:26:24.000Z",
-          "wordCount": 13076,
-          "title": "Apple Faces Fourth iPhone Privacy Settings Suit",
-          "imageUrl": "https://external-preview.redd.it/E_YbKvSQHhokUCJ6ExaisYgJlWQOfDuWNo-TNoL4ydk.jpg?auto=webp&v=enabled&s=17ef6f5f9b5fb56587981b9598f94fefe69f7b4f"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/11131ng/google_to_expand_misinformation_prebunking_in/",
-          "author": null,
-          "description": "submitted by    /u/marketrent  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/11131ng/google_to_expand_misinformation_prebunking_in/",
-          "publishedOn": "2023-02-13T08:10:07.000Z",
-          "wordCount": 13602,
-          "title": "Google to expand misinformation “prebunking” in Europe",
-          "imageUrl": "https://external-preview.redd.it/K3rOSu4KsA059TA0M0BaAKkq7vZiIiGPoeLauXairG0.jpg?auto=webp&v=enabled&s=4850e5fa16dcf1c581c6f3a2fd2ec1cb32180950"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1112lag/cpu_shipments_suffer_biggest_decline_in_30_years/",
-          "author": null,
-          "description": "submitted by    /u/redhatGizmo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1112lag/cpu_shipments_suffer_biggest_decline_in_30_years/",
-          "publishedOn": "2023-02-13T07:40:20.000Z",
-          "wordCount": 14896,
-          "title": "CPU shipments suffer biggest decline in 30 years, for the second time in the last year",
-          "imageUrl": "https://external-preview.redd.it/i4SZPAuWe1loD8LoRvsLSQCV20WoEszHrUtDVNnCpG4.jpg?auto=webp&v=enabled&s=4ba624dc89129b20347bbfb50af01349c55e6f16"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1110s4x/ungoogley_pichai_criticised_for_rushed_botched/",
-          "author": null,
-          "description": "submitted by    /u/Parking_Attitude_519  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1110s4x/ungoogley_pichai_criticised_for_rushed_botched/",
-          "publishedOn": "2023-02-13T05:47:41.000Z",
-          "wordCount": 15403,
-          "title": "‘Un-Googley’: Pichai criticised for ‘rushed’, ‘botched’ announcement of Bard",
-          "imageUrl": "https://external-preview.redd.it/y6WPkcFJ8zc_8zEcB7KSKXd3MmtFCvYD7qOw51lHgYo.jpg?auto=webp&v=enabled&s=738d987b4dfac5d3dab57d8cc9df49db00784f3f"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/110wh1k/disney_streaming_tech_chief_leaves_ahead_of/",
-          "author": null,
-          "description": "submitted by    /u/HumanOrAlien  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/110wh1k/disney_streaming_tech_chief_leaves_ahead_of/",
-          "publishedOn": "2023-02-13T01:57:52.000Z",
-          "wordCount": 13703,
-          "title": "Disney Streaming Tech Chief Leaves Ahead of Larger Staff Cuts",
-          "imageUrl": "https://external-preview.redd.it/4H1ozTUcMrH8aEVL337q9FqjG7aUmK16w4EjSKPLovM.jpg?auto=webp&v=enabled&s=4c5945dc5c09068c8261b11492d3499e3fac3d3b"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/110vmva/the_flipflop_qubit_realisation_of_a_new_quantum/",
-          "author": null,
-          "description": "submitted by    /u/unsw  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/110vmva/the_flipflop_qubit_realisation_of_a_new_quantum/",
-          "publishedOn": "2023-02-13T01:13:48.000Z",
-          "wordCount": 13089,
-          "title": "The 'flip-flop' qubit: realisation of a new quantum bit in silicon controlled by electric signals",
-          "imageUrl": "https://external-preview.redd.it/JnRl_1ny6A_5mzwQVYiRQjcLq8H4tiiRO1JKHPoCA2M.jpg?auto=webp&v=enabled&s=9d52d2e9da0e74713b3c6e724660c07bcaaf1604"
         }
       ]
     },
@@ -1241,12 +1241,32 @@
       "siteUrl": "https://aeon.co",
       "articles": [
         {
+          "id": "urn:id:5470",
+          "author": "Aeon Video",
+          "description": "Étienne-Louis Boullée imagined structures for an ideal new social order. These designs were never built, but his ideas endure \n - by Aeon Video\n Watch at Aeon",
+          "link": "https://aeon.co/videos/the-radically-impractical-18th-century-architect-whose-ideas-on-beauty-endure?utm_source=rss-feed",
+          "publishedOn": "2023-02-14T11:01:00.000Z",
+          "wordCount": 7263,
+          "title": "The impossible architecture of Étienne-Louis Boullée",
+          "imageUrl": "https://epsilon.aeon.co/images/b3a7594b-161d-45f7-9037-b03a9f741b02/header_the-impossible-architecture-of-etienne-louis-boullee-landscape-2.jpg"
+        },
+        {
+          "id": "urn:id:5495",
+          "author": "Laura J Martin",
+          "description": "How atomic doomsday experiments, fuelled by Cold War fears, shaped then shook ecologists’ faith in self-healing nature \n - by Laura J Martin\n Read at Aeon",
+          "link": "https://aeon.co/essays/how-atomic-doomsday-experiments-shaped-disturbance-ecology?utm_source=rss-feed",
+          "publishedOn": "2023-02-14T11:00:00.000Z",
+          "wordCount": 10551,
+          "title": "Disturbance",
+          "imageUrl": "https://omicron.aeon.co/images/b861b7ca-623f-4fd1-b95c-d71d9efeb32f/header_essay-dsc_0397.jpg"
+        },
+        {
           "id": "urn:id:5476",
           "author": "Aeon Video",
           "description": "Enter a workshop where the world’s oldest board game is still made by hand, in a meticulous, deeply satisfying process \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/from-log-to-go-board-the-worlds-oldest-game-made-the-old-fashioned-way?utm_source=rss-feed",
           "publishedOn": "2023-02-13T11:01:00.000Z",
-          "wordCount": 7312,
+          "wordCount": 7288,
           "title": "Making a Go board",
           "imageUrl": "https://nu.aeon.co/images/4f947fad-fd68-42c6-8a02-b00bc67e2ac9/header_making-a-go-board-landscape-1.jpg"
         },
@@ -1256,7 +1276,7 @@
           "description": "With the help of new archaeological approaches, our picture of young lives in the Palaeolithic is now marvellously vivid \n - by April Nowell\n Read at Aeon",
           "link": "https://aeon.co/essays/what-was-it-like-to-grow-up-in-the-last-ice-age?utm_source=rss-feed",
           "publishedOn": "2023-02-13T11:00:00.000Z",
-          "wordCount": 11743,
+          "wordCount": 11686,
           "title": "Children of the Ice Age",
           "imageUrl": "https://alpha.aeon.co/images/90058eec-47f1-4384-9c93-185a11b44451/header_essay-final-palaeolithic_pretending_tbaeon.jpg"
         },
@@ -1266,7 +1286,7 @@
           "description": "A vegan diet can be hard to adopt, even if you’re convinced it’s the right thing to do. What are the next-best options? \n - by Peter Godfrey-Smith\n Read at Aeon",
           "link": "https://aeon.co/essays/if-not-vegan-then-what-an-investigation-of-three-options?utm_source=rss-feed",
           "publishedOn": "2023-02-10T11:00:00.000Z",
-          "wordCount": 9086,
+          "wordCount": 9071,
           "title": "If not vegan, then what?",
           "imageUrl": "https://alpha.aeon.co/images/d1f1a626-0a93-4263-9c9e-f63aafcfb40f/header_essay-panos_00259474.jpg"
         },
@@ -1276,7 +1296,7 @@
           "description": "How do vampires remain undead? They stay culturally relevant by evolving to reflect the anxieties of each passing age \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/the-key-to-a-vampires-immortality-meeting-the-anxieties-of-the-moment?utm_source=rss-feed",
           "publishedOn": "2023-02-09T11:01:00.000Z",
-          "wordCount": 7407,
+          "wordCount": 7352,
           "title": "A brief history of vampires",
           "imageUrl": "https://epsilon.aeon.co/images/85a9dac4-de94-4960-8112-66b24997213c/header_a-brief-history-of-vampires-landscape-1.jpg"
         },
@@ -1356,7 +1376,7 @@
           "description": "Worried that technology is ‘breaking your brain’? Fears about attention spans and focus are as old as writing itself \n - by Joe Stadolnik\n Read at Aeon",
           "link": "https://aeon.co/essays/weve-always-been-distracted-or-at-least-worried-that-we-are?utm_source=rss-feed",
           "publishedOn": "2023-02-02T11:00:00.000Z",
-          "wordCount": 8913,
+          "wordCount": 8912,
           "title": "We’ve always been distracted",
           "imageUrl": "https://omicron.aeon.co/images/84766b15-4bbf-4c39-b89b-29814f04082e/header_sloane-bl-test-v3_26.jpg"
         },
@@ -1386,7 +1406,7 @@
           "description": "Exploring Abstract Expressionism through the New York artists Lee Krasner, Elaine de Kooning and Helen Frankenthaler \n - by Aeon Video\n Watch at Aeon",
           "link": "https://aeon.co/videos/the-female-abstract-expressionists-of-new-york-shook-the-world-of-art?utm_source=rss-feed",
           "publishedOn": "2023-01-30T11:01:00.000Z",
-          "wordCount": 7363,
+          "wordCount": 7339,
           "title": "Great art cities explained: New York",
           "imageUrl": "https://omicron.aeon.co/images/8752a0d0-85de-4351-8fbd-9178e660ecf0/header_great-art-cities-explained-new-york-landscape-1.jpg"
         },
@@ -1406,7 +1426,7 @@
           "description": "At times I’ve tried to escape it. Other times I’ve embraced it. But at all times, people have attempted to define me by it \n - by Colin Grant\n Read at Aeon",
           "link": "https://aeon.co/essays/i-long-resisted-being-boxed-in-as-black-then-a-letter-came?utm_source=rss-feed",
           "publishedOn": "2023-01-27T11:00:00.000Z",
-          "wordCount": 12251,
+          "wordCount": 12236,
           "title": "My blackness",
           "imageUrl": "https://nu.aeon.co/images/5da34fed-cb88-40f5-991c-9abcd4796e87/header_essay-colin-_-mixie-dunn-_irish.jpg"
         },
@@ -1419,26 +1439,6 @@
           "wordCount": 7495,
           "title": "The doll",
           "imageUrl": "https://alpha.aeon.co/images/ed168668-633b-46e9-9427-837b527d6e33/header_the-doll-landscape-1.jpg"
-        },
-        {
-          "id": "urn:id:5449",
-          "author": "Carl Hendrick",
-          "description": "A teaching approach that is based on students’ preferences sounds laudable. But this misunderstands how learning happens \n - by Carl Hendrick\n Read at Aeon",
-          "link": "https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work?utm_source=rss-feed",
-          "publishedOn": "2023-01-26T11:00:00.000Z",
-          "wordCount": 16347,
-          "title": "Learning styles don’t exist",
-          "imageUrl": "https://omicron.aeon.co/images/a9ab367c-e1fc-4718-8a7c-d0bb1dd29ced/header_essay-gettyimages-1231321218.jpg"
-        },
-        {
-          "id": "urn:id:5457",
-          "author": "Aeon Video",
-          "description": "Can ‘cause and effect’ ever make sense in a quantum world? A philosopher’s probabilistic attempt to reclaim causation \n - by Aeon Video\n Watch at Aeon",
-          "link": "https://aeon.co/videos/bertrand-russell-wanted-to-kill-off-causation-can-contemporary-philosophy-rescue-it?utm_source=rss-feed",
-          "publishedOn": "2023-01-24T11:01:00.000Z",
-          "wordCount": 7122,
-          "title": "Barry Loewer on causation",
-          "imageUrl": "https://nu.aeon.co/images/fe51974f-6ea9-4d2c-b25e-c76697044c09/header_barry-loewer-landscape-3.jpg"
         }
       ]
     },
@@ -1460,12 +1460,22 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=123074",
+          "author": "Allison Whitten",
+          "description": "The neocortex of our brain is the seat of our intellect. New data suggests that mammals created it with new types of cells that they developed only after their evolutionary split from reptiles.            \nThe post Gene Expression in Neurons Solves a Brain Evolution Puzzle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/gene-expression-in-neurons-solves-a-brain-evolution-puzzle-20230214/",
+          "publishedOn": "2023-02-14T15:00:21.000Z",
+          "wordCount": 7991,
+          "title": "Gene Expression in Neurons Solves a Brain Evolution Puzzle",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/BrainEvolutionModules-bySamuelVelasco-Social.webp"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=123042",
           "author": "Claudia Dreifus",
           "description": "Regenerative medicine researcher Kristy Red Horse’s discoveries may someday help damaged hearts heal better. Her stewardship of her Native American heritage may advance science in other ways too.\r\n            \nThe post She Studies Growing Arteries to Aid Heart Attack Recovery first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/she-studies-growing-arteries-to-aid-heart-attack-recovery-20230213/",
           "publishedOn": "2023-02-13T15:42:16.000Z",
-          "wordCount": 9312,
+          "wordCount": 9310,
           "title": "She Studies Growing Arteries to Aid Heart Attack Recovery",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/KristyRedHorse-byRachelBujalski-Social.webp"
         },
@@ -1475,7 +1485,7 @@
           "description": "Is it possible to fill space “cubically” with shapes that act like spheres? A proof at the intersection of geometry and theoretical computer science says yes.            \nThe post Mathematicians Complete Quest to Build ‘Spherical Cubes’ first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/",
           "publishedOn": "2023-02-10T15:10:34.000Z",
-          "wordCount": 9605,
+          "wordCount": 9603,
           "title": "Mathematicians Complete Quest to Build ‘Spherical Cubes’",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/SphericalCubes-byDVDP-Social.webp"
         },
@@ -1485,7 +1495,7 @@
           "description": "As The Joy of Why podcast returns for a second season, producer Polly Stryker and host Steven Strogatz invite listeners to join them and their brilliant new guests on another voyage of discovery.            \nThe post The Joy of Asking About Infinity, Jellyfish and the End of the Universe first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/the-joy-of-asking-about-infinity-jellyfish-and-the-end-of-the-universe-20230209/",
           "publishedOn": "2023-02-09T15:16:50.000Z",
-          "wordCount": 4555,
+          "wordCount": 4553,
           "title": "The Joy of Asking About Infinity, Jellyfish and the End of the Universe",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/JoY-OpeningEssay-byPeterGreenwood-Social.webp"
         },
@@ -1495,19 +1505,9 @@
           "description": "Type Ia supernovas are astronomers’ best tools for measuring cosmic distances. In a first, researchers have managed to re-create one on a supercomputer, giving a boost to a leading hypothesis for how they form.            \nThe post What Lights the Universe’s Standard Candles? first appeared on Quanta Magazine",
           "link": "https://www.quantamagazine.org/what-lights-the-universes-standard-candles-20230208/",
           "publishedOn": "2023-02-08T15:24:50.000Z",
-          "wordCount": 5677,
+          "wordCount": 5675,
           "title": "What Lights the Universe’s Standard Candles?",
           "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/Type1aSupernovas-courtesyofRuedigerPakmor-Social.webp"
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=122883",
-          "author": "Steve Nadis",
-          "description": "“Liquid” neural nets, based on a worm’s nervous system, can transform their underlying algorithms on the fly, giving them unprecedented speed and adaptability.            \nThe post Researchers Discover a More Flexible Approach to Machine Learning first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
-          "publishedOn": "2023-02-07T16:10:14.000Z",
-          "wordCount": 5591,
-          "title": "Researchers Discover a More Flexible Approach to Machine Learning",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/LiquidNeuralNets-byKristinaArmitage-Social.webp"
         }
       ]
     },
@@ -1724,12 +1724,52 @@
       "siteUrl": "https://futurism.com",
       "articles": [
         {
+          "id": "https://futurism.com/?p=284067",
+          "author": "Frank Landymore",
+          "description": "Keanu Reeves has kind of made a career out of portraying cyberpunk action heroes rebelling against dystopian overlords who are sentient robots, so who better to ask about this brave new world of AI we're entering? Actually, it was Reeves who broached the topic first, in an interview with Wired ahead of the release of […]",
+          "link": "https://futurism.com/keanu-reeves-worried-ai",
+          "publishedOn": "2023-02-14T17:49:31.000Z",
+          "wordCount": 3335,
+          "title": "Keanu Reeves Worried AI Could Soon Replace the Journalists Who Interview Him",
+          "imageUrl": "https://wp-assets.futurism.com/2023/02/keanu2.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=284041",
+          "author": "Noor Al-Sibai",
+          "description": "Do Not Disturb While it offers an intriguing potential fix for climate change, some experts are concerned about the risks posed by geoengineering, or the release of chemicals in our atmosphere to, well, dim the Sun. In a CNN report about the solar geoengineering efforts of the Make Sunsets startup, which last month released two six-foot […]",
+          "link": "https://futurism.com/the-byte/experts-fear-geoengineering-repercussions",
+          "publishedOn": "2023-02-14T16:41:59.000Z",
+          "wordCount": 3033,
+          "title": "Experts Fear Grim Repercussions of Geoengineering the Climate",
+          "imageUrl": "https://wp-assets.futurism.com/2023/02/weather.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=284042",
+          "author": "Victor Tangermann",
+          "description": "There's arguably nothing more American than picking up a McDonald's order at the drive-thru. But the simple act of picking up a big mac and some fries on the way home from work might be about to get a lot more difficult. The fast food chain, alongside other franchises including Sonic and Chipotle, are trying […]",
+          "link": "https://futurism.com/the-byte/mcdonalds-drive-thru-ai-giving-customers-hilariously-wrong-orders",
+          "publishedOn": "2023-02-14T16:03:59.000Z",
+          "wordCount": 2720,
+          "title": "McDonald's Drive-Thru AI Giving Customers Hilariously Wrong Orders",
+          "imageUrl": "https://wp-assets.futurism.com/2023/02/mcdonalds-drive-thru-ai-giving-customers-hilariously-wrong-orders.jpg"
+        },
+        {
+          "id": "https://futurism.com/?p=284009",
+          "author": "Frank Landymore",
+          "description": "Sound Off Forget your regular ol' 3D printer. Why not try using sound waves to form a 3D object? That's exactly what researchers in Germany set out to do, making use of \"acoustic holograms\" to form distinct 3D shapes out of particles suspended in water — all in \"one shot,\"  said study lead author Kai […]",
+          "link": "https://futurism.com/the-byte/acoustic-holograms-form-3d-shapes",
+          "publishedOn": "2023-02-14T14:33:00.000Z",
+          "wordCount": 2611,
+          "title": "Scientists Use \"Acoustic Holograms\" To Form Particles Into Complex 3D Shapes",
+          "imageUrl": "https://wp-assets.futurism.com/2023/02/levitate.jpg"
+        },
+        {
           "id": "https://futurism.com/?p=283966",
           "author": "Victor Tangermann",
           "description": "A second Russian spacecraft docked to the International Space Station has sprung a leak in one of its coolant lines in just a matter of months. The leak occurred over the weekend, causing a \"depressurization\" in a cargo spacecraft dubbed Progress MS-21 (or Progress 82), according to a statement by the Russian space agency Rosocosmos. […]",
           "link": "https://futurism.com/the-byte/another-russian-spacecraft-docked-iss-leak",
           "publishedOn": "2023-02-13T22:03:57.000Z",
-          "wordCount": 2729,
+          "wordCount": 2689,
           "title": "Another Russian Spacecraft Docked to the ISS Just Sprang a Leak",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/another-russian-spacecraft-docked-iss-leak.jpg"
         },
@@ -1739,7 +1779,7 @@
           "description": "Literally How The Norfolk Southern train derailment in Ohio and its stunning aftermath are already dystopian enough — but a bizarre coincidence in the town where it happened makes this story seem almost stranger than fiction. As CNN reports, one of the families affected by the derailed train cars that contained loads of hazardous, flammable chemicals […]",
           "link": "https://futurism.com/ohio-train-derailment-white-noise",
           "publishedOn": "2023-02-13T21:25:54.000Z",
-          "wordCount": 3077,
+          "wordCount": 3060,
           "title": "There's a Super Bizarre Coincidence Surrounding the Ohio Train Disaster",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/abte.jpg"
         },
@@ -1749,7 +1789,7 @@
           "description": "It's a stunning situation that even top leaders can't make heads or tails of. Four mysterious objects entering North American airspace have stunned officials, triggering the Pentagon to pick them out of the sky with fighter jets. Even high-ranking Pentagon officials aren't entirely sure what to think. During a press conference today, White House National […]",
           "link": "https://futurism.com/the-byte/military-ufos-shot-down-not-aliens",
           "publishedOn": "2023-02-13T20:49:15.000Z",
-          "wordCount": 2653,
+          "wordCount": 2649,
           "title": "Military Says the UFOs They Shot Down Aren't Aliens",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/military-ufos-shot-down-not-aliens.jpg"
         },
@@ -1759,7 +1799,7 @@
           "description": "All's Fair Elon Musk apparently has never learned to think before he tweets, most recently evidenced by his bizarre assertion that one of his companies could potentially be responsible for a third world war. Musk's strange comments came during a minor spat with ex-astronaut Scott Kelly, who, to be fair, did solicit a reaction from […]",
           "link": "https://futurism.com/the-byte/elon-musk-nasa-spacex-ww3",
           "publishedOn": "2023-02-13T20:19:21.000Z",
-          "wordCount": 3149,
+          "wordCount": 3145,
           "title": "Elon Musk Tells Ex-NASA Astronaut SpaceX Could Cause World War 3",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/elon.jpg"
         },
@@ -1769,7 +1809,7 @@
           "description": "Anti-Acting It's not just visual artists who are feeling the heat of AI's encroachment. Now professional voice actors are beginning to be affected, too. Last week, Vice reported a deeply troubling trend that's gaining traction in the voice acting industry: actors being \"asked\" — sometimes not altogether very honestly — to sign contracts that would […]",
           "link": "https://futurism.com/voice-actors-companies-stealing-voices-with-ai",
           "publishedOn": "2023-02-13T18:35:05.000Z",
-          "wordCount": 3374,
+          "wordCount": 3387,
           "title": "Voice Actors Enraged By Companies Stealing Their Voices With AI",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/AIvoice.jpg"
         },
@@ -1779,7 +1819,7 @@
           "description": "Lights, Camera Over the weekend, a meteor burned up as it hit our Earth's atmosphere — and lucky skywatchers in Europe were treated to an incredible light show. Known as Sar2667, this meteor was, as Space.com reports, only the seventh in human history that was detected before reaching our planet's atmosphere — and what a […]",
           "link": "https://futurism.com/the-byte/video-meteor-europe-fireball",
           "publishedOn": "2023-02-13T17:54:30.000Z",
-          "wordCount": 3152,
+          "wordCount": 3148,
           "title": "Incredible Videos Capture Meteor Burning Up Over European Skies",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/video-meteor-europe-fireball.jpg"
         },
@@ -1789,7 +1829,7 @@
           "description": "Dancing Like A Monkey While Rihanna's jaw-dropping Super Bowl halftime performance/baby bump reveal invariably stole the night, a group of weird robot dogs during the pregame show left viewers with a bit more shock than awe. As if the concept of an NFL \"TikTok Tailgate\" wasn't enough, the show put on by singer Jason Derulo […]",
           "link": "https://futurism.com/the-byte/jason-derulo-super-bowl-robot-dogs",
           "publishedOn": "2023-02-13T16:48:05.000Z",
-          "wordCount": 2556,
+          "wordCount": 2552,
           "title": "Viewers Worried Jason Derulo's Super Bowl Robot Dogs Will Kill Them",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/jason.jpg"
         },
@@ -1799,7 +1839,7 @@
           "description": "Alien Visit After a series of mysterious objects were spotted and consequently shot down out of the sky, officials are still unable to rule out the possibility that the objects were extraterrestrial in nature. A total of three airborne objects were shot down over just three days, Reuters reports, prompting widespread speculation about their origins. […]",
           "link": "https://futurism.com/the-byte/us-military-shot-down-objects",
           "publishedOn": "2023-02-13T15:36:08.000Z",
-          "wordCount": 2490,
+          "wordCount": 2486,
           "title": "US Military Not Ruling Out That Unidentified Shot Down Objects Were Alien",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/us-military-shot-down-objects.jpg"
         },
@@ -1819,7 +1859,7 @@
           "description": "Concerned Citizens Shocker: people aren't quite sure that they trust artificial intelligence to operate in their best interests, per a new poll. In a press release, the MITRE government contracting think tank released the results of a new poll, conducted in tandem with the Harris market research firm, that asked people their opinions about AI. […]",
           "link": "https://futurism.com/the-byte/poll-americans-distrust-ai",
           "publishedOn": "2023-02-12T19:15:30.000Z",
-          "wordCount": 2862,
+          "wordCount": 2836,
           "title": "Almost Three Quarters of Americans Distrust Artificial Intelligence",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/poll-americans-distrust-ai.jpg"
         },
@@ -1829,7 +1869,7 @@
           "description": "Dethroning the Emperor Today, New Zealand is known for its diverse and unique populations of birds, especially seabirds, forest dwellers, and non-aerial aves like the country's quintessential kiwi. But those are small fry. Researchers have discovered an extinct species of penguin native to the island that was absolutely massive and weighed as much as an […]",
           "link": "https://futurism.com/the-byte/prehistoric-penguin-weighed-as-much-as-gorilla",
           "publishedOn": "2023-02-12T18:39:08.000Z",
-          "wordCount": 2948,
+          "wordCount": 2929,
           "title": "Fearsome Prehistoric Penguin Weighed as Much as an Adult Gorilla",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/pengy.jpg"
         },
@@ -1839,7 +1879,7 @@
           "description": "fAIct Generator Juice brand Snapple has released a ChatGPT-powered \"fAIct Generator\" — that's \"fact generator\" with the letters AI awkwardly stuck in the middle — that it claims \"makes it easy to create facts about any topic.\" And it doesn't take much reading between the lines to see that it's a low-brow effort to cash […]",
           "link": "https://futurism.com/the-byte/snapple-ai-fact-generator-lies",
           "publishedOn": "2023-02-12T16:53:53.000Z",
-          "wordCount": 2806,
+          "wordCount": 2779,
           "title": "Snapple Launches AI-Powered \"Fact Generator\" That Spews Lies",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/snapple-ai-fact-generator-lies.jpg"
         },
@@ -1849,7 +1889,7 @@
           "description": "Lord of the Ring A dwarf planet called Quaoar lurking at the outmost boundaries of the solar system has astronomers scratching their heads, as the sheer size of its newly discovered ring practically defies explanation. While Quaoar is only about half the size of Pluto, its faint ring system blows the current theorized maximum on […]",
           "link": "https://futurism.com/the-byte/quaoar-huge-planetary-ring",
           "publishedOn": "2023-02-12T16:27:52.000Z",
-          "wordCount": 3244,
+          "wordCount": 3240,
           "title": "Astronomers Amazed By Tiny Object With Huge Planetary Ring",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/quaoar-huge-planetary-ring.jpg"
         },
@@ -1859,7 +1899,7 @@
           "description": "Eco-Deadly As excitement over AI search technology surges ahead with Microsoft unveiling its ChatGPT powered Bing search engine, many are rightly asking the ethical and legal questions that come with using and creating it. But there's another worrying aspect of the technology that's received far less attention: its environmental impact, Wired reports. \"There are already […]",
           "link": "https://futurism.com/the-byte/chatgpt-search-environmental-footprint",
           "publishedOn": "2023-02-12T15:52:18.000Z",
-          "wordCount": 3053,
+          "wordCount": 3020,
           "title": "Turns Out Using ChatGPT In Search Engines Would Have a Grisly Environmental Footprint",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/chatgpt-search-environmental-footprint.jpg"
         },
@@ -1869,7 +1909,7 @@
           "description": "Birkin Baby A new legal precedent just dropped in the case of Hermès versus Mason Rothschild, a self-described \"conceptual artist\" who used the company's iconic Birkin bags as a backdrop for his \"MetaBirkins\" non-fungible token (NFT) collection. As the New York Times reports, Hèrmes won its lawsuit against the 28-year-old artist after he sold NFTs that […]",
           "link": "https://futurism.com/the-byte/nfts-not-art-hermes",
           "publishedOn": "2023-02-12T15:06:36.000Z",
-          "wordCount": 2909,
+          "wordCount": 2905,
           "title": "Jury Rules that NFTs Aren't Really Art",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/birkinart.jpg"
         },
@@ -1882,46 +1922,6 @@
           "wordCount": 8078,
           "title": "The Best Treadmills of 2023",
           "imageUrl": "https://wp-assets.futurism.com/2023/02/best-treadmills.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=283747",
-          "author": "Maggie Harrison",
-          "description": "What If Wondering if ex-FTX CEO Sam Bankman-Fried, who's currently on house arrest awaiting both criminal and civil trial for fraud, campaign finance law violations, and other very serious charges, did something wrong? He is, too. \"Just, everyone left,\" SBF told The Financial Times, detailing how, in his eyes at least, the last few days […]",
-          "link": "https://futurism.com/the-byte/sam-bankman-fried-ponders-anything-wrong",
-          "publishedOn": "2023-02-11T17:38:53.000Z",
-          "wordCount": 3053,
-          "title": "Sam Bankman-Fried Ponders Whether He Might Have Done Anything Wrong",
-          "imageUrl": "https://wp-assets.futurism.com/2023/02/sbf.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=283822",
-          "author": "Victor Tangermann",
-          "description": "There's something very strange going on with Saturn's beautiful rings. The gas giant experiences four seven-years-long seasons, just like Earth's, thanks to its tilted axis. When its rings tilt edge-on to the Sun, the planet's equinox, mysterious and fleeting new features appear in its rings called \"spokes.\" As NASA explains, astronomers have started referring to […]",
-          "link": "https://futurism.com/the-byte/lines-saturn-rings",
-          "publishedOn": "2023-02-11T16:59:57.000Z",
-          "wordCount": 2816,
-          "title": "Strange Lines Appear in Saturn's Rings",
-          "imageUrl": "https://wp-assets.futurism.com/2023/02/lines-saturn-rings.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=283838",
-          "author": "Noor Al-Sibai",
-          "description": "Through a series of cruel experiments, British scientists have seemingly found psychological evidence linking flashy sports cars and small penis size in men. In a pre-print paper out of University College London, the experimental researchers behind the study titled \"Small Penises and Fast Cars: Evidence for a Psychological Link\" detailed how they, in their own […]",
-          "link": "https://futurism.com/neoscope/sports-cars-penis-size",
-          "publishedOn": "2023-02-11T16:03:27.000Z",
-          "wordCount": 3043,
-          "title": "Scientists Officially Link Sports Cars to Small Penis Size",
-          "imageUrl": "https://wp-assets.futurism.com/2023/02/sports-cars-penis-size.jpg"
-        },
-        {
-          "id": "https://futurism.com/?p=283865",
-          "author": "Frank Landymore",
-          "description": "When it comes to the search engine department, Microsoft is finally giving Google a run for its money. Earlier this week, Microsoft revealed its newly reinvented and AI-augmented Bing search engine that's powered by a souped up version of OpenAI's ChatGPT model. In a conversational style, the new Bing can answer almost any question you […]",
-          "link": "https://futurism.com/the-byte/microsoft-ceo-ai-ecaping-human-control",
-          "publishedOn": "2023-02-11T15:21:40.000Z",
-          "wordCount": 2899,
-          "title": "Microsoft CEO Pretty Sure He Can Keep AI From Escaping Human Control",
-          "imageUrl": "https://wp-assets.futurism.com/2023/02/microsoft-ceo-ai-ecaping-human-control.jpg"
         }
       ]
     }
